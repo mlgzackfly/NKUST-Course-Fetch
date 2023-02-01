@@ -17,18 +17,16 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install Pandoc
-        run: |
-          sudo apt-get install pandoc
-
-#      - name: npm install
+#      - name: Install Pandoc
 #        run: |
-#          cd ..
-#          npm install
+#          sudo apt-get install pandoc
+
+      - name: npm install
+        run: |
+          npm install
 
       - name: Fetch Course Data
         run: |
-          cd ..
           node app.js
 
       - name: Deploy 🚀
