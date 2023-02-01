@@ -1,5 +1,5 @@
 {
-  "name": "coursefetch",
+  "name": "nkust-course-fetch",
   "version": "1.0.0",
   "description": "1. 先抓校區    - 建工校區    - 燕巢校區    - 第一校區    - 楠梓校區    - 旗津校區 2. 選擇學制    - 太多了 3. 選擇科系    - 太多了",
   "main": "index.js",
