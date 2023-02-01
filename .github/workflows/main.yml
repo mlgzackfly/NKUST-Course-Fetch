@@ -21,12 +21,15 @@ jobs:
         run: |
           sudo apt-get install pandoc
 
-      - name: Fetch Course Data
-        run: |
-          node app.js
       - name: npm install
         run: |
+          cd ..
           npm install
+
+      - name: Fetch Course Data
+        run: |
+          cd ..
+          node app.js
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
