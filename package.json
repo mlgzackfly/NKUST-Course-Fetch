@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "html-table-to-json": "^1.0.0",
+    "jsonfile": "^6.1.0",
     "request": "^2.88.2"
   }
 }
