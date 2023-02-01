@@ -23,10 +23,12 @@ jobs:
 
       - name: npm install
         run: |
+          cd ..
           npm install
 
       - name: Fetch Course Data
         run: |
+          cd ..
           node app.js
 
       - name: Deploy 🚀
