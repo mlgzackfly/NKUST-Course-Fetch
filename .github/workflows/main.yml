@@ -1,0 +1,36 @@
+name: Fetch Courses
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update REV code 💫
+        run: |
+          sed -i "s/__REV__/$(date +%s)/g" public/*.html
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get install pandoc
+
+      - name: Fetch Course Data
+        run: |
+          node app.js
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: dist
