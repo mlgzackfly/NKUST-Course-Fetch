@@ -29,9 +29,9 @@ jobs:
           pwd
           ls
 
-#      - name: npm install
-#        run: |
-#          npm install
+      - name: npm install
+        run: |
+          npm install
 
       - name: Fetch Course Data
         run: |
