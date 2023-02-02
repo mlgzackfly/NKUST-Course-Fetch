@@ -24,7 +24,7 @@ jobs:
       - name: List dir
         run: |
           pwd
-          ll
+          ls
 
       - name: npm install
         run: |
