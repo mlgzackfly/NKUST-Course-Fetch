@@ -25,7 +25,7 @@ jobs:
 
       - name: List dir
         run: |
-          cd ../..
+          cd ..
           pwd
           ls
 
@@ -35,6 +35,8 @@ jobs:
 
       - name: Fetch Course Data
         run: |
+          pwd
+          ls
           node app.js
 
       - name: Deploy 🚀
