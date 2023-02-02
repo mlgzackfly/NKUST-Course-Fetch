@@ -21,14 +21,17 @@ jobs:
 #        run: |
 #          sudo apt-get install pandoc
 
+      - name: List dir
+        run: |
+          pwd
+          ll
+
       - name: npm install
         run: |
-          cd ..
           npm install
 
       - name: Fetch Course Data
         run: |
-          cd ..
           node app.js
 
       - name: Deploy 🚀
