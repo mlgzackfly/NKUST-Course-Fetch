@@ -1,27 +1,6 @@
 {
-  "name": "nkust-course-fetch",
-  "version": "1.0.0",
-  "description": "1. 先抓校區    - 建工校區    - 燕巢校區    - 第一校區    - 楠梓校區    - 旗津校區 2. 選擇學制    - 太多了 3. 選擇科系    - 太多了",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "html-table-to-json": "^1.0.0",
-    "jsonfile": "^6.1.0",
-    "request": "^2.88.2"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mlgzackfly/NKUST-Course-Fetch.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mlgzackfly/NKUST-Course-Fetch/issues"
-  },
-  "homepage": "https://github.com/mlgzackfly/NKUST-Course-Fetch#readme"
+    "jsonfile": "^6.1.0"
+  }
 }
