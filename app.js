@@ -104,7 +104,8 @@ async function fetchCourse(yms_yms, cmp_area_id, dgr_id, unt_value) {
             const note = form.eq(i).children("td").eq(20).html().replace("&nbsp;", "");
             array.push({ code, cmp, dgr, unt, className, foreverID, courseName, hours, units, required, instructors, position, people, maxpeople, time, english, remote, href, note });
         }
-        await jsonfile.writeFileSync(`./dist/${yms_yms}/${unt_value}.json`, JSON.stringify(array));
+        const jsonData = JSON.stringify(array, null, 2);
+        fs.writeFileSync(`./dist/${yms_yms}/${unt_value}.json`, jsonData);
     } catch (error) {
         console.error(error);
     }
