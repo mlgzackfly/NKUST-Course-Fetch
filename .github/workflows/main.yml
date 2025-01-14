@@ -17,17 +17,22 @@ jobs:
         with:
           node-version: '18'
 
-#      - name: Install Pandoc
-#        run: |
-#          sudo apt-get install pandoc
+      - name: Cache Node.js Modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: List dir
-        run: |
-          cd ..
-          pwd
-          ls
+#      - name: List dir
+#        run: |
+#          cd ..
+#          pwd
+#          ls
 
       - name: npm install
         run: |
@@ -35,8 +40,8 @@ jobs:
 
       - name: Fetch Course Data
         run: |
-          pwd
-          ls
+#          pwd
+#          ls
           node app.js
 
       - name: Deploy 🚀
