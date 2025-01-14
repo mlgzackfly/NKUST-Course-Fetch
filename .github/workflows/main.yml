@@ -40,8 +40,8 @@ jobs:
 
       - name: Fetch Course Data
         run: |
-#          pwd
-#          ls
+          pwd
+          ls
           node app.js
 
       - name: Deploy 🚀
