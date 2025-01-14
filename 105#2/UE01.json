@@ -1,1 +1,52 @@
-"[{\"code\":\"2406\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"工院課程[第一]\",\"className\":\"工院課程一甲\",\"foreverID\":\"010C11000\",\"courseName\":\"一般課程教學實習\",\"hours\":\"0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 林栢村\",\"position\":\"教室未定\",\"people\":\"13\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UE011811,F3250.01\"],\"note\":\"\"},{\"code\":\"2407\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"工院課程[第一]\",\"className\":\"工院課程一甲\",\"foreverID\":\"010C11007\",\"courseName\":\"實習(驗)課程教學實習\",\"hours\":\"0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 林栢村\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UE011811,F4455.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2406",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工院課程[第一]",
+    "className": "工院課程一甲",
+    "foreverID": "010C11000",
+    "courseName": "一般課程教學實習",
+    "hours": "0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "林栢村",
+    "position": "教室未定",
+    "people": "13",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UE011811,F3250.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2407",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工院課程[第一]",
+    "className": "工院課程一甲",
+    "foreverID": "010C11007",
+    "courseName": "實習(驗)課程教學實習",
+    "hours": "0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "林栢村",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UE011811,F4455.01"
+    ],
+    "note": ""
+  }
+]

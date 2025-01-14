@@ -1,1 +1,77 @@
-"[{\"code\":\"0032\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船工程系\",\"className\":\"日四技造船系.\",\"foreverID\":\"326C10281\",\"courseName\":\"飛行概論與超輕體驗飛行\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UQ051400,B1776.01\"],\"note\":\"982235033至成功大學修課\"},{\"code\":\"0038\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船工程系\",\"className\":\"日四技造船系.\",\"foreverID\":\"326C00094\",\"courseName\":\"工程數學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UQ051400,00233.01\"],\"note\":\"961235102跨逢甲大學\"},{\"code\":\"0039\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船工程系\",\"className\":\"日四技造船系.\",\"foreverID\":\"326C00087\",\"courseName\":\"應用力學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UQ051400,03259.01\"],\"note\":\"961235102跨逢甲大學\"}]"
+[
+  {
+    "code": "0032",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船工程系",
+    "className": "日四技造船系.",
+    "foreverID": "326C10281",
+    "courseName": "飛行概論與超輕體驗飛行",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UQ051400,B1776.01"
+    ],
+    "note": "982235033至成功大學修課"
+  },
+  {
+    "code": "0038",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船工程系",
+    "className": "日四技造船系.",
+    "foreverID": "326C00094",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UQ051400,00233.01"
+    ],
+    "note": "961235102跨逢甲大學"
+  },
+  {
+    "code": "0039",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船工程系",
+    "className": "日四技造船系.",
+    "foreverID": "326C00087",
+    "courseName": "應用力學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UQ051400,03259.01"
+    ],
+    "note": "961235102跨逢甲大學"
+  }
+]

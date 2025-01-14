@@ -1,1 +1,77 @@
-"[{\"code\":\"1710\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運學程\",\"className\":\"日航運學程\",\"foreverID\":\"350C10077\",\"courseName\":\"海事法規\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳崑旭\",\"position\":\"旗津304教室\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\"(一)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF081400,A3000.01\"],\"note\":\"\"},{\"code\":\"1711\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運學程\",\"className\":\"日航運學程\",\"foreverID\":\"350C10115\",\"courseName\":\"海運學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"蘇東濤\",\"position\":\"旗津304教室\",\"people\":\"9\",\"maxpeople\":\"60\",\"time\":\"(二)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF081400,A3380.01\"],\"note\":\"\"},{\"code\":\"1712\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運學程\",\"className\":\"日航運學程\",\"foreverID\":\"350C10058\",\"courseName\":\"航運管理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"王國勇\",\"position\":\"旗津304教室\",\"people\":\"47\",\"maxpeople\":\"60\",\"time\":\"(一)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF081400,B2557.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1710",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運學程",
+    "className": "日航運學程",
+    "foreverID": "350C10077",
+    "courseName": "海事法規",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳崑旭",
+    "position": "旗津304教室",
+    "people": "26",
+    "maxpeople": "60",
+    "time": "(一)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF081400,A3000.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1711",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運學程",
+    "className": "日航運學程",
+    "foreverID": "350C10115",
+    "courseName": "海運學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "蘇東濤",
+    "position": "旗津304教室",
+    "people": "9",
+    "maxpeople": "60",
+    "time": "(二)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF081400,A3380.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1712",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運學程",
+    "className": "日航運學程",
+    "foreverID": "350C10058",
+    "courseName": "航運管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "王國勇",
+    "position": "旗津304教室",
+    "people": "47",
+    "maxpeople": "60",
+    "time": "(一)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF081400,B2557.01"
+    ],
+    "note": ""
+  }
+]

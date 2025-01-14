@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0054",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系",
+    "className": "資管系三甲",
+    "foreverID": "138C10090",
+    "courseName": "資訊管理實務暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "吳明泰,張弘毅,曾守正,李慶章,莊文勝,蔡耀德,許麗玲,鄭進興,陳世智,陳彥銘",
+    "position": "教室未定",
+    "people": "19",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UN011431,F4731.01"
+    ],
+    "note": "實習課程不排上課時間"
+  },
+  {
+    "code": "0054",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系",
+    "className": "資管系三乙",
+    "foreverID": "138C10090",
+    "courseName": "資訊管理實務暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "吳明泰,張弘毅,曾守正,李慶章,莊文勝,蔡耀德,許麗玲,鄭進興,陳世智,陳彥銘",
+    "position": "教室未定",
+    "people": "19",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UN011431,F4731.01"
+    ],
+    "note": "實習課程不排上課時間"
+  }
+]

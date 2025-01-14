@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0070",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "金融系碩士專班[第一]",
+    "className": "金融碩專班一甲",
+    "foreverID": "153H00008",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "王銘駿",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UP072711,05010.01"
+    ],
+    "note": "1.不開放選課，由系辦掛課"
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"S126\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00045\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"37\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UF011421,00232.01\"],\"note\":\"\"},{\"code\":\"S126\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00045\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"37\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UF011421,00232.01\"],\"note\":\"\"},{\"code\":\"S126\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00045\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"37\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UF011421,00232.01\"],\"note\":\"\"},{\"code\":\"S128\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系三甲\",\"foreverID\":\"102C10100\",\"courseName\":\"營建工程實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"16\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UF011431,F1837.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S126",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系二甲",
+    "foreverID": "102C00045",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "37",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UF011421,00232.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S128",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三甲",
+    "foreverID": "102C10100",
+    "courseName": "營建工程實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "16",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UF011431,F1837.01"
+    ],
+    "note": ""
+  }
+]

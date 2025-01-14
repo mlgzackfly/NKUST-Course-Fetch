@@ -1,1 +1,27 @@
-"[{\"code\":\"0109\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部碩士\",\"unt\":\"海事風電工程碩士學位學程\",\"className\":\"海事風電碩士一甲\",\"foreverID\":\"317B00027\",\"courseName\":\"暑期實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"蔡原祥,羅光閔\",\"position\":\"\",\"people\":\"4\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UR131711,B3730.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0109",
+    "cmp": "旗津校區",
+    "dgr": "日間部碩士",
+    "unt": "海事風電工程碩士學位學程",
+    "className": "海事風電碩士一甲",
+    "foreverID": "317B00027",
+    "courseName": "暑期實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "蔡原祥,羅光閔",
+    "position": "",
+    "people": "4",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UR131711,B3730.01"
+    ],
+    "note": ""
+  }
+]

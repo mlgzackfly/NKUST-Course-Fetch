@@ -1,1 +1,27 @@
-"[{\"code\":\"1353\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10132\",\"courseName\":\"顧客關係管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李勝祥\",\"position\":\"10203多功能E教室\",\"people\":\"19\",\"maxpeople\":\"60\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF031400,03622.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1353",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10132",
+    "courseName": "顧客關係管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李勝祥",
+    "position": "10203多功能E教室",
+    "people": "19",
+    "maxpeople": "60",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF031400,03622.01"
+    ],
+    "note": ""
+  }
+]

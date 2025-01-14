@@ -1,0 +1,52 @@
+[
+  {
+    "code": "2283",
+    "cmp": "第一校區",
+    "dgr": "境外碩士在職秋季專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階境外碩專一甲",
+    "foreverID": "135H10049",
+    "courseName": "高階策略管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "歐宗殷,楊景傅",
+    "position": "",
+    "people": "30",
+    "maxpeople": "60",
+    "time": "(日)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN073011,F2300.01"
+    ],
+    "note": "上課地點:越南"
+  },
+  {
+    "code": "2284",
+    "cmp": "第一校區",
+    "dgr": "境外碩士在職秋季專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階境外碩專一甲",
+    "foreverID": "135H00001",
+    "courseName": "高階經營管理專題研討(二)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "必修",
+    "instructors": "李慶章",
+    "position": "",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(日)5",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN073011,F5020.01"
+    ],
+    "note": "上課地點:越南"
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"1412\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"人文社會學院\",\"className\":\"四人文學院三甲\",\"foreverID\":\"250C10001\",\"courseName\":\"商業英文有聲書聽講\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳彥京\",\"position\":\"HS427\",\"people\":\"20\",\"maxpeople\":\"55\",\"time\":\"(五)1-2\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UH001431,08671.01\"],\"note\":\"此班為教卓支付鐘點\"},{\"code\":\"1413\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"人文社會學院\",\"className\":\"四人文學院四甲\",\"foreverID\":\"250C10003\",\"courseName\":\"英文商業雜誌選讀\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳彥京\",\"position\":\"HS222\",\"people\":\"24\",\"maxpeople\":\"55\",\"time\":\"(五)3-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UH001441,08672.01\"],\"note\":\"此班為教卓經費支付鐘點\"}]"
+[
+  {
+    "code": "1412",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "人文社會學院",
+    "className": "四人文學院三甲",
+    "foreverID": "250C10001",
+    "courseName": "商業英文有聲書聽講",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳彥京",
+    "position": "HS427",
+    "people": "20",
+    "maxpeople": "55",
+    "time": "(五)1-2",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UH001431,08671.01"
+    ],
+    "note": "此班為教卓支付鐘點"
+  },
+  {
+    "code": "1413",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "人文社會學院",
+    "className": "四人文學院四甲",
+    "foreverID": "250C10003",
+    "courseName": "英文商業雜誌選讀",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳彥京",
+    "position": "HS222",
+    "people": "24",
+    "maxpeople": "55",
+    "time": "(五)3-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UH001441,08672.01"
+    ],
+    "note": "此班為教卓經費支付鐘點"
+  }
+]

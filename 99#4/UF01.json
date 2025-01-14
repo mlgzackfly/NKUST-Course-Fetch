@@ -1,1 +1,77 @@
-"[{\"code\":\"S239\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系一甲\",\"foreverID\":\"102C00042\",\"courseName\":\"普通物理(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UF011411,04980.01\"],\"note\":\"\"},{\"code\":\"S239\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系一甲\",\"foreverID\":\"102C00042\",\"courseName\":\"普通物理(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UF011411,04980.01\"],\"note\":\"\"},{\"code\":\"S239\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系一甲\",\"foreverID\":\"102C00042\",\"courseName\":\"普通物理(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UF011411,04980.01\"],\"note\":\"\"},{\"code\":\"S243\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系一甲\",\"foreverID\":\"102C00061\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UF011411,02224.01\"],\"note\":\"\"},{\"code\":\"S243\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系一甲\",\"foreverID\":\"102C00061\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UF011411,02224.01\"],\"note\":\"\"},{\"code\":\"S243\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系一甲\",\"foreverID\":\"102C00061\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UF011411,02224.01\"],\"note\":\"\"},{\"code\":\"S159\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系三甲\",\"foreverID\":\"102C10127\",\"courseName\":\"營建工程實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UF011431,F1837.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S239",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系一甲",
+    "foreverID": "102C00042",
+    "courseName": "普通物理(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UF011411,04980.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S243",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系一甲",
+    "foreverID": "102C00061",
+    "courseName": "微積分(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UF011411,02224.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S159",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三甲",
+    "foreverID": "102C10127",
+    "courseName": "營建工程實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UF011431,F1837.01"
+    ],
+    "note": ""
+  }
+]

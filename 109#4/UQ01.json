@@ -1,1 +1,27 @@
-"[{\"code\":\"0154\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船四甲\",\"foreverID\":\"324C10269\",\"courseName\":\"暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"楊敏雄\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"11\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UQ011441,09635.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0154",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船四甲",
+    "foreverID": "324C10269",
+    "courseName": "暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "楊敏雄",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "11",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UQ011441,09635.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"S254\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"科技法律研究所碩士專班[第一]\",\"className\":\"科法碩專班三甲\",\"foreverID\":\"133H00019\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UN272731,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S254",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "科技法律研究所碩士專班[第一]",
+    "className": "科法碩專班三甲",
+    "foreverID": "133H00019",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UN272731,05010.01"
+    ],
+    "note": ""
+  }
+]

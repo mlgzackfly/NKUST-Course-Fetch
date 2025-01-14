@@ -1,1 +1,102 @@
-"[{\"code\":\"\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00095\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"XK002411,00232.01\"],\"note\":\"正修科大\"},{\"code\":\"0075\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00033\",\"courseName\":\"商事法\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"XK002411,01523.01\"],\"note\":\"正修科技大學\"},{\"code\":\"0116\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F10179\",\"courseName\":\"休閒遊憩概論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"XK002411,00609.01\"],\"note\":\"正修科大日\"},{\"code\":\"0118\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00094\",\"courseName\":\"工程數學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"XK002411,00233.01\"],\"note\":\"第一科技大學(日間機械)\"}]"
+[
+  {
+    "code": "",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00095",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "XK002411,00232.01"
+    ],
+    "note": "正修科大"
+  },
+  {
+    "code": "0075",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00033",
+    "courseName": "商事法",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "XK002411,01523.01"
+    ],
+    "note": "正修科技大學"
+  },
+  {
+    "code": "0116",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F10179",
+    "courseName": "休閒遊憩概論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "XK002411,00609.01"
+    ],
+    "note": "正修科大日"
+  },
+  {
+    "code": "0118",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00094",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "XK002411,00233.01"
+    ],
+    "note": "第一科技大學(日間機械)"
+  }
+]

@@ -1,1 +1,102 @@
-"[{\"code\":\"0045\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"金融系\",\"className\":\"金融系三甲\",\"foreverID\":\"153C10236\",\"courseName\":\"金融暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"陳勤明,林君瀌,王友珊,王銘駿\",\"position\":\"\",\"people\":\"20\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UP011431,30255.01\"],\"note\":\"暑期上課時間:7/1-8/31\\n\"},{\"code\":\"0045\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"金融系\",\"className\":\"金融系三乙\",\"foreverID\":\"153C10236\",\"courseName\":\"金融暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"陳勤明,林君瀌,王友珊,王銘駿\",\"position\":\"\",\"people\":\"20\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UP011432,30255.01\"],\"note\":\"暑期上課時間:7/1-8/31\\n\"},{\"code\":\"0045\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"金融系\",\"className\":\"金融系四甲\",\"foreverID\":\"153C10236\",\"courseName\":\"金融暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"陳勤明,林君瀌,王友珊,王銘駿\",\"position\":\"\",\"people\":\"20\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UP011441,30255.01\"],\"note\":\"暑期上課時間:7/1-8/31\\n\"},{\"code\":\"0045\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"金融系\",\"className\":\"金融系四乙\",\"foreverID\":\"153C10236\",\"courseName\":\"金融暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"陳勤明,林君瀌,王友珊,王銘駿\",\"position\":\"\",\"people\":\"20\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UP011442,30255.01\"],\"note\":\"暑期上課時間:7/1-8/31\\n\"}]"
+[
+  {
+    "code": "0045",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "金融系",
+    "className": "金融系三甲",
+    "foreverID": "153C10236",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳勤明,林君瀌,王友珊,王銘駿",
+    "position": "",
+    "people": "20",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UP011441,30255.01"
+    ],
+    "note": "暑期上課時間:7/1-8/31"
+  },
+  {
+    "code": "0045",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "金融系",
+    "className": "金融系三乙",
+    "foreverID": "153C10236",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳勤明,林君瀌,王友珊,王銘駿",
+    "position": "",
+    "people": "20",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UP011441,30255.01"
+    ],
+    "note": "暑期上課時間:7/1-8/31"
+  },
+  {
+    "code": "0045",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "金融系",
+    "className": "金融系四甲",
+    "foreverID": "153C10236",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳勤明,林君瀌,王友珊,王銘駿",
+    "position": "",
+    "people": "20",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UP011441,30255.01"
+    ],
+    "note": "暑期上課時間:7/1-8/31"
+  },
+  {
+    "code": "0045",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "金融系",
+    "className": "金融系四乙",
+    "foreverID": "153C10236",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳勤明,林君瀌,王友珊,王銘駿",
+    "position": "",
+    "people": "20",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UP011441,30255.01"
+    ],
+    "note": "暑期上課時間:7/1-8/31"
+  }
+]

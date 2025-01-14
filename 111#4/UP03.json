@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0082",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財務管理系",
+    "className": "財管系二甲",
+    "foreverID": "155C10364",
+    "courseName": "財務管理實務暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "周建新,林財印,蔡繡容",
+    "position": "",
+    "people": "10",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP031421,30127.01"
+    ],
+    "note": "校外實習，不排上課時段"
+  },
+  {
+    "code": "0083",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財務管理系",
+    "className": "財管系三甲",
+    "foreverID": "155C10366",
+    "courseName": "公司理財實務暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "周建新,林財印,蔡繡容",
+    "position": "",
+    "people": "7",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP031431,30128.01"
+    ],
+    "note": "校外實習，不排上課時段"
+  }
+]

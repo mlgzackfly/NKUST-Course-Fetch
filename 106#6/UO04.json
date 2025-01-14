@@ -1,1 +1,52 @@
-"[{\"code\":\"0115\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋休閒管理系\",\"className\":\"日四技休閒系\",\"foreverID\":\"333C00065\",\"courseName\":\"餐旅管理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"校際選課\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"(一)9-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"6\",\"UO041400,B3825.01\"],\"note\":\"1021245171至健行科技大學修讀\"},{\"code\":\"0116\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋休閒管理系\",\"className\":\"日四技休閒系\",\"foreverID\":\"333C00076\",\"courseName\":\"觀光休閒探索體驗\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"校際選課\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"(日)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"6\",\"UO041400,B3826.01\"],\"note\":\"1021245171至健行科技大學修讀\"}]"
+[
+  {
+    "code": "0115",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋休閒管理系",
+    "className": "日四技休閒系",
+    "foreverID": "333C00065",
+    "courseName": "餐旅管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "校際選課",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "(一)9-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "6",
+      "UO041400,B3825.01"
+    ],
+    "note": "1021245171至健行科技大學修讀"
+  },
+  {
+    "code": "0116",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋休閒管理系",
+    "className": "日四技休閒系",
+    "foreverID": "333C00076",
+    "courseName": "觀光休閒探索體驗",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "校際選課",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "(日)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "6",
+      "UO041400,B3826.01"
+    ],
+    "note": "1021245171至健行科技大學修讀"
+  }
+]

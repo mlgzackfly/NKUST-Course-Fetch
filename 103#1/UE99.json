@@ -1,1 +1,27 @@
-"[{\"code\":\"2446\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工學院增開班\",\"className\":\"碩增二甲\",\"foreverID\":\"298B00001\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UE991721,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2446",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "工學院增開班",
+    "className": "碩增二甲",
+    "foreverID": "298B00001",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UE991721,03649.01"
+    ],
+    "note": ""
+  }
+]

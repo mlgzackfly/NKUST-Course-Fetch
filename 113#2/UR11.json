@@ -1,0 +1,27 @@
+[
+  {
+    "code": "3134",
+    "cmp": "旗津校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "輪機產學攜手專班",
+    "className": "進四輪機產學三甲",
+    "foreverID": "313G00024",
+    "courseName": "自動控制實習",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "李俊岳",
+    "position": "1405自動控制實驗室",
+    "people": "16",
+    "maxpeople": "55",
+    "time": "(六)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UR114231,00767.01"
+    ],
+    "note": "僅限本班生"
+  }
+]

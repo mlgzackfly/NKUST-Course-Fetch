@@ -1,1 +1,27 @@
-"[{\"code\":\"1716\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"半導體技術學程\",\"className\":\"日半導體技術學程\",\"foreverID\":\"350C10151\",\"courseName\":\"光電子學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊誌欽\",\"position\":\"   (楠梓)\",\"people\":\"62\",\"maxpeople\":\"60\",\"time\":\"(二)9-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"GF051400,00634.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1716",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "半導體技術學程",
+    "className": "日半導體技術學程",
+    "foreverID": "350C10151",
+    "courseName": "光電子學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊誌欽",
+    "position": "(楠梓)",
+    "people": "62",
+    "maxpeople": "60",
+    "time": "(二)9-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "GF051400,00634.01"
+    ],
+    "note": ""
+  }
+]

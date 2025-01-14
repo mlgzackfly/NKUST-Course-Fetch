@@ -1,1 +1,27 @@
-"[{\"code\":\"0023\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"微電子工程系\",\"className\":\"日四技微電系\",\"foreverID\":\"325C00134\",\"courseName\":\"電子學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"UQ021400,02485.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0023",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "微電子工程系",
+    "className": "日四技微電系",
+    "foreverID": "325C00134",
+    "courseName": "電子學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "UQ021400,02485.01"
+    ],
+    "note": ""
+  }
+]

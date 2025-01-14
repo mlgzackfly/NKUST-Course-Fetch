@@ -1,1 +1,127 @@
-"[{\"code\":\"2834\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"管院企業管理高階經營管理\",\"className\":\"碩專高階經管一甲\",\"foreverID\":\"233H00011\",\"courseName\":\"行銷管理專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"陳榮方,黃義俊\",\"position\":\"西103\",\"people\":\"18\",\"maxpeople\":\"35\",\"time\":\"(六)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UM862711,00797.01\"],\"note\":\"\"},{\"code\":\"2835\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"管院企業管理高階經營管理\",\"className\":\"碩專高階經管一甲\",\"foreverID\":\"233H00012\",\"courseName\":\"組織行為專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"楊敏里,董玉娟\",\"position\":\"西103\",\"people\":\"17\",\"maxpeople\":\"35\",\"time\":\"(日)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UM862711,05045.01\"],\"note\":\"\"},{\"code\":\"2836\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"管院企業管理高階經營管理\",\"className\":\"碩專高階經管一甲\",\"foreverID\":\"233H10019\",\"courseName\":\"管理經濟專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"程言信,李政峯\",\"position\":\"西103\",\"people\":\"18\",\"maxpeople\":\"35\",\"time\":\"(日)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UM862711,07035.01\"],\"note\":\"\"},{\"code\":\"2837\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"管院企業管理高階經營管理\",\"className\":\"碩專高階經管一甲\",\"foreverID\":\"233H10018\",\"courseName\":\"管理會計專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"翁鶯娟,盧正壽\",\"position\":\"西103\",\"people\":\"18\",\"maxpeople\":\"35\",\"time\":\"(六)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UM862711,07036.01\"],\"note\":\"\"},{\"code\":\"2838\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"管院企業管理高階經營管理\",\"className\":\"碩專高階經管一甲\",\"foreverID\":\"233H10016\",\"courseName\":\"高階經營專題(一)\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"楊敏里\",\"position\":\"西103\",\"people\":\"18\",\"maxpeople\":\"35\",\"time\":\" (六)10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UM862711,07042.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2834",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "管院企業管理高階經營管理",
+    "className": "碩專高階經管一甲",
+    "foreverID": "233H00011",
+    "courseName": "行銷管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "陳榮方,黃義俊",
+    "position": "西103",
+    "people": "18",
+    "maxpeople": "35",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UM862711,00797.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2835",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "管院企業管理高階經營管理",
+    "className": "碩專高階經管一甲",
+    "foreverID": "233H00012",
+    "courseName": "組織行為專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "楊敏里,董玉娟",
+    "position": "西103",
+    "people": "17",
+    "maxpeople": "35",
+    "time": "(日)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UM862711,05045.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2836",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "管院企業管理高階經營管理",
+    "className": "碩專高階經管一甲",
+    "foreverID": "233H10019",
+    "courseName": "管理經濟專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "程言信,李政峯",
+    "position": "西103",
+    "people": "18",
+    "maxpeople": "35",
+    "time": "(日)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UM862711,07035.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2837",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "管院企業管理高階經營管理",
+    "className": "碩專高階經管一甲",
+    "foreverID": "233H10018",
+    "courseName": "管理會計專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "翁鶯娟,盧正壽",
+    "position": "西103",
+    "people": "18",
+    "maxpeople": "35",
+    "time": "(六)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UM862711,07036.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2838",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "管院企業管理高階經營管理",
+    "className": "碩專高階經管一甲",
+    "foreverID": "233H10016",
+    "courseName": "高階經營專題(一)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "楊敏里",
+    "position": "西103",
+    "people": "18",
+    "maxpeople": "35",
+    "time": "(六)10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UM862711,07042.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0208",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "造船及海洋工程系",
+    "className": "進四技造船一年級",
+    "foreverID": "324F00035",
+    "courseName": "應用力學(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李芳承",
+    "position": "5103教室",
+    "people": "16",
+    "maxpeople": "55",
+    "time": "(一)10-11(三)10-11(五)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UQ012411,03258.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  },
+  {
+    "code": "0209",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "造船及海洋工程系",
+    "className": "進四技造船一年級",
+    "foreverID": "324F00116",
+    "courseName": "普通物理(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "吳兆穎,張仲志",
+    "position": "5102教室",
+    "people": "16",
+    "maxpeople": "55",
+    "time": "(二)10-13(四)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UQ012411,04980.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  }
+]

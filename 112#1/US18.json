@@ -1,0 +1,52 @@
+[
+  {
+    "code": "3836",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費三甲",
+    "foreverID": "305C00311",
+    "courseName": "船電",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "林政建",
+    "position": "旗U313海事機電研究",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "US181431,10084.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3841",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費三甲",
+    "foreverID": "305C00312",
+    "courseName": "船電實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "林政建",
+    "position": "旗U313海事機電研究",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(四)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "US181431,A9163.01"
+    ],
+    "note": ""
+  }
+]

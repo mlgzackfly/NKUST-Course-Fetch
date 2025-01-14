@@ -1,1 +1,77 @@
-"[{\"code\":\"1739\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海事資訊管理學程\",\"className\":\"海事資訊管理學程\",\"foreverID\":\"350C10168\",\"courseName\":\"網路行銷\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳姵臻\",\"position\":\"2402教室\",\"people\":\"71\",\"maxpeople\":\"60\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF181400,02793.01\"],\"note\":\"資訊管理與應用類。\"},{\"code\":\"1740\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海事資訊管理學程\",\"className\":\"海事資訊管理學程\",\"foreverID\":\"350C10130\",\"courseName\":\"海運資訊系統概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王翊和\",\"position\":\"2402教室\",\"people\":\"101\",\"maxpeople\":\"60\",\"time\":\"(一)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF181400,B1996.01\"],\"note\":\"海事資訊應用類。\"},{\"code\":\"1741\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海事資訊管理學程\",\"className\":\"海事資訊管理學程\",\"foreverID\":\"350C10169\",\"courseName\":\"船務與港埠資訊系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王大瑾\",\"position\":\"2403電腦教室(二)\",\"people\":\"31\",\"maxpeople\":\"60\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF181400,B2519.01\"],\"note\":\"海事資訊應用類。\"}]"
+[
+  {
+    "code": "1739",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海事資訊管理學程",
+    "className": "海事資訊管理學程",
+    "foreverID": "350C10168",
+    "courseName": "網路行銷",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳姵臻",
+    "position": "2402教室",
+    "people": "71",
+    "maxpeople": "60",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF181400,02793.01"
+    ],
+    "note": "資訊管理與應用類。"
+  },
+  {
+    "code": "1740",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海事資訊管理學程",
+    "className": "海事資訊管理學程",
+    "foreverID": "350C10130",
+    "courseName": "海運資訊系統概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王翊和",
+    "position": "2402教室",
+    "people": "101",
+    "maxpeople": "60",
+    "time": "(一)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF181400,B1996.01"
+    ],
+    "note": "海事資訊應用類。"
+  },
+  {
+    "code": "1741",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海事資訊管理學程",
+    "className": "海事資訊管理學程",
+    "foreverID": "350C10169",
+    "courseName": "船務與港埠資訊系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王大瑾",
+    "position": "2403電腦教室(二)",
+    "people": "31",
+    "maxpeople": "60",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF181400,B2519.01"
+    ],
+    "note": "海事資訊應用類。"
+  }
+]

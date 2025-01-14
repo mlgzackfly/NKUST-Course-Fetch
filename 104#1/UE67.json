@@ -1,1 +1,27 @@
-"[{\"code\":\"2404\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩春外製管二甲\",\"foreverID\":\"279B00003\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE671521,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2404",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩春外製管二甲",
+    "foreverID": "279B00003",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE671521,03649.01"
+    ],
+    "note": ""
+  }
+]

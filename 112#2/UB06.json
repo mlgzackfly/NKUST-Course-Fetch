@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0112",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "智慧資電系統技優專班",
+    "className": "日四資電技優三甲",
+    "foreverID": "222C00656",
+    "courseName": "實務專題(四)",
+    "hours": "2.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "王鴻猷,林志學,吳曜東,謝東利,洪冠明",
+    "position": "",
+    "people": "18",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UB061431,10697.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"1454\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H00004\",\"courseName\":\"研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"潘郁仁,林義屏\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"60\",\"time\":\"(六)9-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UO152711,01135.01\"],\"note\":\"\"},{\"code\":\"1455\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H00006\",\"courseName\":\"供應鏈管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"鄭玉惠,余德成\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"60\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UO152711,07382.01\"],\"note\":\"\"},{\"code\":\"1456\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H10010\",\"courseName\":\"冷鏈管理實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"余德成,溫源鳳\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"60\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UO152711,B3726.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1454",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H00004",
+    "courseName": "研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "潘郁仁,林義屏",
+    "position": "",
+    "people": "5",
+    "maxpeople": "60",
+    "time": "(六)9-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UO152711,01135.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1455",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H00006",
+    "courseName": "供應鏈管理專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "鄭玉惠,余德成",
+    "position": "",
+    "people": "5",
+    "maxpeople": "60",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UO152711,07382.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1456",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H10010",
+    "courseName": "冷鏈管理實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "余德成,溫源鳳",
+    "position": "",
+    "people": "5",
+    "maxpeople": "60",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UO152711,B3726.01"
+    ],
+    "note": ""
+  }
+]

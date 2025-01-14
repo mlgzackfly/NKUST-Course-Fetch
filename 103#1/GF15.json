@@ -1,1 +1,52 @@
-"[{\"code\":\"1959\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"職業潛水產業實務學程\",\"className\":\"職業潛水實務學程\",\"foreverID\":\"350C10180\",\"courseName\":\"水肺潛水理論與實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"戴堯種\",\"position\":\"\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"GF151400,B0212.01\"],\"note\":\"\"},{\"code\":\"1960\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"職業潛水產業實務學程\",\"className\":\"職業潛水實務學程\",\"foreverID\":\"350C10108\",\"courseName\":\"水肺空氣潛水作業管理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"戴堯種\",\"position\":\"\",\"people\":\"27\",\"maxpeople\":\"60\",\"time\":\"(六)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"GF151400,B2895.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1959",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "職業潛水產業實務學程",
+    "className": "職業潛水實務學程",
+    "foreverID": "350C10180",
+    "courseName": "水肺潛水理論與實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "戴堯種",
+    "position": "",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "GF151400,B0212.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1960",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "職業潛水產業實務學程",
+    "className": "職業潛水實務學程",
+    "foreverID": "350C10108",
+    "courseName": "水肺空氣潛水作業管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "戴堯種",
+    "position": "",
+    "people": "27",
+    "maxpeople": "60",
+    "time": "(六)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "GF151400,B2895.01"
+    ],
+    "note": ""
+  }
+]

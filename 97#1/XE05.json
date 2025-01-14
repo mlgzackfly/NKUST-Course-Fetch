@@ -1,1 +1,77 @@
-"[{\"code\":\"1662\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"共同選修\",\"className\":\"日四技共同選修\",\"foreverID\":\"010C11154\",\"courseName\":\"國防通識\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"教官\",\"position\":\"2002-1多功能教室(A)\",\"people\":\"79\",\"maxpeople\":\"60\",\"time\":\"(二)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"1\",\"XE051400,B0662.01\"],\"note\":\"\"},{\"code\":\"1663\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"共同選修\",\"className\":\"日四技共同選修\",\"foreverID\":\"010C11154\",\"courseName\":\"國防通識\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"教官\",\"position\":\"10104教室\",\"people\":\"59\",\"maxpeople\":\"60\",\"time\":\"(二)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"1\",\"XE051400,B0662.02\"],\"note\":\"\"},{\"code\":\"1664\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"共同選修\",\"className\":\"日四技共同選修\",\"foreverID\":\"010C11154\",\"courseName\":\"國防通識\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"教官\",\"position\":\"旗513簡報室\",\"people\":\"10\",\"maxpeople\":\"60\",\"time\":\"(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"1\",\"XE051400,B0662.03\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1662",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "共同選修",
+    "className": "日四技共同選修",
+    "foreverID": "010C11154",
+    "courseName": "國防通識",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "教官",
+    "position": "2002-1多功能教室(A)",
+    "people": "79",
+    "maxpeople": "60",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "1",
+      "XE051400,B0662.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1663",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "共同選修",
+    "className": "日四技共同選修",
+    "foreverID": "010C11154",
+    "courseName": "國防通識",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "教官",
+    "position": "10104教室",
+    "people": "59",
+    "maxpeople": "60",
+    "time": "(二)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "1",
+      "XE051400,B0662.02"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1664",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "共同選修",
+    "className": "日四技共同選修",
+    "foreverID": "010C11154",
+    "courseName": "國防通識",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "教官",
+    "position": "旗513簡報室",
+    "people": "10",
+    "maxpeople": "60",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "1",
+      "XE051400,B0662.03"
+    ],
+    "note": ""
+  }
+]

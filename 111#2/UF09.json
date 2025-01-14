@@ -1,1 +1,102 @@
-"[{\"code\":\"1478\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機電工程系\",\"className\":\"機電碩專班一甲\",\"foreverID\":\"105H10046\",\"courseName\":\"材料與製造\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊玉森\",\"position\":\"B116\",\"people\":\"0\",\"maxpeople\":\"45\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"UF092711,F0970.01\"],\"note\":\"\"},{\"code\":\"1479\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機電工程系\",\"className\":\"機電碩專班一甲\",\"foreverID\":\"105H10044\",\"courseName\":\"統計製程管制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"曾奕丰\",\"position\":\"B113\",\"people\":\"0\",\"maxpeople\":\"45\",\"time\":\"(四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"UF092711,F1980.01\"],\"note\":\"\"},{\"code\":\"1480\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機電工程系\",\"className\":\"機電碩專班一甲\",\"foreverID\":\"105H10017\",\"courseName\":\"感測器與致動器\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉永田\",\"position\":\"B115\",\"people\":\"0\",\"maxpeople\":\"45\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"UF092711,F2678.01\"],\"note\":\"\"},{\"code\":\"1481\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機電工程系\",\"className\":\"機電碩專班一甲\",\"foreverID\":\"105H10038\",\"courseName\":\"超音波理論與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蘇啟宗\",\"position\":\"B113\",\"people\":\"0\",\"maxpeople\":\"45\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"UF092711,F3716.01\"],\"note\":\"\"},{\"code\":\"1482\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機電工程系\",\"className\":\"機電碩專班二甲\",\"foreverID\":\"105H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"吳宗亮\",\"position\":\"\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"UF092721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1478",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10046",
+    "courseName": "材料與製造",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊玉森",
+    "position": "B116",
+    "people": "18",
+    "maxpeople": "45",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "UF092711,F0970.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1479",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10044",
+    "courseName": "統計製程管制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "曾奕丰",
+    "position": "B113",
+    "people": "17",
+    "maxpeople": "45",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "UF092711,F1980.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1481",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10038",
+    "courseName": "超音波理論與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇啟宗",
+    "position": "B113",
+    "people": "19",
+    "maxpeople": "45",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "UF092711,F3716.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1482",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班二甲",
+    "foreverID": "105H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "吳宗亮",
+    "position": "",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "UF092721,05010.01"
+    ],
+    "note": ""
+  }
+]

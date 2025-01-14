@@ -1,1 +1,27 @@
-"[{\"code\":\"\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"造船工程科\",\"className\":\"進二專造船三\",\"foreverID\":\"\",\"courseName\":\"電路學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UQ062130,02624.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "造船工程科",
+    "className": "進二專造船三",
+    "foreverID": "",
+    "courseName": "電路學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UQ062130,02624.01"
+    ],
+    "note": ""
+  }
+]

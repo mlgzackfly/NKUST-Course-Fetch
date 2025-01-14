@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0001",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "財政稅務系",
+    "className": "碩專財政稅務二甲",
+    "foreverID": "237H00162",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "姚名鴻",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "3",
+      "UT032721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"S106\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應用英語系應用語言學與英語教學\",\"className\":\"應英教學應用碩二\",\"foreverID\":\"161B00011\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UJ091721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S106",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "應用英語系應用語言學與英語教學",
+    "className": "應英教學應用碩二",
+    "foreverID": "161B00011",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UJ091721,05010.01"
+    ],
+    "note": ""
+  }
+]

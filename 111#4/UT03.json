@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0114",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "財政稅務系",
+    "className": "碩專財政稅務一甲",
+    "foreverID": "237H10129",
+    "courseName": "財富管理專題研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "汪青萍,彭琪祿",
+    "position": "西102",
+    "people": "8",
+    "maxpeople": "30",
+    "time": "(一)10-12(二)10-12(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UT032711,09021.01"
+    ],
+    "note": "彭琪祿1.5小時、汪青萍1.5小時\n暑修課程時間：7/3起六週"
+  },
+  {
+    "code": "0115",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "財政稅務系",
+    "className": "碩專財政稅務一甲",
+    "foreverID": "237H10216",
+    "courseName": "財經議題分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "柯伯昇",
+    "position": "西003",
+    "people": "5",
+    "maxpeople": "30",
+    "time": "(四)10-12(五)10-12(六)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UT032711,09903.01"
+    ],
+    "note": "暑修課程時間：7/6起六週"
+  },
+  {
+    "code": "0116",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "財政稅務系",
+    "className": "碩專財政稅務二甲",
+    "foreverID": "237H10145",
+    "courseName": "全球經貿分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "姚名鴻",
+    "position": "西101",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "(一)10-12(二)10-12(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UT032721,08834.01"
+    ],
+    "note": "暑修課程時間：7/3起六週"
+  },
+  {
+    "code": "0117",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "財政稅務系",
+    "className": "碩專財政稅務二甲",
+    "foreverID": "237H10224",
+    "courseName": "商管論文寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃豪臣",
+    "position": "西102",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(四)10-12(五)10-12(六)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UT032721,11785.01"
+    ],
+    "note": "暑修課程時間：7/6起六週"
+  }
+]

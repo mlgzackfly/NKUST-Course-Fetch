@@ -1,1 +1,52 @@
-"[{\"code\":\"6140\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"010C11542\",\"courseName\":\"產品開發與創業\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"B345\",\"people\":\"62\",\"maxpeople\":\"63\",\"time\":\" (五)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UI991411,F2841.01\"],\"note\":\"\"},{\"code\":\"6141\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"010C11185\",\"courseName\":\"科技創新\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"E014\",\"people\":\"77\",\"maxpeople\":\"81\",\"time\":\" (二)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UI991411,F0473.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6140",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "010C11542",
+    "courseName": "產品開發與創業",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "B345",
+    "people": "62",
+    "maxpeople": "63",
+    "time": "(五)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UI991411,F2841.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6141",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "010C11185",
+    "courseName": "科技創新",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "E014",
+    "people": "77",
+    "maxpeople": "81",
+    "time": "(二)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UI991411,F0473.01"
+    ],
+    "note": ""
+  }
+]

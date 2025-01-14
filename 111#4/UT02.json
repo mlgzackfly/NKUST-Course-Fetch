@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0152",
+    "cmp": "燕巢校區",
+    "dgr": "日間部博士",
+    "unt": "商業智慧學院博士班",
+    "className": "商業智慧學院博三",
+    "foreverID": "401A00102",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UT021831,05010.01"
+    ],
+    "note": ""
+  }
+]

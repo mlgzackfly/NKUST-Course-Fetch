@@ -1,1 +1,102 @@
-"[{\"code\":\"2423\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10114\",\"courseName\":\"日語教學研究 I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"中島清明,葉淑華\",\"position\":\"D517\",\"people\":\"10\",\"maxpeople\":\"20\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UJ062711,F2386.01\"],\"note\":\"\"},{\"code\":\"2424\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10089\",\"courseName\":\"日本經濟專題研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳志坪\",\"position\":\"D516\",\"people\":\"10\",\"maxpeople\":\"20\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UJ062711,F3478.01\"],\"note\":\"\"},{\"code\":\"2425\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H00003\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"黃愛玲\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UJ062721,05010.01\"],\"note\":\"\"},{\"code\":\"2426\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H10071\",\"courseName\":\"日本近世觀光研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉伯雯\",\"position\":\"D516\",\"people\":\"12\",\"maxpeople\":\"20\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UJ062721,F3483.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2423",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10114",
+    "courseName": "日語教學研究 I",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "中島清明,葉淑華",
+    "position": "D517",
+    "people": "10",
+    "maxpeople": "20",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UJ062711,F2386.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2424",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10089",
+    "courseName": "日本經濟專題研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳志坪",
+    "position": "D516",
+    "people": "10",
+    "maxpeople": "20",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UJ062711,F3478.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2425",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "黃愛玲",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UJ062721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2426",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H10071",
+    "courseName": "日本近世觀光研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉伯雯",
+    "position": "D516",
+    "people": "12",
+    "maxpeople": "20",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UJ062721,F3483.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "5226",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水圈學院",
+    "className": "水圈學院課程一甲",
+    "foreverID": "300C10006",
+    "courseName": "地方環境與資源保育",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林之丞",
+    "position": "10202教室",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "(五)3-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "US001411,10113.01"
+    ],
+    "note": "【經113-1校課程會議通過補助之英語授課課程】"
+  },
+  {
+    "code": "5227",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水圈學院",
+    "className": "水圈學院課程一甲",
+    "foreverID": "300C10012",
+    "courseName": "地方創生實務",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李筱倩",
+    "position": "240-2專業教室D",
+    "people": "0",
+    "maxpeople": "65",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "非同步遠距",
+    "href": [
+      "113",
+      "2",
+      "US001411,10117.01"
+    ],
+    "note": "經113-1校課程會議通過之遠距教學課程"
+  }
+]

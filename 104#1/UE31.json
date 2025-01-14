@@ -1,1 +1,127 @@
-"[{\"code\":\"1239\",\"cmp\":\"建工校區\",\"dgr\":\"進修學院二技\",\"unt\":\"模具工程系\",\"className\":\"進修學院模四甲\",\"foreverID\":\"209J00069\",\"courseName\":\"金屬衝壓與成形\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃德福\",\"position\":\"模208\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(六)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE313321,01046.01\"],\"note\":\"\"},{\"code\":\"1240\",\"cmp\":\"建工校區\",\"dgr\":\"進修學院二技\",\"unt\":\"模具工程系\",\"className\":\"進修學院模四甲\",\"foreverID\":\"209J10139\",\"courseName\":\"品質管制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李正雄\",\"position\":\"模208\",\"people\":\"70\",\"maxpeople\":\"55\",\"time\":\"(日)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE313321,01078.01\"],\"note\":\"\"},{\"code\":\"1241\",\"cmp\":\"建工校區\",\"dgr\":\"進修學院二技\",\"unt\":\"模具工程系\",\"className\":\"進修學院模四甲\",\"foreverID\":\"209J10156\",\"courseName\":\"動力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李正雄\",\"position\":\"模208\",\"people\":\"31\",\"maxpeople\":\"55\",\"time\":\"(六)7-B\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE313321,01495.01\"],\"note\":\"\"},{\"code\":\"1242\",\"cmp\":\"建工校區\",\"dgr\":\"進修學院二技\",\"unt\":\"模具工程系\",\"className\":\"進修學院模四甲\",\"foreverID\":\"209J00020\",\"courseName\":\"通識課程\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"(日)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE313321,01933.01\"],\"note\":\"\"},{\"code\":\"1243\",\"cmp\":\"建工校區\",\"dgr\":\"進修學院二技\",\"unt\":\"模具工程系\",\"className\":\"進修學院模四甲\",\"foreverID\":\"209J00050\",\"courseName\":\"塑膠模具學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"謝宗翰\",\"position\":\"模210\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(六)4,5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE313321,02168.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1239",
+    "cmp": "建工校區",
+    "dgr": "進修學院二技",
+    "unt": "模具工程系",
+    "className": "進修學院模四甲",
+    "foreverID": "209J00069",
+    "courseName": "金屬衝壓與成形",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃德福",
+    "position": "模208",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(六)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE313321,01046.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1240",
+    "cmp": "建工校區",
+    "dgr": "進修學院二技",
+    "unt": "模具工程系",
+    "className": "進修學院模四甲",
+    "foreverID": "209J10139",
+    "courseName": "品質管制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李正雄",
+    "position": "模208",
+    "people": "70",
+    "maxpeople": "55",
+    "time": "(日)1-3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE313321,01078.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1241",
+    "cmp": "建工校區",
+    "dgr": "進修學院二技",
+    "unt": "模具工程系",
+    "className": "進修學院模四甲",
+    "foreverID": "209J10156",
+    "courseName": "動力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李正雄",
+    "position": "模208",
+    "people": "31",
+    "maxpeople": "55",
+    "time": "(六)7-B",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE313321,01495.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1242",
+    "cmp": "建工校區",
+    "dgr": "進修學院二技",
+    "unt": "模具工程系",
+    "className": "進修學院模四甲",
+    "foreverID": "209J00020",
+    "courseName": "通識課程",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "(日)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE313321,01933.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1243",
+    "cmp": "建工校區",
+    "dgr": "進修學院二技",
+    "unt": "模具工程系",
+    "className": "進修學院模四甲",
+    "foreverID": "209J00050",
+    "courseName": "塑膠模具學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "謝宗翰",
+    "position": "模210",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(六)4,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE313321,02168.01"
+    ],
+    "note": ""
+  }
+]

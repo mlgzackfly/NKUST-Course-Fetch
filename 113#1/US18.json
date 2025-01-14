@@ -1,0 +1,77 @@
+[
+  {
+    "code": "3690",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費四甲",
+    "foreverID": "305C00322",
+    "courseName": "學年實習-漁業海上實習Ⅰ",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "王啓銘",
+    "position": "",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "US181441,10089.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3691",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費四甲",
+    "foreverID": "305C00323",
+    "courseName": "學年實習-漁業海上實習Ⅱ",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "王啓銘",
+    "position": "",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "US181441,10090.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3692",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費四甲",
+    "foreverID": "305C00324",
+    "courseName": "學年實習-漁業海上實習Ⅲ",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "王啓銘",
+    "position": "",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "US181441,10091.01"
+    ],
+    "note": ""
+  }
+]

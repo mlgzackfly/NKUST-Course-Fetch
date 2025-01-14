@@ -1,1 +1,77 @@
-"[{\"code\":\"3015\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班二甲\",\"foreverID\":\"157H00004\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"沈文華\",\"position\":\"\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UP182721,05010.01\"],\"note\":\"\"},{\"code\":\"3016\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班二甲\",\"foreverID\":\"157H10079\",\"courseName\":\"會計與稅務專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"封昌宏,侯運神\",\"position\":\"E113\",\"people\":\"13\",\"maxpeople\":\"20\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UP182721,09906.01\"],\"note\":\"\"},{\"code\":\"3016\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"碩專會計資訊二乙\",\"foreverID\":\"157H10079\",\"courseName\":\"會計與稅務專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"封昌宏,侯運神\",\"position\":\"E113\",\"people\":\"13\",\"maxpeople\":\"20\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UP182722,09906.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3015",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班二甲",
+    "foreverID": "157H00004",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "沈文華",
+    "position": "",
+    "people": "7",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UP182721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3016",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班二甲",
+    "foreverID": "157H10079",
+    "courseName": "會計與稅務專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "封昌宏,侯運神",
+    "position": "E113",
+    "people": "13",
+    "maxpeople": "20",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UP182721,09906.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3016",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "碩專會計資訊二乙",
+    "foreverID": "157H10079",
+    "courseName": "會計與稅務專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "封昌宏,侯運神",
+    "position": "E113",
+    "people": "13",
+    "maxpeople": "20",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UP182721,09906.01"
+    ],
+    "note": ""
+  }
+]

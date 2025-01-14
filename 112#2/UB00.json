@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0002",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電機與資訊學院",
+    "className": "電資學院課程一甲",
+    "foreverID": "600C10019",
+    "courseName": "智慧科技應用專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐偉智",
+    "position": "F223",
+    "people": "29",
+    "maxpeople": "30",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UB001411,F3503.01"
+    ],
+    "note": ""
+  }
+]

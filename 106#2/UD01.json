@@ -1,1 +1,102 @@
-"[{\"code\":\"1349\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10037\",\"courseName\":\"數位控制系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 黃勤鎰\",\"position\":\"F107\",\"people\":\"10\",\"maxpeople\":\"10\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UD012711,F1679.01\"],\"note\":\"\"},{\"code\":\"1350\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10032\",\"courseName\":\"工業控制器系統設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 杜國洋\",\"position\":\"F209\",\"people\":\"8\",\"maxpeople\":\"8\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UD012711,F4053.01\"],\"note\":\"\"},{\"code\":\"1353\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10013\",\"courseName\":\"應用於光電元件之光學薄膜之設計與實作\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 賴富德\",\"position\":\"F131\",\"people\":\"8\",\"maxpeople\":\"8\",\"time\":\" (三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UD012711,F5215.01\"],\"note\":\"\"},{\"code\":\"1354\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班二甲\",\"foreverID\":\"121H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 高宗達\",\"position\":\"教室未定\",\"people\":\"6\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UD012721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1349",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10037",
+    "courseName": "數位控制系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃勤鎰",
+    "position": "F107",
+    "people": "10",
+    "maxpeople": "10",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UD012711,F1679.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1350",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10032",
+    "courseName": "工業控制器系統設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜國洋",
+    "position": "F209",
+    "people": "8",
+    "maxpeople": "8",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UD012711,F4053.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1353",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10013",
+    "courseName": "應用於光電元件之光學薄膜之設計與實作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "賴富德",
+    "position": "F131",
+    "people": "8",
+    "maxpeople": "8",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UD012711,F5215.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1354",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班二甲",
+    "foreverID": "121H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "6",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UD012721,05010.01"
+    ],
+    "note": ""
+  }
+]

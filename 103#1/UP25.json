@@ -1,1 +1,127 @@
-"[{\"code\":\"5976\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"010C11516\",\"courseName\":\"商事法\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 陳國義\",\"position\":\"C103\",\"people\":\"40\",\"maxpeople\":\"70\",\"time\":\" (三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UP251411,01523.01\"],\"note\":\"\"},{\"code\":\"5977\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"010C11409\",\"courseName\":\"服務創新\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 李臻勳\",\"position\":\"C203\",\"people\":\"112\",\"maxpeople\":\"113\",\"time\":\" (二)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UP251411,07922.02\"],\"note\":\"\"},{\"code\":\"5978\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"010C11409\",\"courseName\":\"服務創新\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"E308\",\"people\":\"58\",\"maxpeople\":\"61\",\"time\":\" (二)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UP251411,07922.01\"],\"note\":\"\"},{\"code\":\"5979\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"010C11380\",\"courseName\":\"金控實作入門\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 林楚雄,蔡繡容\",\"position\":\"E118\",\"people\":\"60\",\"maxpeople\":\"60\",\"time\":\" (三)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UP251411,F2191.01\"],\"note\":\"\"},{\"code\":\"5980\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"010C11130\",\"courseName\":\"商業倫理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"E012\",\"people\":\"108\",\"maxpeople\":\"108\",\"time\":\" (二)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UP251411,F0204.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5976",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "010C11516",
+    "courseName": "商事法",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳國義",
+    "position": "C103",
+    "people": "40",
+    "maxpeople": "70",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UP251411,01523.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5977",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "010C11409",
+    "courseName": "服務創新",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李臻勳",
+    "position": "C203",
+    "people": "112",
+    "maxpeople": "113",
+    "time": "(二)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UP251411,07922.02"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5978",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "010C11409",
+    "courseName": "服務創新",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "E308",
+    "people": "58",
+    "maxpeople": "61",
+    "time": "(二)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UP251411,07922.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5979",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "010C11380",
+    "courseName": "金控實作入門",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林楚雄,蔡繡容",
+    "position": "E118",
+    "people": "60",
+    "maxpeople": "60",
+    "time": "(三)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UP251411,F2191.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5980",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "010C11130",
+    "courseName": "商業倫理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "E012",
+    "people": "108",
+    "maxpeople": "108",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UP251411,F0204.01"
+    ],
+    "note": ""
+  }
+]

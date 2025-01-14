@@ -1,1 +1,52 @@
-"[{\"code\":\"1409\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"高值扣件產業研發碩士專班[建工/\",\"className\":\"進碩秋扣件研二甲\",\"foreverID\":\"213I00001\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"20\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE622621,03649.01\"],\"note\":\"\"},{\"code\":\"1410\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"高值扣件產業研發碩士專班[建工/\",\"className\":\"進碩秋扣件研二甲\",\"foreverID\":\"213I10010\",\"courseName\":\"扣件製程專題研討(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"許昭和\",\"position\":\"模510\",\"people\":\"20\",\"maxpeople\":\"55\",\"time\":\"(四)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE622621,08033.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1409",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "高值扣件產業研發碩士專班[建工/",
+    "className": "進碩秋扣件研二甲",
+    "foreverID": "213I00001",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "20",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE622621,03649.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1410",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "高值扣件產業研發碩士專班[建工/",
+    "className": "進碩秋扣件研二甲",
+    "foreverID": "213I10010",
+    "courseName": "扣件製程專題研討(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許昭和",
+    "position": "模510",
+    "people": "20",
+    "maxpeople": "55",
+    "time": "(四)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE622621,08033.01"
+    ],
+    "note": ""
+  }
+]

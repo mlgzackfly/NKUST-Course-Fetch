@@ -1,0 +1,77 @@
+[
+  {
+    "code": "1970",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業發展處",
+    "className": "創創處二甲",
+    "foreverID": "030C10024",
+    "courseName": "創業講座",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳建志",
+    "position": "10307階梯教室",
+    "people": "45",
+    "maxpeople": "50",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "IE001421,F0181.03"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5514",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業發展處",
+    "className": "創創處二甲",
+    "foreverID": "030C10002",
+    "courseName": "創客微學分(二)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "魏裕珍,何秉燦",
+    "position": "",
+    "people": "17",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "IE001421,F2350.07"
+    ],
+    "note": "【課程主題】二崙伯公X竹田樂活\n【上課時間】10/19(六)、10/20(日)08:00-18:00 \n【上課地點】楠梓校區/校外實踐場域屏東二崙，依課程前之教室場域空間安排通知修課同學。\n【注意事項】修讀本課程前，須通過環安衛教育訓練線上學習課程。"
+  },
+  {
+    "code": "5605",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業發展處",
+    "className": "創創處二甲",
+    "foreverID": "030C10008",
+    "courseName": "創新與創業",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "劉仁銘",
+    "position": "10204教室",
+    "people": "14",
+    "maxpeople": "40",
+    "time": "(二)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "IE001421,B3243.05"
+    ],
+    "note": ""
+  }
+]

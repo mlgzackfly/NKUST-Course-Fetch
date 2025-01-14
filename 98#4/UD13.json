@@ -1,1 +1,27 @@
-"[{\"code\":\"S210\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電腦與通訊工程系碩士班\",\"className\":\"電通碩士班二甲\",\"foreverID\":\"122B10020\",\"courseName\":\"專題演講(四)\",\"hours\":\"0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"UD131721,F1235.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S210",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電腦與通訊工程系碩士班",
+    "className": "電通碩士班二甲",
+    "foreverID": "122B10020",
+    "courseName": "專題演講(四)",
+    "hours": "0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "UD131721,F1235.01"
+    ],
+    "note": ""
+  }
+]

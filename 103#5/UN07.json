@@ -1,1 +1,77 @@
-"[{\"code\":\"P259\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H10010\",\"courseName\":\"統計學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"12\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"5\",\"UN072711,01785.01\"],\"note\":\"\"},{\"code\":\"P261\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H10011\",\"courseName\":\"管理會計\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"12\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"5\",\"UN072711,02739.01\"],\"note\":\"\"},{\"code\":\"P263\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H10012\",\"courseName\":\"管理經濟\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"12\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"5\",\"UN072711,F0491.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "P259",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階主管所一甲",
+    "foreverID": "135H10010",
+    "courseName": "統計學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "12",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "5",
+      "UN072711,01785.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "P261",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階主管所一甲",
+    "foreverID": "135H10011",
+    "courseName": "管理會計",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "12",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "5",
+      "UN072711,02739.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "P263",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階主管所一甲",
+    "foreverID": "135H10012",
+    "courseName": "管理經濟",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "12",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "5",
+      "UN072711,F0491.01"
+    ],
+    "note": ""
+  }
+]

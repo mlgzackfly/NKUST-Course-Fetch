@@ -1,1 +1,102 @@
-"[{\"code\":\"4192\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"基礎教育中心\",\"className\":\"基礎四技一甲(旗\",\"foreverID\":\"041C00021\",\"courseName\":\"實務應用文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"張清發\",\"position\":\"旗U201教室\",\"people\":\"48\",\"maxpeople\":\"55\",\"time\":\"(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XB011415,09560.01\"],\"note\":\"四技輪一甲\"},{\"code\":\"4193\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"基礎教育中心\",\"className\":\"基礎四技一甲(旗\",\"foreverID\":\"041C00021\",\"courseName\":\"實務應用文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"張清發\",\"position\":\"旗U202教室\",\"people\":\"47\",\"maxpeople\":\"55\",\"time\":\"(四)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XB011415,09560.02\"],\"note\":\"四技輪一乙\"},{\"code\":\"4194\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"基礎教育中心\",\"className\":\"基礎四技一甲(旗\",\"foreverID\":\"041C00021\",\"courseName\":\"實務應用文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"孫吉志\",\"position\":\"旗U509教室\",\"people\":\"45\",\"maxpeople\":\"55\",\"time\":\"(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XB011415,09560.03\"],\"note\":\"四技航技一\"},{\"code\":\"4195\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"基礎教育中心\",\"className\":\"基礎四技一甲(旗\",\"foreverID\":\"041C00021\",\"courseName\":\"實務應用文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"孫吉志\",\"position\":\"旗U603教室\",\"people\":\"42\",\"maxpeople\":\"55\",\"time\":\"(四)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XB011415,09560.04\"],\"note\":\"四技海資一\"}]"
+[
+  {
+    "code": "4192",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00021",
+    "courseName": "實務應用文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張清發",
+    "position": "旗U201教室",
+    "people": "48",
+    "maxpeople": "55",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XB011415,09560.01"
+    ],
+    "note": "四技輪一甲"
+  },
+  {
+    "code": "4193",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00021",
+    "courseName": "實務應用文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張清發",
+    "position": "旗U202教室",
+    "people": "47",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XB011415,09560.02"
+    ],
+    "note": "四技輪一乙"
+  },
+  {
+    "code": "4194",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00021",
+    "courseName": "實務應用文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫吉志",
+    "position": "旗U509教室",
+    "people": "45",
+    "maxpeople": "55",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XB011415,09560.03"
+    ],
+    "note": "四技航技一"
+  },
+  {
+    "code": "4195",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00021",
+    "courseName": "實務應用文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫吉志",
+    "position": "旗U603教室",
+    "people": "42",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XB011415,09560.04"
+    ],
+    "note": "四技海資一"
+  }
+]

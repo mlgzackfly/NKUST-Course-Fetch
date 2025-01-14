@@ -1,1 +1,27 @@
-"[{\"code\":\"1384\",\"cmp\":\"建工校區\",\"dgr\":\"日間部二技\",\"unt\":\"國際學生產學合作外國二技專班\",\"className\":\"國產學外技四甲\",\"foreverID\":\"206C00022\",\"courseName\":\"校外實習(二)\",\"hours\":\"10.0\",\"units\":\"10.0\",\"required\":\"必修\",\"instructors\":\"黃華志\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UE811341,04054.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1384",
+    "cmp": "建工校區",
+    "dgr": "日間部二技",
+    "unt": "國際學生產學合作外國二技專班",
+    "className": "國產學外技四甲",
+    "foreverID": "206C00022",
+    "courseName": "校外實習(二)",
+    "hours": "10.0",
+    "units": "10.0",
+    "required": "必修",
+    "instructors": "黃華志",
+    "position": "",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UE811341,04054.01"
+    ],
+    "note": ""
+  }
+]

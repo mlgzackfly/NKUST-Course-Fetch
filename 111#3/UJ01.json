@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0005",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用英語系",
+    "className": "應英系二甲",
+    "foreverID": "161C10754",
+    "courseName": "應用英語寒期實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "傅若珊,廖惠娟,洪豐生,謝作偉,黃士人",
+    "position": "教室未定",
+    "people": "8",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "3",
+      "UJ011421,10515.01"
+    ],
+    "note": ""
+  }
+]

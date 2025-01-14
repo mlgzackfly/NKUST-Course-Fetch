@@ -1,1 +1,52 @@
-"[{\"code\":\"0253\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"國際企業系\",\"className\":\"四國企\",\"foreverID\":\"234C10291\",\"courseName\":\"暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 李曉青,王綺楓,留淑芳,鄭兆宏\",\"position\":\"教室未定\",\"people\":\"12\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UC111400,09635.01\"],\"note\":\"\"},{\"code\":\"0254\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"國際企業系\",\"className\":\"四國企\",\"foreverID\":\"234C10291\",\"courseName\":\"暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 李仁耀\",\"position\":\"教室未定\",\"people\":\"9\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UC111400,09635.02\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0253",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "國際企業系",
+    "className": "四國企",
+    "foreverID": "234C10291",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李曉青,王綺楓,留淑芳,鄭兆宏",
+    "position": "教室未定",
+    "people": "12",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UC111400,09635.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0254",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "國際企業系",
+    "className": "四國企",
+    "foreverID": "234C10291",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李仁耀",
+    "position": "教室未定",
+    "people": "9",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UC111400,09635.02"
+    ],
+    "note": ""
+  }
+]

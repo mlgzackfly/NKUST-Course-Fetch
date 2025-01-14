@@ -1,1 +1,102 @@
-"[{\"code\":\"0043\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊一甲\",\"foreverID\":\"323F00178\",\"courseName\":\"微積分(一)\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"毛麗琴\",\"position\":\"10101教室\",\"people\":\"31\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(三)1-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ032411,02223.01\"],\"note\":\"\"},{\"code\":\"0043\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊一甲\",\"foreverID\":\"323F00178\",\"courseName\":\"微積分(一)\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"毛麗琴\",\"position\":\"10101教室\",\"people\":\"31\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(三)1-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ032411,02223.01\"],\"note\":\"\"},{\"code\":\"0043\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊一甲\",\"foreverID\":\"323F00178\",\"courseName\":\"微積分(一)\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"毛麗琴\",\"position\":\"10101教室\",\"people\":\"31\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(三)1-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ032411,02223.01\"],\"note\":\"\"},{\"code\":\"0045\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊系二\",\"foreverID\":\"323F00045\",\"courseName\":\"英文 (三)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ032420,A9856.01\"],\"note\":\"\"},{\"code\":\"0046\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊系二\",\"foreverID\":\"323F00122\",\"courseName\":\"工程數學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ032420,00233.01\"],\"note\":\"\"},{\"code\":\"0048\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊系四\",\"foreverID\":\"323F00120\",\"courseName\":\"國文(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ032440,01557.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0043",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "電訊工程系",
+    "className": "進四技電訊一甲",
+    "foreverID": "323F00178",
+    "courseName": "微積分(一)",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "毛麗琴",
+    "position": "10101教室",
+    "people": "31",
+    "maxpeople": "60",
+    "time": "(一)1-4(三)1-4(四)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UQ032411,02223.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0045",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "電訊工程系",
+    "className": "進四技電訊系二",
+    "foreverID": "323F00045",
+    "courseName": "英文 (三)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UQ032420,A9856.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0046",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "電訊工程系",
+    "className": "進四技電訊系二",
+    "foreverID": "323F00122",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "3",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UQ032420,00233.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0048",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "電訊工程系",
+    "className": "進四技電訊系四",
+    "foreverID": "323F00120",
+    "courseName": "國文(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UQ032440,01557.01"
+    ],
+    "note": ""
+  }
+]

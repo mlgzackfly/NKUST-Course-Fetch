@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0092",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機一甲",
+    "foreverID": "313E00364",
+    "courseName": "工廠加工實務(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "葉金課",
+    "position": "海事實習教室102",
+    "people": "18",
+    "maxpeople": "0",
+    "time": "(一)5-7(二)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR081211,B2559.01"
+    ],
+    "note": "補差額課程，不開放選課。\n暑修課程日期：7/15起至8/23。"
+  },
+  {
+    "code": "0147",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四甲",
+    "foreverID": "313E00369",
+    "courseName": "內燃機(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "楊春陵",
+    "position": "旗U405教室",
+    "people": "9",
+    "maxpeople": "0",
+    "time": "(一)2-4(四)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR081241,A0435.01"
+    ],
+    "note": "補差額課程，不開放選課。\n暑修課程日期：7/15起至8/23。"
+  },
+  {
+    "code": "0152",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四甲",
+    "foreverID": "313E00185",
+    "courseName": "船電實習(二)",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "凃文福",
+    "position": "1105船電實習教室",
+    "people": "8",
+    "maxpeople": "0",
+    "time": "(六)1-4,5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR081241,B2238.01"
+    ],
+    "note": "補差額課程，不開放選課。\n課程時間：(六)1-8、(日)1-8"
+  },
+  {
+    "code": "0148",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機五甲",
+    "foreverID": "313E00193",
+    "courseName": "內燃機(三)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "楊春陵",
+    "position": "旗U204教室",
+    "people": "17",
+    "maxpeople": "0",
+    "time": "(五)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR081251,B2258.01"
+    ],
+    "note": "補差額課程，不開放選課。\n暑修課程日期：7/15起至8/23。"
+  }
+]

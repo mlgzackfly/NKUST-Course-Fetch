@@ -1,0 +1,102 @@
+[
+  {
+    "code": "2164",
+    "cmp": "第一校區",
+    "dgr": "境外碩士在職秋季專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階境外碩專一甲",
+    "foreverID": "135H10047",
+    "courseName": "供應鏈管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "蔡坤穆",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(日)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN073011,00887.01"
+    ],
+    "note": "越南"
+  },
+  {
+    "code": "2165",
+    "cmp": "第一校區",
+    "dgr": "境外碩士在職秋季專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階境外碩專一甲",
+    "foreverID": "135H00005",
+    "courseName": "海外企業參訪",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "李慶章",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN073011,F1815.01"
+    ],
+    "note": "越南"
+  },
+  {
+    "code": "2166",
+    "cmp": "第一校區",
+    "dgr": "境外碩士在職秋季專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階境外碩專一甲",
+    "foreverID": "135H00001",
+    "courseName": "高階經營管理專題研討(二)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "必修",
+    "instructors": "李慶章",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(日)5",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN073011,F5020.01"
+    ],
+    "note": "越南"
+  },
+  {
+    "code": "2167",
+    "cmp": "第一校區",
+    "dgr": "境外碩士在職秋季專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階境外碩專二甲",
+    "foreverID": "135H10089",
+    "courseName": "金融市場與投資",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "洪志興",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(日)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN073021,F3024.01"
+    ],
+    "note": "越南"
+  }
+]

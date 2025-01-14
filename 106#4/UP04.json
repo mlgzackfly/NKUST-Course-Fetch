@@ -1,1 +1,27 @@
-"[{\"code\":\"S236\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"會計資訊系\",\"className\":\"會資系一甲\",\"foreverID\":\"157C10079\",\"courseName\":\"會計資訊暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UP041411,F3514.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S236",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "會計資訊系",
+    "className": "會資系一甲",
+    "foreverID": "157C10079",
+    "courseName": "會計資訊暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UP041411,F3514.01"
+    ],
+    "note": ""
+  }
+]

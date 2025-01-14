@@ -1,1 +1,77 @@
-"[{\"code\":\"2438\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機控制產業碩士專班\",\"className\":\"進碩秋電機控二甲\",\"foreverID\":\"284I10010\",\"courseName\":\"電能控制與管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳盛基\",\"position\":\"\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UI042621,04255.01\"],\"note\":\"\"},{\"code\":\"2439\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機控制產業碩士專班\",\"className\":\"進碩秋電機控二甲\",\"foreverID\":\"284I10008\",\"courseName\":\"再生能源電力轉換介面\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳政裕\",\"position\":\"\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UI042621,05234.01\"],\"note\":\"\"},{\"code\":\"2440\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機控制產業碩士專班\",\"className\":\"進碩秋電機控二甲\",\"foreverID\":\"284I10009\",\"courseName\":\"遠端監控專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"葛世偉\",\"position\":\"\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UI042621,08221.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2438",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機控制產業碩士專班",
+    "className": "進碩秋電機控二甲",
+    "foreverID": "284I10010",
+    "courseName": "電能控制與管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳盛基",
+    "position": "",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UI042621,04255.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2439",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機控制產業碩士專班",
+    "className": "進碩秋電機控二甲",
+    "foreverID": "284I10008",
+    "courseName": "再生能源電力轉換介面",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳政裕",
+    "position": "",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UI042621,05234.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2440",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機控制產業碩士專班",
+    "className": "進碩秋電機控二甲",
+    "foreverID": "284I10009",
+    "courseName": "遠端監控專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "葛世偉",
+    "position": "",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UI042621,08221.01"
+    ],
+    "note": ""
+  }
+]

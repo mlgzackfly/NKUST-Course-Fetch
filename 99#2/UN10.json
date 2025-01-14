@@ -1,1 +1,52 @@
-"[{\"code\":\"1324\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通系連鎖加盟管理碩士班\",\"className\":\"連鎖加盟所一甲\",\"foreverID\":\"141B00007\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 徐村和\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UN101711,05010.01\"],\"note\":\"\"},{\"code\":\"1325\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通系連鎖加盟管理碩士班\",\"className\":\"連鎖加盟所一甲\",\"foreverID\":\"141B10013\",\"courseName\":\"人性化服務系統專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"E521\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\" (三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UN101711,F3920.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1324",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通系連鎖加盟管理碩士班",
+    "className": "連鎖加盟所一甲",
+    "foreverID": "141B00007",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "徐村和",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UN101711,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1325",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通系連鎖加盟管理碩士班",
+    "className": "連鎖加盟所一甲",
+    "foreverID": "141B10013",
+    "courseName": "人性化服務系統專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "E521",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UN101711,F3920.01"
+    ],
+    "note": ""
+  }
+]

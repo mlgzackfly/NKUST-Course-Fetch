@@ -1,1 +1,52 @@
-"[{\"code\":\"1746\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"藍色智慧創新創業學程\",\"className\":\"藍色智慧創新學程\",\"foreverID\":\"350C10128\",\"courseName\":\"海洋產業與智慧生活\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"劉文宏,汪素卿\",\"position\":\"2407多功能階梯教室\",\"people\":\"40\",\"maxpeople\":\"60\",\"time\":\"(一)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF211400,B3312.01\"],\"note\":\"\"},{\"code\":\"1749\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"藍色智慧創新創業學程\",\"className\":\"藍色智慧創新學程\",\"foreverID\":\"350C10074\",\"courseName\":\"創業實務與討論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"劉文宏\",\"position\":\"10203教室\",\"people\":\"11\",\"maxpeople\":\"60\",\"time\":\"(四)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF211400,B3515.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1746",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "藍色智慧創新創業學程",
+    "className": "藍色智慧創新學程",
+    "foreverID": "350C10128",
+    "courseName": "海洋產業與智慧生活",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "劉文宏,汪素卿",
+    "position": "2407多功能階梯教室",
+    "people": "40",
+    "maxpeople": "60",
+    "time": "(一)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF211400,B3312.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1749",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "藍色智慧創新創業學程",
+    "className": "藍色智慧創新學程",
+    "foreverID": "350C10074",
+    "courseName": "創業實務與討論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "劉文宏",
+    "position": "10203教室",
+    "people": "11",
+    "maxpeople": "60",
+    "time": "(四)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF211400,B3515.01"
+    ],
+    "note": ""
+  }
+]

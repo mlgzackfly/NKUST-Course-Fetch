@@ -1,1 +1,127 @@
-"[{\"code\":\"1286\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資工程與科技管理外國學生碩士\",\"className\":\"電資科技外碩一甲\",\"foreverID\":\"229B10013\",\"courseName\":\"啟發式最佳化方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"謝欽旭\",\"position\":\"資809\",\"people\":\"32\",\"maxpeople\":\"55\",\"time\":\"(三)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UE841711,08664.01\"],\"note\":\"\"},{\"code\":\"1287\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資工程與科技管理外國學生碩士\",\"className\":\"電資科技外碩一甲\",\"foreverID\":\"229B10008\",\"courseName\":\"類比積體電路設計實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王鴻猷\",\"position\":\"資504\",\"people\":\"32\",\"maxpeople\":\"55\",\"time\":\"(一)5-7\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UE841711,08700.01\"],\"note\":\"\"},{\"code\":\"1288\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資工程與科技管理外國學生碩士\",\"className\":\"電資科技外碩一甲\",\"foreverID\":\"229B10009\",\"courseName\":\"生產數據分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王嘉男\",\"position\":\"資701\",\"people\":\"32\",\"maxpeople\":\"55\",\"time\":\"(二)5-7\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UE841711,09405.01\"],\"note\":\"\"},{\"code\":\"1289\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資工程與科技管理外國學生碩士\",\"className\":\"電資科技外碩一甲\",\"foreverID\":\"229B10012\",\"courseName\":\"程式語言實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉炳宏\",\"position\":\"資809\",\"people\":\"31\",\"maxpeople\":\"55\",\"time\":\"(二)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UE841711,09534.01\"],\"note\":\"\"},{\"code\":\"1290\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資工程與科技管理外國學生碩士\",\"className\":\"電資科技外碩一甲\",\"foreverID\":\"229B00005\",\"courseName\":\"華語(二)\",\"hours\":\"0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"董曉雯\",\"position\":\"育505\",\"people\":\"22\",\"maxpeople\":\"55\",\"time\":\"(一)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UE841711,F0119.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1286",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B10013",
+    "courseName": "啟發式最佳化方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝欽旭",
+    "position": "資809",
+    "people": "32",
+    "maxpeople": "55",
+    "time": "(三)2-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UE841711,08664.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1287",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B10008",
+    "courseName": "類比積體電路設計實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王鴻猷",
+    "position": "資504",
+    "people": "32",
+    "maxpeople": "55",
+    "time": "(一)5-7",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UE841711,08700.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1288",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B10009",
+    "courseName": "生產數據分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王嘉男",
+    "position": "資701",
+    "people": "32",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UE841711,09405.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1289",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B10012",
+    "courseName": "程式語言實習",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉炳宏",
+    "position": "資809",
+    "people": "31",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UE841711,09534.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1290",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B00005",
+    "courseName": "華語(二)",
+    "hours": "0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "董曉雯",
+    "position": "育505",
+    "people": "22",
+    "maxpeople": "55",
+    "time": "(一)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UE841711,F0119.01"
+    ],
+    "note": ""
+  }
+]

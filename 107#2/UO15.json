@@ -1,1 +1,102 @@
-"[{\"code\":\"3497\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H00003\",\"courseName\":\"專題討論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"徐賢斌\",\"position\":\"3501個案教室\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(六)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UO152711,01682.01\"],\"note\":\"\"},{\"code\":\"3499\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H10012\",\"courseName\":\"緊急運籌\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"高瑞鍾\",\"position\":\"3501個案教室\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UO152711,B0700.01\"],\"note\":\"\"},{\"code\":\"3500\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H10013\",\"courseName\":\"流通產業分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"鄭玉惠,溫源鳳,林義屏\",\"position\":\"3501個案教室\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(六)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UO152711,B2484.01\"],\"note\":\"\"},{\"code\":\"3501\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H00005\",\"courseName\":\"質的分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"余德成\",\"position\":\"3501個案教室\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UO152711,B3459.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3497",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H00003",
+    "courseName": "專題討論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "徐賢斌",
+    "position": "3501個案教室",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UO152711,01682.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3499",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H10012",
+    "courseName": "緊急運籌",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "高瑞鍾",
+    "position": "3501個案教室",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UO152711,B0700.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3500",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H10013",
+    "courseName": "流通產業分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "鄭玉惠,溫源鳳,林義屏",
+    "position": "3501個案教室",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(六)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UO152711,B2484.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3501",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H00005",
+    "courseName": "質的分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "余德成",
+    "position": "3501個案教室",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UO152711,B3459.01"
+    ],
+    "note": ""
+  }
+]

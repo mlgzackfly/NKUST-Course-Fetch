@@ -1,1 +1,52 @@
-"[{\"code\":\"1844\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"RFID科技及應用學程\",\"className\":\"RFID科技應用學程\",\"foreverID\":\"350C10144\",\"courseName\":\"RFID概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"施松村\",\"position\":\"4103教室\",\"people\":\"65\",\"maxpeople\":\"60\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"GF091400,06476.01\"],\"note\":\"\"},{\"code\":\"1845\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"RFID科技及應用學程\",\"className\":\"RFID科技應用學程\",\"foreverID\":\"350C10156\",\"courseName\":\"RFID應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"賴正男,黃淇竣\",\"position\":\"4106教室\",\"people\":\"28\",\"maxpeople\":\"60\",\"time\":\"(四)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"GF091400,06492.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1844",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "RFID科技及應用學程",
+    "className": "RFID科技應用學程",
+    "foreverID": "350C10144",
+    "courseName": "RFID概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "施松村",
+    "position": "4103教室",
+    "people": "65",
+    "maxpeople": "60",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "GF091400,06476.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1845",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "RFID科技及應用學程",
+    "className": "RFID科技應用學程",
+    "foreverID": "350C10156",
+    "courseName": "RFID應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "賴正男,黃淇竣",
+    "position": "4106教室",
+    "people": "28",
+    "maxpeople": "60",
+    "time": "(四)6-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "GF091400,06492.01"
+    ],
+    "note": ""
+  }
+]

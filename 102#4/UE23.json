@@ -1,1 +1,77 @@
-"[{\"code\":\"0056\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C00121\",\"courseName\":\"工程地質\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"沈永年\",\"position\":\"土601\",\"people\":\"41\",\"maxpeople\":\"55\",\"time\":\"(二)2-4,5-7(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UE231400,00191.01\"],\"note\":\"\"},{\"code\":\"0056\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C00121\",\"courseName\":\"工程地質\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"沈永年\",\"position\":\"土601\",\"people\":\"41\",\"maxpeople\":\"55\",\"time\":\"(二)2-4,5-7(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UE231400,00191.01\"],\"note\":\"\"},{\"code\":\"0090\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C00157\",\"courseName\":\"材料力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"許兆民\",\"position\":\"土608\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(三)5-7(六)2-4,5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UE231400,00840.01\"],\"note\":\"\"},{\"code\":\"0090\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C00157\",\"courseName\":\"材料力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"許兆民\",\"position\":\"土608\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(三)5-7(六)2-4,5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UE231400,00840.01\"],\"note\":\"\"},{\"code\":\"0127\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C10222\",\"courseName\":\"暑期校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"王和源,黃忠發\",\"position\":\"\",\"people\":\"22\",\"maxpeople\":\"55\",\"time\":\"(六)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UE231400,07505.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0056",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土",
+    "foreverID": "201C00121",
+    "courseName": "工程地質",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "沈永年",
+    "position": "土601",
+    "people": "41",
+    "maxpeople": "55",
+    "time": "(二)2-4,5-7(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UE231400,00191.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0090",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土",
+    "foreverID": "201C00157",
+    "courseName": "材料力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "許兆民",
+    "position": "土608",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(三)5-7(六)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UE231400,00840.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0127",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土",
+    "foreverID": "201C10222",
+    "courseName": "暑期校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "王和源,黃忠發",
+    "position": "",
+    "people": "22",
+    "maxpeople": "55",
+    "time": "(六)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UE231400,07505.01"
+    ],
+    "note": ""
+  }
+]

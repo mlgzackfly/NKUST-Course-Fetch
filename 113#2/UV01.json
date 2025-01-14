@@ -1,0 +1,77 @@
+[
+  {
+    "code": "5277",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩二甲",
+    "foreverID": "335B00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "王馨葦",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UV011721,05010.01"
+    ],
+    "note": "限商務資訊應用系學生修課"
+  },
+  {
+    "code": "5278",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩二甲",
+    "foreverID": "335B10031",
+    "courseName": "學期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "待聘教師",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UV011721,3730.01"
+    ],
+    "note": "限商務資訊應用系學生選課，實習課程由系辦加選，學生請勿自行選課"
+  },
+  {
+    "code": "5279",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩二甲",
+    "foreverID": "335B10014",
+    "courseName": "電子商務與行動商務研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃錦祥",
+    "position": "2407管理科學研習教室",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UV011721,B3294.01"
+    ],
+    "note": "限商務資訊應用系學生修課"
+  }
+]

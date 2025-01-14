@@ -1,1 +1,52 @@
-"[{\"code\":\"5510\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10634\",\"courseName\":\"數位IC設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"校際教師\",\"position\":\"教室未定\",\"people\":\"5\",\"maxpeople\":\"0\",\"time\":\" (二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"XK051711,07980.01\"],\"note\":\"成功大學\"},{\"code\":\"5542\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B00635\",\"courseName\":\"租稅理論研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\" (三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"XK051711,09900.01\"],\"note\":\"108-2校際選課(台中科技大學)F107162120陳禹森\"}]"
+[
+  {
+    "code": "5510",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10634",
+    "courseName": "數位IC設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "校際教師",
+    "position": "教室未定",
+    "people": "5",
+    "maxpeople": "0",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "XK051711,07980.01"
+    ],
+    "note": "成功大學"
+  },
+  {
+    "code": "5542",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B00635",
+    "courseName": "租稅理論研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "XK051711,09900.01"
+    ],
+    "note": "108-2校際選課(台中科技大學)F107162120陳禹森"
+  }
+]

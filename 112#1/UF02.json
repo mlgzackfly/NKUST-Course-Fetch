@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1463",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "環境與安全衛生工程系",
+    "className": "環安博士班一甲",
+    "foreverID": "103A00002",
+    "courseName": "專題討論(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李孟珊,賴怡潔,陳勝一",
+    "position": "F108",
+    "people": "2",
+    "maxpeople": "5",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UF021811,01683.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1465",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "環境與安全衛生工程系",
+    "className": "環安博士班一甲",
+    "foreverID": "103A00020",
+    "courseName": "環境電化學特論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張朝欽",
+    "position": "F410",
+    "people": "14",
+    "maxpeople": "18",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UF021811,13304.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1466",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "環境與安全衛生工程系",
+    "className": "環安博士班一甲",
+    "foreverID": "101A10132",
+    "courseName": "厭氧醱酵特論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "賴俊吉",
+    "position": "F108",
+    "people": "23",
+    "maxpeople": "24",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UF131821,F1444.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1469",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "環境與安全衛生工程系",
+    "className": "環安博士班一甲",
+    "foreverID": "101A10250",
+    "courseName": "製程設備可靠性與風險管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王振華",
+    "position": "S210",
+    "people": "10",
+    "maxpeople": "18",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UF131821,F5086.01"
+    ],
+    "note": ""
+  }
+]

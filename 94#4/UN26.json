@@ -1,1 +1,27 @@
-"[{\"code\":\"S113\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班一甲\",\"foreverID\":\"136H10050\",\"courseName\":\"企業評價\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UN262711,F0142.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S113",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班一甲",
+    "foreverID": "136H10050",
+    "courseName": "企業評價",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UN262711,F0142.01"
+    ],
+    "note": ""
+  }
+]

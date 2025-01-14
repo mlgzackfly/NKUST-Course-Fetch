@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0078",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "金融系",
+    "className": "進四技金融二甲",
+    "foreverID": "153F00045",
+    "courseName": "經濟學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "宋兆賢",
+    "position": "C203",
+    "people": "33",
+    "maxpeople": "60",
+    "time": "(一)10-12(二)10-12(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP012421,02285.01"
+    ],
+    "note": "暑修課程上課日期：7/10-8/16"
+  },
+  {
+    "code": "0079",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "金融系",
+    "className": "進四技金融三甲",
+    "foreverID": "153F00015",
+    "courseName": "貨幣銀行",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "楊筑安",
+    "position": "C103",
+    "people": "27",
+    "maxpeople": "60",
+    "time": "(二)10-12(三)10-12(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP012431,01812.01"
+    ],
+    "note": "暑修課程上課日期：7/11-8/17"
+  },
+  {
+    "code": "0080",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "金融系",
+    "className": "進四技金融三甲",
+    "foreverID": "153F10049",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "王友珊,王銘駿",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP012441,30255.01"
+    ],
+    "note": "7/1-8/31"
+  },
+  {
+    "code": "0080",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "金融系",
+    "className": "進四技金融四甲",
+    "foreverID": "153F10049",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "王友珊,王銘駿",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP012441,30255.01"
+    ],
+    "note": "7/1-8/31"
+  }
+]

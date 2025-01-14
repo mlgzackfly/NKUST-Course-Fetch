@@ -1,1 +1,27 @@
-"[{\"code\":\"W104\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英語系\",\"className\":\"應英系三甲\",\"foreverID\":\"161C10084\",\"courseName\":\"應用英語實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"3\",\"UJ011431,F1658.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "W104",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用英語系",
+    "className": "應英系三甲",
+    "foreverID": "161C10084",
+    "courseName": "應用英語實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "3",
+      "UJ011431,F1658.01"
+    ],
+    "note": ""
+  }
+]

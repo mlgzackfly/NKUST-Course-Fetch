@@ -1,1 +1,102 @@
-"[{\"code\":\"5365\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H00007\",\"courseName\":\"企業研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 周棟祥,孫思源,李慶章\",\"position\":\"C433\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (六)2-4(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN072711,F1353.01\"],\"note\":\"\"},{\"code\":\"5365\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H00007\",\"courseName\":\"企業研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 周棟祥,孫思源,李慶章\",\"position\":\"C433\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (六)2-4(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN072711,F1353.01\"],\"note\":\"\"},{\"code\":\"5366\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H00002\",\"courseName\":\"高階經營管理專題研討(一)\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\" 李慶章\",\"position\":\"C433\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (六)1(日)1\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN072711,F5019.01\"],\"note\":\"\"},{\"code\":\"5366\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H00002\",\"courseName\":\"高階經營管理專題研討(一)\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\" 李慶章\",\"position\":\"C433\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (六)1(日)1\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN072711,F5019.01\"],\"note\":\"\"},{\"code\":\"5367\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H10015\",\"courseName\":\"供應鏈管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 蔡坤穆,郭幸民\",\"position\":\"C433\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (日)5-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN072711,00887.01\"],\"note\":\"\"},{\"code\":\"5368\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階主管經營管理碩專班\",\"className\":\"高階主管所一甲\",\"foreverID\":\"135H10041\",\"courseName\":\"策略行銷管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 徐世同,趙沛\",\"position\":\"C433\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (六)5-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN072711,F1940.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5365",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階主管所一甲",
+    "foreverID": "135H00007",
+    "courseName": "企業研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "周棟祥,孫思源,李慶章",
+    "position": "C433",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(六)2-4(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN072711,F1353.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5366",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階主管所一甲",
+    "foreverID": "135H00002",
+    "courseName": "高階經營管理專題研討(一)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "必修",
+    "instructors": "李慶章",
+    "position": "C433",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(六)1(日)1",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN072711,F5019.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5367",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階主管所一甲",
+    "foreverID": "135H10015",
+    "courseName": "供應鏈管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡坤穆,郭幸民",
+    "position": "C433",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(日)5-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN072711,00887.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5368",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階主管經營管理碩專班",
+    "className": "高階主管所一甲",
+    "foreverID": "135H10041",
+    "courseName": "策略行銷管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐世同,趙沛",
+    "position": "C433",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(六)5-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN072711,F1940.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0125\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"財政稅務系\",\"className\":\"四財稅三甲\",\"foreverID\":\"237C00330\",\"courseName\":\"暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"張純萍,李彗綾,柯伯昇,姚名鴻\",\"position\":\"\",\"people\":\"31\",\"maxpeople\":\"35\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UT031431,09635.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0125",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "財政稅務系",
+    "className": "四財稅三甲",
+    "foreverID": "237C00330",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "張純萍,李彗綾,柯伯昇,姚名鴻",
+    "position": "",
+    "people": "31",
+    "maxpeople": "35",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UT031431,09635.01"
+    ],
+    "note": ""
+  }
+]

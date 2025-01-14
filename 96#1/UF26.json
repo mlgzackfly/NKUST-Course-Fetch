@@ -1,1 +1,27 @@
-"[{\"code\":\"5254\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創意設計碩士學位學程\",\"className\":\"創意學程一甲\",\"foreverID\":\"179B00004\",\"courseName\":\"專題討論（一）\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"UF261711,F2621.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5254",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創意設計碩士學位學程",
+    "className": "創意學程一甲",
+    "foreverID": "179B00004",
+    "courseName": "專題討論（一）",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "UF261711,F2621.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"2916\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班一甲\",\"foreverID\":\"157B10034\",\"courseName\":\"策略性成本管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林靜香,蕭哲芬,趙雅儀\",\"position\":\"E113\",\"people\":\"9\",\"maxpeople\":\"30\",\"time\":\" (二)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UP182711,F2880.01\"],\"note\":\"\"},{\"code\":\"2928\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班一甲\",\"foreverID\":\"157H10013\",\"courseName\":\"兩岸會計與稅務研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"侯運神,黃國芬\",\"position\":\"E113\",\"people\":\"9\",\"maxpeople\":\"30\",\"time\":\" (六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UP182711,F3957.01\"],\"note\":\"\"},{\"code\":\"2934\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班二甲\",\"foreverID\":\"157H00004\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"沈文華\",\"position\":\"教室未定\",\"people\":\"2\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UP182721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2916",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班一甲",
+    "foreverID": "157B10034",
+    "courseName": "策略性成本管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林靜香,蕭哲芬,趙雅儀",
+    "position": "E113",
+    "people": "9",
+    "maxpeople": "30",
+    "time": "(二)6-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UP151711,F2880.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2928",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班一甲",
+    "foreverID": "157H10013",
+    "courseName": "兩岸會計與稅務研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "侯運神,黃國芬",
+    "position": "E113",
+    "people": "9",
+    "maxpeople": "30",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UP182711,F3957.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2934",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班二甲",
+    "foreverID": "157H00004",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "沈文華",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UP182721,05010.01"
+    ],
+    "note": ""
+  }
+]

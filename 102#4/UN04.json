@@ -1,1 +1,27 @@
-"[{\"code\":\"S224\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"行銷與流通管理系\",\"className\":\"行銷系一甲\",\"foreverID\":\"140C10132\",\"courseName\":\"流通業門市作業暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UN041411,F4913.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S224",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "行銷與流通管理系",
+    "className": "行銷系一甲",
+    "foreverID": "140C10132",
+    "courseName": "流通業門市作業暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UN041411,F4913.01"
+    ],
+    "note": ""
+  }
+]

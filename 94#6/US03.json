@@ -1,1 +1,102 @@
-"[{\"code\":\"0056\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養系\",\"foreverID\":\"303C00232\",\"courseName\":\"分析化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031400,04608.01\"],\"note\":\"\"},{\"code\":\"0060\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養系\",\"foreverID\":\"303C00228\",\"courseName\":\"生理學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031400,A9198.01\"],\"note\":\"\"},{\"code\":\"0024\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養四年級\",\"foreverID\":\"303C00234\",\"courseName\":\"水產繁殖學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"王森泉\",\"position\":\"6106教室\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"(二)5-6(三)5-8(四)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031440,A1150.01\"],\"note\":\"\"},{\"code\":\"0024\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養四年級\",\"foreverID\":\"303C00234\",\"courseName\":\"水產繁殖學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"王森泉\",\"position\":\"6106教室\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"(二)5-6(三)5-8(四)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031440,A1150.01\"],\"note\":\"\"},{\"code\":\"0024\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養四年級\",\"foreverID\":\"303C00234\",\"courseName\":\"水產繁殖學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"王森泉\",\"position\":\"6106教室\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"(二)5-6(三)5-8(四)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031440,A1150.01\"],\"note\":\"\"},{\"code\":\"0025\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養四年級\",\"foreverID\":\"303C00242\",\"courseName\":\"水產動物病理學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"王森泉\",\"position\":\"5207教室\",\"people\":\"16\",\"maxpeople\":\"60\",\"time\":\"(一)7-8(三)1-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031440,A9104.01\"],\"note\":\"\"},{\"code\":\"0025\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養四年級\",\"foreverID\":\"303C00242\",\"courseName\":\"水產動物病理學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"王森泉\",\"position\":\"5207教室\",\"people\":\"16\",\"maxpeople\":\"60\",\"time\":\"(一)7-8(三)1-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031440,A9104.01\"],\"note\":\"\"},{\"code\":\"0025\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水產養殖系\",\"className\":\"日四技水養四年級\",\"foreverID\":\"303C00242\",\"courseName\":\"水產動物病理學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"王森泉\",\"position\":\"5207教室\",\"people\":\"16\",\"maxpeople\":\"60\",\"time\":\"(一)7-8(三)1-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"US031440,A9104.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0056",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水產養殖系",
+    "className": "日四技水養系",
+    "foreverID": "303C00232",
+    "courseName": "分析化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "6",
+      "US031400,04608.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0060",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水產養殖系",
+    "className": "日四技水養系",
+    "foreverID": "303C00228",
+    "courseName": "生理學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "6",
+      "US031400,A9198.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0024",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水產養殖系",
+    "className": "日四技水養四年級",
+    "foreverID": "303C00234",
+    "courseName": "水產繁殖學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "王森泉",
+    "position": "6106教室",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "(二)5-6(三)5-8(四)5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "6",
+      "US031440,A1150.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0025",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水產養殖系",
+    "className": "日四技水養四年級",
+    "foreverID": "303C00242",
+    "courseName": "水產動物病理學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "王森泉",
+    "position": "5207教室",
+    "people": "16",
+    "maxpeople": "60",
+    "time": "(一)7-8(三)1-4(四)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "6",
+      "US031440,A9104.01"
+    ],
+    "note": ""
+  }
+]

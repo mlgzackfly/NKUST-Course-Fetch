@@ -1,1 +1,127 @@
-"[{\"code\":\"1865\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10110\",\"courseName\":\"日語教學研究 II\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"葉淑華\",\"position\":\"D516\",\"people\":\"13\",\"maxpeople\":\"30\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"UJ062711,F2752.01\"],\"note\":\"\"},{\"code\":\"5505\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10030\",\"courseName\":\"日本文化研究與文獻探討 II\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉伯雯\",\"position\":\"D516\",\"people\":\"5\",\"maxpeople\":\"30\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"UJ062711,F5067.01\"],\"note\":\"\"},{\"code\":\"1868\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H00003\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"黃愛玲\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"UJ062721,05010.01\"],\"note\":\"\"},{\"code\":\"1869\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H10033\",\"courseName\":\"中日語言文化專題研究Ⅱ\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃愛玲\",\"position\":\"D516\",\"people\":\"11\",\"maxpeople\":\"30\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"UJ062721,F4825.01\"],\"note\":\"\"},{\"code\":\"5506\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H10056\",\"courseName\":\"日本貿易構造專題研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳志坪\",\"position\":\"D516\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"UJ062721,F4648.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1865",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10110",
+    "courseName": "日語教學研究 II",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "葉淑華",
+    "position": "D516",
+    "people": "13",
+    "maxpeople": "30",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "UJ062711,F2752.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5505",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10030",
+    "courseName": "日本文化研究與文獻探討 II",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉伯雯",
+    "position": "D516",
+    "people": "5",
+    "maxpeople": "30",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "UJ062711,F5067.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1868",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "黃愛玲",
+    "position": "",
+    "people": "2",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "UJ062721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1869",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H10033",
+    "courseName": "中日語言文化專題研究Ⅱ",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃愛玲",
+    "position": "D516",
+    "people": "11",
+    "maxpeople": "30",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "UJ062721,F4825.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5506",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H10056",
+    "courseName": "日本貿易構造專題研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳志坪",
+    "position": "D516",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "UJ062721,F4648.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,52 @@
-"[]"
+[
+  {
+    "code": "0002",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "機械工程系",
+    "className": "進四技機械系一甲",
+    "foreverID": "202F00063",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "許兆民",
+    "position": "機402",
+    "people": "70",
+    "maxpeople": "60",
+    "time": "(二)11-13(三)11-13(四)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UE252411,00232.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0037",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "機械工程系",
+    "className": "進四技機械系一甲",
+    "foreverID": "202F00072",
+    "courseName": "機構學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃俊維",
+    "position": "機403",
+    "people": "18",
+    "maxpeople": "55",
+    "time": "(二)11-13(三)11-13(四)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UE252411,03157.01"
+    ],
+    "note": ""
+  }
+]

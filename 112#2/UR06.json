@@ -1,0 +1,52 @@
+[
+  {
+    "code": "3297",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10045",
+    "courseName": "海事行政法專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "高瑞鍾",
+    "position": "旗402航技專題",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UR062711,10409.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3298",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10051",
+    "courseName": "航線規劃與船隊管理專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳永順",
+    "position": "旗402航技專題",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UR062711,10411.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"1910\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用日語學程\",\"className\":\"日應用日語學程\",\"foreverID\":\"350C10084\",\"courseName\":\"日語會話(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"林柏舟\",\"position\":\"3101教室\",\"people\":\"41\",\"maxpeople\":\"60\",\"time\":\"(一)9-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"1\",\"GF071400,00490.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1910",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用日語學程",
+    "className": "日應用日語學程",
+    "foreverID": "350C10084",
+    "courseName": "日語會話(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林柏舟",
+    "position": "3101教室",
+    "people": "41",
+    "maxpeople": "60",
+    "time": "(一)9-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "1",
+      "GF071400,00490.01"
+    ],
+    "note": ""
+  }
+]

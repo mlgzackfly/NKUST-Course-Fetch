@@ -1,0 +1,77 @@
+[
+  {
+    "code": "2325",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10040",
+    "courseName": "供應鏈管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林立千",
+    "position": "C442",
+    "people": "6",
+    "maxpeople": "12",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN182711,00887.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2327",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10114",
+    "courseName": "企業資源規劃",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蕭俊彥",
+    "position": "C338",
+    "people": "13",
+    "maxpeople": "12",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN182711,04559.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2329",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班二甲",
+    "foreverID": "137H00017",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "林燦煌",
+    "position": "",
+    "people": "8",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN182721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,102 @@
-"[{\"code\":\"5069\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班一甲\",\"foreverID\":\"136H10035\",\"courseName\":\"行銷管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UN262711,F2048.01\"],\"note\":\"\"},{\"code\":\"5071\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班一甲\",\"foreverID\":\"136H10034\",\"courseName\":\"財務管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UN262711,F2098.01\"],\"note\":\"\"},{\"code\":\"5072\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班一甲\",\"foreverID\":\"136H10026\",\"courseName\":\"科技管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UN262711,01137.01\"],\"note\":\"\"},{\"code\":\"5073\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班一甲\",\"foreverID\":\"136H10046\",\"courseName\":\"組織理論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UN262711,01801.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5069",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班一甲",
+    "foreverID": "136H10035",
+    "courseName": "行銷管理專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UN262711,F2048.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5071",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班一甲",
+    "foreverID": "136H10034",
+    "courseName": "財務管理專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UN262711,F2098.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5072",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班一甲",
+    "foreverID": "136H10026",
+    "courseName": "科技管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UN262711,01137.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5073",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班一甲",
+    "foreverID": "136H10046",
+    "courseName": "組織理論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UN262711,01801.01"
+    ],
+    "note": ""
+  }
+]

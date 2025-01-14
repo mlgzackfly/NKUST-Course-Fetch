@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0010",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "工業工程與管理系碩士班[建工/燕",
+    "className": "碩專工業管理二甲",
+    "foreverID": "205H00012",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "2",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "3",
+      "UE712721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "1822",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "應用外語系",
+    "className": "四外三甲",
+    "foreverID": "253C10265",
+    "courseName": "英語能力訓練",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "秦月貞",
+    "position": "北305",
+    "people": "54",
+    "maxpeople": "55",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UH511431,01177.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1822",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "應用外語系",
+    "className": "四外三乙",
+    "foreverID": "253C10265",
+    "courseName": "英語能力訓練",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "秦月貞",
+    "position": "北305",
+    "people": "54",
+    "maxpeople": "55",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UH511431,01177.01"
+    ],
+    "note": ""
+  }
+]

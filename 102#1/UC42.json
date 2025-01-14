@@ -1,1 +1,127 @@
-"[{\"code\":\"0274\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融資訊研究所[建工/燕巢校區]\",\"className\":\"進碩金二甲\",\"foreverID\":\"236H10083\",\"courseName\":\"論文研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"杜建衡\",\"position\":\"東103B\",\"people\":\"8\",\"maxpeople\":\"55\",\"time\":\"(二)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UC422721,07009.01\"],\"note\":\"\"},{\"code\":\"0275\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融資訊研究所[建工/燕巢校區]\",\"className\":\"進碩金二甲\",\"foreverID\":\"236H10094\",\"courseName\":\"風險管理與保險專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"謝坤民\",\"position\":\"東103B\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(四)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UC422721,08253.01\"],\"note\":\"\"},{\"code\":\"2461\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融資訊研究所[建工/燕巢校區]\",\"className\":\"進碩金二甲\",\"foreverID\":\"236H00030\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UC422721,03649.01\"],\"note\":\"\"},{\"code\":\"0276\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融資訊研究所[建工/燕巢校區]\",\"className\":\"進碩金二乙\",\"foreverID\":\"236H00023\",\"courseName\":\"金融管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"謝坤民,林萍珍,杜建衡\",\"position\":\"東103\",\"people\":\"22\",\"maxpeople\":\"60\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UC422722,08541.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0271",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "金融資訊研究所[建工/燕巢校區]",
+    "className": "碩金二甲",
+    "foreverID": "236B00032",
+    "courseName": "論文研討(二)",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "簡美瑟,張嘉倩,曾麗弘",
+    "position": "MB404",
+    "people": "24",
+    "maxpeople": "60",
+    "time": "(一)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UC421721,04568.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0272",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "金融資訊研究所[建工/燕巢校區]",
+    "className": "碩金二甲",
+    "foreverID": "236B10077",
+    "courseName": "財務數值分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "程言信",
+    "position": "MB404",
+    "people": "23",
+    "maxpeople": "55",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UC421721,06126.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2363",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "金融資訊研究所[建工/燕巢校區]",
+    "className": "碩金二甲",
+    "foreverID": "236B10108",
+    "courseName": "財經研究方法研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "簡美瑟,張嘉倩,張存炳",
+    "position": "MB403A",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UC421721,08559.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2409",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "金融資訊研究所[建工/燕巢校區]",
+    "className": "碩金二甲",
+    "foreverID": "236B10114",
+    "courseName": "交易策略開發平台規劃",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林萍珍",
+    "position": "MB403A",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UC421721,08591.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2413",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "金融資訊研究所[建工/燕巢校區]",
+    "className": "碩金二甲",
+    "foreverID": "236B10142",
+    "courseName": "財務金融研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "胡德中,程言信,羅志賢",
+    "position": "MB403A",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UC421721,08595.01"
+    ],
+    "note": ""
+  }
+]

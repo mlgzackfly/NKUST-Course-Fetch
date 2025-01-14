@@ -1,0 +1,102 @@
+[
+  {
+    "code": "3017",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "電訊工程系碩士班",
+    "className": "碩專電訊一甲",
+    "foreverID": "323H10048",
+    "courseName": "資料探勘",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "莊尚仁",
+    "position": "4205書報討論室",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UQ082711,04706.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3018",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "電訊工程系碩士班",
+    "className": "碩專電訊一甲",
+    "foreverID": "323H10030",
+    "courseName": "科技論文英文寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳瓊興",
+    "position": "4206電腦實驗室",
+    "people": "9",
+    "maxpeople": "40",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UQ082711,10765.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3019",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "電訊工程系碩士班",
+    "className": "碩專電訊一甲",
+    "foreverID": "323H10019",
+    "courseName": "模糊理論應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃煌初",
+    "position": "4205書報討論室",
+    "people": "5",
+    "maxpeople": "40",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UQ082711,30348.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3020",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "電訊工程系碩士班",
+    "className": "碩專電訊一甲",
+    "foreverID": "323H10029",
+    "courseName": "智慧工廠",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉芳宗",
+    "position": "4205書報討論室",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UQ082711,30672.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,102 @@
-"[{\"code\":\"0023\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機工程系\",\"foreverID\":\"313C00214\",\"courseName\":\"流體力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021400,01128.01\"],\"note\":\"抵二下同科目3學分\"},{\"code\":\"0016\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機二年級\",\"foreverID\":\"313C00172\",\"courseName\":\"動力學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"王榮明\",\"position\":\"6107教室\",\"people\":\"14\",\"maxpeople\":\"60\",\"time\":\"(四)3-4(五)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021420,01495.01\"],\"note\":\"\"},{\"code\":\"0016\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機二年級\",\"foreverID\":\"313C00172\",\"courseName\":\"動力學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"王榮明\",\"position\":\"6107教室\",\"people\":\"14\",\"maxpeople\":\"60\",\"time\":\"(四)3-4(五)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021420,01495.01\"],\"note\":\"\"},{\"code\":\"0013\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機三年級\",\"foreverID\":\"313C00173\",\"courseName\":\"輪機英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"胡穗樂\",\"position\":\"2105教室\",\"people\":\"33\",\"maxpeople\":\"60\",\"time\":\"(二)5-8(三)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021430,A6960.01\"],\"note\":\"\"},{\"code\":\"0013\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機三年級\",\"foreverID\":\"313C00173\",\"courseName\":\"輪機英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"胡穗樂\",\"position\":\"2105教室\",\"people\":\"33\",\"maxpeople\":\"60\",\"time\":\"(二)5-8(三)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021430,A6960.01\"],\"note\":\"\"},{\"code\":\"0018\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機三年級\",\"foreverID\":\"313C00239\",\"courseName\":\"輪機實務與安全\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"張進德\",\"position\":\"旗津101教室\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\"(一)5-8(三)5-8(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021430,A7005.01\"],\"note\":\"課程8/15~9/2\"},{\"code\":\"0018\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機三年級\",\"foreverID\":\"313C00239\",\"courseName\":\"輪機實務與安全\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"張進德\",\"position\":\"旗津101教室\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\"(一)5-8(三)5-8(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021430,A7005.01\"],\"note\":\"課程8/15~9/2\"},{\"code\":\"0018\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機三年級\",\"foreverID\":\"313C00239\",\"courseName\":\"輪機實務與安全\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"張進德\",\"position\":\"旗津101教室\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\"(一)5-8(三)5-8(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UR021430,A7005.01\"],\"note\":\"課程8/15~9/2\"}]"
+[
+  {
+    "code": "0023",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機工程系",
+    "foreverID": "313C00214",
+    "courseName": "流體力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UR021400,01128.01"
+    ],
+    "note": "抵二下同科目3學分"
+  },
+  {
+    "code": "0016",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機二年級",
+    "foreverID": "313C00172",
+    "courseName": "動力學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "王榮明",
+    "position": "6107教室",
+    "people": "14",
+    "maxpeople": "60",
+    "time": "(四)3-4(五)5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UR021420,01495.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0013",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機三年級",
+    "foreverID": "313C00173",
+    "courseName": "輪機英文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "胡穗樂",
+    "position": "2105教室",
+    "people": "33",
+    "maxpeople": "60",
+    "time": "(二)5-8(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UR021430,A6960.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0018",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機三年級",
+    "foreverID": "313C00239",
+    "courseName": "輪機實務與安全",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "張進德",
+    "position": "旗津101教室",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(一)5-8(三)5-8(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UR021430,A7005.01"
+    ],
+    "note": "課程8/15~9/2"
+  }
+]

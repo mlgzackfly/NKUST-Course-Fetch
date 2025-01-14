@@ -1,1 +1,77 @@
-"[{\"code\":\"0020\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技一年級\",\"foreverID\":\"312C00189\",\"courseName\":\"地文航海學(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"郭福村\",\"position\":\"旗津204教室\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\"(三)3-6(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UR011410,B2123.01\"],\"note\":\"\"},{\"code\":\"0020\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技一年級\",\"foreverID\":\"312C00189\",\"courseName\":\"地文航海學(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"郭福村\",\"position\":\"旗津204教室\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\"(三)3-6(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UR011410,B2123.01\"],\"note\":\"\"},{\"code\":\"0057\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技二年級\",\"foreverID\":\"312C00077\",\"courseName\":\"航海英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"茍榮華\",\"position\":\"旗津203教室\",\"people\":\"37\",\"maxpeople\":\"60\",\"time\":\"(二)5-8(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UR011420,A3510.01\"],\"note\":\"\"},{\"code\":\"0057\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技二年級\",\"foreverID\":\"312C00077\",\"courseName\":\"航海英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"茍榮華\",\"position\":\"旗津203教室\",\"people\":\"37\",\"maxpeople\":\"60\",\"time\":\"(二)5-8(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UR011420,A3510.01\"],\"note\":\"\"},{\"code\":\"0058\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技三年級\",\"foreverID\":\"312C00025\",\"courseName\":\"航海英文實作(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"許華智\",\"position\":\"旗津204教室\",\"people\":\"24\",\"maxpeople\":\"60\",\"time\":\"(四)7-8(五)3-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UR011430,B2339.02\"],\"note\":\"\"},{\"code\":\"0058\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技三年級\",\"foreverID\":\"312C00025\",\"courseName\":\"航海英文實作(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"許華智\",\"position\":\"旗津204教室\",\"people\":\"24\",\"maxpeople\":\"60\",\"time\":\"(四)7-8(五)3-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UR011430,B2339.02\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0020",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運技術系",
+    "className": "日四技航技一年級",
+    "foreverID": "312C00189",
+    "courseName": "地文航海學(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "郭福村",
+    "position": "旗津204教室",
+    "people": "26",
+    "maxpeople": "60",
+    "time": "(三)3-6(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "6",
+      "UR011410,B2123.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0057",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運技術系",
+    "className": "日四技航技二年級",
+    "foreverID": "312C00077",
+    "courseName": "航海英文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "茍榮華",
+    "position": "旗津203教室",
+    "people": "37",
+    "maxpeople": "60",
+    "time": "(二)5-8(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "6",
+      "UR011420,A3510.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0058",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運技術系",
+    "className": "日四技航技三年級",
+    "foreverID": "312C00025",
+    "courseName": "航海英文實作(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "許華智",
+    "position": "旗津204教室",
+    "people": "24",
+    "maxpeople": "60",
+    "time": "(四)7-8(五)3-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "6",
+      "UR011430,B2339.02"
+    ],
+    "note": ""
+  }
+]

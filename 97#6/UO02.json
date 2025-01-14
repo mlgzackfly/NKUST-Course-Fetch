@@ -1,1 +1,52 @@
-"[{\"code\":\"0069\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系[楠梓|旗津]\",\"className\":\"日四技資管系\",\"foreverID\":\"335C00117\",\"courseName\":\"統計學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UO021400,01788.01\"],\"note\":\"張哲維跨樹德科技大學暑修\"},{\"code\":\"0070\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系[楠梓|旗津]\",\"className\":\"日四技資管系\",\"foreverID\":\"335C10177\",\"courseName\":\"JAVA程式設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UO021400,00053.01\"],\"note\":\"陳炯任跨高雄應用科技大學暑修\"}]"
+[
+  {
+    "code": "0069",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系[楠梓|旗津]",
+    "className": "日四技資管系",
+    "foreverID": "335C00117",
+    "courseName": "統計學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UO021400,01788.01"
+    ],
+    "note": "張哲維跨樹德科技大學暑修"
+  },
+  {
+    "code": "0070",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系[楠梓|旗津]",
+    "className": "日四技資管系",
+    "foreverID": "335C10177",
+    "courseName": "JAVA程式設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UO021400,00053.01"
+    ],
+    "note": "陳炯任跨高雄應用科技大學暑修"
+  }
+]

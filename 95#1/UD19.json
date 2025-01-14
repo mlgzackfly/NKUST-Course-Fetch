@@ -1,1 +1,127 @@
-"[{\"code\":\"5188\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班一甲\",\"foreverID\":\"127B00005\",\"courseName\":\"專題討論(一)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD191711,01683.01\"],\"note\":\"\"},{\"code\":\"5189\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班一甲\",\"foreverID\":\"127B00001\",\"courseName\":\"專題演講(一)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD191711,F1232.01\"],\"note\":\"\"},{\"code\":\"5190\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班一甲\",\"foreverID\":\"127B10022\",\"courseName\":\"系統雛型設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD191711,F1966.01\"],\"note\":\"\"},{\"code\":\"5191\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班一甲\",\"foreverID\":\"127B10016\",\"courseName\":\"無線通訊元件設計實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD191711,B2659.01\"],\"note\":\"\"},{\"code\":\"5192\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班一甲\",\"foreverID\":\"127B10039\",\"courseName\":\"超大型積體電路設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD191711,09144.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5188",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班一甲",
+    "foreverID": "127B00005",
+    "courseName": "專題討論(一)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD191711,01683.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5189",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班一甲",
+    "foreverID": "127B00001",
+    "courseName": "專題演講(一)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD191711,F1232.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5190",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班一甲",
+    "foreverID": "127B10022",
+    "courseName": "系統雛型設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD191711,F1966.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5191",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班一甲",
+    "foreverID": "127B10016",
+    "courseName": "無線通訊元件設計實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD191711,B2659.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5192",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班一甲",
+    "foreverID": "127B10039",
+    "courseName": "超大型積體電路設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD191711,09144.01"
+    ],
+    "note": ""
+  }
+]

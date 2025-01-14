@@ -1,1 +1,52 @@
-"[{\"code\":\"1936\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二技\",\"unt\":\"漁業系\",\"className\":\"進二技漁業三\",\"foreverID\":\"306F00014\",\"courseName\":\"漁航儀器應用\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"US052330,A6235.01\"],\"note\":\"\"},{\"code\":\"1937\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二技\",\"unt\":\"漁業系\",\"className\":\"進二技漁業三\",\"foreverID\":\"306F00029\",\"courseName\":\"漁業資源評估與管理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"US052330,A6395.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1936",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二技",
+    "unt": "漁業系",
+    "className": "進二技漁業三",
+    "foreverID": "306F00014",
+    "courseName": "漁航儀器應用",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "US052330,A6235.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1937",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二技",
+    "unt": "漁業系",
+    "className": "進二技漁業三",
+    "foreverID": "306F00029",
+    "courseName": "漁業資源評估與管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "US052330,A6395.01"
+    ],
+    "note": ""
+  }
+]

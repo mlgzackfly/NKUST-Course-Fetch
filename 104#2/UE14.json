@@ -1,1 +1,127 @@
-"[{\"code\":\"0263\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10015\",\"courseName\":\"科技英文\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳樹人\",\"position\":\"司201\",\"people\":\"12\",\"maxpeople\":\"30\",\"time\":\"(二)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UE142611,01136.01\"],\"note\":\"\"},{\"code\":\"0264\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10005\",\"courseName\":\"電漿原理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡政賢\",\"position\":\"司201\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(四)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UE142611,02637.01\"],\"note\":\"\"},{\"code\":\"0265\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10013\",\"courseName\":\"半導體構裝材料與製程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"何宗漢\",\"position\":\"司201\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(一)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UE142611,04391.01\"],\"note\":\"\"},{\"code\":\"0266\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10012\",\"courseName\":\"奈米顯微技術\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"高立衡\",\"position\":\"司201\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(五)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UE142611,04983.01\"],\"note\":\"\"},{\"code\":\"0267\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10004\",\"courseName\":\"薄膜材料與鍍膜技術\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃銘賢\",\"position\":\"司201\",\"people\":\"12\",\"maxpeople\":\"30\",\"time\":\"(三)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UE142611,06728.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0263",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10015",
+    "courseName": "科技英文",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳樹人",
+    "position": "司201",
+    "people": "12",
+    "maxpeople": "30",
+    "time": "(二)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UE142611,01136.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0264",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10005",
+    "courseName": "電漿原理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡政賢",
+    "position": "司201",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(四)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UE142611,02637.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0265",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10013",
+    "courseName": "半導體構裝材料與製程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "何宗漢",
+    "position": "司201",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(一)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UE142611,04391.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0266",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10012",
+    "courseName": "奈米顯微技術",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "高立衡",
+    "position": "司201",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(五)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UE142611,04983.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0267",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10004",
+    "courseName": "薄膜材料與鍍膜技術",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃銘賢",
+    "position": "司201",
+    "people": "12",
+    "maxpeople": "30",
+    "time": "(三)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UE142611,06728.01"
+    ],
+    "note": ""
+  }
+]

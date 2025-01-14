@@ -1,1 +1,27 @@
-"[{\"code\":\"2159\",\"cmp\":\"燕巢校區\",\"dgr\":\"進修部四技\",\"unt\":\"觀光管理系\",\"className\":\"進四觀光二甲\",\"foreverID\":\"235F10215\",\"courseName\":\"發酵與酒類概論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"張雪楓\",\"position\":\"MB112\",\"people\":\"21\",\"maxpeople\":\"30\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UM762421,30615.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2159",
+    "cmp": "燕巢校區",
+    "dgr": "進修部四技",
+    "unt": "觀光管理系",
+    "className": "進四觀光二甲",
+    "foreverID": "235F10215",
+    "courseName": "發酵與酒類概論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "張雪楓",
+    "position": "MB112",
+    "people": "21",
+    "maxpeople": "30",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UM762421,30615.01"
+    ],
+    "note": ""
+  }
+]

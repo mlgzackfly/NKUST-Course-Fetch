@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0093",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水產食品科學系",
+    "className": "日四技水食三甲",
+    "foreverID": "302C10540",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "侯智耀,孫珮珮,李憶甄,林家民,蔡永祥,蔡美玲,賴慶紓,郭家宏,黃俊勇,黃雅玲",
+    "position": "教室未定",
+    "people": "104",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "US021431,B3730.01"
+    ],
+    "note": "不開放選課，由系辦掛課。"
+  },
+  {
+    "code": "0094",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水產食品科學系",
+    "className": "日四技水食三甲",
+    "foreverID": "302C10533",
+    "courseName": "專案實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "侯智耀,李憶甄,黃俊勇",
+    "position": "教室未定",
+    "people": "7",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "US021431,B3731.01"
+    ],
+    "note": "不開放選課，由系辦掛課。"
+  }
+]

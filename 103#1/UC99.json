@@ -1,1 +1,27 @@
-"[{\"code\":\"2429\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"管理學院增開班[建工|燕巢校區]\",\"className\":\"碩增二甲(管院)\",\"foreverID\":\"238B00001\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UC991721,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2429",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "管理學院增開班[建工|燕巢校區]",
+    "className": "碩增二甲(管院)",
+    "foreverID": "238B00001",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UC991721,03649.01"
+    ],
+    "note": ""
+  }
+]

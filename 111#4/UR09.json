@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0158",
+    "cmp": "旗津校區",
+    "dgr": "日間部碩士",
+    "unt": "輪機工程系碩士班",
+    "className": "輪機所二甲",
+    "foreverID": "313B00008",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "楊春陵",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UR091721,05010.01"
+    ],
+    "note": ""
+  }
+]

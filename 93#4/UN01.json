@@ -1,1 +1,27 @@
-"[{\"code\":\"S121\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"資訊管理系\",\"className\":\"日二技資管三丙\",\"foreverID\":\"138C00041\",\"courseName\":\"資訊管理導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UN011333,02335.01\"],\"note\":\"\"},{\"code\":\"S121\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"資訊管理系\",\"className\":\"日二技資管三丙\",\"foreverID\":\"138C00041\",\"courseName\":\"資訊管理導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UN011333,02335.01\"],\"note\":\"\"},{\"code\":\"S121\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"資訊管理系\",\"className\":\"日二技資管三丙\",\"foreverID\":\"138C00041\",\"courseName\":\"資訊管理導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UN011333,02335.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S121",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "資訊管理系",
+    "className": "日二技資管三丙",
+    "foreverID": "138C00041",
+    "courseName": "資訊管理導論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UN011333,02335.01"
+    ],
+    "note": ""
+  }
+]

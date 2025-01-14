@@ -1,1 +1,27 @@
-"[{\"code\":\"7139\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材二甲\",\"foreverID\":\"208I00021\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"高立衡\",\"position\":\"教室未定\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"UE142621,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "7139",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材二甲",
+    "foreverID": "208I00021",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "高立衡",
+    "position": "教室未定",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "UE142621,05010.01"
+    ],
+    "note": ""
+  }
+]

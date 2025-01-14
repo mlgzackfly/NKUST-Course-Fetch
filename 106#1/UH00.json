@@ -1,1 +1,52 @@
-"[{\"code\":\"1425\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"人文社會學院\",\"className\":\"四人文學院三甲\",\"foreverID\":\"250C10001\",\"courseName\":\"商業英文有聲書聽講\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳盈蓁\",\"position\":\"北307\",\"people\":\"18\",\"maxpeople\":\"55\",\"time\":\"(五)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UH001431,08671.01\"],\"note\":\"\"},{\"code\":\"1426\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"人文社會學院\",\"className\":\"四人文學院四甲\",\"foreverID\":\"250C10003\",\"courseName\":\"英文商業雜誌選讀\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳盈蓁\",\"position\":\"北307\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UH001441,08672.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1425",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "人文社會學院",
+    "className": "四人文學院三甲",
+    "foreverID": "250C10001",
+    "courseName": "商業英文有聲書聽講",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳盈蓁",
+    "position": "北307",
+    "people": "18",
+    "maxpeople": "55",
+    "time": "(五)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UH001431,08671.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1426",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "人文社會學院",
+    "className": "四人文學院四甲",
+    "foreverID": "250C10003",
+    "courseName": "英文商業雜誌選讀",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳盈蓁",
+    "position": "北307",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(五)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UH001441,08672.01"
+    ],
+    "note": ""
+  }
+]

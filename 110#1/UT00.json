@@ -1,1 +1,27 @@
-"[{\"code\":\"3915\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"商業智慧學院\",\"className\":\"商業智慧院一甲\",\"foreverID\":\"400C00001\",\"courseName\":\"資料科學概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"彭琪祿\",\"position\":\"E318\",\"people\":\"42\",\"maxpeople\":\"60\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UT001411,30626.02\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3915",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "商業智慧學院",
+    "className": "商業智慧院一甲",
+    "foreverID": "400C00001",
+    "courseName": "資料科學概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "彭琪祿",
+    "position": "E318",
+    "people": "42",
+    "maxpeople": "60",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UT001411,30626.02"
+    ],
+    "note": ""
+  }
+]

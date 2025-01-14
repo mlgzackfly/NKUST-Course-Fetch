@@ -1,0 +1,52 @@
+[
+  {
+    "code": "6540",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10436",
+    "courseName": "永續建築特論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "91",
+      "1",
+      "XK051411,F1799.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6556",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10536",
+    "courseName": "文學批評",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "91",
+      "1",
+      "XK051411,F0355.01"
+    ],
+    "note": ""
+  }
+]

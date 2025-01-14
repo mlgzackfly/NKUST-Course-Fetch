@@ -1,1 +1,77 @@
-"[{\"code\":\"0110\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船系\",\"foreverID\":\"324C00059\",\"courseName\":\"海洋運動與生態體驗(自)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"6\",\"UQ011400,B2889.01\"],\"note\":\"1021235126、1021235141\"},{\"code\":\"0051\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船三年級\",\"foreverID\":\"324C10141\",\"courseName\":\"船廠實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳紹榮\",\"position\":\"\",\"people\":\"6\",\"maxpeople\":\"0\",\"time\":\"(一)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"6\",\"UQ011430,A4510.01\"],\"note\":\"暑期第二類課程(校外實習)，不開放網路選課。\"},{\"code\":\"0052\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船三年級\",\"foreverID\":\"324C10172\",\"courseName\":\"中階船廠實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳紹榮\",\"position\":\"\",\"people\":\"45\",\"maxpeople\":\"0\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"6\",\"UQ011430,B2827.01\"],\"note\":\"暑期第二類課程(校外實習)，不開放網路選課。\"}]"
+[
+  {
+    "code": "0110",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船系",
+    "foreverID": "324C00059",
+    "courseName": "海洋運動與生態體驗(自)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "6",
+      "UQ011400,B2889.01"
+    ],
+    "note": "1021235126、1021235141"
+  },
+  {
+    "code": "0051",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船三年級",
+    "foreverID": "324C10141",
+    "courseName": "船廠實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳紹榮",
+    "position": "",
+    "people": "6",
+    "maxpeople": "0",
+    "time": "(一)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "6",
+      "UQ011430,A4510.01"
+    ],
+    "note": "暑期第二類課程(校外實習)，不開放網路選課。"
+  },
+  {
+    "code": "0052",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船三年級",
+    "foreverID": "324C10172",
+    "courseName": "中階船廠實習",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳紹榮",
+    "position": "",
+    "people": "45",
+    "maxpeople": "0",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "6",
+      "UQ011430,B2827.01"
+    ],
+    "note": "暑期第二類課程(校外實習)，不開放網路選課。"
+  }
+]

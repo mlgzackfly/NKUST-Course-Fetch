@@ -1,1 +1,27 @@
-"[{\"code\":\"1823\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋事務學程\",\"className\":\"海洋事務學程\",\"foreverID\":\"350C10019\",\"courseName\":\"海岸管理與政策\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"游乾賜,高瑞鍾\",\"position\":\"10207教室\",\"people\":\"25\",\"maxpeople\":\"60\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"GF101400,B0847.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1823",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋事務學程",
+    "className": "海洋事務學程",
+    "foreverID": "350C10019",
+    "courseName": "海岸管理與政策",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "游乾賜,高瑞鍾",
+    "position": "10207教室",
+    "people": "25",
+    "maxpeople": "60",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "GF101400,B0847.01"
+    ],
+    "note": ""
+  }
+]

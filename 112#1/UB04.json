@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0109",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "半導體工程系產學專班",
+    "className": "進半導體產專四甲",
+    "foreverID": "325G00033",
+    "courseName": "電子專題(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "翁健二,姚永正",
+    "position": "6404電子電路實驗室",
+    "people": "27",
+    "maxpeople": "55",
+    "time": "(五)4-5",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UB042441,A9098.01"
+    ],
+    "note": "限本專班學生修課"
+  },
+  {
+    "code": "0110",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "半導體工程系產學專班",
+    "className": "進半導體產專四甲",
+    "foreverID": "325G10076",
+    "courseName": "感測元件應用電路實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "姚永正",
+    "position": "10401多媒體通識教室",
+    "people": "28",
+    "maxpeople": "55",
+    "time": "(二)4-5",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UB042441,B2787.01"
+    ],
+    "note": "限本專班學生修課"
+  },
+  {
+    "code": "0111",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "半導體工程系產學專班",
+    "className": "進半導體產專四甲",
+    "foreverID": "325G00089",
+    "courseName": "職場實習(七)",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "趙世峯,張順雄",
+    "position": "",
+    "people": "27",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UB042441,B3201.01"
+    ],
+    "note": "限本專班學生修課"
+  }
+]

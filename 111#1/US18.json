@@ -1,1 +1,102 @@
-"[{\"code\":\"3896\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"漁業生產與管理系[公費專班]\",\"className\":\"漁管公費二甲\",\"foreverID\":\"305C00299\",\"courseName\":\"內燃機\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"王楠杰\",\"position\":\"旗U203教室\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"US181421,00401.01\"],\"note\":\"\"},{\"code\":\"3899\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"漁業生產與管理系[公費專班]\",\"className\":\"漁管公費二甲\",\"foreverID\":\"305C00300\",\"courseName\":\"內燃機實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"王楠杰\",\"position\":\"旗U203教室\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(二)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"US181421,A0455.01\"],\"note\":\"\"},{\"code\":\"3903\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"漁業生產與管理系[公費專班]\",\"className\":\"漁管公費三甲\",\"foreverID\":\"305C00311\",\"courseName\":\"船電\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"林政建\",\"position\":\"旗U313海事機電研究\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"US181431,10084.01\"],\"note\":\"\"},{\"code\":\"3908\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"漁業生產與管理系[公費專班]\",\"className\":\"漁管公費三甲\",\"foreverID\":\"305C00312\",\"courseName\":\"船電實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"林政建\",\"position\":\"旗U313海事機電研究\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(二)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"US181431,A9163.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3896",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費二甲",
+    "foreverID": "305C00299",
+    "courseName": "內燃機",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "王楠杰",
+    "position": "旗U203教室",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "US181421,00401.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3899",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費二甲",
+    "foreverID": "305C00300",
+    "courseName": "內燃機實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "王楠杰",
+    "position": "旗U203教室",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "US181421,A0455.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3903",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費三甲",
+    "foreverID": "305C00311",
+    "courseName": "船電",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "林政建",
+    "position": "旗U313海事機電研究",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "US181431,10084.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3908",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "漁業科技與管理系[公費專班]",
+    "className": "漁科系公費三甲",
+    "foreverID": "305C00312",
+    "courseName": "船電實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "林政建",
+    "position": "旗U313海事機電研究",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(二)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "US181431,A9163.01"
+    ],
+    "note": ""
+  }
+]

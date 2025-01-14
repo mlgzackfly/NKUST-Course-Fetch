@@ -1,1 +1,102 @@
-"[{\"code\":\"1649\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"觀光餐旅管理產業碩士專班\",\"className\":\"進碩秋觀餐管一甲\",\"foreverID\":\"235I10005\",\"courseName\":\"觀光暨餐旅產業現代議題研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉修祥\",\"position\":\"MB603\",\"people\":\"9\",\"maxpeople\":\"15\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UM422611,04797.01\"],\"note\":\"\"},{\"code\":\"1650\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"觀光餐旅管理產業碩士專班\",\"className\":\"進碩秋觀餐管一甲\",\"foreverID\":\"235I10011\",\"courseName\":\"觀光暨餐旅消費者行為研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳志康\",\"position\":\"MB603\",\"people\":\"9\",\"maxpeople\":\"15\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UM422611,04809.01\"],\"note\":\"\"},{\"code\":\"1651\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"觀光餐旅管理產業碩士專班\",\"className\":\"進碩秋觀餐管一甲\",\"foreverID\":\"235I10006\",\"courseName\":\"觀光暨餐旅產業全面品質管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王明元\",\"position\":\"東305\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UM422611,04810.01\"],\"note\":\"\"},{\"code\":\"1652\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"觀光餐旅管理產業碩士專班\",\"className\":\"進碩秋觀餐管一甲\",\"foreverID\":\"235I10009\",\"courseName\":\"觀光暨餐旅產業財務管理研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林明政\",\"position\":\"MB603\",\"people\":\"8\",\"maxpeople\":\"15\",\"time\":\"(四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UM422611,08772.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1649",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "觀光餐旅管理產業碩士專班",
+    "className": "進碩秋觀餐管一甲",
+    "foreverID": "235I10005",
+    "courseName": "觀光暨餐旅產業現代議題研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉修祥",
+    "position": "MB603",
+    "people": "9",
+    "maxpeople": "15",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UM422611,04797.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1650",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "觀光餐旅管理產業碩士專班",
+    "className": "進碩秋觀餐管一甲",
+    "foreverID": "235I10011",
+    "courseName": "觀光暨餐旅消費者行為研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳志康",
+    "position": "MB603",
+    "people": "9",
+    "maxpeople": "15",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UM422611,04809.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1651",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "觀光餐旅管理產業碩士專班",
+    "className": "進碩秋觀餐管一甲",
+    "foreverID": "235I10006",
+    "courseName": "觀光暨餐旅產業全面品質管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王明元",
+    "position": "東305",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UM422611,04810.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1652",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "觀光餐旅管理產業碩士專班",
+    "className": "進碩秋觀餐管一甲",
+    "foreverID": "235I10009",
+    "courseName": "觀光暨餐旅產業財務管理研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林明政",
+    "position": "MB603",
+    "people": "8",
+    "maxpeople": "15",
+    "time": "(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UM422611,08772.01"
+    ],
+    "note": ""
+  }
+]

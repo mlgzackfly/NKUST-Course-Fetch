@@ -1,1 +1,52 @@
-"[{\"code\":\"5581\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10652\",\"courseName\":\"大型計畫專案管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"校際教師\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XK051711,11683.01\"],\"note\":\"國立中山大學\"},{\"code\":\"5582\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10651\",\"courseName\":\"離岸風電產業管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"校際教師\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XK051711,11684.01\"],\"note\":\"國立中山大學\"}]"
+[
+  {
+    "code": "5581",
+    "cmp": "旗津校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10652",
+    "courseName": "大型計畫專案管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "校際教師",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XK051711,11683.01"
+    ],
+    "note": "國立中山大學"
+  },
+  {
+    "code": "5582",
+    "cmp": "旗津校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10651",
+    "courseName": "離岸風電產業管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "校際教師",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XK051711,11684.01"
+    ],
+    "note": "國立中山大學"
+  }
+]

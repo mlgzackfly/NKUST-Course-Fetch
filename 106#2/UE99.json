@@ -1,1 +1,77 @@
-"[{\"code\":\"2313\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"工學院增開班\",\"className\":\"進四增(工)建工\",\"foreverID\":\"298F00007\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"李慶祥\",\"position\":\"育503\",\"people\":\"46\",\"maxpeople\":\"0\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UE992400,00232.01\"],\"note\":\"技優領航計畫經費支付外加鐘點\"},{\"code\":\"2314\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"工學院增開班\",\"className\":\"進四增(工)建工\",\"foreverID\":\"298F00004\",\"courseName\":\"物理(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"鄭乃仁\",\"position\":\"育302\",\"people\":\"32\",\"maxpeople\":\"0\",\"time\":\"(一)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UE992400,00962.01\"],\"note\":\"技優領航計畫經費支付外加鐘點\"},{\"code\":\"2315\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"工學院增開班\",\"className\":\"進四增(工)建工\",\"foreverID\":\"298F00006\",\"courseName\":\"微積分(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃天受\",\"position\":\"育503\",\"people\":\"39\",\"maxpeople\":\"0\",\"time\":\"(二)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UE992400,02223.01\"],\"note\":\"技優領航計畫經費支付外加鐘點\"}]"
+[
+  {
+    "code": "2313",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "工學院增開班",
+    "className": "進四增(工)建工",
+    "foreverID": "298F00007",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "李慶祥",
+    "position": "育503",
+    "people": "46",
+    "maxpeople": "0",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE992400,00232.01"
+    ],
+    "note": "技優領航計畫經費支付外加鐘點"
+  },
+  {
+    "code": "2314",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "工學院增開班",
+    "className": "進四增(工)建工",
+    "foreverID": "298F00004",
+    "courseName": "物理(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "鄭乃仁",
+    "position": "育302",
+    "people": "32",
+    "maxpeople": "0",
+    "time": "(一)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE992400,00962.01"
+    ],
+    "note": "技優領航計畫經費支付外加鐘點"
+  },
+  {
+    "code": "2315",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "工學院增開班",
+    "className": "進四增(工)建工",
+    "foreverID": "298F00006",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃天受",
+    "position": "育503",
+    "people": "39",
+    "maxpeople": "0",
+    "time": "(二)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE992400,02223.01"
+    ],
+    "note": "技優領航計畫經費支付外加鐘點"
+  }
+]

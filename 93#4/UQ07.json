@@ -1,1 +1,52 @@
-"[{\"code\":\"0058\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"電訊工程科\",\"className\":\"日五專電訊科\",\"foreverID\":\"323E00116\",\"courseName\":\"工程數學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UQ071200,00233.01\"],\"note\":\"\"},{\"code\":\"0059\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"電訊工程科\",\"className\":\"日五專電訊科\",\"foreverID\":\"323E00148\",\"courseName\":\"英文\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UQ071200,01154.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0058",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "電訊工程科",
+    "className": "日五專電訊科",
+    "foreverID": "323E00116",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UQ071200,00233.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0059",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "電訊工程科",
+    "className": "日五專電訊科",
+    "foreverID": "323E00148",
+    "courseName": "英文",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UQ071200,01154.01"
+    ],
+    "note": ""
+  }
+]

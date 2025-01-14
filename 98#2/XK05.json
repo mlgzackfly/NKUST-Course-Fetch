@@ -1,1 +1,77 @@
-"[{\"code\":\"2348\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10507\",\"courseName\":\"堤壩防災工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"XK051711,F1529.01\"],\"note\":\"\"},{\"code\":\"2395\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10568\",\"courseName\":\"試題反應理論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"XK051711,F2066.01\"],\"note\":\"\"},{\"code\":\"2405\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10230\",\"courseName\":\"微系統特論\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"XK051711,F0891.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2348",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10507",
+    "courseName": "堤壩防災工程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "XK051711,F1529.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2395",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10568",
+    "courseName": "試題反應理論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "XK051711,F2066.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2405",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10230",
+    "courseName": "微系統特論",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "XK051711,F0891.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,127 @@
-"[{\"code\":\"5323\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 萬欽德\",\"position\":\"教室未定\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UD142711,05010.01\"],\"note\":\"\"},{\"code\":\"5324\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10036\",\"courseName\":\"近代計算系統應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 謝瑞鴻\",\"position\":\"B125\",\"people\":\"7\",\"maxpeople\":\"60\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UD142711,F3723.01\"],\"note\":\"\"},{\"code\":\"5325\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10057\",\"courseName\":\"智慧感測網路\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 魏清煌\",\"position\":\"B125\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UD142711,F1746.01\"],\"note\":\"\"},{\"code\":\"5326\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10044\",\"courseName\":\"論文與技術報告寫作及發表\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 彭康峻,徐偉智,萬欽德,郝敏忠\",\"position\":\"B229\",\"people\":\"10\",\"maxpeople\":\"60\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UD142711,F5087.01\"],\"note\":\"\"},{\"code\":\"5327\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10029\",\"courseName\":\"資通訊產業鳥瞰與挑戰\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 陳寶龍\",\"position\":\"B125\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\" (三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UD142711,F4732.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5323",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "萬欽德",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UD142711,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5324",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10036",
+    "courseName": "近代計算系統應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝瑞鴻",
+    "position": "B125",
+    "people": "7",
+    "maxpeople": "60",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UD142711,F3723.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5325",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10057",
+    "courseName": "智慧感測網路",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "魏清煌",
+    "position": "B125",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UD142711,F1746.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5326",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10044",
+    "courseName": "論文與技術報告寫作及發表",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "彭康峻,徐偉智,萬欽德,郝敏忠",
+    "position": "B229",
+    "people": "10",
+    "maxpeople": "60",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UD142711,F5087.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5327",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10029",
+    "courseName": "資通訊產業鳥瞰與挑戰",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳寶龍",
+    "position": "B125",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UD142711,F4732.01"
+    ],
+    "note": ""
+  }
+]

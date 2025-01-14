@@ -1,1 +1,52 @@
-"[{\"code\":\"5754\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(楠梓)\",\"foreverID\":\"295F00248\",\"courseName\":\"財務管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"校際教師\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"XK002412,01405.01\"],\"note\":\"高苑科大\"},{\"code\":\"5756\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(楠梓)\",\"foreverID\":\"295F00227\",\"courseName\":\"作業管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"校際教師\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(一)10-11(三)10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"XK002412,F0144.01\"],\"note\":\"高苑科大\"},{\"code\":\"5756\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(楠梓)\",\"foreverID\":\"295F00227\",\"courseName\":\"作業管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"校際教師\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(一)10-11(三)10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"XK002412,F0144.01\"],\"note\":\"高苑科大\"}]"
+[
+  {
+    "code": "5754",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班(楠梓)",
+    "foreverID": "295F00248",
+    "courseName": "財務管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "校際教師",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "XK002412,01405.01"
+    ],
+    "note": "高苑科大"
+  },
+  {
+    "code": "5756",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班(楠梓)",
+    "foreverID": "295F00227",
+    "courseName": "作業管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "校際教師",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "(一)10-11(三)10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "XK002412,F0144.01"
+    ],
+    "note": "高苑科大"
+  }
+]

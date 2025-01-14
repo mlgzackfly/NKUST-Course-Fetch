@@ -1,1 +1,102 @@
-"[{\"code\":\"5394\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系碩專班\",\"className\":\"環安碩專班二甲\",\"foreverID\":\"103H00005\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 洪崇軒\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UF202721,05010.01\"],\"note\":\"\"},{\"code\":\"5395\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系碩專班\",\"className\":\"環安碩專班二甲\",\"foreverID\":\"103H10010\",\"courseName\":\"實驗設計與研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 賴俊吉\",\"position\":\"B122\",\"people\":\"16\",\"maxpeople\":\"30\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UF202721,F4038.01\"],\"note\":\"\"},{\"code\":\"5396\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系碩專班\",\"className\":\"環安碩專班二甲\",\"foreverID\":\"103H10022\",\"courseName\":\"環工處理程序原理(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 洪崇軒\",\"position\":\"B124\",\"people\":\"28\",\"maxpeople\":\"45\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UF202721,F4486.01\"],\"note\":\"\"},{\"code\":\"5397\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系碩專班\",\"className\":\"環安碩專班二甲\",\"foreverID\":\"103H10020\",\"courseName\":\"土壤與地下水污染防治特論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 周志儒,蔡宗岳\",\"position\":\"B124\",\"people\":\"47\",\"maxpeople\":\"50\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UF202721,F5047.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5394",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系碩專班",
+    "className": "環安碩專班二甲",
+    "foreverID": "103H00005",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "洪崇軒",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UF202721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5395",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系碩專班",
+    "className": "環安碩專班二甲",
+    "foreverID": "103H10010",
+    "courseName": "實驗設計與研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "賴俊吉",
+    "position": "B122",
+    "people": "16",
+    "maxpeople": "30",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UF202721,F4038.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5396",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系碩專班",
+    "className": "環安碩專班二甲",
+    "foreverID": "103H10022",
+    "courseName": "環工處理程序原理(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "洪崇軒",
+    "position": "B124",
+    "people": "28",
+    "maxpeople": "45",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UF202721,F4486.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5397",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系碩專班",
+    "className": "環安碩專班二甲",
+    "foreverID": "103H10020",
+    "courseName": "土壤與地下水污染防治特論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "周志儒,蔡宗岳",
+    "position": "B124",
+    "people": "47",
+    "maxpeople": "50",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UF202721,F5047.01"
+    ],
+    "note": ""
+  }
+]

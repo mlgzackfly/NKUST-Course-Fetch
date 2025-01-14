@@ -1,1 +1,127 @@
-"[{\"code\":\"2288\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士秋季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩秋外製管一甲\",\"foreverID\":\"279B10021\",\"courseName\":\"研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"余銘忠\",\"position\":\"資002\",\"people\":\"48\",\"maxpeople\":\"55\",\"time\":\"(二)5-7\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UE671611,01135.01\"],\"note\":\"\"},{\"code\":\"2289\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士秋季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩秋外製管一甲\",\"foreverID\":\"279B10029\",\"courseName\":\"科技管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"戴貞德\",\"position\":\"育104\",\"people\":\"52\",\"maxpeople\":\"55\",\"time\":\"(四)5-7\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UE671611,01137.01\"],\"note\":\"\"},{\"code\":\"2290\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士秋季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩秋外製管一甲\",\"foreverID\":\"279B10025\",\"courseName\":\"財務管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李合龍\",\"position\":\"南203A\",\"people\":\"33\",\"maxpeople\":\"55\",\"time\":\"(四)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UE671611,01405.01\"],\"note\":\"\"},{\"code\":\"2291\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士秋季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩秋外製管一甲\",\"foreverID\":\"279B00002\",\"courseName\":\"專題研討(一)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"王嘉男\",\"position\":\"東308\",\"people\":\"48\",\"maxpeople\":\"70\",\"time\":\"(一)1-2\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UE671611,01676.01\"],\"note\":\"\"},{\"code\":\"2292\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士秋季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩秋外製管一甲\",\"foreverID\":\"279B10028\",\"courseName\":\"機器學習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王敬文\",\"position\":\"南203A\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(五)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UE671611,05814.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2288",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士秋季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩秋外製管一甲",
+    "foreverID": "279B10021",
+    "courseName": "研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "余銘忠",
+    "position": "資002",
+    "people": "48",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UE671611,01135.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2289",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士秋季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩秋外製管一甲",
+    "foreverID": "279B10029",
+    "courseName": "科技管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "戴貞德",
+    "position": "育104",
+    "people": "52",
+    "maxpeople": "55",
+    "time": "(四)5-7",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UE671611,01137.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2290",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士秋季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩秋外製管一甲",
+    "foreverID": "279B10025",
+    "courseName": "財務管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李合龍",
+    "position": "南203A",
+    "people": "33",
+    "maxpeople": "55",
+    "time": "(四)2-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UE671611,01405.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2291",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士秋季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩秋外製管一甲",
+    "foreverID": "279B00002",
+    "courseName": "專題研討(一)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "王嘉男",
+    "position": "東308",
+    "people": "48",
+    "maxpeople": "70",
+    "time": "(一)1-2",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UE671611,01676.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2292",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士秋季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩秋外製管一甲",
+    "foreverID": "279B10028",
+    "courseName": "機器學習",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王敬文",
+    "position": "南203A",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(五)2-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UE671611,05814.01"
+    ],
+    "note": ""
+  }
+]

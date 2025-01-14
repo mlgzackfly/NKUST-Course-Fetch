@@ -1,1 +1,52 @@
-"[{\"code\":\"3789\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"商業智慧學院\",\"className\":\"商業智慧院一甲\",\"foreverID\":\"400C10002\",\"courseName\":\"資料分析與視覺化\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"彭琪祿\",\"position\":\"MA324\",\"people\":\"55\",\"maxpeople\":\"55\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UT001411,30281.01\"],\"note\":\"\"},{\"code\":\"3790\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"商業智慧學院\",\"className\":\"商業智慧院一甲\",\"foreverID\":\"400C10003\",\"courseName\":\"資料分析套裝軟體\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳文魁\",\"position\":\"MA324\",\"people\":\"53\",\"maxpeople\":\"55\",\"time\":\"(一)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UT001411,30627.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3789",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "商業智慧學院",
+    "className": "商業智慧院一甲",
+    "foreverID": "400C10002",
+    "courseName": "資料分析與視覺化",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "彭琪祿",
+    "position": "MA324",
+    "people": "55",
+    "maxpeople": "55",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UT001411,30281.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3790",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "商業智慧學院",
+    "className": "商業智慧院一甲",
+    "foreverID": "400C10003",
+    "courseName": "資料分析套裝軟體",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳文魁",
+    "position": "MA324",
+    "people": "53",
+    "maxpeople": "55",
+    "time": "(一)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UT001411,30627.01"
+    ],
+    "note": ""
+  }
+]

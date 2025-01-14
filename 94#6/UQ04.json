@@ -1,1 +1,27 @@
-"[{\"code\":\"0071\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋環境工程系\",\"className\":\"日四技海環系\",\"foreverID\":\"322C10328\",\"courseName\":\"黑潮暑期學分班\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"UQ041400,B0444.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0071",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋環境工程系",
+    "className": "日四技海環系",
+    "foreverID": "322C10328",
+    "courseName": "黑潮暑期學分班",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "6",
+      "UQ041400,B0444.01"
+    ],
+    "note": ""
+  }
+]

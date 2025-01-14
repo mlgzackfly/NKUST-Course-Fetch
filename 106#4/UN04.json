@@ -1,1 +1,27 @@
-"[{\"code\":\"S206\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"行銷與流通管理系\",\"className\":\"行銷系三甲\",\"foreverID\":\"140C10097\",\"courseName\":\"暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UN041431,B3730.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S206",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "行銷與流通管理系",
+    "className": "行銷系三甲",
+    "foreverID": "140C10097",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UN041431,B3730.01"
+    ],
+    "note": ""
+  }
+]

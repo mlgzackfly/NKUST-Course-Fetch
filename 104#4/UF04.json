@@ -1,1 +1,27 @@
-"[{\"code\":\"S250\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"創新設計工程系[第一]\",\"className\":\"創設系三甲\",\"foreverID\":\"109C00006\",\"courseName\":\"設計實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UF041431,F0558.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S250",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "創新設計工程系[第一]",
+    "className": "創設系三甲",
+    "foreverID": "109C00006",
+    "courseName": "設計實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UF041431,F0558.01"
+    ],
+    "note": ""
+  }
+]

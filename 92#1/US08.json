@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1678",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "水產食品科學系碩士班",
+    "className": "水食所一甲",
+    "foreverID": "302B00005",
+    "courseName": "專題討論",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "周照仁,郭建民",
+    "position": "",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "US081711,01682.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1680",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "水產食品科學系碩士班",
+    "className": "水食所一甲",
+    "foreverID": "302B10083",
+    "courseName": "儀器分析及實驗",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "連壯林,郭建民,潘敏雄",
+    "position": "(楠梓)",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(四)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "US081711,A9488.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1720",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "水產食品科學系碩士班",
+    "className": "水食所一甲",
+    "foreverID": "302B10030",
+    "courseName": "細胞生物學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "潘敏雄",
+    "position": "",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(四)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "US081711,A4160.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1721",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "水產食品科學系碩士班",
+    "className": "水食所一甲",
+    "foreverID": "302B10082",
+    "courseName": "水產品HACCP",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊景雍",
+    "position": "",
+    "people": "4",
+    "maxpeople": "60",
+    "time": "(二)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "US081711,A9503.01"
+    ],
+    "note": ""
+  }
+]

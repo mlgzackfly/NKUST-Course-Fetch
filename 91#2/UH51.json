@@ -1,0 +1,52 @@
+[
+  {
+    "code": "1887",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "應用外語系",
+    "className": "四外二甲",
+    "foreverID": "253C00035",
+    "courseName": "英語聽講訓練(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "Stewart Ja",
+    "position": "東303",
+    "people": "47",
+    "maxpeople": "60",
+    "time": "(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "91",
+      "2",
+      "UH511421,01197.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1889",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "應用外語系",
+    "className": "四外二甲",
+    "foreverID": "253C00033",
+    "courseName": "應用文與習作(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "洪素香",
+    "position": "東303",
+    "people": "56",
+    "maxpeople": "60",
+    "time": "(一)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "91",
+      "2",
+      "UH511421,03912.01"
+    ],
+    "note": ""
+  }
+]

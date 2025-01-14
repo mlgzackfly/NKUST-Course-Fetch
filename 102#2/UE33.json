@@ -1,1 +1,127 @@
-"[{\"code\":\"1259\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"模具工程系碩士班[建工/燕巢校區]\",\"className\":\"碩專模具工程一甲\",\"foreverID\":\"209H10020\",\"courseName\":\"塑膠產品設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳政憲\",\"position\":\"模208\",\"people\":\"25\",\"maxpeople\":\"55\",\"time\":\"(五)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UE332711,02164.01\"],\"note\":\"\"},{\"code\":\"1260\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"模具工程系碩士班[建工/燕巢校區]\",\"className\":\"碩專模具工程一甲\",\"foreverID\":\"209H10023\",\"courseName\":\"電腦在模具開發上之應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"許昭和\",\"position\":\"模505\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UE332711,05882.01\"],\"note\":\"\"},{\"code\":\"1261\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"模具工程系碩士班[建工/燕巢校區]\",\"className\":\"碩專模具工程一甲\",\"foreverID\":\"209H10018\",\"courseName\":\"纖維複材應用與產品設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"謝宗翰\",\"position\":\"模208\",\"people\":\"32\",\"maxpeople\":\"55\",\"time\":\"(六)A-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UE332711,08342.01\"],\"note\":\"\"},{\"code\":\"1263\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"模具工程系碩士班[建工/燕巢校區]\",\"className\":\"碩專模具工程二甲\",\"foreverID\":\"209H00005\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"32\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UE332721,03649.01\"],\"note\":\"\"},{\"code\":\"2349\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"模具工程系碩士班[建工/燕巢校區]\",\"className\":\"碩專模具工程二甲\",\"foreverID\":\"209H10032\",\"courseName\":\"科技英文與論文寫作\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊勝安\",\"position\":\"模208\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"(日)7-B\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UE332721,06917.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1259",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "模具工程系碩士班[建工/燕巢校區]",
+    "className": "碩專模具工程一甲",
+    "foreverID": "209H10020",
+    "courseName": "塑膠產品設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳政憲",
+    "position": "模208",
+    "people": "25",
+    "maxpeople": "55",
+    "time": "(五)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UE332711,02164.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1260",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "模具工程系碩士班[建工/燕巢校區]",
+    "className": "碩專模具工程一甲",
+    "foreverID": "209H10023",
+    "courseName": "電腦在模具開發上之應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許昭和",
+    "position": "模505",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UE332711,05882.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1261",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "模具工程系碩士班[建工/燕巢校區]",
+    "className": "碩專模具工程一甲",
+    "foreverID": "209H10018",
+    "courseName": "纖維複材應用與產品設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝宗翰",
+    "position": "模208",
+    "people": "32",
+    "maxpeople": "55",
+    "time": "(六)A-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UE332711,08342.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1263",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "模具工程系碩士班[建工/燕巢校區]",
+    "className": "碩專模具工程二甲",
+    "foreverID": "209H00005",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "32",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UE332721,03649.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2349",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "模具工程系碩士班[建工/燕巢校區]",
+    "className": "碩專模具工程二甲",
+    "foreverID": "209H10032",
+    "courseName": "科技英文與論文寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊勝安",
+    "position": "模208",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "(日)7-B",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UE332721,06917.01"
+    ],
+    "note": ""
+  }
+]

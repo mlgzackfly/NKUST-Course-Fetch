@@ -1,1 +1,52 @@
-"[{\"code\":\"1520\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋事務學程\",\"className\":\"海洋事務學程\",\"foreverID\":\"350C10068\",\"courseName\":\"海域管理法規\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"高瑞鍾\",\"position\":\"6104教室\",\"people\":\"56\",\"maxpeople\":\"60\",\"time\":\"(二)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"GF101400,B1907.01\"],\"note\":\"\"},{\"code\":\"1524\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋事務學程\",\"className\":\"海洋事務學程\",\"foreverID\":\"350C10047\",\"courseName\":\"海洋科技管理概論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"高瑞鍾\",\"position\":\"10201多功能C教室\",\"people\":\"63\",\"maxpeople\":\"60\",\"time\":\"(一)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"GF101400,B2801.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1520",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋事務學程",
+    "className": "海洋事務學程",
+    "foreverID": "350C10068",
+    "courseName": "海域管理法規",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "高瑞鍾",
+    "position": "6104教室",
+    "people": "56",
+    "maxpeople": "60",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "GF101400,B1907.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1524",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋事務學程",
+    "className": "海洋事務學程",
+    "foreverID": "350C10047",
+    "courseName": "海洋科技管理概論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "高瑞鍾",
+    "position": "10201多功能C教室",
+    "people": "63",
+    "maxpeople": "60",
+    "time": "(一)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "GF101400,B2801.01"
+    ],
+    "note": ""
+  }
+]

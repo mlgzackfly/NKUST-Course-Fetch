@@ -1,1 +1,27 @@
-"[{\"code\":\"2188\",\"cmp\":\"燕巢校區\",\"dgr\":\"進四技產學攜手專班\",\"unt\":\"觀光管理系\",\"className\":\"進四產攜觀二乙\",\"foreverID\":\"235G10206\",\"courseName\":\"手工咖啡調製實務\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"游仁良\",\"position\":\"MB202\",\"people\":\"21\",\"maxpeople\":\"20\",\"time\":\"(五)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"UM764222,30380.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2188",
+    "cmp": "燕巢校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "觀光管理系",
+    "className": "進四產攜觀二乙",
+    "foreverID": "235G10206",
+    "courseName": "手工咖啡調製實務",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "游仁良",
+    "position": "MB202",
+    "people": "21",
+    "maxpeople": "20",
+    "time": "(五)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "UM764222,30380.01"
+    ],
+    "note": ""
+  }
+]

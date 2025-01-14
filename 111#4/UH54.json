@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0052",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "人力資源發展系碩士班",
+    "className": "碩專人力資源二甲",
+    "foreverID": "251H10062",
+    "courseName": "人力資源管理實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "董玉娟",
+    "position": "東001",
+    "people": "25",
+    "maxpeople": "25",
+    "time": "(六)1-4,5-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UH542721,05060.01"
+    ],
+    "note": "暑修課程時間：7/1起六週"
+  }
+]

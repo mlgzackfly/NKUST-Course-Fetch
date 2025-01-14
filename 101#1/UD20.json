@@ -1,1 +1,102 @@
-"[{\"code\":\"6446\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C00002\",\"courseName\":\"實務專題(一)\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 徐偉智\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UD201311,02703.01\"],\"note\":\"\"},{\"code\":\"6447\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10013\",\"courseName\":\"軟體工程概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 張御傑,徐偉智\",\"position\":\"F223\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\" (六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UD201311,F2152.01\"],\"note\":\"\"},{\"code\":\"6448\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10012\",\"courseName\":\"多媒體導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 張御傑\",\"position\":\"F223\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\" (六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UD201311,F0848.01\"],\"note\":\"\"},{\"code\":\"6449\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10007\",\"courseName\":\"電腦與網路\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 張御傑\",\"position\":\"F223\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\" (六)8-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UD201311,F1128.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6446",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C00002",
+    "courseName": "實務專題(一)",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "徐偉智",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UD201311,02703.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6447",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C10013",
+    "courseName": "軟體工程概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張御傑,徐偉智",
+    "position": "F223",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UD201311,F2152.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6448",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C10012",
+    "courseName": "多媒體導論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張御傑",
+    "position": "F223",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UD201311,F0848.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6449",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C10007",
+    "courseName": "電腦與網路",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張御傑",
+    "position": "F223",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "(六)8-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UD201311,F1128.01"
+    ],
+    "note": ""
+  }
+]

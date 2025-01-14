@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0042",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業教育中心",
+    "className": "創創中心二甲",
+    "foreverID": "030C10001",
+    "courseName": "創客微學分(一)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "余志成,張鐵懷,鄭瑞鴻,陳建志,龔蒂菀",
+    "position": "教室未定",
+    "people": "23",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UK001421,F2349.01"
+    ],
+    "note": "1.本課程為2024國際共同高端設計營(International Capstone Design Camp,ICDC)培育課程，於5/19-19密集上課。限ICDC活動參與學生修讀。\n2.本課程不開放自由選課。"
+  },
+  {
+    "code": "0043",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業教育中心",
+    "className": "創創中心二甲",
+    "foreverID": "030C10002",
+    "courseName": "創客微學分(二)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "余志成,葉恒志,鄭瑞鴻",
+    "position": "教室未定",
+    "people": "21",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UK001421,F2350.01"
+    ],
+    "note": "備註:\n1.本課程為2024國際共同高端設計營(International Capstone Design Camp,ICDC)培育課程，於6/24-26密集上課。限ICDC活動參與學生修讀。\n2.本課程不開放自由選課。"
+  },
+  {
+    "code": "0044",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業教育中心",
+    "className": "創創中心二甲",
+    "foreverID": "030C10032",
+    "courseName": "國際創新工程設計實作",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "余志成,張鐵懷,翁佳樑,葉恒志,鄭瑞鴻,龔蒂菀",
+    "position": "教室未定",
+    "people": "20",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UK001421,F4595.01"
+    ],
+    "note": "備註:\n1.配合本校2024「國際統整工程設計營(ICDC)」開課，本課程為出國期間8/22-31密集上課。限ICDC活動參與學生修讀。\n2.本課程不開放自由選課。"
+  }
+]

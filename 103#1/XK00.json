@@ -1,1 +1,102 @@
-"[{\"code\":\"2454\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00073\",\"courseName\":\"動力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"XK002411,01495.01\"],\"note\":\"正修科技大學(日四技機二甲)\"},{\"code\":\"2459\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F10211\",\"courseName\":\"光電工程導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"XK002411,00638.01\"],\"note\":\"建國科大〈夜間部〉\"},{\"code\":\"2460\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00119\",\"courseName\":\"微算機原理與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"XK002411,02211.01\"],\"note\":\"建國科技大學〈夜間部〉\"},{\"code\":\"2463\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00109\",\"courseName\":\"統計學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"XK002411,01786.01\"],\"note\":\"正修科技大學\"}]"
+[
+  {
+    "code": "2454",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00073",
+    "courseName": "動力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "XK002411,01495.01"
+    ],
+    "note": "正修科技大學(日四技機二甲)"
+  },
+  {
+    "code": "2459",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F10211",
+    "courseName": "光電工程導論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "XK002411,00638.01"
+    ],
+    "note": "建國科大〈夜間部〉"
+  },
+  {
+    "code": "2460",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00119",
+    "courseName": "微算機原理與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "XK002411,02211.01"
+    ],
+    "note": "建國科技大學〈夜間部〉"
+  },
+  {
+    "code": "2463",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00109",
+    "courseName": "統計學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "XK002411,01786.01"
+    ],
+    "note": "正修科技大學"
+  }
+]

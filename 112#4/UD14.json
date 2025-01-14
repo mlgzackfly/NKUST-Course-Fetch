@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0215",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班二甲",
+    "foreverID": "122H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "徐偉智",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UD142721,05010.01"
+    ],
+    "note": ""
+  }
+]

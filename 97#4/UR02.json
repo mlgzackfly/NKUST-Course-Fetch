@@ -1,1 +1,127 @@
-"[{\"code\":\"0013\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機工程系\",\"foreverID\":\"313C00226\",\"courseName\":\"動力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UR021400,01495.01\"],\"note\":\"931232037及20暑修申請跨校(高應大)選課抵四技二下動力學3學分\"},{\"code\":\"0014\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機工程系\",\"foreverID\":\"313C00219\",\"courseName\":\"微積分\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UR021400,02222.01\"],\"note\":\"941232110暑修申請跨校(高苑)選課抵四技一下微積分3學分\"},{\"code\":\"0015\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機工程系\",\"foreverID\":\"313C00186\",\"courseName\":\"英文II\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UR021400,B1192.01\"],\"note\":\"931232050暑修申請跨校(大仁)選課抵四技一下英文2學分\"},{\"code\":\"0016\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機工程系\",\"foreverID\":\"313C00223\",\"courseName\":\"國文(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UR021400,01559.01\"],\"note\":\"941232128暑修申請跨校(正修)選課抵四技一下中國語文2學分\"},{\"code\":\"0011\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機三年級\",\"foreverID\":\"313C00173\",\"courseName\":\"輪機英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"張俊德\",\"position\":\"3201教室\",\"people\":\"46\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(二)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UR021430,A6960.01\"],\"note\":\"\"},{\"code\":\"0011\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機工程系\",\"className\":\"日四技輪機三年級\",\"foreverID\":\"313C00173\",\"courseName\":\"輪機英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"張俊德\",\"position\":\"3201教室\",\"people\":\"46\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(二)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UR021430,A6960.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0013",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機工程系",
+    "foreverID": "313C00226",
+    "courseName": "動力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UR021400,01495.01"
+    ],
+    "note": "931232037及20暑修申請跨校(高應大)選課抵四技二下動力學3學分"
+  },
+  {
+    "code": "0014",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機工程系",
+    "foreverID": "313C00219",
+    "courseName": "微積分",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UR021400,02222.01"
+    ],
+    "note": "941232110暑修申請跨校(高苑)選課抵四技一下微積分3學分"
+  },
+  {
+    "code": "0015",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機工程系",
+    "foreverID": "313C00186",
+    "courseName": "英文II",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UR021400,B1192.01"
+    ],
+    "note": "931232050暑修申請跨校(大仁)選課抵四技一下英文2學分"
+  },
+  {
+    "code": "0016",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機工程系",
+    "foreverID": "313C00223",
+    "courseName": "國文(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UR021400,01559.01"
+    ],
+    "note": "941232128暑修申請跨校(正修)選課抵四技一下中國語文2學分"
+  },
+  {
+    "code": "0011",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機工程系",
+    "className": "日四技輪機三年級",
+    "foreverID": "313C00173",
+    "courseName": "輪機英文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張俊德",
+    "position": "3201教室",
+    "people": "46",
+    "maxpeople": "60",
+    "time": "(一)1-4(二)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UR021430,A6960.01"
+    ],
+    "note": ""
+  }
+]

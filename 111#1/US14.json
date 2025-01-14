@@ -1,1 +1,77 @@
-"[{\"code\":\"3877\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"漁業生產與管理系碩士班\",\"className\":\"碩專漁管所二年級\",\"foreverID\":\"305H00004\",\"courseName\":\"專題討論(三)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"劉仁銘\",\"position\":\"317-1研究生教室B\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(六)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"US142721,01685.01\"],\"note\":\"\"},{\"code\":\"3878\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"漁業生產與管理系碩士班\",\"className\":\"碩專漁管所二年級\",\"foreverID\":\"305H10022\",\"courseName\":\"管理學特論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"侯清賢\",\"position\":\"317-1研究生教室B\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(六)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"US142721,B1503.01\"],\"note\":\"\"},{\"code\":\"3879\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"漁業生產與管理系碩士班\",\"className\":\"碩專漁管所二年級\",\"foreverID\":\"305H10014\",\"courseName\":\"永續漁業特論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"廖翊雅\",\"position\":\"317-1研究生教室B\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(六)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"US142721,B1600.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3877",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "漁業生產與管理系碩士班",
+    "className": "碩專漁管所二年級",
+    "foreverID": "305H00004",
+    "courseName": "專題討論(三)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "劉仁銘",
+    "position": "317-1研究生教室B",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(六)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "US142721,01685.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3878",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "漁業生產與管理系碩士班",
+    "className": "碩專漁管所二年級",
+    "foreverID": "305H10022",
+    "courseName": "管理學特論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "侯清賢",
+    "position": "317-1研究生教室B",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "US142721,B1503.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3879",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "漁業生產與管理系碩士班",
+    "className": "碩專漁管所二年級",
+    "foreverID": "305H10014",
+    "courseName": "永續漁業特論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "廖翊雅",
+    "position": "317-1研究生教室B",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(六)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "US142721,B1600.01"
+    ],
+    "note": ""
+  }
+]

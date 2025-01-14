@@ -1,1 +1,102 @@
-"[{\"code\":\"5306\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10037\",\"courseName\":\"日本文化研究與文獻探討 I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 劉伯雯,陳志坪\",\"position\":\"D516\",\"people\":\"11\",\"maxpeople\":\"30\",\"time\":\" (六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UJ062711,F5004.01\"],\"note\":\"\"},{\"code\":\"5307\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10114\",\"courseName\":\"日語教學研究 I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 中島清明,葉淑華\",\"position\":\"D516\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UJ062711,F2386.01\"],\"note\":\"\"},{\"code\":\"6458\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10013\",\"courseName\":\"論文寫作與文獻導讀 I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 林蕙美,陳玫君,黃愛玲,齋美智子\",\"position\":\"D516\",\"people\":\"11\",\"maxpeople\":\"30\",\"time\":\" (六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UJ062711,F4498.01\"],\"note\":\"\"},{\"code\":\"5308\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H00003\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 中島清明\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UJ062721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5306",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10037",
+    "courseName": "日本文化研究與文獻探討 I",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉伯雯,陳志坪",
+    "position": "D516",
+    "people": "11",
+    "maxpeople": "30",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UJ062711,F5004.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5307",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10114",
+    "courseName": "日語教學研究 I",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "中島清明,葉淑華",
+    "position": "D516",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UJ062711,F2386.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6458",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10013",
+    "courseName": "論文寫作與文獻導讀 I",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林蕙美,陳玫君,黃愛玲,齋美智子",
+    "position": "D516",
+    "people": "11",
+    "maxpeople": "30",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UJ062711,F4498.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5308",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "中島清明",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UJ062721,05010.01"
+    ],
+    "note": ""
+  }
+]

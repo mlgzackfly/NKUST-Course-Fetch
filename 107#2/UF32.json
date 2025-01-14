@@ -1,1 +1,77 @@
-"[{\"code\":\"1648\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械系雙軌機電班[第一]\",\"className\":\"雙軌機電班四丁\",\"foreverID\":\"194C00018\",\"courseName\":\"機械製造\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"陳太平\",\"position\":\"B115\",\"people\":\"12\",\"maxpeople\":\"13\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UF321444,03134.01\"],\"note\":\"\"},{\"code\":\"1649\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械系雙軌機電班[第一]\",\"className\":\"雙軌機電班四丁\",\"foreverID\":\"194C10062\",\"courseName\":\"順序控制與實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"薛博文\",\"position\":\"F128\",\"people\":\"12\",\"maxpeople\":\"13\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UF321444,F3050.01\"],\"note\":\"\"},{\"code\":\"1650\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械系雙軌機電班[第一]\",\"className\":\"雙軌機電班四丁\",\"foreverID\":\"194C10037\",\"courseName\":\"機電實務實習(八)\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"姚武松\",\"position\":\"\",\"people\":\"12\",\"maxpeople\":\"13\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UF321444,F3178.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1648",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械系雙軌機電班[第一]",
+    "className": "雙軌機電班四丁",
+    "foreverID": "194C00018",
+    "courseName": "機械製造",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "陳太平",
+    "position": "B115",
+    "people": "12",
+    "maxpeople": "13",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UF321444,03134.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1649",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械系雙軌機電班[第一]",
+    "className": "雙軌機電班四丁",
+    "foreverID": "194C10062",
+    "courseName": "順序控制與實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "薛博文",
+    "position": "F128",
+    "people": "12",
+    "maxpeople": "13",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UF321444,F3050.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1650",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械系雙軌機電班[第一]",
+    "className": "雙軌機電班四丁",
+    "foreverID": "194C10037",
+    "courseName": "機電實務實習(八)",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "姚武松",
+    "position": "",
+    "people": "12",
+    "maxpeople": "13",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UF321444,F3178.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,127 @@
-"[{\"code\":\"0083\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00071\",\"courseName\":\"計算機概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"XK002411,01221.01\"],\"note\":\"勤益科大〈夜〉\"},{\"code\":\"0127\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00094\",\"courseName\":\"工程數學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"XK002411,00233.01\"],\"note\":\"勤益科大〈日〉\"},{\"code\":\"0139\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F10145\",\"courseName\":\"資料結構\",\"hours\":\"0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"XK002411,02313.01\"],\"note\":\"義守大學〈日〉\"},{\"code\":\"0153\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00100\",\"courseName\":\"作業研究\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"XK002411,00815.01\"],\"note\":\"\"},{\"code\":\"0154\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F10173\",\"courseName\":\"法律與生活\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"XK002411,00945.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0083",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00071",
+    "courseName": "計算機概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "XK002411,01221.01"
+    ],
+    "note": "勤益科大〈夜〉"
+  },
+  {
+    "code": "0127",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00094",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "XK002411,00233.01"
+    ],
+    "note": "勤益科大〈日〉"
+  },
+  {
+    "code": "0139",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F10145",
+    "courseName": "資料結構",
+    "hours": "0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "XK002411,02313.01"
+    ],
+    "note": "義守大學〈日〉"
+  },
+  {
+    "code": "0153",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00100",
+    "courseName": "作業研究",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "XK002411,00815.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0154",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F10173",
+    "courseName": "法律與生活",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "XK002411,00945.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,127 @@
-"[{\"code\":\"2437\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校班\",\"foreverID\":\"295B10099\",\"courseName\":\"混合訊號式矽智財設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"3\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001700,06424.01\"],\"note\":\"成功大學\"},{\"code\":\"2438\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校班\",\"foreverID\":\"295B10160\",\"courseName\":\"高等類比積體電路設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"3\",\"time\":\"(四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001700,07784.01\"],\"note\":\"成功大學\"},{\"code\":\"2412\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10161\",\"courseName\":\"文化行動研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,08676.01\"],\"note\":\"高雄師範大學\"},{\"code\":\"2416\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10152\",\"courseName\":\"產品與服務創新發展研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,08678.01\"],\"note\":\"屏東教育大學\"},{\"code\":\"2421\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10196\",\"courseName\":\"跨領域藝術策展實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,08681.01\"],\"note\":\"高雄師範大學\"},{\"code\":\"2422\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10158\",\"courseName\":\"女性主義與當代藝術\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,08682.01\"],\"note\":\"高雄師範大學\"},{\"code\":\"2423\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10098\",\"courseName\":\"新類型公共藝術創作研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"4\",\"maxpeople\":\"4\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,08683.01\"],\"note\":\"高雄師範大學\"},{\"code\":\"2427\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10169\",\"courseName\":\"創意城市與產業群聚研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"1\",\"time\":\"(一)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,08684.01\"],\"note\":\"屏東教育大學\"},{\"code\":\"2460\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10113\",\"courseName\":\"電力品質\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"3\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,02386.01\"],\"note\":\"中山大學\"},{\"code\":\"2461\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"跨外校修課生\",\"className\":\"日碩士跨外校一甲\",\"foreverID\":\"295B10135\",\"courseName\":\"品牌行銷\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"2\",\"time\":\"(六)3-A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"XK001711,08699.01\"],\"note\":\"中山大學\"}]"
+[
+  {
+    "code": "",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00061",
+    "courseName": "電路學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "XK002411,02624.01"
+    ],
+    "note": "正修科大日間"
+  },
+  {
+    "code": "",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00041",
+    "courseName": "英語聽講訓練",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "XK002411,03856.01"
+    ],
+    "note": "高師大日間"
+  },
+  {
+    "code": "",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00116",
+    "courseName": "普通化學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "XK002411,04977.01"
+    ],
+    "note": "屏東科技大學"
+  },
+  {
+    "code": "",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F10147",
+    "courseName": "美容及化妝品法規",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "XK002411,08782.01"
+    ],
+    "note": "永達技術學院"
+  },
+  {
+    "code": "",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00108",
+    "courseName": "統計學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "XK002411,01788.01"
+    ],
+    "note": "正修科大日間部四技"
+  }
+]

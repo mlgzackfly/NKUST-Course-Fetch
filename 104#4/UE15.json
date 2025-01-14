@@ -1,1 +1,52 @@
-"[{\"code\":\"0090\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊工程系\",\"className\":\"四資工\",\"foreverID\":\"221C00041\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"蕭淳元,楊孟翰,鐘文鈺,張道行,張雲龍,林威成,羅孟彥,陳洳瑾\",\"position\":\"\",\"people\":\"40\",\"maxpeople\":\"55\",\"time\":\"(一)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UE151400,04138.01\"],\"note\":\"\"},{\"code\":\"0067\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊工程系\",\"className\":\"四資工三甲\",\"foreverID\":\"221C10086\",\"courseName\":\"專業實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"林威成\",\"position\":\"\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UE151431,09267.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0090",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "資訊工程系",
+    "className": "四資工",
+    "foreverID": "221C00041",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "蕭淳元,楊孟翰,鐘文鈺,張道行,張雲龍,林威成,羅孟彥,陳洳瑾",
+    "position": "",
+    "people": "40",
+    "maxpeople": "55",
+    "time": "(一)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UE151400,04138.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0067",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "資訊工程系",
+    "className": "四資工三甲",
+    "foreverID": "221C10086",
+    "courseName": "專業實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林威成",
+    "position": "",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UE151431,09267.01"
+    ],
+    "note": ""
+  }
+]

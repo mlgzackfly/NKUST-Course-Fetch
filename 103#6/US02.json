@@ -1,1 +1,27 @@
-"[{\"code\":\"0074\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"水產食品科學系\",\"className\":\"進四技水食二\",\"foreverID\":\"302F00192\",\"courseName\":\"生物化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"US022420,00562.01\"],\"note\":\"校際\"}]"
+[
+  {
+    "code": "0074",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "水產食品科學系",
+    "className": "進四技水食二",
+    "foreverID": "302F00192",
+    "courseName": "生物化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "6",
+      "US022420,00562.01"
+    ],
+    "note": "校際"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "4178",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張清發",
+    "position": "旗U603教室",
+    "people": "54",
+    "maxpeople": "55",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "XB011415,13308.01"
+    ],
+    "note": "四航一，本課程不可抵充實務應用文。"
+  },
+  {
+    "code": "4179",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張清發",
+    "position": "旗U603教室",
+    "people": "48",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "XB011415,13308.02"
+    ],
+    "note": "四海資一，本課程不可抵充實務應用文。"
+  },
+  {
+    "code": "4180",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫吉志",
+    "position": "旗U201教室",
+    "people": "49",
+    "maxpeople": "55",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "XB011415,13308.03"
+    ],
+    "note": "四輪一甲，本課程不可抵充實務應用文。"
+  },
+  {
+    "code": "4181",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫吉志",
+    "position": "旗U201教室",
+    "people": "49",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "XB011415,13308.04"
+    ],
+    "note": "四輪一乙，本課程不可抵充實務應用文。"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0062",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "金融系",
+    "className": "進四技金融三甲",
+    "foreverID": "153F10049",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "王銘駿,翟瑞祥",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UP012441,30255.01"
+    ],
+    "note": "1.不開放選課，由系辦掛課\n2.7/1-8/31"
+  },
+  {
+    "code": "0062",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "金融系",
+    "className": "進四技金融四甲",
+    "foreverID": "153F10049",
+    "courseName": "金融暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "王銘駿,翟瑞祥",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UP012441,30255.01"
+    ],
+    "note": "1.不開放選課，由系辦掛課\n2.7/1-8/31"
+  }
+]

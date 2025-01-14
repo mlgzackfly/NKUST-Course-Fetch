@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0113",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "海事資訊科技系",
+    "className": "日四技海資三甲",
+    "foreverID": "311C10154",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "謝志敏",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR031431,09635.01"
+    ],
+    "note": "不開放選課，經系職場實習委員會通過後，由系上人工選課。"
+  }
+]

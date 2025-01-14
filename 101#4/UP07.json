@@ -1,1 +1,102 @@
-"[{\"code\":\"S113\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班一甲\",\"foreverID\":\"153H10021\",\"courseName\":\"財務管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP072711,01405.01\"],\"note\":\"\"},{\"code\":\"S115\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班一甲\",\"foreverID\":\"153H00008\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP072711,05010.01\"],\"note\":\"\"},{\"code\":\"S117\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班二甲\",\"foreverID\":\"153H10048\",\"courseName\":\"金融行銷研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP072721,F2212.01\"],\"note\":\"\"},{\"code\":\"S117\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班二甲\",\"foreverID\":\"153H10048\",\"courseName\":\"金融行銷研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP072721,F2212.01\"],\"note\":\"\"},{\"code\":\"S117\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班二甲\",\"foreverID\":\"153H10048\",\"courseName\":\"金融行銷研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP072721,F2212.01\"],\"note\":\"\"},{\"code\":\"S119\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班二甲\",\"foreverID\":\"153H10042\",\"courseName\":\"金融機構管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP072721,F2205.01\"],\"note\":\"\"},{\"code\":\"S119\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班二甲\",\"foreverID\":\"153H10042\",\"courseName\":\"金融機構管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP072721,F2205.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S113",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "金融系碩士專班[第一]",
+    "className": "金融碩專班一甲",
+    "foreverID": "153H10021",
+    "courseName": "財務管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UP072711,01405.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S115",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "金融系碩士專班[第一]",
+    "className": "金融碩專班一甲",
+    "foreverID": "153H00008",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UP072711,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S117",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "金融系碩士專班[第一]",
+    "className": "金融碩專班二甲",
+    "foreverID": "153H10048",
+    "courseName": "金融行銷研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UP072721,F2212.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S119",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "金融系碩士專班[第一]",
+    "className": "金融碩專班二甲",
+    "foreverID": "153H10042",
+    "courseName": "金融機構管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UP072721,F2205.01"
+    ],
+    "note": ""
+  }
+]

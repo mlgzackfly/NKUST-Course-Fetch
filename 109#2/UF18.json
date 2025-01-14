@@ -1,1 +1,127 @@
-"[{\"code\":\"1527\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班一甲\",\"foreverID\":\"104H10010\",\"courseName\":\"火災學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡匡忠\",\"position\":\"B124\",\"people\":\"24\",\"maxpeople\":\"40\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF182711,F0058.01\"],\"note\":\"\"},{\"code\":\"1528\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班一甲\",\"foreverID\":\"104H10014\",\"courseName\":\"安全工程特論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"廖宏章\",\"position\":\"B122\",\"people\":\"10\",\"maxpeople\":\"40\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF182711,F1554.01\"],\"note\":\"\"},{\"code\":\"1526\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班二甲\",\"foreverID\":\"104H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"賴俊吉\",\"position\":\"\",\"people\":\"4\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF182721,05010.01\"],\"note\":\"\"},{\"code\":\"1527\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班二甲\",\"foreverID\":\"104H10010\",\"courseName\":\"火災學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡匡忠\",\"position\":\"B124\",\"people\":\"24\",\"maxpeople\":\"40\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF182721,F0058.01\"],\"note\":\"\"},{\"code\":\"1528\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班二甲\",\"foreverID\":\"104H10014\",\"courseName\":\"安全工程特論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"廖宏章\",\"position\":\"B122\",\"people\":\"10\",\"maxpeople\":\"40\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF182721,F1554.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1527",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班一甲",
+    "foreverID": "104H10010",
+    "courseName": "火災學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡匡忠",
+    "position": "B124",
+    "people": "24",
+    "maxpeople": "40",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF182721,F0058.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1528",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班一甲",
+    "foreverID": "104H10014",
+    "courseName": "安全工程特論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "廖宏章",
+    "position": "B122",
+    "people": "10",
+    "maxpeople": "40",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF182721,F1554.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1526",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班二甲",
+    "foreverID": "104H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "賴俊吉",
+    "position": "",
+    "people": "4",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF182721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1527",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班二甲",
+    "foreverID": "104H10010",
+    "courseName": "火災學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡匡忠",
+    "position": "B124",
+    "people": "24",
+    "maxpeople": "40",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF182721,F0058.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1528",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班二甲",
+    "foreverID": "104H10014",
+    "courseName": "安全工程特論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "廖宏章",
+    "position": "B122",
+    "people": "10",
+    "maxpeople": "40",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF182721,F1554.01"
+    ],
+    "note": ""
+  }
+]

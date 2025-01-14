@@ -1,1 +1,127 @@
-"[{\"code\":\"6474\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10486\",\"courseName\":\"最佳化方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XK051711,F0962.01\"],\"note\":\"\"},{\"code\":\"6481\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10512\",\"courseName\":\"E化製造\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XK051711,F0089.01\"],\"note\":\"\"},{\"code\":\"6482\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10489\",\"courseName\":\"天線理論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"5\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XK051711,F0249.01\"],\"note\":\"\"},{\"code\":\"6485\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10268\",\"courseName\":\"智慧生活應用數位影像處理技術\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XK051711,08293.01\"],\"note\":\"\"},{\"code\":\"6486\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10391\",\"courseName\":\"無線通訊系統產業實務\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XK051711,F4672.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6474",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10486",
+    "courseName": "最佳化方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XK051711,F0962.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6481",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10512",
+    "courseName": "E化製造",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XK051711,F0089.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6482",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10489",
+    "courseName": "天線理論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "5",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XK051711,F0249.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6485",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10268",
+    "courseName": "智慧生活應用數位影像處理技術",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XK051711,08293.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6486",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10391",
+    "courseName": "無線通訊系統產業實務",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XK051711,F4672.01"
+    ],
+    "note": ""
+  }
+]

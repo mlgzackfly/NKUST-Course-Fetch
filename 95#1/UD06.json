@@ -1,1 +1,27 @@
-"[{\"code\":\"5312\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光學設計產業研發碩士專班\",\"className\":\"光電光學班一甲\",\"foreverID\":\"177B00004\",\"courseName\":\"專題討論(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD061711,01684.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5312",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光學設計產業研發碩士專班",
+    "className": "光電光學班一甲",
+    "foreverID": "177B00004",
+    "courseName": "專題討論(二)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD061711,01684.01"
+    ],
+    "note": ""
+  }
+]

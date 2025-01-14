@@ -1,1 +1,27 @@
-"[{\"code\":\"S185\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"運籌管理系\",\"className\":\"運籌系二甲\",\"foreverID\":\"137C10110\",\"courseName\":\"運籌暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UN021421,F2169.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S185",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "運籌管理系",
+    "className": "運籌系二甲",
+    "foreverID": "137C10110",
+    "courseName": "運籌暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UN021421,F2169.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"2310\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"中小企業工程與經營管理產業碩士\",\"className\":\"進碩秋財中企一甲\",\"foreverID\":\"212I10008\",\"courseName\":\"研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"唐惠欽\",\"position\":\"中204\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UM662611,01135.01\"],\"note\":\"\"},{\"code\":\"2311\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"中小企業工程與經營管理產業碩士\",\"className\":\"進碩秋財中企一甲\",\"foreverID\":\"212I10005\",\"courseName\":\"管理會計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"姚名鴻\",\"position\":\"中204\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\"(四)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UM662611,02739.01\"],\"note\":\"\"},{\"code\":\"2312\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"中小企業工程與經營管理產業碩士\",\"className\":\"進碩秋財中企一甲\",\"foreverID\":\"212I00002\",\"courseName\":\"顧客關係管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"何宗漢\",\"position\":\"中204\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UM662611,03622.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2310",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "中小企業工程與經營管理產業碩士",
+    "className": "進碩秋財中企一甲",
+    "foreverID": "212I10008",
+    "courseName": "研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "唐惠欽",
+    "position": "中204",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UM662611,01135.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2311",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "中小企業工程與經營管理產業碩士",
+    "className": "進碩秋財中企一甲",
+    "foreverID": "212I10005",
+    "courseName": "管理會計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "姚名鴻",
+    "position": "中204",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(四)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UM662611,02739.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2312",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "中小企業工程與經營管理產業碩士",
+    "className": "進碩秋財中企一甲",
+    "foreverID": "212I00002",
+    "courseName": "顧客關係管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "何宗漢",
+    "position": "中204",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UM662611,03622.01"
+    ],
+    "note": ""
+  }
+]

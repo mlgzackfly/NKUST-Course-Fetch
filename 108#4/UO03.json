@@ -1,1 +1,102 @@
-"[{\"code\":\"0054\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"供應鏈管理系\",\"className\":\"進四技供應一年級\",\"foreverID\":\"332F00033\",\"courseName\":\"行銷管理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"林義屏\",\"position\":\"2507教室\",\"people\":\"19\",\"maxpeople\":\"55\",\"time\":\"(二)10-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UO032411,00794.01\"],\"note\":\"\"},{\"code\":\"0055\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"供應鏈管理系\",\"className\":\"進四技供應一年級\",\"foreverID\":\"332F00072\",\"courseName\":\"會計學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"康瑞亨\",\"position\":\"2507教室\",\"people\":\"19\",\"maxpeople\":\"55\",\"time\":\"(四)10-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UO032411,02256.01\"],\"note\":\"\"},{\"code\":\"0056\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"供應鏈管理系\",\"className\":\"進四技供應一年級\",\"foreverID\":\"332F00071\",\"courseName\":\"管理學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"李勝祥\",\"position\":\"2507教室\",\"people\":\"10\",\"maxpeople\":\"55\",\"time\":\"(一)10-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UO032411,02754.01\"],\"note\":\"補足差額開班\"},{\"code\":\"0057\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"供應鏈管理系\",\"className\":\"進四技供應二年級\",\"foreverID\":\"332F00069\",\"courseName\":\"管理數學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"余德成\",\"position\":\"2508教室\",\"people\":\"20\",\"maxpeople\":\"55\",\"time\":\"(三)10-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UO032421,02752.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0054",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "供應鏈管理系",
+    "className": "進四技供應一年級",
+    "foreverID": "332F00033",
+    "courseName": "行銷管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "林義屏",
+    "position": "2507教室",
+    "people": "19",
+    "maxpeople": "55",
+    "time": "(二)10-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UO032411,00794.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0055",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "供應鏈管理系",
+    "className": "進四技供應一年級",
+    "foreverID": "332F00072",
+    "courseName": "會計學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "康瑞亨",
+    "position": "2507教室",
+    "people": "19",
+    "maxpeople": "55",
+    "time": "(四)10-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UO032411,02256.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0056",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "供應鏈管理系",
+    "className": "進四技供應一年級",
+    "foreverID": "332F00071",
+    "courseName": "管理學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李勝祥",
+    "position": "2507教室",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(一)10-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UO032411,02754.01"
+    ],
+    "note": "補足差額開班"
+  },
+  {
+    "code": "0057",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "供應鏈管理系",
+    "className": "進四技供應二年級",
+    "foreverID": "332F00069",
+    "courseName": "管理數學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "余德成",
+    "position": "2508教室",
+    "people": "20",
+    "maxpeople": "55",
+    "time": "(三)10-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UO032421,02752.01"
+    ],
+    "note": ""
+  }
+]

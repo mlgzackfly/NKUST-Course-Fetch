@@ -1,1 +1,27 @@
-"[{\"code\":\"1508\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"休閒系產學一貫學程\",\"className\":\"休閒產學學程\",\"foreverID\":\"351C10005\",\"courseName\":\"就業實習\",\"hours\":\"9.0\",\"units\":\"9.0\",\"required\":\"選修\",\"instructors\":\"林杏麗,尤若弘\",\"position\":\"\",\"people\":\"9\",\"maxpeople\":\"0\",\"time\":\"(六)1-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"GK021400,B2696.01\"],\"note\":\"限海休系學生修讀。\"}]"
+[
+  {
+    "code": "1508",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "休閒系產學一貫學程",
+    "className": "休閒產學學程",
+    "foreverID": "351C10005",
+    "courseName": "就業實習",
+    "hours": "9.0",
+    "units": "9.0",
+    "required": "選修",
+    "instructors": "林杏麗,尤若弘",
+    "position": "",
+    "people": "9",
+    "maxpeople": "0",
+    "time": "(六)1-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "GK021400,B2696.01"
+    ],
+    "note": "限海休系學生修讀。"
+  }
+]

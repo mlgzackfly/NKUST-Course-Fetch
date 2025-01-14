@@ -1,1 +1,127 @@
-"[{\"code\":\"1423\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系先進製造科技碩士班\",\"className\":\"機電製造碩一甲\",\"foreverID\":\"105B00012\",\"courseName\":\"專題討論(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"林栢村\",\"position\":\"F109\",\"people\":\"26\",\"maxpeople\":\"35\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF221711,01684.01\"],\"note\":\"與先進製造碩士班一起上課\"},{\"code\":\"1433\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系先進製造科技碩士班\",\"className\":\"機電製造碩一甲\",\"foreverID\":\"105B00011\",\"courseName\":\"英語簡報實務\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"馮蕙嫻,吳宗亮\",\"position\":\"B116\",\"people\":\"26\",\"maxpeople\":\"35\",\"time\":\"(一)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF221711,F2025.01\"],\"note\":\"與先進製造碩士班一起上課\"},{\"code\":\"1499\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系先進製造科技碩士班\",\"className\":\"機電製造碩一甲\",\"foreverID\":\"101A10408\",\"courseName\":\"科技英語簡報(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"安富睿\",\"position\":\"F410\",\"people\":\"2\",\"maxpeople\":\"15\",\"time\":\"(四)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF221711,10464.01\"],\"note\":\"外籍教師，英文授課，此課程不納入畢業學分。\"},{\"code\":\"1499\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系先進製造科技碩士班\",\"className\":\"機電製造碩二甲\",\"foreverID\":\"101A10408\",\"courseName\":\"科技英語簡報(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"安富睿\",\"position\":\"F410\",\"people\":\"2\",\"maxpeople\":\"15\",\"time\":\"(四)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF221721,10464.01\"],\"note\":\"外籍教師，英文授課，此課程不納入畢業學分。\"},{\"code\":\"1545\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系先進製造科技碩士班\",\"className\":\"機電製造碩二甲\",\"foreverID\":\"107B00006\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"謝其昌\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UF221721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1423",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系先進製造科技碩士班",
+    "className": "機電製造碩一甲",
+    "foreverID": "105B00012",
+    "courseName": "專題討論(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "林栢村",
+    "position": "F109",
+    "people": "26",
+    "maxpeople": "35",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF091711,01684.01"
+    ],
+    "note": "與先進製造碩士班一起上課"
+  },
+  {
+    "code": "1433",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系先進製造科技碩士班",
+    "className": "機電製造碩一甲",
+    "foreverID": "105B00011",
+    "courseName": "英語簡報實務",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "馮蕙嫻,吳宗亮",
+    "position": "B116",
+    "people": "26",
+    "maxpeople": "35",
+    "time": "(一)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF091711,F2025.01"
+    ],
+    "note": "與先進製造碩士班一起上課"
+  },
+  {
+    "code": "1499",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系先進製造科技碩士班",
+    "className": "機電製造碩一甲",
+    "foreverID": "101A10408",
+    "courseName": "科技英語簡報(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "安富睿",
+    "position": "F410",
+    "people": "2",
+    "maxpeople": "15",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF131811,10464.01"
+    ],
+    "note": "外籍教師，英文授課，此課程不納入畢業學分。"
+  },
+  {
+    "code": "1499",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系先進製造科技碩士班",
+    "className": "機電製造碩二甲",
+    "foreverID": "101A10408",
+    "courseName": "科技英語簡報(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "安富睿",
+    "position": "F410",
+    "people": "2",
+    "maxpeople": "15",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF131811,10464.01"
+    ],
+    "note": "外籍教師，英文授課，此課程不納入畢業學分。"
+  },
+  {
+    "code": "1545",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系先進製造科技碩士班",
+    "className": "機電製造碩二甲",
+    "foreverID": "107B00006",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "謝其昌",
+    "position": "",
+    "people": "5",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF221721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"1739\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機自動化產業研發碩士專班\",\"className\":\"進碩秋電自動二甲\",\"foreverID\":\"282I10008\",\"courseName\":\"遠端監控暨實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"卓明遠\",\"position\":\"電405C\",\"people\":\"5\",\"maxpeople\":\"30\",\"time\":\"(五)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UI022621,04449.01\"],\"note\":\"\"},{\"code\":\"1740\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機自動化產業研發碩士專班\",\"className\":\"進碩秋電自動二甲\",\"foreverID\":\"282I10004\",\"courseName\":\"數位控制系統設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"葛世偉\",\"position\":\"電603\",\"people\":\"9\",\"maxpeople\":\"30\",\"time\":\"(四)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UI022621,05095.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1739",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機自動化產業研發碩士專班",
+    "className": "進碩秋電自動二甲",
+    "foreverID": "282I10008",
+    "courseName": "遠端監控暨實習",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "卓明遠",
+    "position": "電405C",
+    "people": "5",
+    "maxpeople": "30",
+    "time": "(五)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UI022621,04449.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1740",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機自動化產業研發碩士專班",
+    "className": "進碩秋電自動二甲",
+    "foreverID": "282I10004",
+    "courseName": "數位控制系統設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "葛世偉",
+    "position": "電603",
+    "people": "9",
+    "maxpeople": "30",
+    "time": "(四)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UI022621,05095.01"
+    ],
+    "note": ""
+  }
+]

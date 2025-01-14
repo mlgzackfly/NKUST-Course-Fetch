@@ -1,1 +1,127 @@
-"[{\"code\":\"5293\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10008\",\"courseName\":\"雲端運算服務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 徐偉智\",\"position\":\"B125\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\" (五)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD142711,F2234.01\"],\"note\":\"\"},{\"code\":\"5294\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10051\",\"courseName\":\"車載資通訊與感測器應用實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 郝敏忠\",\"position\":\"B125\",\"people\":\"11\",\"maxpeople\":\"60\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD142711,F5155.01\"],\"note\":\"\"},{\"code\":\"5296\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10044\",\"courseName\":\"論文與技術報告寫作及發表\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 吳大鈞,徐偉智,郝敏忠,陳慶永\",\"position\":\"B229\",\"people\":\"5\",\"maxpeople\":\"60\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD142711,F5087.01\"],\"note\":\"\"},{\"code\":\"5297\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班一甲\",\"foreverID\":\"122H10023\",\"courseName\":\"智慧辨識與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 曾建誠\",\"position\":\"B125\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD142711,F2770.01\"],\"note\":\"\"},{\"code\":\"5298\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電腦與通訊工程系碩專班\",\"className\":\"電通碩專班二甲\",\"foreverID\":\"122H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 吳大鈞\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD142721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5293",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10008",
+    "courseName": "雲端運算服務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐偉智",
+    "position": "B125",
+    "people": "26",
+    "maxpeople": "60",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD142711,F2234.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5294",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10051",
+    "courseName": "車載資通訊與感測器應用實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "郝敏忠",
+    "position": "B125",
+    "people": "11",
+    "maxpeople": "60",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD142711,F5155.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5296",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10044",
+    "courseName": "論文與技術報告寫作及發表",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳大鈞,徐偉智,郝敏忠,陳慶永",
+    "position": "B229",
+    "people": "5",
+    "maxpeople": "60",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD142711,F5087.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5297",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班一甲",
+    "foreverID": "122H10023",
+    "courseName": "智慧辨識與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "曾建誠",
+    "position": "B125",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD142711,F2770.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5298",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電腦與通訊工程系碩專班",
+    "className": "電通碩專班二甲",
+    "foreverID": "122H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "吳大鈞",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD142721,05010.01"
+    ],
+    "note": ""
+  }
+]

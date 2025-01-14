@@ -1,1 +1,102 @@
-"[{\"code\":\"0462\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電一甲\",\"foreverID\":\"227A00001\",\"courseName\":\"專題研討(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"李宗恩\",\"position\":\"電小劇場\",\"people\":\"7\",\"maxpeople\":\"30\",\"time\":\"(五)6-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UE191811,01680.01\"],\"note\":\"\"},{\"code\":\"0463\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電一甲\",\"foreverID\":\"227A10098\",\"courseName\":\"文件探勘與自然語言處理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李俊宏\",\"position\":\"電304\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"(四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UE191811,05647.01\"],\"note\":\"\"},{\"code\":\"0464\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電二甲\",\"foreverID\":\"227A00002\",\"courseName\":\"專題研討(四)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"吳坤德\",\"position\":\"電小劇場\",\"people\":\"8\",\"maxpeople\":\"30\",\"time\":\"(五)6-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UE191821,03650.01\"],\"note\":\"\"},{\"code\":\"0465\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電二甲\",\"foreverID\":\"227A00008\",\"courseName\":\"博士論文\",\"hours\":\"12.0\",\"units\":\"12.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UE191821,05797.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0462",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A00001",
+    "courseName": "專題研討(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李宗恩",
+    "position": "電小劇場",
+    "people": "7",
+    "maxpeople": "30",
+    "time": "(五)6-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UE191811,01680.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0463",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10098",
+    "courseName": "文件探勘與自然語言處理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李俊宏",
+    "position": "電304",
+    "people": "7",
+    "maxpeople": "55",
+    "time": "(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UE191811,05647.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0464",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電二甲",
+    "foreverID": "227A00002",
+    "courseName": "專題研討(四)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "吳坤德",
+    "position": "電小劇場",
+    "people": "8",
+    "maxpeople": "30",
+    "time": "(五)6-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UE191821,03650.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0465",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電二甲",
+    "foreverID": "227A00008",
+    "courseName": "博士論文",
+    "hours": "12.0",
+    "units": "12.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UE191821,05797.01"
+    ],
+    "note": ""
+  }
+]

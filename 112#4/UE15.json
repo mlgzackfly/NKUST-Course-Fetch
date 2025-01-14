@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0109",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "資訊工程系",
+    "className": "四資工三甲",
+    "foreverID": "221C10203",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "林聯發",
+    "position": "教室未定",
+    "people": "3",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE151431,10904.01"
+    ],
+    "note": "不開放選課，由系上以人工作業進行選課。"
+  }
+]

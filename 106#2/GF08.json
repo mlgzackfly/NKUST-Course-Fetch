@@ -1,1 +1,27 @@
-"[{\"code\":\"1480\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運學程\",\"className\":\"日航運學程\",\"foreverID\":\"350C10062\",\"courseName\":\"汽電共生\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"葉金課\",\"position\":\"旗津104教室\",\"people\":\"48\",\"maxpeople\":\"60\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"GF081400,A1905.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1480",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運學程",
+    "className": "日航運學程",
+    "foreverID": "350C10062",
+    "courseName": "汽電共生",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "葉金課",
+    "position": "旗津104教室",
+    "people": "48",
+    "maxpeople": "60",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "GF081400,A1905.01"
+    ],
+    "note": ""
+  }
+]

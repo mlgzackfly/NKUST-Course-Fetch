@@ -1,1 +1,27 @@
-"[{\"code\":\"0001\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋生物技術系\",\"className\":\"日四技海生系\",\"foreverID\":\"304C10193\",\"courseName\":\"醫療機構管理概論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"3\",\"US041400,B1916.01\"],\"note\":\"971242185跨義守大學寒修\"}]"
+[
+  {
+    "code": "0001",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋生物技術系",
+    "className": "日四技海生系",
+    "foreverID": "304C10193",
+    "courseName": "醫療機構管理概論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "3",
+      "US041400,B1916.01"
+    ],
+    "note": "971242185跨義守大學寒修"
+  }
+]

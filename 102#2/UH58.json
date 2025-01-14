@@ -1,1 +1,102 @@
-"[{\"code\":\"1640\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"文化創意產業系\",\"className\":\"文創系碩士班一甲\",\"foreverID\":\"252B10007\",\"courseName\":\"數位科技藝術創作\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"洪明爵\",\"position\":\"西101\",\"people\":\"8\",\"maxpeople\":\"30\",\"time\":\"(一)A-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH581711,07453.01\"],\"note\":\"\"},{\"code\":\"1641\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"文化創意產業系\",\"className\":\"文創系碩士班一甲\",\"foreverID\":\"252B10047\",\"courseName\":\"民間信仰與創意產業\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"謝貴文\",\"position\":\"育500\",\"people\":\"18\",\"maxpeople\":\"30\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH581711,07755.01\"],\"note\":\"\"},{\"code\":\"1642\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"文化創意產業系\",\"className\":\"文創系碩士班一甲\",\"foreverID\":\"252B10062\",\"courseName\":\"文化元素與創意專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王璧寰\",\"position\":\"西101\",\"people\":\"14\",\"maxpeople\":\"30\",\"time\":\"(三)A-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH581711,07898.01\"],\"note\":\"\"},{\"code\":\"1643\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"文化創意產業系\",\"className\":\"文創系碩士班一甲\",\"foreverID\":\"252B10027\",\"courseName\":\"文創產業書寫研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"丁旭輝\",\"position\":\"育500\",\"people\":\"12\",\"maxpeople\":\"30\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH581711,07903.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1640",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "文化創意產業系",
+    "className": "文創系碩士班一甲",
+    "foreverID": "252B10007",
+    "courseName": "數位科技藝術創作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "洪明爵",
+    "position": "西101",
+    "people": "8",
+    "maxpeople": "30",
+    "time": "(一)A-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH581711,07453.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1641",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "文化創意產業系",
+    "className": "文創系碩士班一甲",
+    "foreverID": "252B10047",
+    "courseName": "民間信仰與創意產業",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝貴文",
+    "position": "育500",
+    "people": "18",
+    "maxpeople": "30",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH581711,07755.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1642",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "文化創意產業系",
+    "className": "文創系碩士班一甲",
+    "foreverID": "252B10062",
+    "courseName": "文化元素與創意專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王璧寰",
+    "position": "西101",
+    "people": "14",
+    "maxpeople": "30",
+    "time": "(三)A-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH581711,07898.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1643",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "文化創意產業系",
+    "className": "文創系碩士班一甲",
+    "foreverID": "252B10027",
+    "courseName": "文創產業書寫研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "丁旭輝",
+    "position": "育500",
+    "people": "12",
+    "maxpeople": "30",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH581711,07903.01"
+    ],
+    "note": ""
+  }
+]

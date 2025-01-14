@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0010",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "金融資訊系",
+    "className": "四金資三甲",
+    "foreverID": "236C10417",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "姜林杰祐,林育秀,王聖文,程言信,鄭智陽",
+    "position": "教室未定",
+    "people": "8",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UC451431,09635.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0108\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"文化創意產業系\",\"className\":\"四文創\",\"foreverID\":\"252C10185\",\"courseName\":\"校外實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"翟治平\",\"position\":\"北304\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UH581400,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0108",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "文化創意產業系",
+    "className": "四文創",
+    "foreverID": "252C10185",
+    "courseName": "校外實習",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "翟治平",
+    "position": "北304",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UH581400,04138.01"
+    ],
+    "note": ""
+  }
+]

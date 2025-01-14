@@ -1,0 +1,102 @@
+[
+  {
+    "code": "4306",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張清發",
+    "position": "旗U603教室",
+    "people": "59",
+    "maxpeople": "55",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "XB011415,13308.01"
+    ],
+    "note": "四技航一"
+  },
+  {
+    "code": "4307",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張清發",
+    "position": "旗U603教室",
+    "people": "52",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "XB011415,13308.02"
+    ],
+    "note": "四技海資一"
+  },
+  {
+    "code": "4308",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫吉志",
+    "position": "旗U202教室",
+    "people": "51",
+    "maxpeople": "55",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "XB011415,13308.03"
+    ],
+    "note": "四技輪一甲"
+  },
+  {
+    "code": "4309",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "基礎教育中心",
+    "className": "基礎四技一甲(旗",
+    "foreverID": "041C00176",
+    "courseName": "中文閱讀與表達(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫吉志",
+    "position": "旗U202教室",
+    "people": "50",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "XB011415,13308.04"
+    ],
+    "note": "四技輪一乙"
+  }
+]

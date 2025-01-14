@@ -1,1 +1,77 @@
-"[{\"code\":\"1316\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電子工程系碩專班[第一]\",\"className\":\"電子碩專班一甲\",\"foreverID\":\"123H10048\",\"courseName\":\"進階網路伺服器管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 吳毓恩,張簡嘉壬,鄭進興,陳朝烈\",\"position\":\"B504\",\"people\":\"8\",\"maxpeople\":\"30\",\"time\":\" (五)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UD112711,F4318.01\"],\"note\":\"\"},{\"code\":\"1317\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電子工程系碩專班[第一]\",\"className\":\"電子碩專班二甲\",\"foreverID\":\"123H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 張簡嘉壬\",\"position\":\"教室未定\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UD112721,05010.01\"],\"note\":\"\"},{\"code\":\"1318\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電子工程系碩專班[第一]\",\"className\":\"電子碩專班二甲\",\"foreverID\":\"123H00002\",\"courseName\":\"技術報告\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 張簡嘉壬\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UD112721,F0327.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1316",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電子工程系碩專班[第一]",
+    "className": "電子碩專班一甲",
+    "foreverID": "123H10048",
+    "courseName": "進階網路伺服器管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳毓恩,張簡嘉壬,鄭進興,陳朝烈",
+    "position": "B504",
+    "people": "8",
+    "maxpeople": "30",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UD112711,F4318.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1317",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電子工程系碩專班[第一]",
+    "className": "電子碩專班二甲",
+    "foreverID": "123H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "張簡嘉壬",
+    "position": "教室未定",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UD112721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1318",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電子工程系碩專班[第一]",
+    "className": "電子碩專班二甲",
+    "foreverID": "123H00002",
+    "courseName": "技術報告",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "張簡嘉壬",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UD112721,F0327.01"
+    ],
+    "note": ""
+  }
+]

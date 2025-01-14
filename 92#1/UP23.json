@@ -1,0 +1,102 @@
+[
+  {
+    "code": "5295",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "風險管理與保險系碩士專班",
+    "className": "風管碩專班一甲",
+    "foreverID": "154H00001",
+    "courseName": "社會科學研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UP232711,03548.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5296",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "風險管理與保險系碩士專班",
+    "className": "風管碩專班二甲",
+    "foreverID": "154H00010",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UP232721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5297",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "風險管理與保險系碩士專班",
+    "className": "風管碩專班二甲",
+    "foreverID": "154H10081",
+    "courseName": "期貨與選擇權研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UP232721,F3523.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5298",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "風險管理與保險系碩士專班",
+    "className": "風管碩專班二甲",
+    "foreverID": "154H10055",
+    "courseName": "證券實務專題研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UP232721,F3682.01"
+    ],
+    "note": ""
+  }
+]

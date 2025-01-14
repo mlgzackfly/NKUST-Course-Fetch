@@ -1,1 +1,77 @@
-"[{\"code\":\"1300\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"運輸工具產業製造技術研發碩士專\",\"className\":\"運輸產研班一甲\",\"foreverID\":\"173B00001\",\"courseName\":\"專題討論(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"2\",\"UF061711,01684.01\"],\"note\":\"\"},{\"code\":\"1301\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"運輸工具產業製造技術研發碩士專\",\"className\":\"運輸產研班一甲\",\"foreverID\":\"173B10016\",\"courseName\":\"物理冶金學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"15\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"2\",\"UF061711,F1003.01\"],\"note\":\"\"},{\"code\":\"1302\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"運輸工具產業製造技術研發碩士專\",\"className\":\"運輸產研班一甲\",\"foreverID\":\"173B10011\",\"courseName\":\"金屬成形模具設計實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"15\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"2\",\"UF061711,F4747.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1300",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "運輸工具產業製造技術研發碩士專",
+    "className": "運輸產研班一甲",
+    "foreverID": "173B00001",
+    "courseName": "專題討論(二)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "2",
+      "UF061711,01684.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1301",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "運輸工具產業製造技術研發碩士專",
+    "className": "運輸產研班一甲",
+    "foreverID": "173B10016",
+    "courseName": "物理冶金學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "15",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "2",
+      "UF061711,F1003.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1302",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "運輸工具產業製造技術研發碩士專",
+    "className": "運輸產研班一甲",
+    "foreverID": "173B10011",
+    "courseName": "金屬成形模具設計實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "15",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "2",
+      "UF061711,F4747.01"
+    ],
+    "note": ""
+  }
+]

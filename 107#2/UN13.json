@@ -1,1 +1,127 @@
-"[{\"code\":\"3151\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10059\",\"courseName\":\"管理資訊系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"周棟祥\",\"position\":\"C117\",\"people\":\"7\",\"maxpeople\":\"30\",\"time\":\"(日)4,5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN132711,02747.01\"],\"note\":\"\"},{\"code\":\"3152\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10027\",\"courseName\":\"多變量分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳世智\",\"position\":\"C117\",\"people\":\"19\",\"maxpeople\":\"30\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN132711,03610.01\"],\"note\":\"\"},{\"code\":\"3153\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10020\",\"courseName\":\"人機互動\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蘇國瑋\",\"position\":\"C117\",\"people\":\"14\",\"maxpeople\":\"30\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN132711,F0133.01\"],\"note\":\"\"},{\"code\":\"3154\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10034\",\"courseName\":\"數位內容與文創應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李嘉紘\",\"position\":\"C120\",\"people\":\"19\",\"maxpeople\":\"30\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN132711,F4085.01\"],\"note\":\"\"},{\"code\":\"3155\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班二甲\",\"foreverID\":\"138H00018\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"黃文楨\",\"position\":\"\",\"people\":\"9\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN132721,05010.01\"],\"note\":\"論文課程不排上課時間\"}]"
+[
+  {
+    "code": "3151",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10059",
+    "courseName": "管理資訊系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "周棟祥",
+    "position": "C117",
+    "people": "7",
+    "maxpeople": "30",
+    "time": "(日)4,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN132711,02747.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3152",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10027",
+    "courseName": "多變量分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳世智",
+    "position": "C117",
+    "people": "19",
+    "maxpeople": "30",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN132711,03610.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3153",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10020",
+    "courseName": "人機互動",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇國瑋",
+    "position": "C117",
+    "people": "14",
+    "maxpeople": "30",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN132711,F0133.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3154",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10034",
+    "courseName": "數位內容與文創應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李嘉紘",
+    "position": "C120",
+    "people": "19",
+    "maxpeople": "30",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN132711,F4085.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3155",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班二甲",
+    "foreverID": "138H00018",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "黃文楨",
+    "position": "",
+    "people": "9",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN132721,05010.01"
+    ],
+    "note": "論文課程不排上課時間"
+  }
+]

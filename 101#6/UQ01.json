@@ -1,1 +1,77 @@
-"[{\"code\":\"0068\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船系\",\"foreverID\":\"324C00086\",\"courseName\":\"熱力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UQ011400,03011.01\"],\"note\":\"981235209至國立高雄應用科技大學修課。\"},{\"code\":\"0082\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船系\",\"foreverID\":\"324C00063\",\"courseName\":\"進階英文(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UQ011400,09525.01\"],\"note\":\"981235138至樹德科技大學修課。\"},{\"code\":\"0085\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船系\",\"foreverID\":\"324C00077\",\"courseName\":\"工程數學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UQ011400,00233.01\"],\"note\":\"981235232至國立勤益科技大學修課。\"}]"
+[
+  {
+    "code": "0068",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船系",
+    "foreverID": "324C00086",
+    "courseName": "熱力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "6",
+      "UQ011400,03011.01"
+    ],
+    "note": "981235209至國立高雄應用科技大學修課。"
+  },
+  {
+    "code": "0082",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船系",
+    "foreverID": "324C00063",
+    "courseName": "進階英文(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "6",
+      "UQ011400,09525.01"
+    ],
+    "note": "981235138至樹德科技大學修課。"
+  },
+  {
+    "code": "0085",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船系",
+    "foreverID": "324C00077",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "6",
+      "UQ011400,00233.01"
+    ],
+    "note": "981235232至國立勤益科技大學修課。"
+  }
+]

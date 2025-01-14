@@ -1,1 +1,52 @@
-"[{\"code\":\"1809\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"中小企業工程與經營管理產業碩士\",\"className\":\"進碩秋財中企二甲\",\"foreverID\":\"212I00003\",\"courseName\":\"專題研討(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"何宗漢\",\"position\":\"中204\",\"people\":\"10\",\"maxpeople\":\"55\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UM662621,01680.01\"],\"note\":\"\"},{\"code\":\"1810\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"中小企業工程與經營管理產業碩士\",\"className\":\"進碩秋財中企二甲\",\"foreverID\":\"212I10011\",\"courseName\":\"管理績效評估\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"唐惠欽\",\"position\":\"中204\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UM662621,05916.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1809",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "中小企業工程與經營管理產業碩士",
+    "className": "進碩秋財中企二甲",
+    "foreverID": "212I00003",
+    "courseName": "專題研討(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "何宗漢",
+    "position": "中204",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UM662621,01680.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1810",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "中小企業工程與經營管理產業碩士",
+    "className": "進碩秋財中企二甲",
+    "foreverID": "212I10011",
+    "courseName": "管理績效評估",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "唐惠欽",
+    "position": "中204",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UM662621,05916.01"
+    ],
+    "note": ""
+  }
+]

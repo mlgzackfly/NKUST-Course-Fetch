@@ -1,1 +1,52 @@
-"[{\"code\":\"0034\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10085\",\"courseName\":\"暑期實習專題\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"郭峻志\",\"position\":\"\",\"people\":\"6\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UF091711,F1751.01\"],\"note\":\"期間7/1~8/31(限暑期校外實習學生選修,實習學生不能暑修)\"},{\"code\":\"0165\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班二甲\",\"foreverID\":\"105B00013\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"吳宗亮\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"5\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UF091721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0034",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系",
+    "className": "機電碩士班一甲",
+    "foreverID": "105B10085",
+    "courseName": "暑期實習專題",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "郭峻志",
+    "position": "",
+    "people": "6",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UF091711,F1751.01"
+    ],
+    "note": "期間7/1~8/31(限暑期校外實習學生選修,實習學生不能暑修)"
+  },
+  {
+    "code": "0165",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系",
+    "className": "機電碩士班二甲",
+    "foreverID": "105B00013",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "吳宗亮",
+    "position": "",
+    "people": "2",
+    "maxpeople": "5",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UF091721,05010.01"
+    ],
+    "note": ""
+  }
+]

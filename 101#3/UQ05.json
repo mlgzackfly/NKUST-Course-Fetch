@@ -1,1 +1,27 @@
-"[{\"code\":\"0001\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船工程系\",\"className\":\"日四技造船系.\",\"foreverID\":\"326C00003\",\"courseName\":\"軍訓\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"3\",\"UQ051400,99003.01\"],\"note\":\"991235171林瑞發同學至建國科技大學寒修。\"}]"
+[
+  {
+    "code": "0001",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船工程系",
+    "className": "日四技造船系.",
+    "foreverID": "326C00003",
+    "courseName": "軍訓",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "3",
+      "UQ051400,99003.01"
+    ],
+    "note": "991235171林瑞發同學至建國科技大學寒修。"
+  }
+]

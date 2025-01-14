@@ -1,1 +1,27 @@
-"[{\"code\":\"S184\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"工院課程[第一]\",\"className\":\"工院課程二甲\",\"foreverID\":\"100A10002\",\"courseName\":\"國際創新工程設計實作\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"24\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UE011821,F4595.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S184",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工院課程[第一]",
+    "className": "工院課程二甲",
+    "foreverID": "100A10002",
+    "courseName": "國際創新工程設計實作",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "24",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UE011821,F4595.01"
+    ],
+    "note": ""
+  }
+]

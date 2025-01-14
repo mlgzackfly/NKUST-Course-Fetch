@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0151",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "財政稅務系",
+    "className": "四財稅三甲",
+    "foreverID": "237C00330",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "姚名鴻,李彗綾",
+    "position": "教室未定",
+    "people": "4",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UT031431,09635.01"
+    ],
+    "note": ""
+  }
+]

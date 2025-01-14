@@ -1,1 +1,102 @@
-"[{\"code\":\"S160\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C00003\",\"courseName\":\"實務專題(三)\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"12\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UD201311,F1227.01\"],\"note\":\"\"},{\"code\":\"S162\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10014\",\"courseName\":\"數位內容產業專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UD201311,F3445.01\"],\"note\":\"\"},{\"code\":\"S162\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10014\",\"courseName\":\"數位內容產業專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UD201311,F3445.01\"],\"note\":\"\"},{\"code\":\"S164\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10005\",\"courseName\":\"網際網路程式設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UD201311,02817.01\"],\"note\":\"\"},{\"code\":\"S164\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10005\",\"courseName\":\"網際網路程式設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UD201311,02817.01\"],\"note\":\"\"},{\"code\":\"S166\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10008\",\"courseName\":\"動畫程式設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UD201311,F1437.01\"],\"note\":\"\"},{\"code\":\"S166\",\"cmp\":\"第一校區\",\"dgr\":\"日間部二技\",\"unt\":\"學士後數位內容編程學士學位學程\",\"className\":\"數位內容一甲\",\"foreverID\":\"170C10008\",\"courseName\":\"動畫程式設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UD201311,F1437.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S160",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C00003",
+    "courseName": "實務專題(三)",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "12",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UD201311,F1227.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S162",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C10014",
+    "courseName": "數位內容產業專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UD201311,F3445.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S164",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C10005",
+    "courseName": "網際網路程式設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UD201311,02817.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S166",
+    "cmp": "第一校區",
+    "dgr": "日間部二技",
+    "unt": "學士後數位內容編程學士學位學程",
+    "className": "數位內容一甲",
+    "foreverID": "170C10008",
+    "courseName": "動畫程式設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UD201311,F1437.01"
+    ],
+    "note": ""
+  }
+]

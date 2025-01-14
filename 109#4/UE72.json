@@ -1,1 +1,27 @@
-"[{\"code\":\"0144\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"工業工程與管理系\",\"className\":\"四工四甲\",\"foreverID\":\"205C00149\",\"courseName\":\"暑期實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"楊富強\",\"position\":\"教室未定\",\"people\":\"69\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UE721441,09635.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0144",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "工業工程與管理系",
+    "className": "四工四甲",
+    "foreverID": "205C00149",
+    "courseName": "暑期實習",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "楊富強",
+    "position": "教室未定",
+    "people": "69",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UE721441,09635.01"
+    ],
+    "note": ""
+  }
+]

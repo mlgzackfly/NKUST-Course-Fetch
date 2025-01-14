@@ -1,1 +1,102 @@
-"[{\"code\":\"3245\",\"cmp\":\"楠梓校區\",\"dgr\":\"日四技產學攜手專班\",\"unt\":\"半導體封裝產業專班\",\"className\":\"半導體產業四\",\"foreverID\":\"325D10050\",\"courseName\":\"感測元件電路設計與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"莊國強\",\"position\":\"6503客製化實驗室\",\"people\":\"21\",\"maxpeople\":\"55\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UQ141941,30402.01\"],\"note\":\"限本專班學生修讀\"},{\"code\":\"3246\",\"cmp\":\"楠梓校區\",\"dgr\":\"日四技產學攜手專班\",\"unt\":\"半導體封裝產業專班\",\"className\":\"半導體產業四\",\"foreverID\":\"325D00037\",\"courseName\":\"電子專題(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"莊國強\",\"position\":\"6404電子電路實驗室\",\"people\":\"20\",\"maxpeople\":\"55\",\"time\":\"(五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UQ141941,A9098.01\"],\"note\":\"限本專班學生修讀\"},{\"code\":\"3247\",\"cmp\":\"楠梓校區\",\"dgr\":\"日四技產學攜手專班\",\"unt\":\"半導體封裝產業專班\",\"className\":\"半導體產業四\",\"foreverID\":\"325D10049\",\"courseName\":\"單晶片設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"葉旻彥\",\"position\":\"6501SOC實驗室\",\"people\":\"22\",\"maxpeople\":\"55\",\"time\":\"(四)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UQ141941,A9820.01\"],\"note\":\"限本專班學生修讀\"},{\"code\":\"3248\",\"cmp\":\"楠梓校區\",\"dgr\":\"日四技產學攜手專班\",\"unt\":\"半導體封裝產業專班\",\"className\":\"半導體產業四\",\"foreverID\":\"325D00041\",\"courseName\":\"職場實習(七)\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"莊國強,顏志峰\",\"position\":\"\",\"people\":\"22\",\"maxpeople\":\"55\",\"time\":\"(三)1-4,7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UQ141941,B3201.01\"],\"note\":\"限本專班學生修讀\"}]"
+[
+  {
+    "code": "3245",
+    "cmp": "楠梓校區",
+    "dgr": "日四技產學攜手專班",
+    "unt": "半導體封裝產業專班",
+    "className": "半導體產業四",
+    "foreverID": "325D10050",
+    "courseName": "感測元件電路設計與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "莊國強",
+    "position": "6503客製化實驗室",
+    "people": "21",
+    "maxpeople": "55",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UQ141941,30402.01"
+    ],
+    "note": "限本專班學生修讀"
+  },
+  {
+    "code": "3246",
+    "cmp": "楠梓校區",
+    "dgr": "日四技產學攜手專班",
+    "unt": "半導體封裝產業專班",
+    "className": "半導體產業四",
+    "foreverID": "325D00037",
+    "courseName": "電子專題(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "莊國強",
+    "position": "6404電子電路實驗室",
+    "people": "20",
+    "maxpeople": "55",
+    "time": "(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UQ141941,A9098.01"
+    ],
+    "note": "限本專班學生修讀"
+  },
+  {
+    "code": "3247",
+    "cmp": "楠梓校區",
+    "dgr": "日四技產學攜手專班",
+    "unt": "半導體封裝產業專班",
+    "className": "半導體產業四",
+    "foreverID": "325D10049",
+    "courseName": "單晶片設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "葉旻彥",
+    "position": "6501SOC實驗室",
+    "people": "22",
+    "maxpeople": "55",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UQ141941,A9820.01"
+    ],
+    "note": "限本專班學生修讀"
+  },
+  {
+    "code": "3248",
+    "cmp": "楠梓校區",
+    "dgr": "日四技產學攜手專班",
+    "unt": "半導體封裝產業專班",
+    "className": "半導體產業四",
+    "foreverID": "325D00041",
+    "courseName": "職場實習(七)",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "莊國強,顏志峰",
+    "position": "",
+    "people": "22",
+    "maxpeople": "55",
+    "time": "(三)1-4,7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UQ141941,B3201.01"
+    ],
+    "note": "限本專班學生修讀"
+  }
+]

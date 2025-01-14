@@ -1,1 +1,27 @@
-"[{\"code\":\"0078\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"金融系金融資訊碩士班\",\"className\":\"金融系碩士班二甲\",\"foreverID\":\"236B10055\",\"courseName\":\"財經研究方法研討\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"張嘉倩\",\"position\":\"東103\",\"people\":\"2\",\"maxpeople\":\"2\",\"time\":\"(一)2-4,5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UC441721,08559.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0078",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "金融系金融資訊碩士班",
+    "className": "金融系碩士班二甲",
+    "foreverID": "236B10055",
+    "courseName": "財經研究方法研討",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "張嘉倩",
+    "position": "東103",
+    "people": "2",
+    "maxpeople": "2",
+    "time": "(一)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UC441721,08559.01"
+    ],
+    "note": ""
+  }
+]

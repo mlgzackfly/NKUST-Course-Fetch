@@ -1,1 +1,102 @@
-"[{\"code\":\"1415\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩秋模高扣一甲\",\"foreverID\":\"214I10017\",\"courseName\":\"扣件牙板設計分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"高永洲\",\"position\":\"模510\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE662611,07518.01\"],\"note\":\"\"},{\"code\":\"1416\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩秋模高扣一甲\",\"foreverID\":\"214I10002\",\"courseName\":\"扣件表面處理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李建良\",\"position\":\"模510\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"(六)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE662611,07657.01\"],\"note\":\"\"},{\"code\":\"1417\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩秋模高扣一甲\",\"foreverID\":\"214I10009\",\"courseName\":\"扣件成形模具設計分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"許昭和\",\"position\":\"模510\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"(六)4,5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE662611,07658.01\"],\"note\":\"\"},{\"code\":\"1418\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩秋模高扣一甲\",\"foreverID\":\"214I10010\",\"courseName\":\"扣件產品與模具之熱處理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"謝世峰\",\"position\":\"模510\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"(二)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE662611,07659.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1415",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩秋模高扣一甲",
+    "foreverID": "214I10017",
+    "courseName": "扣件牙板設計分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "高永洲",
+    "position": "模510",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE662611,07518.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1416",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩秋模高扣一甲",
+    "foreverID": "214I10002",
+    "courseName": "扣件表面處理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李建良",
+    "position": "模510",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "(六)1-3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE662611,07657.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1417",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩秋模高扣一甲",
+    "foreverID": "214I10009",
+    "courseName": "扣件成形模具設計分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許昭和",
+    "position": "模510",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "(六)4,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE662611,07658.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1418",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩秋模高扣一甲",
+    "foreverID": "214I10010",
+    "courseName": "扣件產品與模具之熱處理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝世峰",
+    "position": "模510",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "(二)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE662611,07659.01"
+    ],
+    "note": ""
+  }
+]

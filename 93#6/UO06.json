@@ -1,1 +1,77 @@
-"[{\"code\":\"0106\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管科\",\"foreverID\":\"\",\"courseName\":\"會計學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"6\",\"UO062100,02257.01\"],\"note\":\"\"},{\"code\":\"0096\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"民法\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"陳正料\",\"position\":\"10207教室\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"(二)1-3(四)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"6\",\"UO062121,00552.01\"],\"note\":\"\"},{\"code\":\"0096\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"民法\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"陳正料\",\"position\":\"10207教室\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"(二)1-3(四)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"6\",\"UO062121,00552.01\"],\"note\":\"\"},{\"code\":\"0105\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"管理學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"6\",\"UO062121,02754.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0106",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管科",
+    "foreverID": "",
+    "courseName": "會計學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "6",
+      "UO062100,02257.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0096",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管二年級",
+    "foreverID": "",
+    "courseName": "民法",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "陳正料",
+    "position": "10207教室",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "(二)1-3(四)1-3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "6",
+      "UO062121,00552.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0105",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管二年級",
+    "foreverID": "",
+    "courseName": "管理學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "6",
+      "UO062121,02754.01"
+    ],
+    "note": ""
+  }
+]

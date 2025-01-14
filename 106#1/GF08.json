@@ -1,1 +1,27 @@
-"[{\"code\":\"1986\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運學程\",\"className\":\"日航運學程\",\"foreverID\":\"350C10077\",\"courseName\":\"海事法規\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"張慈民\",\"position\":\"旗津203教室\",\"people\":\"70\",\"maxpeople\":\"120\",\"time\":\"(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF081400,A3000.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1986",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運學程",
+    "className": "日航運學程",
+    "foreverID": "350C10077",
+    "courseName": "海事法規",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "張慈民",
+    "position": "旗津203教室",
+    "people": "70",
+    "maxpeople": "120",
+    "time": "(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF081400,A3000.01"
+    ],
+    "note": ""
+  }
+]

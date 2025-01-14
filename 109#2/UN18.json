@@ -1,1 +1,77 @@
-"[{\"code\":\"2344\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班一甲\",\"foreverID\":\"137H10046\",\"courseName\":\"多變量分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳偉銘\",\"position\":\"C443\",\"people\":\"8\",\"maxpeople\":\"10\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UN182711,03610.01\"],\"note\":\"\"},{\"code\":\"2346\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班一甲\",\"foreverID\":\"137H10120\",\"courseName\":\"物聯網應用設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳彥銘\",\"position\":\"C338\",\"people\":\"13\",\"maxpeople\":\"10\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UN182711,F2821.01\"],\"note\":\"\"},{\"code\":\"2347\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班二甲\",\"foreverID\":\"137H00017\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UN182721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2344",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10046",
+    "courseName": "多變量分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳偉銘",
+    "position": "C443",
+    "people": "8",
+    "maxpeople": "10",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UN182711,03610.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2346",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10120",
+    "courseName": "物聯網應用設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳彥銘",
+    "position": "C338",
+    "people": "13",
+    "maxpeople": "10",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UN182711,F2821.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2347",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班二甲",
+    "foreverID": "137H00017",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UN182721,05010.01"
+    ],
+    "note": ""
+  }
+]

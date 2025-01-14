@@ -1,1 +1,127 @@
-"[{\"code\":\"0558\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電一甲\",\"foreverID\":\"227A10019\",\"courseName\":\"高速網路\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳文平\",\"position\":\"電B02\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE191811,01464.01\"],\"note\":\"\"},{\"code\":\"0559\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電一甲\",\"foreverID\":\"227A00003\",\"courseName\":\"專題研討(一)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"卓明遠\",\"position\":\"電小劇場\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\"(五)6-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE191811,01676.01\"],\"note\":\"\"},{\"code\":\"0560\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電一甲\",\"foreverID\":\"227A10050\",\"courseName\":\"電力系統計算機分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃鐘慶\",\"position\":\"電B05B\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE191811,02378.01\"],\"note\":\"\"},{\"code\":\"0561\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電一甲\",\"foreverID\":\"227A10091\",\"courseName\":\"高等資料探勘\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李俊宏\",\"position\":\"電B05B\",\"people\":\"5\",\"maxpeople\":\"30\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE191811,05490.01\"],\"note\":\"\"},{\"code\":\"0562\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"電機工程系博士班\",\"className\":\"博電二甲\",\"foreverID\":\"227A00004\",\"courseName\":\"專題研討(三)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"周至宏\",\"position\":\"電小劇場\",\"people\":\"8\",\"maxpeople\":\"30\",\"time\":\"(五)6-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE191821,01681.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0558",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10019",
+    "courseName": "高速網路",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳文平",
+    "position": "電B02",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE191811,01464.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0559",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A00003",
+    "courseName": "專題研討(一)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "卓明遠",
+    "position": "電小劇場",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(五)6-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE191811,01676.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0560",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10050",
+    "courseName": "電力系統計算機分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃鐘慶",
+    "position": "電B05B",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE191811,02378.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0561",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10091",
+    "courseName": "高等資料探勘",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李俊宏",
+    "position": "電B05B",
+    "people": "5",
+    "maxpeople": "30",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE191811,05490.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0562",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電二甲",
+    "foreverID": "227A00004",
+    "courseName": "專題研討(三)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "周至宏",
+    "position": "電小劇場",
+    "people": "8",
+    "maxpeople": "30",
+    "time": "(五)6-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE191821,01681.01"
+    ],
+    "note": ""
+  }
+]

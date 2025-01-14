@@ -1,1 +1,102 @@
-"[{\"code\":\"1537\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英文學程\",\"className\":\"日應用英文學程\",\"foreverID\":\"350C10102\",\"courseName\":\"英文聽力訓練(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"林桂年\",\"position\":\"10405多媒體音樂教室\",\"people\":\"58\",\"maxpeople\":\"60\",\"time\":\"(二)9-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"GF041400,B0814.01\"],\"note\":\"\"},{\"code\":\"1661\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英文學程\",\"className\":\"日應用英文學程\",\"foreverID\":\"350C10079\",\"courseName\":\"英語演講與辯論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"許世英\",\"position\":\"2105教室\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"(一)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"GF041400,B1321.01\"],\"note\":\"\"},{\"code\":\"1662\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英文學程\",\"className\":\"日應用英文學程\",\"foreverID\":\"350C10059\",\"courseName\":\"英文文法(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"林桂年\",\"position\":\"2105教室\",\"people\":\"63\",\"maxpeople\":\"60\",\"time\":\"(二)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"GF041400,B1322.01\"],\"note\":\"\"},{\"code\":\"1663\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英文學程\",\"className\":\"日應用英文學程\",\"foreverID\":\"350C10064\",\"courseName\":\"英文閱讀(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"林桂年\",\"position\":\"2105教室\",\"people\":\"62\",\"maxpeople\":\"60\",\"time\":\"(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"GF041400,01170.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1537",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用英文學程",
+    "className": "日應用英文學程",
+    "foreverID": "350C10102",
+    "courseName": "英文聽力訓練(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林桂年",
+    "position": "10405多媒體音樂教室",
+    "people": "58",
+    "maxpeople": "60",
+    "time": "(二)9-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "GF041400,B0814.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1661",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用英文學程",
+    "className": "日應用英文學程",
+    "foreverID": "350C10079",
+    "courseName": "英語演講與辯論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "許世英",
+    "position": "2105教室",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "(一)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "GF041400,B1321.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1662",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用英文學程",
+    "className": "日應用英文學程",
+    "foreverID": "350C10059",
+    "courseName": "英文文法(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林桂年",
+    "position": "2105教室",
+    "people": "63",
+    "maxpeople": "60",
+    "time": "(二)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "GF041400,B1322.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1663",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用英文學程",
+    "className": "日應用英文學程",
+    "foreverID": "350C10064",
+    "courseName": "英文閱讀(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林桂年",
+    "position": "2105教室",
+    "people": "62",
+    "maxpeople": "60",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "GF041400,01170.01"
+    ],
+    "note": ""
+  }
+]

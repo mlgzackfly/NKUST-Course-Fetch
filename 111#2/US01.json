@@ -1,1 +1,127 @@
-"[{\"code\":\"3484\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"漁業生產與管理系\",\"className\":\"進四技漁管四年級\",\"foreverID\":\"305F00026\",\"courseName\":\"海洋觀測\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"陳伯實\",\"position\":\"212-4專業教室B\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"(二)12-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"US012441,A3275.01\"],\"note\":\"\"},{\"code\":\"3485\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"漁業生產與管理系\",\"className\":\"進四技漁管四年級\",\"foreverID\":\"305F10197\",\"courseName\":\"活魚運輸\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳伯實\",\"position\":\"212-4專業教室B\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(二)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"US012441,A9028.01\"],\"note\":\"\"},{\"code\":\"3486\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"漁業生產與管理系\",\"className\":\"進四技漁管四年級\",\"foreverID\":\"305F00147\",\"courseName\":\"國際漁業管理實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"吳金鎮\",\"position\":\"212-4專業教室B\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"US012441,A9849.01\"],\"note\":\"\"},{\"code\":\"3487\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"漁業生產與管理系\",\"className\":\"進四技漁管四年級\",\"foreverID\":\"305F00119\",\"courseName\":\"水產貿易\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"廖翊雅\",\"position\":\"212-4專業教室B\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"(四)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"US012441,A9864.01\"],\"note\":\"\"},{\"code\":\"3488\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"漁業生產與管理系\",\"className\":\"進四技漁管四年級\",\"foreverID\":\"305F10154\",\"courseName\":\"永續漁業\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"翁進興\",\"position\":\"212-4專業教室B\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(五)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"2\",\"US012441,B1843.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3484",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "漁業生產與管理系",
+    "className": "進四技漁管四年級",
+    "foreverID": "305F00026",
+    "courseName": "海洋觀測",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "陳伯實",
+    "position": "212-4專業教室B",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(二)12-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "US012441,A3275.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3485",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "漁業生產與管理系",
+    "className": "進四技漁管四年級",
+    "foreverID": "305F10197",
+    "courseName": "活魚運輸",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳伯實",
+    "position": "212-4專業教室B",
+    "people": "16",
+    "maxpeople": "55",
+    "time": "(二)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "US012441,A9028.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3486",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "漁業生產與管理系",
+    "className": "進四技漁管四年級",
+    "foreverID": "305F00147",
+    "courseName": "國際漁業管理實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "吳金鎮",
+    "position": "212-4專業教室B",
+    "people": "18",
+    "maxpeople": "55",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "US012441,A9849.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3487",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "漁業生產與管理系",
+    "className": "進四技漁管四年級",
+    "foreverID": "305F00119",
+    "courseName": "水產貿易",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "廖翊雅",
+    "position": "212-4專業教室B",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(四)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "US012441,A9864.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3488",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "漁業生產與管理系",
+    "className": "進四技漁管四年級",
+    "foreverID": "305F10154",
+    "courseName": "永續漁業",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "翁進興",
+    "position": "212-4專業教室B",
+    "people": "14",
+    "maxpeople": "55",
+    "time": "(五)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "US012441,B1843.01"
+    ],
+    "note": ""
+  }
+]

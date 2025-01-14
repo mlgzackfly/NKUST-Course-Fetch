@@ -1,1 +1,102 @@
-"[{\"code\":\"5194\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程一甲\",\"foreverID\":\"134B00018\",\"courseName\":\"商業模式與商機辨識\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 龍仕璋\",\"position\":\"E521\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN301711,B3620.01\"],\"note\":\"\"},{\"code\":\"5195\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程一甲\",\"foreverID\":\"134B00003\",\"courseName\":\"創業講座(1)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 孫思源\",\"position\":\"E010\",\"people\":\"10\",\"maxpeople\":\"60\",\"time\":\" (一)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN301711,F0815.01\"],\"note\":\"\"},{\"code\":\"5196\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程一甲\",\"foreverID\":\"134B00004\",\"courseName\":\"創業實作與體驗(1)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 孫思源\",\"position\":\"E521\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (一)9-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN301711,F3314.01\"],\"note\":\"\"},{\"code\":\"5197\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程一甲\",\"foreverID\":\"134B00012\",\"courseName\":\"創業管理論文與實務專題研討(1)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 龍仕璋\",\"position\":\"E521\",\"people\":\"8\",\"maxpeople\":\"40\",\"time\":\" (一)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN301711,F5169.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5194",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程一甲",
+    "foreverID": "134B00018",
+    "courseName": "商業模式與商機辨識",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "龍仕璋",
+    "position": "E521",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN301711,B3620.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5195",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程一甲",
+    "foreverID": "134B00003",
+    "courseName": "創業講座(1)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫思源",
+    "position": "E010",
+    "people": "10",
+    "maxpeople": "60",
+    "time": "(一)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN301711,F0815.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5196",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程一甲",
+    "foreverID": "134B00004",
+    "courseName": "創業實作與體驗(1)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "孫思源",
+    "position": "E521",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(一)9-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN301711,F3314.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5197",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程一甲",
+    "foreverID": "134B00012",
+    "courseName": "創業管理論文與實務專題研討(1)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "龍仕璋",
+    "position": "E521",
+    "people": "8",
+    "maxpeople": "40",
+    "time": "(一)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN301711,F5169.01"
+    ],
+    "note": ""
+  }
+]

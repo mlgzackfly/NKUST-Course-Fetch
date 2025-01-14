@@ -1,1 +1,27 @@
-"[{\"code\":\"2275\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"軍訓\",\"className\":\"四軍二甲(燕巢)\",\"foreverID\":\"060C10004\",\"courseName\":\"全民國防教育軍事訓練課程-全民國防\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"王子安\",\"position\":\"MA104\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(二)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"XM001428,08367.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2275",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "軍訓",
+    "className": "四軍二甲(燕巢)",
+    "foreverID": "060C10004",
+    "courseName": "全民國防教育軍事訓練課程-全民國防",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "王子安",
+    "position": "MA104",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(二)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "XM001428,08367.01"
+    ],
+    "note": ""
+  }
+]

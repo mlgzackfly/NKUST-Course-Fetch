@@ -1,1 +1,27 @@
-"[{\"code\":\"W115\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應用日語系碩士班\",\"className\":\"應日碩士班二甲\",\"foreverID\":\"163B00007\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"3\",\"UJ071721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "W115",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "應用日語系碩士班",
+    "className": "應日碩士班二甲",
+    "foreverID": "163B00007",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "3",
+      "UJ071721,05010.01"
+    ],
+    "note": ""
+  }
+]

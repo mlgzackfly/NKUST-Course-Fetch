@@ -1,1 +1,52 @@
-"[{\"code\":\"0031\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"工業工程與管理系\",\"className\":\"四工\",\"foreverID\":\"205C00154\",\"courseName\":\"作業研究\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"林谷鴻\",\"position\":\"南309\",\"people\":\"45\",\"maxpeople\":\"55\",\"time\":\"(一)1-4(二)1-4(三)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"4\",\"UE721400,00815.01\"],\"note\":\"\"},{\"code\":\"0031\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"工業工程與管理系\",\"className\":\"四工\",\"foreverID\":\"205C00154\",\"courseName\":\"作業研究\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"林谷鴻\",\"position\":\"南309\",\"people\":\"45\",\"maxpeople\":\"55\",\"time\":\"(一)1-4(二)1-4(三)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"4\",\"UE721400,00815.01\"],\"note\":\"\"},{\"code\":\"0031\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"工業工程與管理系\",\"className\":\"四工\",\"foreverID\":\"205C00154\",\"courseName\":\"作業研究\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"林谷鴻\",\"position\":\"南309\",\"people\":\"45\",\"maxpeople\":\"55\",\"time\":\"(一)1-4(二)1-4(三)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"4\",\"UE721400,00815.01\"],\"note\":\"\"},{\"code\":\"0124\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"工業工程與管理系\",\"className\":\"四工\",\"foreverID\":\"205C10285\",\"courseName\":\"暑期校外實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林谷鴻\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"55\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"4\",\"UE721400,07505.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0031",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "工業工程與管理系",
+    "className": "四工",
+    "foreverID": "205C00154",
+    "courseName": "作業研究",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "林谷鴻",
+    "position": "南309",
+    "people": "45",
+    "maxpeople": "55",
+    "time": "(一)1-4(二)1-4(三)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "4",
+      "UE721400,00815.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0124",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "工業工程與管理系",
+    "className": "四工",
+    "foreverID": "205C10285",
+    "courseName": "暑期校外實習",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林谷鴻",
+    "position": "",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "4",
+      "UE721400,07505.01"
+    ],
+    "note": ""
+  }
+]

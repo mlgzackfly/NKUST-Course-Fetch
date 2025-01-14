@@ -1,1 +1,27 @@
-"[{\"code\":\"0041\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機二\",\"foreverID\":\"313F00149\",\"courseName\":\"工程數學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"14\",\"maxpeople\":\"14\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UR022420,00231.01\"],\"note\":\"校際\"}]"
+[
+  {
+    "code": "0041",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "輪機工程系",
+    "className": "進四技輪機二",
+    "foreverID": "313F00149",
+    "courseName": "工程數學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "14",
+    "maxpeople": "14",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "6",
+      "UR022420,00231.01"
+    ],
+    "note": "校際"
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"W106\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00113\",\"courseName\":\"微積分(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"3\",\"XK051411,02223.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "W106",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C00113",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "3",
+      "XK051411,02223.01"
+    ],
+    "note": ""
+  }
+]

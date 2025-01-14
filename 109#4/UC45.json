@@ -1,1 +1,27 @@
-"[{\"code\":\"0156\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"金融資訊系\",\"className\":\"四金資三甲\",\"foreverID\":\"236C10417\",\"courseName\":\"暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"張嘉倩,程言信,謝坤民\",\"position\":\"教室未定\",\"people\":\"6\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UC451431,09635.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0156",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "金融資訊系",
+    "className": "四金資三甲",
+    "foreverID": "236C10417",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "張嘉倩,程言信,謝坤民",
+    "position": "教室未定",
+    "people": "6",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UC451431,09635.01"
+    ],
+    "note": ""
+  }
+]

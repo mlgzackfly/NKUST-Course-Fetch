@@ -1,1 +1,127 @@
-"[{\"code\":\"2329\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10007\",\"courseName\":\"高分子物理化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林榮顯\",\"position\":\"司202\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(二)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE142611,01449.01\"],\"note\":\"\"},{\"code\":\"2330\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10020\",\"courseName\":\"高分子奈米材料\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"顏福杉\",\"position\":\"司202\",\"people\":\"14\",\"maxpeople\":\"55\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE142611,04999.01\"],\"note\":\"\"},{\"code\":\"2331\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10018\",\"courseName\":\"材料科學特論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊文都\",\"position\":\"司202\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(一)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE142611,05781.01\"],\"note\":\"\"},{\"code\":\"2332\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10014\",\"courseName\":\"界面科技與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡平賜\",\"position\":\"司202\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(四)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE142611,05981.01\"],\"note\":\"\"},{\"code\":\"2333\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10019\",\"courseName\":\"半導體構裝設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊秉豐\",\"position\":\"司202\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(五)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UE142611,09054.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2329",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10007",
+    "courseName": "高分子物理化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林榮顯",
+    "position": "司202",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(二)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE142611,01449.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2330",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10020",
+    "courseName": "高分子奈米材料",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "顏福杉",
+    "position": "司202",
+    "people": "14",
+    "maxpeople": "55",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE142611,04999.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2331",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10018",
+    "courseName": "材料科學特論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊文都",
+    "position": "司202",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(一)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE142611,05781.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2332",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10014",
+    "courseName": "界面科技與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡平賜",
+    "position": "司202",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(四)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE142611,05981.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2333",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10019",
+    "courseName": "半導體構裝設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊秉豐",
+    "position": "司202",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(五)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UE142611,09054.01"
+    ],
+    "note": ""
+  }
+]

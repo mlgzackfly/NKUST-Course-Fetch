@@ -1,1 +1,102 @@
-"[{\"code\":\"0159\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"財政稅務系\",\"className\":\"四財四甲\",\"foreverID\":\"243C10208\",\"courseName\":\"租稅救濟案例研討\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"郭中堅\",\"position\":\"MA410A\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(三)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UC071441,01361.01\"],\"note\":\"\"},{\"code\":\"0160\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"財政稅務系\",\"className\":\"四財四甲\",\"foreverID\":\"243C10228\",\"courseName\":\"財務報表分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳柏青\",\"position\":\"MA410A\",\"people\":\"47\",\"maxpeople\":\"55\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UC071441,01397.01\"],\"note\":\"\"},{\"code\":\"0161\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"財政稅務系\",\"className\":\"四財四甲\",\"foreverID\":\"243C00047\",\"courseName\":\"財產稅法規(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"李彗綾\",\"position\":\"MA410A\",\"people\":\"60\",\"maxpeople\":\"60\",\"time\":\"(二)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UC071441,01413.01\"],\"note\":\"\"},{\"code\":\"0163\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"財政稅務系\",\"className\":\"四財四甲\",\"foreverID\":\"243C10227\",\"courseName\":\"行為經濟學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"何宇明\",\"position\":\"MA410A\",\"people\":\"30\",\"maxpeople\":\"55\",\"time\":\"(四)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UC071441,08361.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0159",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "財政稅務系",
+    "className": "四財四甲",
+    "foreverID": "243C10208",
+    "courseName": "租稅救濟案例研討",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "郭中堅",
+    "position": "MA410A",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UC071441,01361.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0160",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "財政稅務系",
+    "className": "四財四甲",
+    "foreverID": "243C10228",
+    "courseName": "財務報表分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳柏青",
+    "position": "MA410A",
+    "people": "47",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UC071441,01397.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0161",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "財政稅務系",
+    "className": "四財四甲",
+    "foreverID": "243C00047",
+    "courseName": "財產稅法規(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李彗綾",
+    "position": "MA410A",
+    "people": "60",
+    "maxpeople": "60",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UC071441,01413.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0163",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "財政稅務系",
+    "className": "四財四甲",
+    "foreverID": "243C10227",
+    "courseName": "行為經濟學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "何宇明",
+    "position": "MA410A",
+    "people": "30",
+    "maxpeople": "55",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UC071441,08361.01"
+    ],
+    "note": ""
+  }
+]

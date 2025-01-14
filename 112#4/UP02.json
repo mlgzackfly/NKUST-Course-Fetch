@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0063",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系四甲",
+    "foreverID": "154C10201",
+    "courseName": "風險管理與保險暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "周百隆,洪敏三,郭訓志,陳青浩",
+    "position": "教室未定",
+    "people": "16",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UP021441,11571.01"
+    ],
+    "note": ""
+  }
+]

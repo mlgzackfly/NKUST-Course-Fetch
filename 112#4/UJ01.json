@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0126",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用英語系",
+    "className": "應英系四甲",
+    "foreverID": "161C10743",
+    "courseName": "應用英語暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "吳怡萍,廖惠娟,洪豐生,羅雅芬,謝作偉,黃俐絲,黃士人",
+    "position": "教室未定",
+    "people": "20",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UJ011441,F3438.01"
+    ],
+    "note": "不開放選課，由系辦人工加選。"
+  }
+]

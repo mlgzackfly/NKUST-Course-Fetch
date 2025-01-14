@@ -1,1 +1,127 @@
-"[{\"code\":\"1644\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"光電半導體技術產業碩士專班\",\"className\":\"光半導產碩秋一甲\",\"foreverID\":\"285I10011\",\"courseName\":\"光電元件\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊素華\",\"position\":\"育103\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UI062611,00639.01\"],\"note\":\"\"},{\"code\":\"1645\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"光電半導體技術產業碩士專班\",\"className\":\"光半導產碩秋一甲\",\"foreverID\":\"285I00002\",\"courseName\":\"工廠實務(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"蘇德仁\",\"position\":\"資606\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(六)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UI062611,05612.01\"],\"note\":\"\"},{\"code\":\"1646\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"光電半導體技術產業碩士專班\",\"className\":\"光半導產碩秋一甲\",\"foreverID\":\"285I10006\",\"courseName\":\"光電量測技術\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"邱建良\",\"position\":\"資405\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UI062611,07529.01\"],\"note\":\"\"},{\"code\":\"1647\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"光電半導體技術產業碩士專班\",\"className\":\"光半導產碩秋一甲\",\"foreverID\":\"285I10008\",\"courseName\":\"積體電路設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王鴻猷\",\"position\":\"資504\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(日)8-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UI062611,07530.01\"],\"note\":\"\"},{\"code\":\"1648\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"光電半導體技術產業碩士專班\",\"className\":\"光半導產碩秋一甲\",\"foreverID\":\"285I10007\",\"courseName\":\"APP實務設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"謝欽旭\",\"position\":\"資301\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UI062611,08631.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1644",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "光電半導體技術產業碩士專班",
+    "className": "光半導產碩秋一甲",
+    "foreverID": "285I10011",
+    "courseName": "光電元件",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊素華",
+    "position": "育103",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UI062611,00639.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1645",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "光電半導體技術產業碩士專班",
+    "className": "光半導產碩秋一甲",
+    "foreverID": "285I00002",
+    "courseName": "工廠實務(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "蘇德仁",
+    "position": "資606",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UI062611,05612.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1646",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "光電半導體技術產業碩士專班",
+    "className": "光半導產碩秋一甲",
+    "foreverID": "285I10006",
+    "courseName": "光電量測技術",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "邱建良",
+    "position": "資405",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UI062611,07529.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1647",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "光電半導體技術產業碩士專班",
+    "className": "光半導產碩秋一甲",
+    "foreverID": "285I10008",
+    "courseName": "積體電路設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王鴻猷",
+    "position": "資504",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(日)8-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UI062611,07530.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1648",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "光電半導體技術產業碩士專班",
+    "className": "光半導產碩秋一甲",
+    "foreverID": "285I10007",
+    "courseName": "APP實務設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝欽旭",
+    "position": "資301",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UI062611,08631.01"
+    ],
+    "note": ""
+  }
+]

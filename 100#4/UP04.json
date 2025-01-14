@@ -1,1 +1,27 @@
-"[{\"code\":\"S130\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"會計資訊系\",\"className\":\"會資系四甲\",\"foreverID\":\"157C10094\",\"courseName\":\"會計資訊實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UP041441,F1764.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S130",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "會計資訊系",
+    "className": "會資系四甲",
+    "foreverID": "157C10094",
+    "courseName": "會計資訊實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UP041441,F1764.01"
+    ],
+    "note": ""
+  }
+]

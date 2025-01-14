@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0037",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "人力資源發展系碩士班",
+    "className": "碩人一甲",
+    "foreverID": "251B00009",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "18",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UH541711,05010.01"
+    ],
+    "note": ""
+  }
+]

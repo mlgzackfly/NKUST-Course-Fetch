@@ -1,1 +1,127 @@
-"[{\"code\":\"0039\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機二\",\"foreverID\":\"313E00380\",\"courseName\":\"應用力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"邱逸文\",\"position\":\"6105教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(一)5-8(三)1-4(四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081220,03257.01\"],\"note\":\"\"},{\"code\":\"0039\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機二\",\"foreverID\":\"313E00380\",\"courseName\":\"應用力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"邱逸文\",\"position\":\"6105教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(一)5-8(三)1-4(四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081220,03257.01\"],\"note\":\"\"},{\"code\":\"0039\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機二\",\"foreverID\":\"313E00380\",\"courseName\":\"應用力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"邱逸文\",\"position\":\"6105教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(一)5-8(三)1-4(四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081220,03257.01\"],\"note\":\"\"},{\"code\":\"0004\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00243\",\"courseName\":\"船用電學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"蕭海明\",\"position\":\"5208教室\",\"people\":\"19\",\"maxpeople\":\"60\",\"time\":\"(二)5-8(四)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081240,A4205.01\"],\"note\":\"\"},{\"code\":\"0004\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00243\",\"courseName\":\"船用電學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"蕭海明\",\"position\":\"5208教室\",\"people\":\"19\",\"maxpeople\":\"60\",\"time\":\"(二)5-8(四)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081240,A4205.01\"],\"note\":\"\"},{\"code\":\"0005\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00236\",\"courseName\":\"輔機\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"郭逢遇\",\"position\":\"5208教室\",\"people\":\"11\",\"maxpeople\":\"60\",\"time\":\"(二)1-4(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081240,A6580.01\"],\"note\":\"\"},{\"code\":\"0005\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00236\",\"courseName\":\"輔機\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"郭逢遇\",\"position\":\"5208教室\",\"people\":\"11\",\"maxpeople\":\"60\",\"time\":\"(二)1-4(四)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081240,A6580.01\"],\"note\":\"\"},{\"code\":\"0035\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機五\",\"foreverID\":\"313E00246\",\"courseName\":\"輪機英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"胡穗樂\",\"position\":\"5110教室\",\"people\":\"23\",\"maxpeople\":\"60\",\"time\":\"(五)5-6(六)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081250,A6960.01\"],\"note\":\"\"},{\"code\":\"0035\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機五\",\"foreverID\":\"313E00246\",\"courseName\":\"輪機英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"胡穗樂\",\"position\":\"5110教室\",\"people\":\"23\",\"maxpeople\":\"60\",\"time\":\"(五)5-6(六)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081250,A6960.01\"],\"note\":\"\"},{\"code\":\"0036\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機五\",\"foreverID\":\"313E00100\",\"courseName\":\"自動控制實習\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"莊宏祥\",\"position\":\"5109教室\",\"people\":\"9\",\"maxpeople\":\"60\",\"time\":\"(五)3-4(六)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081250,00767.01\"],\"note\":\"\"},{\"code\":\"0036\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機五\",\"foreverID\":\"313E00100\",\"courseName\":\"自動控制實習\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"莊宏祥\",\"position\":\"5109教室\",\"people\":\"9\",\"maxpeople\":\"60\",\"time\":\"(五)3-4(六)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UR081250,00767.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0039",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機二",
+    "foreverID": "313E00380",
+    "courseName": "應用力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "邱逸文",
+    "position": "6105教室",
+    "people": "18",
+    "maxpeople": "60",
+    "time": "(一)5-8(三)1-4(四)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UR081220,03257.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0004",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四",
+    "foreverID": "313E00243",
+    "courseName": "船用電學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "蕭海明",
+    "position": "5208教室",
+    "people": "19",
+    "maxpeople": "60",
+    "time": "(二)5-8(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UR081240,A4205.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0005",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四",
+    "foreverID": "313E00236",
+    "courseName": "輔機",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "郭逢遇",
+    "position": "5208教室",
+    "people": "11",
+    "maxpeople": "60",
+    "time": "(二)1-4(四)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UR081240,A6580.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0035",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機五",
+    "foreverID": "313E00246",
+    "courseName": "輪機英文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "胡穗樂",
+    "position": "5110教室",
+    "people": "23",
+    "maxpeople": "60",
+    "time": "(五)5-6(六)5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UR081250,A6960.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0036",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機五",
+    "foreverID": "313E00100",
+    "courseName": "自動控制實習",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "莊宏祥",
+    "position": "5109教室",
+    "people": "9",
+    "maxpeople": "60",
+    "time": "(五)3-4(六)5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UR081250,00767.01"
+    ],
+    "note": ""
+  }
+]

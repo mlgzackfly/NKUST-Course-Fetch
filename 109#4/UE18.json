@@ -1,1 +1,27 @@
-"[{\"code\":\"0129\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電機工程系碩士班\",\"className\":\"碩電二甲\",\"foreverID\":\"227B10154\",\"courseName\":\"校外暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"陳附仁\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UE181721,F1781.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0129",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電機工程系碩士班",
+    "className": "碩電二甲",
+    "foreverID": "227B10154",
+    "courseName": "校外暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳附仁",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UE181721,F1781.01"
+    ],
+    "note": ""
+  }
+]

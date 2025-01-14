@@ -1,1 +1,127 @@
-"[{\"code\":\"3210\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程一甲\",\"foreverID\":\"134B00009\",\"courseName\":\"創業講座(2)\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\"王友珊\",\"position\":\"E413\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(四)1\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN301711,F0816.01\"],\"note\":\"\"},{\"code\":\"3211\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程一甲\",\"foreverID\":\"134B00015\",\"courseName\":\"創業實作與體驗(2)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"李國維\",\"position\":\"E413\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN301711,F3315.01\"],\"note\":\"\"},{\"code\":\"3212\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程一甲\",\"foreverID\":\"134B00019\",\"courseName\":\"創業管理與創業計畫書\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"薛兆亨\",\"position\":\"E413\",\"people\":\"13\",\"maxpeople\":\"55\",\"time\":\"(四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN301711,F4570.01\"],\"note\":\"\"},{\"code\":\"3213\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程二甲\",\"foreverID\":\"134B00020\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"龍仕璋\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN301721,05010.01\"],\"note\":\"\"},{\"code\":\"3214\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"創業管理碩士學位學程\",\"className\":\"創管學程二甲\",\"foreverID\":\"134B10024\",\"courseName\":\"文化創意產業概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"宋毅仁\",\"position\":\"E413\",\"people\":\"8\",\"maxpeople\":\"55\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UN301721,F3451.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3210",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程一甲",
+    "foreverID": "134B00009",
+    "courseName": "創業講座(2)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "必修",
+    "instructors": "王友珊",
+    "position": "E413",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(四)1",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN301711,F0816.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3211",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程一甲",
+    "foreverID": "134B00015",
+    "courseName": "創業實作與體驗(2)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李國維",
+    "position": "E413",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(四)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN301711,F3315.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3212",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程一甲",
+    "foreverID": "134B00019",
+    "courseName": "創業管理與創業計畫書",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "薛兆亨",
+    "position": "E413",
+    "people": "13",
+    "maxpeople": "55",
+    "time": "(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN301711,F4570.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3213",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程二甲",
+    "foreverID": "134B00020",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "龍仕璋",
+    "position": "",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN301721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3214",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程二甲",
+    "foreverID": "134B10024",
+    "courseName": "文化創意產業概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "宋毅仁",
+    "position": "E413",
+    "people": "8",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UN301721,F3451.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "code": "1330",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "精實生產管理產業碩士專班",
+    "className": "精實生管產碩二甲",
+    "foreverID": "205B00015",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "鍾毓驥",
+    "position": "",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UE871521,05010.01"
+    ],
+    "note": ""
+  }
+]

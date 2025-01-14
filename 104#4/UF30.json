@@ -1,1 +1,27 @@
-"[{\"code\":\"S226\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系智慧自動化組\",\"className\":\"機械自動組一乙\",\"foreverID\":\"108C00025\",\"courseName\":\"工程力學I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UF301412,F0688.01\"],\"note\":\"\"},{\"code\":\"S226\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系智慧自動化組\",\"className\":\"機械自動組一乙\",\"foreverID\":\"108C00025\",\"courseName\":\"工程力學I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UF301412,F0688.01\"],\"note\":\"\"},{\"code\":\"S226\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系智慧自動化組\",\"className\":\"機械自動組一乙\",\"foreverID\":\"108C00025\",\"courseName\":\"工程力學I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UF301412,F0688.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S226",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械與自動化工程系智慧自動化組",
+    "className": "機械自動組一乙",
+    "foreverID": "108C00025",
+    "courseName": "工程力學I",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UF301412,F0688.01"
+    ],
+    "note": ""
+  }
+]

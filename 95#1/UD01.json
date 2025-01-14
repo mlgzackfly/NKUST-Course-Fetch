@@ -1,1 +1,102 @@
-"[{\"code\":\"5429\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10009\",\"courseName\":\"現代控制系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD012711,F1858.01\"],\"note\":\"\"},{\"code\":\"5430\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10035\",\"courseName\":\"資料收集與監控系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD012711,F4300.01\"],\"note\":\"\"},{\"code\":\"5431\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10005\",\"courseName\":\"穩健品質工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD012711,F1934.01\"],\"note\":\"\"},{\"code\":\"5432\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班二甲\",\"foreverID\":\"121H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UD012721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5429",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10009",
+    "courseName": "現代控制系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD012711,F1858.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5430",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10035",
+    "courseName": "資料收集與監控系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD012711,F4300.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5431",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10005",
+    "courseName": "穩健品質工程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD012711,F1934.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5432",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班二甲",
+    "foreverID": "121H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UD012721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0179",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "基礎教育中心",
+    "className": "基礎五專一甲(旗",
+    "foreverID": "041E00085",
+    "courseName": "化學(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "吳香樺",
+    "position": "旗U101教室",
+    "people": "17",
+    "maxpeople": "0",
+    "time": "(一)2-4(三)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "XB011215,00444.01"
+    ],
+    "note": "補差額課程，不開放選課。\n課程時間：7/8至7/31。"
+  },
+  {
+    "code": "0180",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "基礎教育中心",
+    "className": "基礎五專一甲(旗",
+    "foreverID": "041E00086",
+    "courseName": "化學(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "邱智藻",
+    "position": "旗U101教室",
+    "people": "21",
+    "maxpeople": "0",
+    "time": "(二)2-4,5-7(四)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "XB011215,00445.01"
+    ],
+    "note": "補差額課程，不開放選課。\n課程時間：7/9至7/24。"
+  }
+]

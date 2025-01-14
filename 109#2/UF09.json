@@ -1,1 +1,102 @@
-"[]"
+[
+  {
+    "code": "1445",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10006",
+    "courseName": "科技報告寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "郭文正",
+    "position": "B113",
+    "people": "11",
+    "maxpeople": "20",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF092711,F1919.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1446",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10042",
+    "courseName": "影像處理與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "游源成",
+    "position": "F107",
+    "people": "16",
+    "maxpeople": "20",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF092711,F2647.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1448",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10039",
+    "courseName": "軌道車輛動力分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "鄭永長",
+    "position": "T212",
+    "people": "12",
+    "maxpeople": "20",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF092711,F3717.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1449",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班二甲",
+    "foreverID": "105H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "謝其昌",
+    "position": "",
+    "people": "12",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UF092721,05010.01"
+    ],
+    "note": ""
+  }
+]

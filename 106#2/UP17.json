@@ -1,1 +1,77 @@
-"[{\"code\":\"1207\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系外國學生碩士專班\",\"className\":\"財管外國班一甲\",\"foreverID\":\"156B00002\",\"courseName\":\"財務會計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 王泓達\",\"position\":\"C446\",\"people\":\"23\",\"maxpeople\":\"30\",\"time\":\" (二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UP171711,F0575.01\"],\"note\":\"\"},{\"code\":\"1208\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系外國學生碩士專班\",\"className\":\"財管外國班一甲\",\"foreverID\":\"156B00006\",\"courseName\":\"新興市場經營與管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 楊景傅\",\"position\":\"C446\",\"people\":\"23\",\"maxpeople\":\"30\",\"time\":\" (一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UP171711,F4095.01\"],\"note\":\"\"},{\"code\":\"1209\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系外國學生碩士專班\",\"className\":\"財管外國班一甲\",\"foreverID\":\"156B00004\",\"courseName\":\"金融機構管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 林英星\",\"position\":\"C446\",\"people\":\"23\",\"maxpeople\":\"30\",\"time\":\" (四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UP171711,F2205.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1207",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系外國學生碩士專班",
+    "className": "財管外國班一甲",
+    "foreverID": "156B00002",
+    "courseName": "財務會計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "王泓達",
+    "position": "C446",
+    "people": "23",
+    "maxpeople": "30",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UP171711,F0575.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1208",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系外國學生碩士專班",
+    "className": "財管外國班一甲",
+    "foreverID": "156B00006",
+    "courseName": "新興市場經營與管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "楊景傅",
+    "position": "C446",
+    "people": "23",
+    "maxpeople": "30",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UP171711,F4095.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1209",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系外國學生碩士專班",
+    "className": "財管外國班一甲",
+    "foreverID": "156B00004",
+    "courseName": "金融機構管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "林英星",
+    "position": "C446",
+    "people": "23",
+    "maxpeople": "30",
+    "time": "(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UP171711,F2205.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0164\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部博士\",\"unt\":\"航運管理系博士班\",\"className\":\"航管系博班二甲\",\"foreverID\":\"331A00004\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"許文楷\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UO081821,05010.01\"],\"note\":\"不開放網路選課，由開課單位人工加選\"}]"
+[
+  {
+    "code": "0164",
+    "cmp": "楠梓校區",
+    "dgr": "日間部博士",
+    "unt": "航運管理系博士班",
+    "className": "航管系博班二甲",
+    "foreverID": "331A00004",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "許文楷",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UO081821,05010.01"
+    ],
+    "note": "不開放網路選課，由開課單位人工加選"
+  }
+]

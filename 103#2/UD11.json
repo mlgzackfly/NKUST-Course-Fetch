@@ -1,1 +1,27 @@
-"[{\"code\":\"2435\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電子工程系碩專班[第一]\",\"className\":\"電子碩專班二甲\",\"foreverID\":\"123H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 沈志隆\",\"position\":\"教室未定\",\"people\":\"6\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UD112721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2435",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電子工程系碩專班[第一]",
+    "className": "電子碩專班二甲",
+    "foreverID": "123H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "沈志隆",
+    "position": "教室未定",
+    "people": "6",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UD112721,05010.01"
+    ],
+    "note": ""
+  }
+]

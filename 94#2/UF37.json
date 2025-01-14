@@ -1,1 +1,102 @@
-"[{\"code\":\"1292\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工科機電班\",\"className\":\"工科機電班一甲\",\"foreverID\":\"110B00007\",\"courseName\":\"機械實務特論二\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"UF371711,F2789.01\"],\"note\":\"\"},{\"code\":\"1293\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工科機電班\",\"className\":\"工科機電班一甲\",\"foreverID\":\"110B00003\",\"courseName\":\"機電實務特論二\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"UF371711,F2795.01\"],\"note\":\"\"},{\"code\":\"1294\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工科機電班\",\"className\":\"工科機電班一甲\",\"foreverID\":\"110B10012\",\"courseName\":\"工廠安全\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"UF371711,F0284.01\"],\"note\":\"\"},{\"code\":\"1295\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工科機電班\",\"className\":\"工科機電班一甲\",\"foreverID\":\"110B10016\",\"courseName\":\"資料收集與監控系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"UF371711,F4300.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1292",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "工科機電班",
+    "className": "工科機電班一甲",
+    "foreverID": "110B00007",
+    "courseName": "機械實務特論二",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "UF371711,F2789.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1293",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "工科機電班",
+    "className": "工科機電班一甲",
+    "foreverID": "110B00003",
+    "courseName": "機電實務特論二",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "UF371711,F2795.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1294",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "工科機電班",
+    "className": "工科機電班一甲",
+    "foreverID": "110B10012",
+    "courseName": "工廠安全",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "UF371711,F0284.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1295",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "工科機電班",
+    "className": "工科機電班一甲",
+    "foreverID": "110B10016",
+    "courseName": "資料收集與監控系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "UF371711,F4300.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"1380\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"國際航海證照學程\",\"className\":\"國際航海證照學程\",\"foreverID\":\"350C10016\",\"courseName\":\"電子航海學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"文展權\",\"position\":\"旗津407教室\",\"people\":\"22\",\"maxpeople\":\"60\",\"time\":\"(三)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"GF191400,A5630.01\"],\"note\":\"\"},{\"code\":\"1382\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"國際航海證照學程\",\"className\":\"國際航海證照學程\",\"foreverID\":\"350C10110\",\"courseName\":\"天文航海學(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"簡明生\",\"position\":\"旗津407教室\",\"people\":\"28\",\"maxpeople\":\"60\",\"time\":\"(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"GF191400,B2124.01\"],\"note\":\"\"},{\"code\":\"1910\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"國際航海證照學程\",\"className\":\"國際航海證照學程\",\"foreverID\":\"350C00001\",\"courseName\":\"天文航海學(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"徐聖飛\",\"position\":\"旗津511教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"GF191400,B2125.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1380",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "國際航海證照學程",
+    "className": "國際航海證照學程",
+    "foreverID": "350C10016",
+    "courseName": "電子航海學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "文展權",
+    "position": "旗津407教室",
+    "people": "22",
+    "maxpeople": "60",
+    "time": "(三)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "GF191400,A5630.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1382",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "國際航海證照學程",
+    "className": "國際航海證照學程",
+    "foreverID": "350C10110",
+    "courseName": "天文航海學(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "簡明生",
+    "position": "旗津407教室",
+    "people": "28",
+    "maxpeople": "60",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "GF191400,B2124.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1910",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "國際航海證照學程",
+    "className": "國際航海證照學程",
+    "foreverID": "350C00001",
+    "courseName": "天文航海學(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "徐聖飛",
+    "position": "旗津511教室",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(五)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "GF191400,B2125.01"
+    ],
+    "note": ""
+  }
+]

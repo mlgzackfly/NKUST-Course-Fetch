@@ -1,1 +1,77 @@
-"[{\"code\":\"5321\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班一甲\",\"foreverID\":\"104H10006\",\"courseName\":\"避難系統設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"B124\",\"people\":\"20\",\"maxpeople\":\"30\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF182711,F2182.01\"],\"note\":\"\"},{\"code\":\"5322\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班一甲\",\"foreverID\":\"104H10017\",\"courseName\":\"消防法規\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 蘇崇輝\",\"position\":\"B122\",\"people\":\"36\",\"maxpeople\":\"40\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF182711,F0423.01\"],\"note\":\"\"},{\"code\":\"5323\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班二甲\",\"foreverID\":\"104H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 洪崇軒\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF182721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5321",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班一甲",
+    "foreverID": "104H10006",
+    "courseName": "避難系統設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "B124",
+    "people": "20",
+    "maxpeople": "30",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF182711,F2182.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5322",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班一甲",
+    "foreverID": "104H10017",
+    "courseName": "消防法規",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇崇輝",
+    "position": "B122",
+    "people": "36",
+    "maxpeople": "40",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF182711,F0423.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5323",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班二甲",
+    "foreverID": "104H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "洪崇軒",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF182721,05010.01"
+    ],
+    "note": ""
+  }
+]

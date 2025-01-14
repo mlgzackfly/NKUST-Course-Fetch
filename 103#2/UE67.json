@@ -1,1 +1,52 @@
-"[{\"code\":\"2300\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士秋季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩秋外製管二甲\",\"foreverID\":\"279B00003\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"60\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UE671621,03649.01\"],\"note\":\"\"},{\"code\":\"2300\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士秋季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩秋外製管二乙\",\"foreverID\":\"279B00003\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"60\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UE671622,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2300",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士秋季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩秋外製管二甲",
+    "foreverID": "279B00003",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "60",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UE671621,03649.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2300",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士秋季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩秋外製管二乙",
+    "foreverID": "279B00003",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "60",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UE671621,03649.01"
+    ],
+    "note": ""
+  }
+]

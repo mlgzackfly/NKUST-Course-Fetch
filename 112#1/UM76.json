@@ -1,0 +1,77 @@
+[
+  {
+    "code": "2191",
+    "cmp": "燕巢校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "觀光管理系",
+    "className": "進四產攜觀三乙",
+    "foreverID": "235G10151",
+    "courseName": "餐飲創業管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "游仁良",
+    "position": "MB201",
+    "people": "21",
+    "maxpeople": "55",
+    "time": "(二)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UM764232,08495.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2194",
+    "cmp": "燕巢校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "觀光管理系",
+    "className": "進四產攜觀三乙",
+    "foreverID": "235G10162",
+    "courseName": "義式咖啡調製實務",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "游仁良",
+    "position": "MB202",
+    "people": "20",
+    "maxpeople": "25",
+    "time": "(二)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UM764232,09100.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2195",
+    "cmp": "燕巢校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "觀光管理系",
+    "className": "進四產攜觀三乙",
+    "foreverID": "235G10197",
+    "courseName": "鐵板燒實務",
+    "hours": "3.0",
+    "units": "4.0",
+    "required": "選修",
+    "instructors": "洪世力",
+    "position": "MB110",
+    "people": "20",
+    "maxpeople": "25",
+    "time": "(一)5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UM764232,09206.01"
+    ],
+    "note": ""
+  }
+]

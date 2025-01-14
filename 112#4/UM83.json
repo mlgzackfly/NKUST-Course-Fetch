@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0050",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "國際企業系碩士班[建工/燕巢校區]",
+    "className": "碩國企一甲",
+    "foreverID": "234B00078",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "李曉青",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UM831711,05010.01"
+    ],
+    "note": ""
+  }
+]

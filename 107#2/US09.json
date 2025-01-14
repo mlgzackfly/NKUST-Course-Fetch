@@ -1,1 +1,127 @@
-"[{\"code\":\"4562\",\"cmp\":\"楠梓校區\",\"dgr\":\"進四技產學攜手專班\",\"unt\":\"水食產學攜手專班\",\"className\":\"水食產學四年級\",\"foreverID\":\"302F10303\",\"courseName\":\"食品感官品評\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"李憶甄\",\"position\":\"A11714-2專題討論室\",\"people\":\"43\",\"maxpeople\":\"65\",\"time\":\"(三)11-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"US094241,B3169.01\"],\"note\":\"\"},{\"code\":\"4697\",\"cmp\":\"楠梓校區\",\"dgr\":\"進四技產學攜手專班\",\"unt\":\"水食產學攜手專班\",\"className\":\"水食產學四年級\",\"foreverID\":\"302G00046\",\"courseName\":\"產業實務實習(八)\",\"hours\":\"5.0\",\"units\":\"5.0\",\"required\":\"必修\",\"instructors\":\"林家民,許啟南\",\"position\":\"A11714-2專題討論室\",\"people\":\"16\",\"maxpeople\":\"65\",\"time\":\"(六)3-4,5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"US094241,07695.01\"],\"note\":\"\"},{\"code\":\"4698\",\"cmp\":\"楠梓校區\",\"dgr\":\"進四技產學攜手專班\",\"unt\":\"水食產學攜手專班\",\"className\":\"水食產學四年級\",\"foreverID\":\"302G00035\",\"courseName\":\"食品衛生安全與法規\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"李憶甄\",\"position\":\"A11714-2專題討論室\",\"people\":\"17\",\"maxpeople\":\"65\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"US094241,A9135.01\"],\"note\":\"\"},{\"code\":\"4699\",\"cmp\":\"楠梓校區\",\"dgr\":\"進四技產學攜手專班\",\"unt\":\"水食產學攜手專班\",\"className\":\"水食產學四年級\",\"foreverID\":\"302G00034\",\"courseName\":\"食品工廠管理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"葉泉璟\",\"position\":\"A11714-2專題討論室\",\"people\":\"17\",\"maxpeople\":\"65\",\"time\":\"(三)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"US094241,A9757.01\"],\"note\":\"\"},{\"code\":\"4700\",\"cmp\":\"楠梓校區\",\"dgr\":\"進四技產學攜手專班\",\"unt\":\"水食產學攜手專班\",\"className\":\"水食產學四年級\",\"foreverID\":\"302G10062\",\"courseName\":\"畜產品加工\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳宏慧\",\"position\":\"A11714-2專題討論室\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(三)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"US094241,B0269.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "4562",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "水食產學攜手專班",
+    "className": "水食產學四年級",
+    "foreverID": "302F10303",
+    "courseName": "食品感官品評",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李憶甄",
+    "position": "A11714-2專題討論室",
+    "people": "43",
+    "maxpeople": "65",
+    "time": "(三)11-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "US022441,B3169.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4697",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "水食產學攜手專班",
+    "className": "水食產學四年級",
+    "foreverID": "302G00046",
+    "courseName": "產業實務實習(八)",
+    "hours": "5.0",
+    "units": "5.0",
+    "required": "必修",
+    "instructors": "林家民,許啟南",
+    "position": "A11714-2專題討論室",
+    "people": "16",
+    "maxpeople": "65",
+    "time": "(六)3-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "US094241,07695.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4698",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "水食產學攜手專班",
+    "className": "水食產學四年級",
+    "foreverID": "302G00035",
+    "courseName": "食品衛生安全與法規",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李憶甄",
+    "position": "A11714-2專題討論室",
+    "people": "17",
+    "maxpeople": "65",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "US094241,A9135.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4699",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "水食產學攜手專班",
+    "className": "水食產學四年級",
+    "foreverID": "302G00034",
+    "courseName": "食品工廠管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "葉泉璟",
+    "position": "A11714-2專題討論室",
+    "people": "17",
+    "maxpeople": "65",
+    "time": "(三)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "US094241,A9757.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4700",
+    "cmp": "楠梓校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "水食產學攜手專班",
+    "className": "水食產學四年級",
+    "foreverID": "302G10062",
+    "courseName": "畜產品加工",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳宏慧",
+    "position": "A11714-2專題討論室",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "US094241,B0269.01"
+    ],
+    "note": ""
+  }
+]

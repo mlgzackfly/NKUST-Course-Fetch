@@ -1,1 +1,102 @@
-"[{\"code\":\"2143\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階經營管理研究所\",\"className\":\"進碩高經所二甲\",\"foreverID\":\"291H00003\",\"courseName\":\"策略管理專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"楊敏里,翁玉玲\",\"position\":\"中103\",\"people\":\"18\",\"maxpeople\":\"40\",\"time\":\"(日)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UM842721,06324.01\"],\"note\":\"\"},{\"code\":\"2144\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階經營管理研究所\",\"className\":\"進碩高經所二甲\",\"foreverID\":\"291H10034\",\"courseName\":\"國際企業管理專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"鄭炤仁,陳芃婷\",\"position\":\"中103\",\"people\":\"9\",\"maxpeople\":\"40\",\"time\":\"(六)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UM842721,07526.01\"],\"note\":\"\"},{\"code\":\"2145\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階經營管理研究所\",\"className\":\"進碩高經所二甲\",\"foreverID\":\"291H10027\",\"courseName\":\"服務行銷專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"王崇昱,陳政峰\",\"position\":\"中103\",\"people\":\"18\",\"maxpeople\":\"40\",\"time\":\"(日)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UM842721,07871.01\"],\"note\":\"\"},{\"code\":\"2146\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"高階經營管理研究所\",\"className\":\"進碩高經所二甲\",\"foreverID\":\"291H00006\",\"courseName\":\"作業管理專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"余銘忠,葉惠忠\",\"position\":\"中103\",\"people\":\"20\",\"maxpeople\":\"40\",\"time\":\"(六)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UM842721,08143.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2143",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階經營管理研究所",
+    "className": "進碩高經所二甲",
+    "foreverID": "291H00003",
+    "courseName": "策略管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "楊敏里,翁玉玲",
+    "position": "中103",
+    "people": "18",
+    "maxpeople": "40",
+    "time": "(日)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UM842721,06324.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2144",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階經營管理研究所",
+    "className": "進碩高經所二甲",
+    "foreverID": "291H10034",
+    "courseName": "國際企業管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "鄭炤仁,陳芃婷",
+    "position": "中103",
+    "people": "9",
+    "maxpeople": "40",
+    "time": "(六)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UM842721,07526.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2145",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階經營管理研究所",
+    "className": "進碩高經所二甲",
+    "foreverID": "291H10027",
+    "courseName": "服務行銷專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "王崇昱,陳政峰",
+    "position": "中103",
+    "people": "18",
+    "maxpeople": "40",
+    "time": "(日)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UM842721,07871.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2146",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "高階經營管理研究所",
+    "className": "進碩高經所二甲",
+    "foreverID": "291H00006",
+    "courseName": "作業管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "余銘忠,葉惠忠",
+    "position": "中103",
+    "people": "20",
+    "maxpeople": "40",
+    "time": "(六)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UM842721,08143.01"
+    ],
+    "note": ""
+  }
+]

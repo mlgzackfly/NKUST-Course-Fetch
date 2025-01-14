@@ -1,1 +1,52 @@
-"[{\"code\":\"1667\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"文化創意產業研究所\",\"className\":\"碩文二甲\",\"foreverID\":\"252B10020\",\"courseName\":\"數位創意設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳育民\",\"position\":\"西101\",\"people\":\"14\",\"maxpeople\":\"30\",\"time\":\"(四)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UH551721,07466.01\"],\"note\":\"\"},{\"code\":\"1668\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"文化創意產業研究所\",\"className\":\"碩文二甲\",\"foreverID\":\"252B10015\",\"courseName\":\"創意城鄉專題(二）\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊雅玲\",\"position\":\"\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\"(二)3-A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UH551721,08351.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1667",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "文化創意產業研究所",
+    "className": "碩文二甲",
+    "foreverID": "252B10020",
+    "courseName": "數位創意設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳育民",
+    "position": "西101",
+    "people": "14",
+    "maxpeople": "30",
+    "time": "(四)6-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UH551721,07466.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1668",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "文化創意產業研究所",
+    "className": "碩文二甲",
+    "foreverID": "252B10015",
+    "courseName": "創意城鄉專題(二）",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊雅玲",
+    "position": "",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(二)3-A",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UH551721,08351.01"
+    ],
+    "note": ""
+  }
+]

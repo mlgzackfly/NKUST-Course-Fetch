@@ -1,1 +1,52 @@
-"[{\"code\":\"S154\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"語言教學中心\",\"className\":\"語言教學中心一甲\",\"foreverID\":\"020C10046\",\"courseName\":\"英語3-B\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UL001411,F0073.01\"],\"note\":\"\"},{\"code\":\"S154\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"語言教學中心\",\"className\":\"語言教學中心一甲\",\"foreverID\":\"020C10046\",\"courseName\":\"英語3-B\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UL001411,F0073.01\"],\"note\":\"\"},{\"code\":\"S156\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"語言教學中心\",\"className\":\"語言教學中心一甲\",\"foreverID\":\"020C10089\",\"courseName\":\"英語3-A\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UL001411,09065.01\"],\"note\":\"\"},{\"code\":\"S156\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"語言教學中心\",\"className\":\"語言教學中心一甲\",\"foreverID\":\"020C10089\",\"courseName\":\"英語3-A\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UL001411,09065.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S154",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "語言教學中心",
+    "className": "語言教學中心一甲",
+    "foreverID": "020C10046",
+    "courseName": "英語3-B",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UL001411,F0073.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S156",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "語言教學中心",
+    "className": "語言教學中心一甲",
+    "foreverID": "020C10089",
+    "courseName": "英語3-A",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UL001411,09065.01"
+    ],
+    "note": ""
+  }
+]

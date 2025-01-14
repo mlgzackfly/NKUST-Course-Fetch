@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0198",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "機械工程系",
+    "className": "進四技機械系二甲",
+    "foreverID": "202F00063",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "許兆民",
+    "position": "機203",
+    "people": "26",
+    "maxpeople": "0",
+    "time": "(四)10-12(五)10-12(六)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE252421,00232.01"
+    ],
+    "note": "補差額開課，不對收開放選課。"
+  },
+  {
+    "code": "0172",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "機械工程系",
+    "className": "進四技機械系三甲",
+    "foreverID": "202F00060",
+    "courseName": "流體力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "李純怡",
+    "position": "機103",
+    "people": "28",
+    "maxpeople": "0",
+    "time": "(二)10-13(三)10-13(四)11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE252431,01128.01"
+    ],
+    "note": "補差額開課，不對收開放選課。"
+  },
+  {
+    "code": "0173",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "機械工程系",
+    "className": "進四技機械系四甲",
+    "foreverID": "202F00064",
+    "courseName": "應用電子學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "何信宗",
+    "position": "機204",
+    "people": "28",
+    "maxpeople": "0",
+    "time": "(一)10-12(二)10-12(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE252441,03286.01"
+    ],
+    "note": "補差額開課，不對收開放選課。"
+  }
+]

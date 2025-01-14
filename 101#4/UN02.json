@@ -1,1 +1,27 @@
-"[{\"code\":\"S165\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"運籌管理系\",\"className\":\"運籌系四甲\",\"foreverID\":\"137C10198\",\"courseName\":\"運籌管理實習(三)\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UN021441,F3223.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S165",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "運籌管理系",
+    "className": "運籌系四甲",
+    "foreverID": "137C10198",
+    "courseName": "運籌管理實習(三)",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UN021441,F3223.01"
+    ],
+    "note": ""
+  }
+]

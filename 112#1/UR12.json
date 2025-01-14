@@ -1,0 +1,27 @@
+[
+  {
+    "code": "3478",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "海事資訊科技系碩士班",
+    "className": "碩專海資所二年級",
+    "foreverID": "311H10047",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "謝志敏",
+    "position": "",
+    "people": "3",
+    "maxpeople": "14",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UR122721,05010.01"
+    ],
+    "note": ""
+  }
+]

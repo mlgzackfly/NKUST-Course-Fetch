@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0166",
+    "cmp": "建工校區",
+    "dgr": "日間部五專",
+    "unt": "模具工程科[建工|燕巢校區]",
+    "className": "五模四甲",
+    "foreverID": "209E10304",
+    "courseName": "暑期校外實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "林恒勝,葉松瑋,郭承憲,王心德",
+    "position": "",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE321241,07505.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0193",
+    "cmp": "建工校區",
+    "dgr": "日間部五專",
+    "unt": "模具工程科[建工|燕巢校區]",
+    "className": "五模五甲",
+    "foreverID": "209E00237",
+    "courseName": "物理(四)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "吳政憲",
+    "position": "模601",
+    "people": "3",
+    "maxpeople": "0",
+    "time": "(二)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE321251,00965.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  },
+  {
+    "code": "0194",
+    "cmp": "建工校區",
+    "dgr": "日間部五專",
+    "unt": "模具工程科[建工|燕巢校區]",
+    "className": "五模五甲",
+    "foreverID": "209E00250",
+    "courseName": "塑膠模設計實務",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "吳政憲",
+    "position": "模601",
+    "people": "6",
+    "maxpeople": "0",
+    "time": "(三)2-4,5-7(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE321251,07472.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  },
+  {
+    "code": "0195",
+    "cmp": "建工校區",
+    "dgr": "日間部五專",
+    "unt": "模具工程科[建工|燕巢校區]",
+    "className": "五模五甲",
+    "foreverID": "209E00260",
+    "courseName": "鍛造模設計實務",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "黃德福",
+    "position": "模601",
+    "people": "3",
+    "maxpeople": "0",
+    "time": "(四)5-7(五)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE321251,50152.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  }
+]

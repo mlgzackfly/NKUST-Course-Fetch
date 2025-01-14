@@ -1,1 +1,52 @@
-"[{\"code\":\"2381\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工學院增開班\",\"className\":\"碩增二甲\",\"foreverID\":\"298B00001\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"8\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UE991721,03649.01\"],\"note\":\"學生填寫人工加選單申請\"}]"
+[
+  {
+    "code": "2339",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "工學院增開班",
+    "className": "進四增(工)建工",
+    "foreverID": "298F00003",
+    "courseName": "物理(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "鄭乃仁",
+    "position": "北205",
+    "people": "45",
+    "maxpeople": "0",
+    "time": "(一)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UE992400,00963.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2340",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "工學院增開班",
+    "className": "進四增(工)建工",
+    "foreverID": "298F00005",
+    "courseName": "微積分(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃天受",
+    "position": "模603",
+    "people": "57",
+    "maxpeople": "0",
+    "time": "(二)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UE992400,02224.01"
+    ],
+    "note": ""
+  }
+]

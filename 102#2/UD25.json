@@ -1,1 +1,77 @@
-"[{\"code\":\"2319\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資通訊服務創新產業碩士專班\",\"className\":\"資通訊產碩班一甲\",\"foreverID\":\"126B00002\",\"courseName\":\"專題討論(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 徐偉智\",\"position\":\"F435\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\" (一)11-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UD251711,01684.01\"],\"note\":\"\"},{\"code\":\"2320\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資通訊服務創新產業碩士專班\",\"className\":\"資通訊產碩班一甲\",\"foreverID\":\"126B10011\",\"courseName\":\"智慧生活服務創新\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 徐偉智\",\"position\":\"E209\",\"people\":\"17\",\"maxpeople\":\"30\",\"time\":\" (一)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UD251711,F3502.01\"],\"note\":\"\"},{\"code\":\"2459\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資通訊服務創新產業碩士專班\",\"className\":\"資通訊產碩班二甲\",\"foreverID\":\"126B00005\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 徐偉智\",\"position\":\"教室未定\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UD251721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2319",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資通訊服務創新產業碩士專班",
+    "className": "資通訊產碩班一甲",
+    "foreverID": "126B00002",
+    "courseName": "專題討論(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "徐偉智",
+    "position": "F435",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(一)11-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UD251711,01684.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2320",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資通訊服務創新產業碩士專班",
+    "className": "資通訊產碩班一甲",
+    "foreverID": "126B10011",
+    "courseName": "智慧生活服務創新",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐偉智",
+    "position": "E209",
+    "people": "17",
+    "maxpeople": "30",
+    "time": "(一)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UD251711,F3502.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2459",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資通訊服務創新產業碩士專班",
+    "className": "資通訊產碩班二甲",
+    "foreverID": "126B00005",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "徐偉智",
+    "position": "教室未定",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UD251721,05010.01"
+    ],
+    "note": ""
+  }
+]

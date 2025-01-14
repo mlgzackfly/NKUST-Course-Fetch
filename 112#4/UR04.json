@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0162",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海三甲",
+    "foreverID": "312E00207",
+    "courseName": "地文航海學(四)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "蔡育明",
+    "position": "旗U403教室",
+    "people": "11",
+    "maxpeople": "0",
+    "time": "(四)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR041231,B2327.01"
+    ],
+    "note": "補差額課程，不開放選課。\n暑修課程日期：7/8開始上課。"
+  },
+  {
+    "code": "0200",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海三甲",
+    "foreverID": "312E00181",
+    "courseName": "船舶穩度",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "陳永昇",
+    "position": "旗U405教室",
+    "people": "22",
+    "maxpeople": "0",
+    "time": "(三)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR041231,B2571.01"
+    ],
+    "note": "一、補差額課程，不開放選課。 \n二、上課日期為113/7/15-8/23。\n三、第一次授課日期為113/7/17"
+  },
+  {
+    "code": "0161",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海四甲",
+    "foreverID": "312E00163",
+    "courseName": "貨物作業(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "王鳳明",
+    "position": "1412海圖教室",
+    "people": "6",
+    "maxpeople": "0",
+    "time": "(六)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR041241,B2572.01"
+    ],
+    "note": "補差額課程，不開放選課。\n暑修課程日期：7/8開始上課。"
+  },
+  {
+    "code": "0201",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海五甲",
+    "foreverID": "312E00485",
+    "courseName": "整合航海系統",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張惠禮",
+    "position": "旗U403教室",
+    "people": "4",
+    "maxpeople": "0",
+    "time": "(一)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UR041251,10389.01"
+    ],
+    "note": "補差額課程，不開放選課。"
+  }
+]

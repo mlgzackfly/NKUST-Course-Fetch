@@ -1,1 +1,27 @@
-"[{\"code\":\"S197\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"工院課程[第一]\",\"className\":\"工院課程一甲\",\"foreverID\":\"010C11250\",\"courseName\":\"工程倫理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"4\",\"UE011411,00203.01\"],\"note\":\"\"},{\"code\":\"S197\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"工院課程[第一]\",\"className\":\"工院課程一甲\",\"foreverID\":\"010C11250\",\"courseName\":\"工程倫理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"4\",\"UE011411,00203.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S197",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "工院課程[第一]",
+    "className": "工院課程一甲",
+    "foreverID": "010C11250",
+    "courseName": "工程倫理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "4",
+      "UE011411,00203.01"
+    ],
+    "note": ""
+  }
+]

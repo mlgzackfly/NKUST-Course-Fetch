@@ -1,1 +1,27 @@
-"[{\"code\":\"0112\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用外語系\",\"className\":\"四外\",\"foreverID\":\"253C10363\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"黃士人\",\"position\":\"\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(一)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UH511400,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0112",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "應用外語系",
+    "className": "四外",
+    "foreverID": "253C10363",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "黃士人",
+    "position": "",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(一)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UH511400,04138.01"
+    ],
+    "note": ""
+  }
+]

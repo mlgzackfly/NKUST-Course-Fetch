@@ -1,1 +1,77 @@
-"[{\"code\":\"S236\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"環境與安全衛生工程系\",\"className\":\"環安系一甲\",\"foreverID\":\"103C00064\",\"courseName\":\"化學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"16\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UF021411,00444.01\"],\"note\":\"\"},{\"code\":\"S236\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"環境與安全衛生工程系\",\"className\":\"環安系一甲\",\"foreverID\":\"103C00064\",\"courseName\":\"化學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"16\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UF021411,00444.01\"],\"note\":\"\"},{\"code\":\"S236\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"環境與安全衛生工程系\",\"className\":\"環安系一甲\",\"foreverID\":\"103C00064\",\"courseName\":\"化學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"16\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UF021411,00444.01\"],\"note\":\"\"},{\"code\":\"S220\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"環境與安全衛生工程系\",\"className\":\"環安系三甲\",\"foreverID\":\"103C10078\",\"courseName\":\"書報討論(一)\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UF021431,01328.01\"],\"note\":\"\"},{\"code\":\"S222\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"環境與安全衛生工程系\",\"className\":\"環安系三甲\",\"foreverID\":\"103C10215\",\"courseName\":\"環安衛工程實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"67\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UF021431,F2830.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S236",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "環境與安全衛生工程系",
+    "className": "環安系一甲",
+    "foreverID": "103C00064",
+    "courseName": "化學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "16",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UF021411,00444.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S220",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "環境與安全衛生工程系",
+    "className": "環安系三甲",
+    "foreverID": "103C10078",
+    "courseName": "書報討論(一)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UF021431,01328.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S222",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "環境與安全衛生工程系",
+    "className": "環安系三甲",
+    "foreverID": "103C10215",
+    "courseName": "環安衛工程實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "67",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UF021431,F2830.01"
+    ],
+    "note": ""
+  }
+]

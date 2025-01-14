@@ -1,1 +1,102 @@
-"[{\"code\":\"S153\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00094\",\"courseName\":\"材料力學\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011421,00840.01\"],\"note\":\"\"},{\"code\":\"S153\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00094\",\"courseName\":\"材料力學\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011421,00840.01\"],\"note\":\"\"},{\"code\":\"S153\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00094\",\"courseName\":\"材料力學\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011421,00840.01\"],\"note\":\"\"},{\"code\":\"S155\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00067\",\"courseName\":\"結構分析(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011421,F1280.01\"],\"note\":\"\"},{\"code\":\"S155\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00067\",\"courseName\":\"結構分析(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011421,F1280.01\"],\"note\":\"\"},{\"code\":\"S155\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系二甲\",\"foreverID\":\"102C00067\",\"courseName\":\"結構分析(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011421,F1280.01\"],\"note\":\"\"},{\"code\":\"S157\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系三甲\",\"foreverID\":\"102C10119\",\"courseName\":\"營建工程暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011431,F3554.01\"],\"note\":\"\"},{\"code\":\"S231\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系三甲\",\"foreverID\":\"102C10134\",\"courseName\":\"營建工程專案實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UF011431,F3552.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S153",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系二甲",
+    "foreverID": "102C00094",
+    "courseName": "材料力學",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UF011421,00840.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S155",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系二甲",
+    "foreverID": "102C00067",
+    "courseName": "結構分析(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UF011421,F1280.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S157",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三甲",
+    "foreverID": "102C10119",
+    "courseName": "營建工程暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UF011431,F3554.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S231",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三甲",
+    "foreverID": "102C10134",
+    "courseName": "營建工程專案實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UF011431,F3552.01"
+    ],
+    "note": ""
+  }
+]

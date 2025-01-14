@@ -1,1 +1,127 @@
-"[{\"code\":\"0271\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H00003\",\"courseName\":\"專題討論(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"連長華\",\"position\":\"10307教室\",\"people\":\"16\",\"maxpeople\":\"60\",\"time\":\"(三)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UR092711,01684.01\"],\"note\":\"\"},{\"code\":\"0272\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H10020\",\"courseName\":\"船機振動學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳佳璋\",\"position\":\"( 旗津 )\",\"people\":\"14\",\"maxpeople\":\"60\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UR092711,A9219.01\"],\"note\":\"\"},{\"code\":\"0273\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H10026\",\"courseName\":\"內燃機設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"葉榮華\",\"position\":\"10307教室\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\"(四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UR092711,B2684.01\"],\"note\":\"\"},{\"code\":\"0274\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H10035\",\"courseName\":\"工業機電整合設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蘇俊連\",\"position\":\"10101教室\",\"people\":\"14\",\"maxpeople\":\"60\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UR092711,B2685.01\"],\"note\":\"\"},{\"code\":\"1783\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H10053\",\"courseName\":\"熱傳增強技術分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊春陵\",\"position\":\"10307教室\",\"people\":\"6\",\"maxpeople\":\"60\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UR092711,B0449.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0271",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H00003",
+    "courseName": "專題討論(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "連長華",
+    "position": "10307教室",
+    "people": "16",
+    "maxpeople": "60",
+    "time": "(三)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UR092711,01684.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0272",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H10020",
+    "courseName": "船機振動學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳佳璋",
+    "position": "( 旗津 )",
+    "people": "14",
+    "maxpeople": "60",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UR092711,A9219.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0273",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H10026",
+    "courseName": "內燃機設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "葉榮華",
+    "position": "10307教室",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UR092711,B2684.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0274",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H10035",
+    "courseName": "工業機電整合設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇俊連",
+    "position": "10101教室",
+    "people": "14",
+    "maxpeople": "60",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UR092711,B2685.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1783",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H10053",
+    "courseName": "熱傳增強技術分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊春陵",
+    "position": "10307教室",
+    "people": "6",
+    "maxpeople": "60",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UR092711,B0449.01"
+    ],
+    "note": ""
+  }
+]

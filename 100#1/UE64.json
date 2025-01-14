@@ -1,1 +1,77 @@
-"[{\"code\":\"2386\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"創新科技管理產業碩士專班[建工/\",\"className\":\"進碩春創新一甲\",\"foreverID\":\"277I10006\",\"courseName\":\"應用統計分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林谷鴻\",\"position\":\"資002\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE642511,05914.01\"],\"note\":\"\"},{\"code\":\"2397\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"創新科技管理產業碩士專班[建工/\",\"className\":\"進碩春創新一甲\",\"foreverID\":\"277I10011\",\"courseName\":\"決策分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王嘉男\",\"position\":\"\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE642511,00857.01\"],\"note\":\"\"},{\"code\":\"2398\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"創新科技管理產業碩士專班[建工/\",\"className\":\"進碩春創新一甲\",\"foreverID\":\"277I10009\",\"courseName\":\"專案管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳杉堯\",\"position\":\"\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(日)8-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"1\",\"UE642511,01652.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2386",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "創新科技管理產業碩士專班[建工/",
+    "className": "進碩春創新一甲",
+    "foreverID": "277I10006",
+    "courseName": "應用統計分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林谷鴻",
+    "position": "資002",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE642511,05914.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2397",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "創新科技管理產業碩士專班[建工/",
+    "className": "進碩春創新一甲",
+    "foreverID": "277I10011",
+    "courseName": "決策分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王嘉男",
+    "position": "",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE642511,00857.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2398",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "創新科技管理產業碩士專班[建工/",
+    "className": "進碩春創新一甲",
+    "foreverID": "277I10009",
+    "courseName": "專案管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳杉堯",
+    "position": "",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(日)8-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "1",
+      "UE642511,01652.01"
+    ],
+    "note": ""
+  }
+]

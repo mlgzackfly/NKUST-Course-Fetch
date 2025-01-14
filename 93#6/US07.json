@@ -1,1 +1,27 @@
-"[{\"code\":\"0107\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"水產食品工業科\",\"className\":\"日五專水食科\",\"foreverID\":\"302E00135\",\"courseName\":\"有機化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"6\",\"US071200,00722.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0107",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "水產食品工業科",
+    "className": "日五專水食科",
+    "foreverID": "302E00135",
+    "courseName": "有機化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "6",
+      "US071200,00722.01"
+    ],
+    "note": ""
+  }
+]

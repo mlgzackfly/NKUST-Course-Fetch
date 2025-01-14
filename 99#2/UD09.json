@@ -1,1 +1,77 @@
-"[{\"code\":\"1195\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資通訊產業研發碩士專班\",\"className\":\"電資產碩班一甲\",\"foreverID\":\"124B00006\",\"courseName\":\"專題演講(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 徐偉智\",\"position\":\"B208\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\" (四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UD091711,F1234.01\"],\"note\":\"\"},{\"code\":\"1196\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資通訊產業研發碩士專班\",\"className\":\"電資產碩班一甲\",\"foreverID\":\"124B00003\",\"courseName\":\"專題討論(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 徐偉智\",\"position\":\"F106\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\" (一)11-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UD091711,01684.01\"],\"note\":\"\"},{\"code\":\"1197\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資通訊產業研發碩士專班\",\"className\":\"電資產碩班一甲\",\"foreverID\":\"124B10009\",\"courseName\":\"雲端運算\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 徐偉智\",\"position\":\"F452\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\" (三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UD091711,F0647.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1195",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資通訊產業研發碩士專班",
+    "className": "電資產碩班一甲",
+    "foreverID": "124B00006",
+    "courseName": "專題演講(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "徐偉智",
+    "position": "B208",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "(四)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UD091711,F1234.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1196",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資通訊產業研發碩士專班",
+    "className": "電資產碩班一甲",
+    "foreverID": "124B00003",
+    "courseName": "專題討論(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "徐偉智",
+    "position": "F106",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "(一)11-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UD091711,01684.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1197",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資通訊產業研發碩士專班",
+    "className": "電資產碩班一甲",
+    "foreverID": "124B10009",
+    "courseName": "雲端運算",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐偉智",
+    "position": "F452",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UD091711,F0647.01"
+    ],
+    "note": ""
+  }
+]

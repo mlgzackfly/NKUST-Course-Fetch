@@ -1,1 +1,77 @@
-"[{\"code\":\"2115\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"010C11108\",\"courseName\":\"專案管理概論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 徐偉智\",\"position\":\"B342\",\"people\":\"47\",\"maxpeople\":\"70\",\"time\":\" (五)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UI991411,F1567.01\"],\"note\":\"\"},{\"code\":\"2116\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"010C11542\",\"courseName\":\"產品開發與創業\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"B345\",\"people\":\"65\",\"maxpeople\":\"70\",\"time\":\" (五)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UI991411,F2841.01\"],\"note\":\"\"},{\"code\":\"2117\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"010C11344\",\"courseName\":\"工程師基本知識\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"E014\",\"people\":\"79\",\"maxpeople\":\"80\",\"time\":\" (二)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UI991411,F2632.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2115",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "010C11108",
+    "courseName": "專案管理概論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "徐偉智",
+    "position": "B342",
+    "people": "47",
+    "maxpeople": "70",
+    "time": "(五)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UI991411,F1567.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2116",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "010C11542",
+    "courseName": "產品開發與創業",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "B345",
+    "people": "65",
+    "maxpeople": "70",
+    "time": "(五)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UI991411,F2841.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2117",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "010C11344",
+    "courseName": "工程師基本知識",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "E014",
+    "people": "79",
+    "maxpeople": "80",
+    "time": "(二)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UI991411,F2632.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"0266\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10005\",\"courseName\":\"電漿原理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡政賢\",\"position\":\"司208\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(一)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UE142611,02637.01\"],\"note\":\"\"},{\"code\":\"0267\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10013\",\"courseName\":\"半導體構裝材料與製程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"何宗漢\",\"position\":\"司208\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(五)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UE142611,04391.01\"],\"note\":\"\"},{\"code\":\"0268\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"化工材料研發產業碩士專班[工/\",\"className\":\"進碩秋化工材一甲\",\"foreverID\":\"208I10009\",\"courseName\":\"高等複合材料\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"謝達華\",\"position\":\"司208\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(二)12-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UE142611,05978.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0266",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10005",
+    "courseName": "電漿原理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡政賢",
+    "position": "司208",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(一)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE142611,02637.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0267",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10013",
+    "courseName": "半導體構裝材料與製程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "何宗漢",
+    "position": "司208",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(五)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE142611,04391.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0268",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "化工材料研發產業碩士專班[工/",
+    "className": "進碩秋化工材一甲",
+    "foreverID": "208I10009",
+    "courseName": "高等複合材料",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝達華",
+    "position": "司208",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(二)12-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE142611,05978.01"
+    ],
+    "note": ""
+  }
+]

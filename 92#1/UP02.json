@@ -1,0 +1,77 @@
+[
+  {
+    "code": "6002",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系四甲",
+    "foreverID": "154C00008",
+    "courseName": "實務專題(Ⅰ)",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UP021441,F1226.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6003",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系四甲",
+    "foreverID": "154C10066",
+    "courseName": "壽險數學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UP021441,F0242.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6004",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系四甲",
+    "foreverID": "154C10105",
+    "courseName": "保險行銷管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UP021441,F1378.01"
+    ],
+    "note": ""
+  }
+]

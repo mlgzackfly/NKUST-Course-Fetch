@@ -1,1 +1,52 @@
-"[{\"code\":\"0062\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財務管理系\",\"className\":\"財管系二甲\",\"foreverID\":\"155C10364\",\"courseName\":\"財務管理實務暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"周建新,林楚雄,蔡繡容\",\"position\":\"教室未定\",\"people\":\"8\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UP031421,30127.01\"],\"note\":\"校外實習不排上課時間\"},{\"code\":\"0063\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財務管理系\",\"className\":\"財管系三甲\",\"foreverID\":\"155C10366\",\"courseName\":\"公司理財實務暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"周建新,林昭賢,林楚雄,蔡繡容\",\"position\":\"教室未定\",\"people\":\"16\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UP031431,30128.01\"],\"note\":\"校外實習不排上課時間\"}]"
+[
+  {
+    "code": "0062",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財務管理系",
+    "className": "財管系二甲",
+    "foreverID": "155C10364",
+    "courseName": "財務管理實務暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "周建新,林楚雄,蔡繡容",
+    "position": "教室未定",
+    "people": "8",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UP031421,30127.01"
+    ],
+    "note": "校外實習不排上課時間"
+  },
+  {
+    "code": "0063",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財務管理系",
+    "className": "財管系三甲",
+    "foreverID": "155C10366",
+    "courseName": "公司理財實務暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "周建新,林昭賢,林楚雄,蔡繡容",
+    "position": "教室未定",
+    "people": "16",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UP031431,30128.01"
+    ],
+    "note": "校外實習不排上課時間"
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"1902\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋生物技學程\",\"className\":\"日海洋生物技學程\",\"foreverID\":\"350C10178\",\"courseName\":\"核酸化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"張瑞璋\",\"position\":\"3206教室\",\"people\":\"17\",\"maxpeople\":\"60\",\"time\":\"(一)9-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"GF021400,A2910.01\"],\"note\":\"\"},{\"code\":\"1929\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋生物技學程\",\"className\":\"日海洋生物技學程\",\"foreverID\":\"350C10143\",\"courseName\":\"生物科技概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃清龍\",\"position\":\"3206教室\",\"people\":\"33\",\"maxpeople\":\"60\",\"time\":\"(四)9-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"GF021400,00565.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1902",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋生物技學程",
+    "className": "日海洋生物技學程",
+    "foreverID": "350C10178",
+    "courseName": "核酸化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張瑞璋",
+    "position": "3206教室",
+    "people": "17",
+    "maxpeople": "60",
+    "time": "(一)9-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "GF021400,A2910.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1929",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋生物技學程",
+    "className": "日海洋生物技學程",
+    "foreverID": "350C10143",
+    "courseName": "生物科技概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃清龍",
+    "position": "3206教室",
+    "people": "33",
+    "maxpeople": "60",
+    "time": "(四)9-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "GF021400,00565.01"
+    ],
+    "note": ""
+  }
+]

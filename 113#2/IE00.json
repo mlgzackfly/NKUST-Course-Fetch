@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0036",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業發展處",
+    "className": "創創處二甲",
+    "foreverID": "030C10024",
+    "courseName": "創業講座",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳建志",
+    "position": "10307階梯教室",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "IE001421,F0181.03"
+    ],
+    "note": ""
+  }
+]

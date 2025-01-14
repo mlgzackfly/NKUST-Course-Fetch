@@ -1,0 +1,102 @@
+[
+  {
+    "code": "2583",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H10041",
+    "courseName": "關係管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李勝祥",
+    "position": "2501流通教學平台",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "(二)12-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UO152711,B2485.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2584",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H10043",
+    "courseName": "零售管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林義屏",
+    "position": "2506電腦輔助電話調查",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "(一)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UO152711,F2235.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2585",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所二年級",
+    "foreverID": "332H00009",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "洪榮耀",
+    "position": "",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UO152721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2586",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所二年級",
+    "foreverID": "332H10035",
+    "courseName": "策略管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李勝祥",
+    "position": "2501流通教學平台",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "(三)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UO152721,06324.01"
+    ],
+    "note": ""
+  }
+]

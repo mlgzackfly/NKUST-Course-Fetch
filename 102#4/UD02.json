@@ -1,1 +1,52 @@
-"[{\"code\":\"S182\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子工程系[第一]\",\"className\":\"電子系一甲\",\"foreverID\":\"123C00037\",\"courseName\":\"程式語言\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UD021411,02033.01\"],\"note\":\"\"},{\"code\":\"S182\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子工程系[第一]\",\"className\":\"電子系一甲\",\"foreverID\":\"123C00037\",\"courseName\":\"程式語言\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UD021411,02033.01\"],\"note\":\"\"},{\"code\":\"S182\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子工程系[第一]\",\"className\":\"電子系一甲\",\"foreverID\":\"123C00037\",\"courseName\":\"程式語言\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UD021411,02033.01\"],\"note\":\"\"},{\"code\":\"S184\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子工程系[第一]\",\"className\":\"電子系四甲\",\"foreverID\":\"123C00019\",\"courseName\":\"實務專題(二)\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UD021441,02713.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S182",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電子工程系[第一]",
+    "className": "電子系一甲",
+    "foreverID": "123C00037",
+    "courseName": "程式語言",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UD021411,02033.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S184",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電子工程系[第一]",
+    "className": "電子系四甲",
+    "foreverID": "123C00019",
+    "courseName": "實務專題(二)",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UD021441,02713.01"
+    ],
+    "note": ""
+  }
+]

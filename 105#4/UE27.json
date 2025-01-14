@@ -1,1 +1,27 @@
-"[]"
+[
+  {
+    "code": "0048",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "電機工程系",
+    "className": "進四技電機系一甲",
+    "foreverID": "227F00086",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "李慶祥",
+    "position": "土408",
+    "people": "41",
+    "maxpeople": "55",
+    "time": "(五)2-4,5-7,11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UE272411,00233.01"
+    ],
+    "note": ""
+  }
+]

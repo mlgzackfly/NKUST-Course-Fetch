@@ -1,1 +1,52 @@
-"[{\"code\":\"0088\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系[建工/燕巢校區]\",\"className\":\"四資\",\"foreverID\":\"231C10142\",\"courseName\":\"暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 傅振瑞,許瓊文\",\"position\":\"教室未定\",\"people\":\"6\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UM781400,09635.01\"],\"note\":\"\"},{\"code\":\"0270\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系[建工/燕巢校區]\",\"className\":\"四資\",\"foreverID\":\"231C00050\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 張添香,許瓊文\",\"position\":\"教室未定\",\"people\":\"4\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UM781400,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0088",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系[建工/燕巢校區]",
+    "className": "四資",
+    "foreverID": "231C10142",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "傅振瑞,許瓊文",
+    "position": "教室未定",
+    "people": "6",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UM781400,09635.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0270",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系[建工/燕巢校區]",
+    "className": "四資",
+    "foreverID": "231C00050",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "張添香,許瓊文",
+    "position": "教室未定",
+    "people": "4",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UM781400,04138.01"
+    ],
+    "note": ""
+  }
+]

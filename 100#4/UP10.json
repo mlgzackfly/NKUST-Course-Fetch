@@ -1,1 +1,27 @@
-"[{\"code\":\"S102\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"財務金融學院博士班\",\"className\":\"財金院博班二甲\",\"foreverID\":\"151A00017\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UP101821,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S102",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "財務金融學院博士班",
+    "className": "財金院博班二甲",
+    "foreverID": "151A00017",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UP101821,05010.01"
+    ],
+    "note": ""
+  }
+]

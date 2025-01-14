@@ -1,1 +1,102 @@
-"[{\"code\":\"2378\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩春外製管一甲\",\"foreverID\":\"279B10029\",\"courseName\":\"科技管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"戴貞德\",\"position\":\"育505\",\"people\":\"79\",\"maxpeople\":\"55\",\"time\":\"(二)5-7\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UE671511,01137.01\"],\"note\":\"\"},{\"code\":\"2379\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩春外製管一甲\",\"foreverID\":\"279B00001\",\"courseName\":\"專題研討(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"戴貞德\",\"position\":\"育202\",\"people\":\"30\",\"maxpeople\":\"55\",\"time\":\"(二)3-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UE671511,01680.01\"],\"note\":\"\"},{\"code\":\"2380\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩春外製管一甲\",\"foreverID\":\"279B10010\",\"courseName\":\"中文訓練\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李佩芬\",\"position\":\"東101\",\"people\":\"46\",\"maxpeople\":\"55\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UE671511,08594.01\"],\"note\":\"\"},{\"code\":\"2424\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"製造與管理外國學生碩士專班\",\"className\":\"碩春外製管二甲\",\"foreverID\":\"279B00003\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"23\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UE671521,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2378",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩春外製管一甲",
+    "foreverID": "279B10029",
+    "courseName": "科技管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "戴貞德",
+    "position": "育505",
+    "people": "79",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UE671511,01137.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2379",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩春外製管一甲",
+    "foreverID": "279B00001",
+    "courseName": "專題研討(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "戴貞德",
+    "position": "育202",
+    "people": "30",
+    "maxpeople": "55",
+    "time": "(二)3-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UE671511,01680.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2380",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩春外製管一甲",
+    "foreverID": "279B10010",
+    "courseName": "中文訓練",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李佩芬",
+    "position": "東101",
+    "people": "46",
+    "maxpeople": "55",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UE671511,08594.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2424",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "製造與管理外國學生碩士專班",
+    "className": "碩春外製管二甲",
+    "foreverID": "279B00003",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "23",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UE671521,03649.01"
+    ],
+    "note": ""
+  }
+]

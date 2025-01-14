@@ -1,1 +1,27 @@
-"[{\"code\":\"1692\",\"cmp\":\"建工校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"資電與管理外國學生碩士專班\",\"className\":\"碩春外資電二甲\",\"foreverID\":\"286B00003\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"8\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UI071521,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1692",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "資電與管理外國學生碩士專班",
+    "className": "碩春外資電二甲",
+    "foreverID": "286B00003",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "8",
+    "maxpeople": "55",
+    "time": "",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UI071521,03649.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0033\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電訊工程系\",\"className\":\"日四技電訊系\",\"foreverID\":\"323C00104\",\"courseName\":\"電路學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UQ031400,02623.01\"],\"note\":\"961236107至正修科技大學修課\"}]"
+[
+  {
+    "code": "0033",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電訊工程系",
+    "className": "日四技電訊系",
+    "foreverID": "323C00104",
+    "courseName": "電路學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UQ031400,02623.01"
+    ],
+    "note": "961236107至正修科技大學修課"
+  }
+]

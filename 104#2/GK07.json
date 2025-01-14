@@ -1,1 +1,77 @@
-"[{\"code\":\"1830\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海生系產學一貫學程\",\"className\":\"海生產學學程\",\"foreverID\":\"351C10002\",\"courseName\":\"產學合作實習(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃胤唐\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GK071400,B3189.01\"],\"note\":\"\"},{\"code\":\"1831\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海生系產學一貫學程\",\"className\":\"海生產學學程\",\"foreverID\":\"351C10001\",\"courseName\":\"產學合作實習(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃胤唐\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"(五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GK071400,B3190.01\"],\"note\":\"\"},{\"code\":\"1832\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海生系產學一貫學程\",\"className\":\"海生產學學程\",\"foreverID\":\"351C10003\",\"courseName\":\"產學合作實習(三)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"許世宜\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GK071400,B3191.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1830",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海生系產學一貫學程",
+    "className": "海生產學學程",
+    "foreverID": "351C10002",
+    "courseName": "產學合作實習(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃胤唐",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "GK071400,B3189.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1831",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海生系產學一貫學程",
+    "className": "海生產學學程",
+    "foreverID": "351C10001",
+    "courseName": "產學合作實習(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃胤唐",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "GK071400,B3190.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1832",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海生系產學一貫學程",
+    "className": "海生產學學程",
+    "foreverID": "351C10003",
+    "courseName": "產學合作實習(三)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許世宜",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "GK071400,B3191.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"W101\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"工學院工程科技博士班\",\"className\":\"工科博士班一甲\",\"foreverID\":\"101A10066\",\"courseName\":\"光纖光柵原理與應用\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"3\",\"UF131811,F3951.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "W101",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工學院工程科技博士班",
+    "className": "工科博士班一甲",
+    "foreverID": "101A10066",
+    "courseName": "光纖光柵原理與應用",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "3",
+      "UF131811,F3951.01"
+    ],
+    "note": ""
+  }
+]

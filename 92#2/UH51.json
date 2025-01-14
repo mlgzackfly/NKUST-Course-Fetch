@@ -1,0 +1,27 @@
+[
+  {
+    "code": "1699",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "應用外語系",
+    "className": "四外三乙",
+    "foreverID": "253C10314",
+    "courseName": "進階商用英語聽力與會話",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳炫佑",
+    "position": "北305",
+    "people": "44",
+    "maxpeople": "55",
+    "time": "(二)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "2",
+      "UH511432,04002.01"
+    ],
+    "note": ""
+  }
+]

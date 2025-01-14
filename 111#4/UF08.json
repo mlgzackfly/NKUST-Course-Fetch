@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0040",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "工業設計系",
+    "className": "工設系三甲",
+    "foreverID": "109C00006",
+    "courseName": "設計實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "張祥唐,葉恒志,楊彩玲,陳俊東,龔蒂菀,王藝蓁,林龍吟,蔡宏政",
+    "position": "",
+    "people": "53",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UF081431,F0558.01"
+    ],
+    "note": "此課程為暑期實習，需至校外實習320小時。"
+  }
+]

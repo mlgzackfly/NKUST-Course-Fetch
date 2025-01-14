@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0104",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩二甲",
+    "foreverID": "335B10030",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "汪素卿",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UV011721,09635.01"
+    ],
+    "note": "課程需事先申請，由系上協助加選課程。"
+  }
+]

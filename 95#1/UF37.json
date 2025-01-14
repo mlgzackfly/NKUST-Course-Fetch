@@ -1,1 +1,52 @@
-"[{\"code\":\"5309\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工科機電班\",\"className\":\"工科機電班二甲\",\"foreverID\":\"110B00009\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UF371721,05010.01\"],\"note\":\"\"},{\"code\":\"5310\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工科機電班\",\"className\":\"工科機電班二甲\",\"foreverID\":\"110B10011\",\"courseName\":\"中英文寫作一\",\"hours\":\"0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"UF371721,F1330.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5309",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "工科機電班",
+    "className": "工科機電班二甲",
+    "foreverID": "110B00009",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UF371721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5310",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "工科機電班",
+    "className": "工科機電班二甲",
+    "foreverID": "110B10011",
+    "courseName": "中英文寫作一",
+    "hours": "0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "UF371721,F1330.01"
+    ],
+    "note": ""
+  }
+]

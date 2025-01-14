@@ -1,1 +1,102 @@
-"[{\"code\":\"6456\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00161\",\"courseName\":\"生產管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"XK051411,00583.01\"],\"note\":\"\"},{\"code\":\"6457\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C10331\",\"courseName\":\"民事訴訟法(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"XK051411,F2389.01\"],\"note\":\"\"},{\"code\":\"6458\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C10407\",\"courseName\":\"刑事訴訟法(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"XK051411,F2347.01\"],\"note\":\"\"},{\"code\":\"6459\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C10238\",\"courseName\":\"審計學(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"XK051411,F0731.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6456",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C00161",
+    "courseName": "生產管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "XK051411,00583.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6457",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10331",
+    "courseName": "民事訴訟法(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "XK051411,F2389.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6458",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10407",
+    "courseName": "刑事訴訟法(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "XK051411,F2347.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6459",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10238",
+    "courseName": "審計學(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "XK051411,F0731.01"
+    ],
+    "note": ""
+  }
+]

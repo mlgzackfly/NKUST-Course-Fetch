@@ -1,0 +1,52 @@
+[
+  {
+    "code": "5704",
+    "cmp": "第一校區",
+    "dgr": "進修學院二技",
+    "unt": "校際選課",
+    "className": "校際選課三甲",
+    "foreverID": "070J00002",
+    "courseName": "成本與管理會計",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "XK053341,00706.01"
+    ],
+    "note": "台中科技大學"
+  },
+  {
+    "code": "5705",
+    "cmp": "第一校區",
+    "dgr": "進修學院二技",
+    "unt": "校際選課",
+    "className": "校際選課三甲",
+    "foreverID": "070J00001",
+    "courseName": "審計學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "XK053341,02891.01"
+    ],
+    "note": "台中科技大學"
+  }
+]

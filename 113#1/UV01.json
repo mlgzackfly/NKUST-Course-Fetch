@@ -1,0 +1,102 @@
+[
+  {
+    "code": "4038",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩一甲",
+    "foreverID": "335B10027",
+    "courseName": "雲端運算專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐志鈞",
+    "position": "3401電腦教室(一)",
+    "people": "25",
+    "maxpeople": "55",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UV011711,07647.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4039",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩一甲",
+    "foreverID": "335B10033",
+    "courseName": "商業智慧專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林繼昌",
+    "position": "2407多功能階梯教室",
+    "people": "8",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UV011711,13821.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4041",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩一甲",
+    "foreverID": "335B10017",
+    "courseName": "海事實務專題研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林繼昌",
+    "position": "2407多功能階梯教室",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UV011711,B3291.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4042",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩二甲",
+    "foreverID": "335B00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "王馨葦",
+    "position": "",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UV011721,05010.01"
+    ],
+    "note": ""
+  }
+]

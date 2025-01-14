@@ -1,1 +1,77 @@
-"[{\"code\":\"1627\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機械與自動化工程系先進製造科技\",\"className\":\"製造碩士班一甲\",\"foreverID\":\"105B00012\",\"courseName\":\"專題討論(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"郭峻志,李振榮\",\"position\":\"F109\",\"people\":\"25\",\"maxpeople\":\"60\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UF211711,01684.01\"],\"note\":\"與先進製造碩士班1A(一甲)一起上課\"},{\"code\":\"1634\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機械與自動化工程系先進製造科技\",\"className\":\"製造碩士班一甲\",\"foreverID\":\"105B00011\",\"courseName\":\"英語簡報實務\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鄭凱睿,吳宗亮\",\"position\":\"B116\",\"people\":\"25\",\"maxpeople\":\"60\",\"time\":\"(一)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UF211711,F2025.01\"],\"note\":\"與先進製造碩士班1A(一甲)一起上課\"},{\"code\":\"1583\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機械與自動化工程系先進製造科技\",\"className\":\"製造碩士班二甲\",\"foreverID\":\"106B00006\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"謝其昌\",\"position\":\"\",\"people\":\"9\",\"maxpeople\":\"15\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UF211721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1627",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機械與自動化工程系先進製造科技",
+    "className": "製造碩士班一甲",
+    "foreverID": "105B00012",
+    "courseName": "專題討論(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "郭峻志,李振榮",
+    "position": "F109",
+    "people": "25",
+    "maxpeople": "60",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UF311711,01684.01"
+    ],
+    "note": "與先進製造碩士班1A(一甲)一起上課"
+  },
+  {
+    "code": "1634",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機械與自動化工程系先進製造科技",
+    "className": "製造碩士班一甲",
+    "foreverID": "105B00011",
+    "courseName": "英語簡報實務",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "鄭凱睿,吳宗亮",
+    "position": "B116",
+    "people": "25",
+    "maxpeople": "60",
+    "time": "(一)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UF311711,F2025.01"
+    ],
+    "note": "與先進製造碩士班1A(一甲)一起上課"
+  },
+  {
+    "code": "1583",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機械與自動化工程系先進製造科技",
+    "className": "製造碩士班二甲",
+    "foreverID": "106B00006",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "謝其昌",
+    "position": "",
+    "people": "9",
+    "maxpeople": "15",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UF211721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"4104\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部碩士\",\"unt\":\"商務資訊應用系\",\"className\":\"商資碩一甲\",\"foreverID\":\"335B10006\",\"courseName\":\"高等演算法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃國璽\",\"position\":\"2403電腦教室(二)\",\"people\":\"7\",\"maxpeople\":\"60\",\"time\":\"(三)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UV011711,06493.01\"],\"note\":\"\"},{\"code\":\"4105\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部碩士\",\"unt\":\"商務資訊應用系\",\"className\":\"商資碩一甲\",\"foreverID\":\"335B00022\",\"courseName\":\"資訊應用研討\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"黃淇竣,汪素卿\",\"position\":\"2407多功能階梯教室\",\"people\":\"2\",\"maxpeople\":\"55\",\"time\":\"(四)5-6\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UV011711,30642.01\"],\"note\":\"此課程為全英授課\"},{\"code\":\"4106\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部碩士\",\"unt\":\"商務資訊應用系\",\"className\":\"商資碩一甲\",\"foreverID\":\"335B10025\",\"courseName\":\"海洋商務系統專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王大瑾\",\"position\":\"3401電腦教室(一)\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UV011711,30644.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "4104",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩一甲",
+    "foreverID": "335B10006",
+    "courseName": "高等演算法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃國璽",
+    "position": "2403電腦教室(二)",
+    "people": "7",
+    "maxpeople": "60",
+    "time": "(三)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UV011711,06493.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "4105",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩一甲",
+    "foreverID": "335B00022",
+    "courseName": "資訊應用研討",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "黃淇竣,汪素卿",
+    "position": "2407多功能階梯教室",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "(四)5-6",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UV011711,30642.01"
+    ],
+    "note": "此課程為全英授課"
+  },
+  {
+    "code": "4106",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "商務資訊應用系",
+    "className": "商資碩一甲",
+    "foreverID": "335B10025",
+    "courseName": "海洋商務系統專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王大瑾",
+    "position": "3401電腦教室(一)",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UV011711,30644.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,102 @@
-"[{\"code\":\"2344\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系商務經營管理碩士班\",\"className\":\"運籌商經碩專一甲\",\"foreverID\":\"137H10046\",\"courseName\":\"多變量分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳偉銘\",\"position\":\"C443\",\"people\":\"8\",\"maxpeople\":\"10\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UN372711,03610.01\"],\"note\":\"\"},{\"code\":\"2385\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系商務經營管理碩士班\",\"className\":\"運籌商經碩專一甲\",\"foreverID\":\"136H10019\",\"courseName\":\"人力資源管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉宜芬\",\"position\":\"C443\",\"people\":\"9\",\"maxpeople\":\"10\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UN372711,00089.01\"],\"note\":\"\"},{\"code\":\"2386\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系商務經營管理碩士班\",\"className\":\"運籌商經碩專一甲\",\"foreverID\":\"136H10050\",\"courseName\":\"企業評價\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊壽麟\",\"position\":\"C442\",\"people\":\"12\",\"maxpeople\":\"10\",\"time\":\"(四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UN372711,F0142.01\"],\"note\":\"\"},{\"code\":\"2388\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系商務經營管理碩士班\",\"className\":\"運籌商經碩專二甲\",\"foreverID\":\"136H00012\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"2\",\"UN372721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2344",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專一甲",
+    "foreverID": "137H10046",
+    "courseName": "多變量分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳偉銘",
+    "position": "C443",
+    "people": "8",
+    "maxpeople": "10",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UN182711,03610.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2385",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專一甲",
+    "foreverID": "136H10019",
+    "courseName": "人力資源管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉宜芬",
+    "position": "C443",
+    "people": "9",
+    "maxpeople": "10",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UN372711,00089.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2386",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專一甲",
+    "foreverID": "136H10050",
+    "courseName": "企業評價",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊壽麟",
+    "position": "C442",
+    "people": "12",
+    "maxpeople": "10",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UN372711,F0142.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2388",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專二甲",
+    "foreverID": "136H00012",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "2",
+      "UN372721,05010.01"
+    ],
+    "note": ""
+  }
+]

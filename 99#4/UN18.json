@@ -1,1 +1,27 @@
-"[{\"code\":\"S129\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班二甲\",\"foreverID\":\"137H00017\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UN182721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S129",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班二甲",
+    "foreverID": "137H00017",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UN182721,05010.01"
+    ],
+    "note": ""
+  }
+]

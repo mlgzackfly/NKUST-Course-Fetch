@@ -1,1 +1,52 @@
-"[{\"code\":\"1423\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子資通訊學程\",\"className\":\"電子資通訊學程\",\"foreverID\":\"350C00004\",\"courseName\":\"電磁學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"莊國強\",\"position\":\"6108教室\",\"people\":\"47\",\"maxpeople\":\"60\",\"time\":\"(一)1(五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GF141400,02629.01\"],\"note\":\"\"},{\"code\":\"1423\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子資通訊學程\",\"className\":\"電子資通訊學程\",\"foreverID\":\"350C00004\",\"courseName\":\"電磁學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"莊國強\",\"position\":\"6108教室\",\"people\":\"47\",\"maxpeople\":\"60\",\"time\":\"(一)1(五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GF141400,02629.01\"],\"note\":\"\"},{\"code\":\"1424\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子資通訊學程\",\"className\":\"電子資通訊學程\",\"foreverID\":\"350C00002\",\"courseName\":\"電路學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃煌初\",\"position\":\"6504階梯教室\",\"people\":\"155\",\"maxpeople\":\"60\",\"time\":\"(二)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GF141400,02624.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1423",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子資通訊學程",
+    "className": "電子資通訊學程",
+    "foreverID": "350C00004",
+    "courseName": "電磁學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "莊國強",
+    "position": "6108教室",
+    "people": "47",
+    "maxpeople": "60",
+    "time": "(一)1(五)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "GF141400,02629.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1424",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子資通訊學程",
+    "className": "電子資通訊學程",
+    "foreverID": "350C00002",
+    "courseName": "電路學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃煌初",
+    "position": "6504階梯教室",
+    "people": "155",
+    "maxpeople": "60",
+    "time": "(二)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "GF141400,02624.01"
+    ],
+    "note": ""
+  }
+]

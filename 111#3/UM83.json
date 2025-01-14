@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0006",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "國際企業系碩士班[建工/燕巢校區]",
+    "className": "碩專國際企業二甲",
+    "foreverID": "234H00092",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "3",
+      "UM832721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"S130\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"行銷與流通管理系碩士專班\",\"className\":\"行銷碩專班一甲\",\"foreverID\":\"140H10047\",\"courseName\":\"顧客關係管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"45\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"UN092711,F3796.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S130",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "行銷與流通管理系碩士專班",
+    "className": "行銷碩專班一甲",
+    "foreverID": "140H10047",
+    "courseName": "顧客關係管理專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "45",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "UN092711,F3796.01"
+    ],
+    "note": ""
+  }
+]

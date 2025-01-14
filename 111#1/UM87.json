@@ -1,1 +1,77 @@
-"[{\"code\":\"2222\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"國際貴金屬與珠寶行銷產業碩士專\",\"className\":\"國際金屬產碩二甲\",\"foreverID\":\"238B00003\",\"courseName\":\"專題研討(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃義仁\",\"position\":\"MB304\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"UM871521,01676.01\"],\"note\":\"\"},{\"code\":\"2224\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"國際貴金屬與珠寶行銷產業碩士專\",\"className\":\"國際金屬產碩二甲\",\"foreverID\":\"238B10012\",\"courseName\":\"品牌管理與國際行銷\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"龔蒂菀,李曉青\",\"position\":\"MB304\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"UM871521,11667.01\"],\"note\":\"\"},{\"code\":\"2225\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士春季班\",\"unt\":\"國際貴金屬與珠寶行銷產業碩士專\",\"className\":\"國際金屬產碩二甲\",\"foreverID\":\"238B10015\",\"courseName\":\"實用寶石學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃義仁\",\"position\":\"MB304\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"111\",\"1\",\"UM871521,11669.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2222",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "國際貴金屬與珠寶行銷產業碩士專",
+    "className": "國際金屬產碩二甲",
+    "foreverID": "238B00003",
+    "courseName": "專題研討(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃義仁",
+    "position": "MB304",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "UM871521,01676.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2224",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "國際貴金屬與珠寶行銷產業碩士專",
+    "className": "國際金屬產碩二甲",
+    "foreverID": "238B10012",
+    "courseName": "品牌管理與國際行銷",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "龔蒂菀,李曉青",
+    "position": "MB304",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "UM871521,11667.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2225",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士春季班",
+    "unt": "國際貴金屬與珠寶行銷產業碩士專",
+    "className": "國際金屬產碩二甲",
+    "foreverID": "238B10015",
+    "courseName": "實用寶石學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃義仁",
+    "position": "MB304",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "1",
+      "UM871521,11669.01"
+    ],
+    "note": ""
+  }
+]

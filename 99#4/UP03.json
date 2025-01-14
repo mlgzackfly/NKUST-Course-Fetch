@@ -1,1 +1,27 @@
-"[{\"code\":\"S183\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財務管理系\",\"className\":\"財管系二甲\",\"foreverID\":\"155C10264\",\"courseName\":\"財務管理暑期實務實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"35\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UP031421,F4724.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S183",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財務管理系",
+    "className": "財管系二甲",
+    "foreverID": "155C10264",
+    "courseName": "財務管理暑期實務實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "35",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UP031421,F4724.01"
+    ],
+    "note": ""
+  }
+]

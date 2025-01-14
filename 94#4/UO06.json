@@ -1,1 +1,77 @@
-"[{\"code\":\"0057\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管三\",\"foreverID\":\"\",\"courseName\":\"管理學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UO062130,02754.01\"],\"note\":\"\"},{\"code\":\"0058\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管三\",\"foreverID\":\"\",\"courseName\":\"中級會計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UO062130,A9734.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0056",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管三",
+    "foreverID": "",
+    "courseName": "",
+    "hours": "0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UO062130,.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0057",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管三",
+    "foreverID": "",
+    "courseName": "管理學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UO062130,02754.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0058",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管三",
+    "foreverID": "",
+    "courseName": "中級會計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "3",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UO062130,A9734.01"
+    ],
+    "note": ""
+  }
+]

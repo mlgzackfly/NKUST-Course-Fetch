@@ -1,1 +1,52 @@
-"[{\"code\":\"S173\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"金融系\",\"className\":\"金融系四甲\",\"foreverID\":\"153C10230\",\"courseName\":\"財富管理實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP011441,F2109.01\"],\"note\":\"\"},{\"code\":\"S175\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"金融系\",\"className\":\"金融系四甲\",\"foreverID\":\"153C10226\",\"courseName\":\"金融暑期校外實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UP011441,F3755.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S173",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "金融系",
+    "className": "金融系四甲",
+    "foreverID": "153C10230",
+    "courseName": "財富管理實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UP011441,F2109.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S175",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "金融系",
+    "className": "金融系四甲",
+    "foreverID": "153C10226",
+    "courseName": "金融暑期校外實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UP011441,F3755.01"
+    ],
+    "note": ""
+  }
+]

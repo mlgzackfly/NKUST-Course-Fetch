@@ -1,1 +1,27 @@
-"[{\"code\":\"0001\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"會計資訊系碩士班\",\"className\":\"會資碩士班二甲\",\"foreverID\":\"157B00094\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"沈文華\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"3\",\"UP151721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0001",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "會計資訊系碩士班",
+    "className": "會資碩士班二甲",
+    "foreverID": "157B00094",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "沈文華",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "3",
+      "UP151721,05010.01"
+    ],
+    "note": ""
+  }
+]

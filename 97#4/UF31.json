@@ -1,1 +1,27 @@
-"[{\"code\":\"S111\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機械與自動化工程系碩士班[第一]\",\"className\":\"機械碩士班一甲\",\"foreverID\":\"105B10015\",\"courseName\":\"模具材料與製造特論\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UF311711,F4147.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S111",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機械與自動化工程系碩士班[第一]",
+    "className": "機械碩士班一甲",
+    "foreverID": "105B10015",
+    "courseName": "模具材料與製造特論",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UF311711,F4147.01"
+    ],
+    "note": ""
+  }
+]

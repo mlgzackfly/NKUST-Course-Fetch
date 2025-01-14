@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0012",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00044",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "汪桓生",
+    "position": "B345",
+    "people": "38",
+    "maxpeople": "55",
+    "time": "(二)5-7(三)5-7(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UD031411,02223.01"
+    ],
+    "note": "7/3-8/11  每週3天計9小時 共6週  54小時"
+  },
+  {
+    "code": "0013",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00049",
+    "courseName": "微積分(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "汪桓生",
+    "position": "B345",
+    "people": "24",
+    "maxpeople": "55",
+    "time": "(二)2-4(三)2-4(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UD031411,02224.01"
+    ],
+    "note": "7/3-8/11  每週3天計9小時 共6週  54小時"
+  },
+  {
+    "code": "0014",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00198",
+    "courseName": "計算機程式設計(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃世勳",
+    "position": "F106",
+    "people": "27",
+    "maxpeople": "55",
+    "time": "(一)2-4(二)2-4(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UD031411,30845.01"
+    ],
+    "note": "7/3-8/11  每週3天9小時 共6週  54小時"
+  },
+  {
+    "code": "0015",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系三甲",
+    "foreverID": "122C10205",
+    "courseName": "資通訊產業暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "江傳文,萬欽德,謝瑞鴻,郝敏忠,黃世勳",
+    "position": "教室未定",
+    "people": "11",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UD031431,F4305.01"
+    ],
+    "note": "7/1-8/31共8週 或320小時"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "code": "3401",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10059",
+    "courseName": "散裝航運專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳永順",
+    "position": "旗402航技專題",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UR062711,13434.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3402",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10043",
+    "courseName": "國際航運經濟與市場專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "周建張",
+    "position": "旗402航技專題",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UR062711,3938.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3403",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H00002",
+    "courseName": "研究方法與論文寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "許永恩,徐育彰,周建張",
+    "position": "旗402航技專題",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UR062711,B1927.01"
+    ],
+    "note": ""
+  }
+]

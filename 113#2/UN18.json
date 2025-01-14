@@ -1,0 +1,102 @@
+[
+  {
+    "code": "2208",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10028",
+    "courseName": "個案研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊壽麟",
+    "position": "C443",
+    "people": "0",
+    "maxpeople": "16",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN182711,F0158.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2209",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10086",
+    "courseName": "決策分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林燦煌",
+    "position": "C442",
+    "people": "0",
+    "maxpeople": "16",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN182711,F0413.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2210",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10097",
+    "courseName": "需求分析與預測",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李明聰",
+    "position": "C442",
+    "people": "0",
+    "maxpeople": "16",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN182711,F3046.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2211",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班二甲",
+    "foreverID": "137H00017",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "林燦煌",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UN182721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "5240",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10047",
+    "courseName": "台日社會與文化比較研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UJ062711,F4851.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5241",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10032",
+    "courseName": "中日語言文化比較研究Ⅰ",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UJ062711,F4826.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5242",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10094",
+    "courseName": "翻譯理論與實踐Ⅰ",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UJ062711,F3649.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5243",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10084",
+    "courseName": "日語教育專題研究Ⅰ",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "1",
+      "UJ062711,F4129.01"
+    ],
+    "note": ""
+  }
+]

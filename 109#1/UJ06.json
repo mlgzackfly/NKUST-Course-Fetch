@@ -1,1 +1,102 @@
-"[{\"code\":\"1972\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10116\",\"courseName\":\"日本地域研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉伯雯\",\"position\":\"D516\",\"people\":\"12\",\"maxpeople\":\"30\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UJ062711,F1712.01\"],\"note\":\"\"},{\"code\":\"1973\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10013\",\"courseName\":\"論文寫作與文獻導讀 I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"中島清明,葉淑華\",\"position\":\"D516\",\"people\":\"13\",\"maxpeople\":\"30\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UJ062711,F4498.01\"],\"note\":\"\"},{\"code\":\"1974\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H00003\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"黃愛玲\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UJ062721,05010.01\"],\"note\":\"\"},{\"code\":\"1975\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H10023\",\"courseName\":\"日本企業海外直接投資研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳志坪\",\"position\":\"D516\",\"people\":\"9\",\"maxpeople\":\"30\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UJ062721,F5065.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1972",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10116",
+    "courseName": "日本地域研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉伯雯",
+    "position": "D516",
+    "people": "12",
+    "maxpeople": "30",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UJ062711,F1712.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1973",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10013",
+    "courseName": "論文寫作與文獻導讀 I",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "中島清明,葉淑華",
+    "position": "D516",
+    "people": "13",
+    "maxpeople": "30",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UJ062711,F4498.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1974",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "黃愛玲",
+    "position": "",
+    "people": "3",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UJ062721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1975",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H10023",
+    "courseName": "日本企業海外直接投資研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳志坪",
+    "position": "D516",
+    "people": "9",
+    "maxpeople": "30",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UJ062721,F5065.01"
+    ],
+    "note": ""
+  }
+]

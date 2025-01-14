@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0168",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "模具工程系",
+    "className": "四模二丙",
+    "foreverID": "209C10534",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "張致遠",
+    "position": "",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE311423,B3730.01"
+    ],
+    "note": ""
+  }
+]

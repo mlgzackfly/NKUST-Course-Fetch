@@ -1,1 +1,27 @@
-"[{\"code\":\"1792\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運學程\",\"className\":\"日航運學程\",\"foreverID\":\"350C10066\",\"courseName\":\"企業管理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"張勝雄\",\"position\":\"旗津302教室\",\"people\":\"42\",\"maxpeople\":\"60\",\"time\":\"(五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"GF081400,00627.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1792",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運學程",
+    "className": "日航運學程",
+    "foreverID": "350C10066",
+    "courseName": "企業管理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "張勝雄",
+    "position": "旗津302教室",
+    "people": "42",
+    "maxpeople": "60",
+    "time": "(五)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "GF081400,00627.01"
+    ],
+    "note": ""
+  }
+]

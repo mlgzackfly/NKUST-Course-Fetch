@@ -1,1 +1,102 @@
-"[{\"code\":\"6213\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"120B10004\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 張簡嘉壬\",\"position\":\"教室未定\",\"people\":\"23\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UI991711,09654.03\"],\"note\":\"\"},{\"code\":\"6214\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"120B10013\",\"courseName\":\"區塊鏈智能合約實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 徐偉智\",\"position\":\"B229\",\"people\":\"38\",\"maxpeople\":\"65\",\"time\":\" (五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UI991711,F3981.01\"],\"note\":\"\"},{\"code\":\"6216\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"120B10004\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 萬欽德\",\"position\":\"教室未定\",\"people\":\"25\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UI991711,09654.02\"],\"note\":\"\"},{\"code\":\"6217\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"120B10004\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 高宗達\",\"position\":\"教室未定\",\"people\":\"22\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UI991711,09654.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6213",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "120B10004",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "張簡嘉壬",
+    "position": "教室未定",
+    "people": "23",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UI991711,09654.03"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6214",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "120B10013",
+    "courseName": "區塊鏈智能合約實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐偉智",
+    "position": "B229",
+    "people": "38",
+    "maxpeople": "65",
+    "time": "(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UI991711,F3981.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6216",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "120B10004",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "萬欽德",
+    "position": "教室未定",
+    "people": "25",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UI991711,09654.02"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6217",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "120B10004",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "22",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UI991711,09654.01"
+    ],
+    "note": ""
+  }
+]

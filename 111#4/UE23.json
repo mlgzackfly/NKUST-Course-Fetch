@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0137",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土二甲",
+    "foreverID": "201C10456",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "吳翌禎,張志誠,張高豪,林智強,沈茂松,潘煌鍟,王和源,王裕仁,許信翔,謝嘉聲,郭文田,黃凱翔",
+    "position": "教室未定",
+    "people": "34",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE231421,09635.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0192",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土二甲",
+    "foreverID": "201C00133",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "潘煌鍟,黃立政",
+    "position": "西104",
+    "people": "12",
+    "maxpeople": "0",
+    "time": "(三)5-7(六)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE231421,00233.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  },
+  {
+    "code": "0137",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土二乙",
+    "foreverID": "201C10456",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "吳翌禎,張志誠,張高豪,林智強,沈茂松,潘煌鍟,王和源,王裕仁,許信翔,謝嘉聲,郭文田,黃凱翔",
+    "position": "教室未定",
+    "people": "34",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE231421,09635.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0133\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部碩士\",\"unt\":\"半導體工程系\",\"className\":\"半導體碩士二甲\",\"foreverID\":\"325B00010\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"楊奇達\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UB031721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0133",
+    "cmp": "楠梓校區",
+    "dgr": "日間部碩士",
+    "unt": "半導體工程系",
+    "className": "半導體碩士二甲",
+    "foreverID": "325B00010",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "楊奇達",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UB031721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0129",
+    "cmp": "建工校區",
+    "dgr": "日間部五專",
+    "unt": "模具工程科[建工|燕巢校區]",
+    "className": "五模四甲",
+    "foreverID": "209E10304",
+    "courseName": "暑期校外實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "王心德",
+    "position": "教室未定",
+    "people": "5",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE321241,07505.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0170",
+    "cmp": "建工校區",
+    "dgr": "日間部五專",
+    "unt": "模具工程科[建工|燕巢校區]",
+    "className": "五模四甲",
+    "foreverID": "209E00084",
+    "courseName": "數學(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "廖俊忠",
+    "position": "模601",
+    "people": "5",
+    "maxpeople": "0",
+    "time": "(一)5-7(四)5-7(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE321241,02954.01"
+    ],
+    "note": "補差額開班不開放選課。8/5-8/30(一)5-7、(四)5-7、(五)5-7"
+  },
+  {
+    "code": "0172",
+    "cmp": "建工校區",
+    "dgr": "日間部五專",
+    "unt": "模具工程科[建工|燕巢校區]",
+    "className": "五模四甲",
+    "foreverID": "209E00208",
+    "courseName": "微積分(一)",
+    "hours": "2.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "張高華",
+    "position": "模601",
+    "people": "3",
+    "maxpeople": "0",
+    "time": "(三)2-4(四)2-4(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE321241,02223.01"
+    ],
+    "note": "補差額開班，不開放選課。上課時間7/15-8/23"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0076",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "供應鏈管理系",
+    "className": "日四技供應四甲",
+    "foreverID": "332C10205",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "徐賢斌,李穎,林義屏,潘郁仁,鄭玉惠",
+    "position": "教室未定",
+    "people": "5",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UO031441,B3730.01"
+    ],
+    "note": ""
+  }
+]

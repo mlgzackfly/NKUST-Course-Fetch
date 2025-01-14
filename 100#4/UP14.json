@@ -1,1 +1,27 @@
-"[{\"code\":\"S236\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財務管理系碩士專班[第一]\",\"className\":\"財管碩專班一甲\",\"foreverID\":\"155H00009\",\"courseName\":\"財金計量\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UP142711,F0589.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S236",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H00009",
+    "courseName": "財金計量",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UP142711,F0589.01"
+    ],
+    "note": ""
+  }
+]

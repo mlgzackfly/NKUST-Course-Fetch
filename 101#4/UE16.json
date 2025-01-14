@@ -1,1 +1,127 @@
-"[{\"code\":\"0065\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"化學工程與材料工程系\",\"className\":\"四化材\",\"foreverID\":\"208C10153\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳和瑞,高立衡,曾雪蓮,吳茂松,黃銘賢,蔡政賢\",\"position\":\"MA104\",\"people\":\"14\",\"maxpeople\":\"55\",\"time\":\"(一)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UE161400,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0007",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "進四技化材系二甲",
+    "foreverID": "208F00062",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "曾清桂",
+    "position": "育204",
+    "people": "26",
+    "maxpeople": "60",
+    "time": "(二)12-14(三)12-14(四)12-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UE162421,00232.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0059",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "進四技化材系四甲",
+    "foreverID": "208F00067",
+    "courseName": "輸送現象與單元操作(三)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "高立衡",
+    "position": "育203",
+    "people": "13",
+    "maxpeople": "9",
+    "time": "(一)11-13(二)11-13(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UE162441,03934.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0062",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "進四技化材系四甲",
+    "foreverID": "208F00076",
+    "courseName": "高分子化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "徐惠英",
+    "position": "育206",
+    "people": "18",
+    "maxpeople": "55",
+    "time": "(六)1-4,5-8,11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UE162441,01439.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0103",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "進四技化材系四甲",
+    "foreverID": "208F00072",
+    "courseName": "程序設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "呂祖尚",
+    "position": "育105",
+    "people": "8",
+    "maxpeople": "55",
+    "time": "(三)14(四)11-14(五)11-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UE162441,02039.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0109",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "進四技化材系四甲",
+    "foreverID": "208F00069",
+    "courseName": "輸送現象及單元操作(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃銘賢",
+    "position": "司201",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "(六)1-4,5-8,11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UE162441,03184.01"
+    ],
+    "note": ""
+  }
+]

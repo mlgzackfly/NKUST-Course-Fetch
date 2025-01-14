@@ -1,1 +1,27 @@
-"[{\"code\":\"S235\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"風險管理與保險系\",\"className\":\"風管系四甲\",\"foreverID\":\"154C10140\",\"courseName\":\"風險管理與保險實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"4\",\"UP021441,F4366.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S235",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系四甲",
+    "foreverID": "154C10140",
+    "courseName": "風險管理與保險實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "4",
+      "UP021441,F4366.01"
+    ],
+    "note": ""
+  }
+]

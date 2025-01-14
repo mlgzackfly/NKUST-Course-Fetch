@@ -1,1 +1,27 @@
-"[{\"code\":\"1054\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機械與自動化工程系先進製造科技\",\"className\":\"製造碩士班二甲\",\"foreverID\":\"106B00006\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 邱能信\",\"position\":\"教室未定\",\"people\":\"4\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UF211721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1054",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機械與自動化工程系先進製造科技",
+    "className": "製造碩士班二甲",
+    "foreverID": "106B00006",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "邱能信",
+    "position": "教室未定",
+    "people": "4",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UF211721,05010.01"
+    ],
+    "note": ""
+  }
+]

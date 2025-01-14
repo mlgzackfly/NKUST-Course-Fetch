@@ -1,1 +1,52 @@
-"[{\"code\":\"S178\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用日語系\",\"className\":\"應日系三甲\",\"foreverID\":\"163C10270\",\"courseName\":\"應日專案實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UJ021431,F1653.01\"],\"note\":\"\"},{\"code\":\"S180\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用日語系\",\"className\":\"應日系三甲\",\"foreverID\":\"163C10352\",\"courseName\":\"應日暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UJ021431,F1654.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S178",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用日語系",
+    "className": "應日系三甲",
+    "foreverID": "163C10270",
+    "courseName": "應日專案實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UJ021431,F1653.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S180",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用日語系",
+    "className": "應日系三甲",
+    "foreverID": "163C10352",
+    "courseName": "應日暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UJ021431,F1654.01"
+    ],
+    "note": ""
+  }
+]

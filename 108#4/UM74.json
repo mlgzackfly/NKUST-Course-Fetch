@@ -1,1 +1,27 @@
-"[{\"code\":\"0158\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"企業管理系\",\"className\":\"四企三甲\",\"foreverID\":\"232C10169\",\"courseName\":\"暑期實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"翁鶯娟,魏中倫,楊敏里,劉季貞,李政峯\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"UM741431,09635.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0158",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "企業管理系",
+    "className": "四企三甲",
+    "foreverID": "232C10169",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "翁鶯娟,魏中倫,楊敏里,劉季貞,李政峯",
+    "position": "",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "UM741431,09635.01"
+    ],
+    "note": ""
+  }
+]

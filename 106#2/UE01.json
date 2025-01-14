@@ -1,1 +1,102 @@
-"[{\"code\":\"2444\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"工院課程[第一]\",\"className\":\"工院課程一甲\",\"foreverID\":\"100B10010\",\"courseName\":\"智慧型建築環境資訊技術應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 柯佑沛,許鎧麟\",\"position\":\"F151\",\"people\":\"13\",\"maxpeople\":\"30\",\"time\":\" (一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UE011711,F5140.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1899",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工院課程[第一]",
+    "className": "工院課程一甲",
+    "foreverID": "100A10003",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "劉永田",
+    "position": "教室未定",
+    "people": "19",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE011811,09654.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1901",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工院課程[第一]",
+    "className": "工院課程一乙",
+    "foreverID": "100A10003",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "謝其昌",
+    "position": "教室未定",
+    "people": "15",
+    "maxpeople": "200",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE011812,09654.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1903",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工院課程[第一]",
+    "className": "工院課程一丙",
+    "foreverID": "100A10003",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "林建良",
+    "position": "教室未定",
+    "people": "7",
+    "maxpeople": "200",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE011813,09654.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1905",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "工院課程[第一]",
+    "className": "工院課程一丁",
+    "foreverID": "100A10003",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "洪崇軒",
+    "position": "教室未定",
+    "people": "15",
+    "maxpeople": "200",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UE011814,09654.01"
+    ],
+    "note": ""
+  }
+]

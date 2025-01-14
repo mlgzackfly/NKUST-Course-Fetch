@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0548",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10131",
+    "courseName": "高等機器人學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜國洋",
+    "position": "F107",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UE191811,33343.01"
+    ],
+    "note": "上課地點: 第一校區"
+  },
+  {
+    "code": "0552",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10148",
+    "courseName": "精密運動系統導論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇科翰",
+    "position": "F107",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UE191811,74195.01"
+    ],
+    "note": "上課地點: 第一校區"
+  }
+]

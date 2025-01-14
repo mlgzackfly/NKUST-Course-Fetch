@@ -1,1 +1,27 @@
-"[{\"code\":\"5489\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"企管系高階經營管理[建工/燕\",\"className\":\"碩專企管高階二甲\",\"foreverID\":\"233H00013\",\"courseName\":\"碩士論文\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UM852721,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5489",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "企管系高階經營管理[建工/燕",
+    "className": "碩專企管高階二甲",
+    "foreverID": "233H00013",
+    "courseName": "碩士論文",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UM852721,03649.01"
+    ],
+    "note": ""
+  }
+]

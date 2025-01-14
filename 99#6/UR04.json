@@ -1,1 +1,102 @@
-"[{\"code\":\"0064\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"航海科\",\"className\":\"日五專航海科\",\"foreverID\":\"312E10427\",\"courseName\":\"網路程式設計(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UR041200,B1806.01\"],\"note\":\"\"},{\"code\":\"0003\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"航海科\",\"className\":\"日五專航海二年級\",\"foreverID\":\"312E00237\",\"courseName\":\"地文航海學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"廖宗\",\"position\":\"5109教室\",\"people\":\"20\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(二)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UR041220,A1555.01\"],\"note\":\"\"},{\"code\":\"0003\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"航海科\",\"className\":\"日五專航海二年級\",\"foreverID\":\"312E00237\",\"courseName\":\"地文航海學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"廖宗\",\"position\":\"5109教室\",\"people\":\"20\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(二)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UR041220,A1555.01\"],\"note\":\"\"},{\"code\":\"0004\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"航海科\",\"className\":\"日五專航海三年級\",\"foreverID\":\"312E00237\",\"courseName\":\"地文航海學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鄒明城\",\"position\":\"5202教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(二)5-6(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UR041230,A1555.01\"],\"note\":\"\"},{\"code\":\"0004\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"航海科\",\"className\":\"日五專航海三年級\",\"foreverID\":\"312E00237\",\"courseName\":\"地文航海學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鄒明城\",\"position\":\"5202教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(二)5-6(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UR041230,A1555.01\"],\"note\":\"\"},{\"code\":\"0005\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"航海科\",\"className\":\"日五專航海三年級\",\"foreverID\":\"312E00139\",\"courseName\":\"航海英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"許華智\",\"position\":\"5102教室\",\"people\":\"24\",\"maxpeople\":\"60\",\"time\":\"(四)5-6(五)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UR041230,A3510.01\"],\"note\":\"\"},{\"code\":\"0005\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"航海科\",\"className\":\"日五專航海三年級\",\"foreverID\":\"312E00139\",\"courseName\":\"航海英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"許華智\",\"position\":\"5102教室\",\"people\":\"24\",\"maxpeople\":\"60\",\"time\":\"(四)5-6(五)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UR041230,A3510.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0064",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海科",
+    "foreverID": "312E10427",
+    "courseName": "網路程式設計(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "6",
+      "UR041200,B1806.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0003",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海二年級",
+    "foreverID": "312E00237",
+    "courseName": "地文航海學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "廖宗",
+    "position": "5109教室",
+    "people": "20",
+    "maxpeople": "60",
+    "time": "(一)1-4(二)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "6",
+      "UR041220,A1555.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0004",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海三年級",
+    "foreverID": "312E00237",
+    "courseName": "地文航海學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "鄒明城",
+    "position": "5202教室",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(二)5-6(四)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "6",
+      "UR041230,A1555.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0005",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "航海科",
+    "className": "日五專航海三年級",
+    "foreverID": "312E00139",
+    "courseName": "航海英文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "許華智",
+    "position": "5102教室",
+    "people": "24",
+    "maxpeople": "60",
+    "time": "(四)5-6(五)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "6",
+      "UR041230,A3510.01"
+    ],
+    "note": ""
+  }
+]

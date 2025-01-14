@@ -1,1 +1,27 @@
-"[{\"code\":\"1718\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用俄文學程\",\"className\":\"日應用俄文學程\",\"foreverID\":\"350C10113\",\"courseName\":\"俄語會話(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"吳鴻傑\",\"position\":\"4102教室\",\"people\":\"11\",\"maxpeople\":\"60\",\"time\":\"(四)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"1\",\"GF061400,B0082.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1718",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用俄文學程",
+    "className": "日應用俄文學程",
+    "foreverID": "350C10113",
+    "courseName": "俄語會話(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "吳鴻傑",
+    "position": "4102教室",
+    "people": "11",
+    "maxpeople": "60",
+    "time": "(四)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "1",
+      "GF061400,B0082.01"
+    ],
+    "note": ""
+  }
+]

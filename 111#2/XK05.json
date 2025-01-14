@@ -1,0 +1,27 @@
+[
+  {
+    "code": "5521",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "校際選課",
+    "className": "進校際一甲",
+    "foreverID": "070F00025",
+    "courseName": "機構學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "校際教師",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "2",
+      "XK052411,03157.01"
+    ],
+    "note": "遠東科大"
+  }
+]

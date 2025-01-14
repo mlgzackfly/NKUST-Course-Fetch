@@ -1,1 +1,77 @@
-"[{\"code\":\"1355\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英文學程\",\"className\":\"日應用英文學程\",\"foreverID\":\"350C10122\",\"courseName\":\"英語口語訓練(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"李筱倩\",\"position\":\"10203多功能E教室\",\"people\":\"41\",\"maxpeople\":\"50\",\"time\":\"(四)9-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF041400,B0810.01\"],\"note\":\"\"},{\"code\":\"1356\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英文學程\",\"className\":\"日應用英文學程\",\"foreverID\":\"350C10079\",\"courseName\":\"英語演講與辯論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"許世英\",\"position\":\"10205教室\",\"people\":\"21\",\"maxpeople\":\"50\",\"time\":\"(二)9-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF041400,B1321.01\"],\"note\":\"\"},{\"code\":\"1357\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英文學程\",\"className\":\"日應用英文學程\",\"foreverID\":\"350C10111\",\"courseName\":\"日常英語會話(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"蔡金治\",\"position\":\"10203多功能E教室\",\"people\":\"47\",\"maxpeople\":\"50\",\"time\":\"(一)9-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF041400,B1660.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1355",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用英文學程",
+    "className": "日應用英文學程",
+    "foreverID": "350C10122",
+    "courseName": "英語口語訓練(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李筱倩",
+    "position": "10203多功能E教室",
+    "people": "41",
+    "maxpeople": "50",
+    "time": "(四)9-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF041400,B0810.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1356",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用英文學程",
+    "className": "日應用英文學程",
+    "foreverID": "350C10079",
+    "courseName": "英語演講與辯論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "許世英",
+    "position": "10205教室",
+    "people": "21",
+    "maxpeople": "50",
+    "time": "(二)9-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF041400,B1321.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1357",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用英文學程",
+    "className": "日應用英文學程",
+    "foreverID": "350C10111",
+    "courseName": "日常英語會話(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "蔡金治",
+    "position": "10203多功能E教室",
+    "people": "47",
+    "maxpeople": "50",
+    "time": "(一)9-10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF041400,B1660.01"
+    ],
+    "note": ""
+  }
+]

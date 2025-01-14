@@ -1,1 +1,27 @@
-"[{\"code\":\"1463\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"水域運動管理學程\",\"className\":\"水域運動管理學程\",\"foreverID\":\"350C10176\",\"courseName\":\"水上摩托車\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"杜坤良\",\"position\":\"2105教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"GF121400,B2802.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1463",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水域運動管理學程",
+    "className": "水域運動管理學程",
+    "foreverID": "350C10176",
+    "courseName": "水上摩托車",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜坤良",
+    "position": "2105教室",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "GF121400,B2802.01"
+    ],
+    "note": ""
+  }
+]

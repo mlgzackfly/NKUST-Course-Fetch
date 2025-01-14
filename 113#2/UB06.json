@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0150",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "智慧資電系統技優專班",
+    "className": "日四資電技優四甲",
+    "foreverID": "222C10687",
+    "courseName": "實用電路設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "洪冠明",
+    "position": "資401",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UB061441,13897.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0951",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "智慧資電系統技優專班",
+    "className": "日四資電技優四甲",
+    "foreverID": "222C10564",
+    "courseName": "學期實習(二)",
+    "hours": "10.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UE291441,09692.01"
+    ],
+    "note": "不開放選課，由系辦掛課。"
+  },
+  {
+    "code": "0952",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "智慧資電系統技優專班",
+    "className": "日四資電技優四甲",
+    "foreverID": "222C10565",
+    "courseName": "專案實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UE291441,B3731.01"
+    ],
+    "note": "不開放選課，由系辦掛課。"
+  }
+]

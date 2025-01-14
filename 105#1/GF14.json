@@ -1,1 +1,77 @@
-"[{\"code\":\"1683\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子資通訊學程\",\"className\":\"電子資通訊學程\",\"foreverID\":\"350C00003\",\"courseName\":\"電路學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃煌初\",\"position\":\"6504階梯教室\",\"people\":\"84\",\"maxpeople\":\"60\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"GF141400,02623.01\"],\"note\":\"\"},{\"code\":\"1684\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子資通訊學程\",\"className\":\"電子資通訊學程\",\"foreverID\":\"350C00005\",\"courseName\":\"電子學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"陽開平\",\"position\":\"10401多媒體通識教室\",\"people\":\"77\",\"maxpeople\":\"60\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"GF141400,02484.01\"],\"note\":\"\"},{\"code\":\"1764\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子資通訊學程\",\"className\":\"電子資通訊學程\",\"foreverID\":\"350C00005\",\"courseName\":\"電子學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"楊奇達\",\"position\":\"6108教室\",\"people\":\"82\",\"maxpeople\":\"60\",\"time\":\"(四)2,5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"GF141400,02484.02\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1683",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子資通訊學程",
+    "className": "電子資通訊學程",
+    "foreverID": "350C00003",
+    "courseName": "電路學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃煌初",
+    "position": "6504階梯教室",
+    "people": "84",
+    "maxpeople": "60",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "GF141400,02623.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1684",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子資通訊學程",
+    "className": "電子資通訊學程",
+    "foreverID": "350C00005",
+    "courseName": "電子學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "陽開平",
+    "position": "10401多媒體通識教室",
+    "people": "77",
+    "maxpeople": "60",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "GF141400,02484.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1764",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子資通訊學程",
+    "className": "電子資通訊學程",
+    "foreverID": "350C00005",
+    "courseName": "電子學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "楊奇達",
+    "position": "6108教室",
+    "people": "82",
+    "maxpeople": "60",
+    "time": "(四)2,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "GF141400,02484.02"
+    ],
+    "note": ""
+  }
+]

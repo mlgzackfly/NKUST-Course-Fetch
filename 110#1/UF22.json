@@ -1,1 +1,52 @@
-"[{\"code\":\"1505\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系先進製造科技碩士班\",\"className\":\"機電製造碩二甲\",\"foreverID\":\"105B00010\",\"courseName\":\"專題討論(三)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"林栢村\",\"position\":\"F109\",\"people\":\"25\",\"maxpeople\":\"35\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF221721,01685.01\"],\"note\":\"\"},{\"code\":\"1605\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系先進製造科技碩士班\",\"className\":\"機電製造碩二甲\",\"foreverID\":\"107B00006\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"謝其昌\",\"position\":\"\",\"people\":\"6\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF221721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1505",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系先進製造科技碩士班",
+    "className": "機電製造碩二甲",
+    "foreverID": "105B00010",
+    "courseName": "專題討論(三)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "林栢村",
+    "position": "F109",
+    "people": "25",
+    "maxpeople": "35",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UF091721,01685.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1605",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "機電工程系先進製造科技碩士班",
+    "className": "機電製造碩二甲",
+    "foreverID": "107B00006",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "謝其昌",
+    "position": "",
+    "people": "6",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UF221721,05010.01"
+    ],
+    "note": ""
+  }
+]

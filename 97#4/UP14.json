@@ -1,1 +1,77 @@
-"[{\"code\":\"S121\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財務管理系碩士專班[第一]\",\"className\":\"財管碩專班一甲\",\"foreverID\":\"155H00017\",\"courseName\":\"財務研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UP142711,F2096.01\"],\"note\":\"\"},{\"code\":\"S123\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財務管理系碩士專班[第一]\",\"className\":\"財管碩專班一甲\",\"foreverID\":\"155H00008\",\"courseName\":\"計量經濟學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UP142711,01201.01\"],\"note\":\"\"},{\"code\":\"S125\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財務管理系碩士專班[第一]\",\"className\":\"財管碩專班一甲\",\"foreverID\":\"155H10091\",\"courseName\":\"個人投資理財\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UP142711,F1392.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S121",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H00017",
+    "courseName": "財務研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UP142711,F2096.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S123",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H00008",
+    "courseName": "計量經濟學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UP142711,01201.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S125",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H10091",
+    "courseName": "個人投資理財",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UP142711,F1392.01"
+    ],
+    "note": ""
+  }
+]

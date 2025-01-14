@@ -1,1 +1,102 @@
-"[{\"code\":\"1376\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10140\",\"courseName\":\"系統分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"徐賢斌\",\"position\":\"3508運籌RFID專業教室\",\"people\":\"49\",\"maxpeople\":\"60\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"GF031400,00867.01\"],\"note\":\"\"},{\"code\":\"1377\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10157\",\"courseName\":\"電子商務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林義屏\",\"position\":\"2508教室\",\"people\":\"62\",\"maxpeople\":\"60\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"GF031400,02437.01\"],\"note\":\"\"},{\"code\":\"1378\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10177\",\"courseName\":\"Linux作業系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"賴正男\",\"position\":\"3401電腦教室(一)\",\"people\":\"31\",\"maxpeople\":\"60\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"GF031400,A9647.01\"],\"note\":\"\"},{\"code\":\"1379\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10146\",\"courseName\":\"企業資源規劃(ERP)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"徐賢斌\",\"position\":\"3508運籌RFID專業教室\",\"people\":\"61\",\"maxpeople\":\"60\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"GF031400,B2680.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1376",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10140",
+    "courseName": "系統分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐賢斌",
+    "position": "3508運籌RFID專業教室",
+    "people": "49",
+    "maxpeople": "60",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "GF031400,00867.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1377",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10157",
+    "courseName": "電子商務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林義屏",
+    "position": "2508教室",
+    "people": "62",
+    "maxpeople": "60",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "GF031400,02437.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1378",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10177",
+    "courseName": "Linux作業系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "賴正男",
+    "position": "3401電腦教室(一)",
+    "people": "31",
+    "maxpeople": "60",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "GF031400,A9647.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1379",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10146",
+    "courseName": "企業資源規劃(ERP)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐賢斌",
+    "position": "3508運籌RFID專業教室",
+    "people": "61",
+    "maxpeople": "60",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "GF031400,B2680.01"
+    ],
+    "note": ""
+  }
+]

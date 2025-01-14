@@ -1,1 +1,27 @@
-"[{\"code\":\"2110\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"010C11185\",\"courseName\":\"科技創新\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 徐偉智\",\"position\":\"E016\",\"people\":\"101\",\"maxpeople\":\"100\",\"time\":\" (五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UI991411,F0473.01\"],\"note\":\"\"},{\"code\":\"2111\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程三甲\",\"foreverID\":\"010C11542\",\"courseName\":\"產品開發與創業\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"B345\",\"people\":\"58\",\"maxpeople\":\"60\",\"time\":\" (五)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UI991431,F2841.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2109",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "010C11000",
+    "courseName": "一般課程教學實習",
+    "hours": "0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "45",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UI991711,F3250.01"
+    ],
+    "note": ""
+  }
+]

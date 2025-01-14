@@ -1,1 +1,27 @@
-"[{\"code\":\"5354\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"精密工程產業研發碩士專班\",\"className\":\"機械精密班二甲\",\"foreverID\":\"176B00008\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"15\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"UF281721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5354",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "精密工程產業研發碩士專班",
+    "className": "機械精密班二甲",
+    "foreverID": "176B00008",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "15",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "UF281721,05010.01"
+    ],
+    "note": ""
+  }
+]

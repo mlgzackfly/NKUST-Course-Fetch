@@ -1,0 +1,52 @@
+[
+  {
+    "code": "5781",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "校際選課",
+    "className": "碩專校際一甲",
+    "foreverID": "070H00002",
+    "courseName": "投資學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "校際選課",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "XK052711,00835.01"
+    ],
+    "note": "國立台北大學"
+  },
+  {
+    "code": "5782",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "校際選課",
+    "className": "碩專校際一甲",
+    "foreverID": "070H00001",
+    "courseName": "財務管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "校際選課",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "(一)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "XK052711,01405.01"
+    ],
+    "note": "國立台北大學"
+  }
+]

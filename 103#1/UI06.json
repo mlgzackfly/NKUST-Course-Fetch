@@ -1,1 +1,27 @@
-"[{\"code\":\"2359\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"光電半導體技術產業碩士專班\",\"className\":\"光半導產碩秋二甲\",\"foreverID\":\"285I00001\",\"courseName\":\"工廠實務(三)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鄭平守\",\"position\":\"資406B\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(日)4-A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UI062621,05613.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2359",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "光電半導體技術產業碩士專班",
+    "className": "光半導產碩秋二甲",
+    "foreverID": "285I00001",
+    "courseName": "工廠實務(三)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "鄭平守",
+    "position": "資406B",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(日)4-A",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UI062621,05613.01"
+    ],
+    "note": ""
+  }
+]

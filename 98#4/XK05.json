@@ -1,1 +1,77 @@
-"[{\"code\":\"S224\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00057\",\"courseName\":\"統計學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01788.01\"],\"note\":\"\"},{\"code\":\"S226\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00135\",\"courseName\":\"結構學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,02071.01\"],\"note\":\"\"},{\"code\":\"S228\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00181\",\"courseName\":\"微積分(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,02223.01\"],\"note\":\"\"},{\"code\":\"S230\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00038\",\"courseName\":\"英語視聽訓練(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,F3199.01\"],\"note\":\"\"},{\"code\":\"S232\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00186\",\"courseName\":\"物流管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,00956.01\"],\"note\":\"\"},{\"code\":\"S234\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00066\",\"courseName\":\"統計學概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,B3474.01\"],\"note\":\"\"},{\"code\":\"S236\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00103\",\"courseName\":\"動力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01495.01\"],\"note\":\"\"},{\"code\":\"S238\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00211\",\"courseName\":\"工程數學(二)\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,00233.01\"],\"note\":\"\"},{\"code\":\"S240\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00210\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,00232.02\"],\"note\":\"\"},{\"code\":\"S242\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00117\",\"courseName\":\"普通物理(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,04981.01\"],\"note\":\"\"},{\"code\":\"S244\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00072\",\"courseName\":\"物理(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,00963.01\"],\"note\":\"\"},{\"code\":\"S246\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00208\",\"courseName\":\"物理(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,00962.01\"],\"note\":\"\"},{\"code\":\"S248\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00210\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,00232.01\"],\"note\":\"\"},{\"code\":\"S250\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C10377\",\"courseName\":\"初階拉丁文(一)B\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,F2504.01\"],\"note\":\"\"},{\"code\":\"S252\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C10307\",\"courseName\":\"柏拉圖《費多篇》\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,F3525.01\"],\"note\":\"\"},{\"code\":\"S254\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00059\",\"courseName\":\"流體力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01128.01\"],\"note\":\"\"},{\"code\":\"S256\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00185\",\"courseName\":\"計算機程式\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01213.01\"],\"note\":\"\"},{\"code\":\"S258\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C10339\",\"courseName\":\"英文閱讀(三)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,F1287.01\"],\"note\":\"\"},{\"code\":\"S260\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00201\",\"courseName\":\"微積分二-A\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,F0737.01\"],\"note\":\"\"},{\"code\":\"S262\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00031\",\"courseName\":\"英文(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01157.01\"],\"note\":\"\"},{\"code\":\"S264\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00170\",\"courseName\":\"計算機概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01221.01\"],\"note\":\"\"},{\"code\":\"S266\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00064\",\"courseName\":\"計算機概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01221.02\"],\"note\":\"\"},{\"code\":\"S268\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C00096\",\"courseName\":\"統計學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"XK051411,01786.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S270",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10423",
+    "courseName": "車載電子通訊實務與應用",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "XK051711,F4944.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S272",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10267",
+    "courseName": "智慧型嵌入式系統實務與應用",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "XK051711,B1679.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S274",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070B10426",
+    "courseName": "應用影像處理於智慧型車輛",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "XK051711,F5062.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"S118\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資通訊服務創新產業碩士專班\",\"className\":\"資通訊產碩班一甲\",\"foreverID\":\"126B00003\",\"courseName\":\"企業實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UD251711,F0139.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S118",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資通訊服務創新產業碩士專班",
+    "className": "資通訊產碩班一甲",
+    "foreverID": "126B00003",
+    "courseName": "企業實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UD251711,F0139.01"
+    ],
+    "note": ""
+  }
+]

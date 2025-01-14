@@ -1,1 +1,102 @@
-"[{\"code\":\"1399\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10026\",\"courseName\":\"機光電系統整合控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 游源成\",\"position\":\"F209\",\"people\":\"5\",\"maxpeople\":\"12\",\"time\":\" (三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UD012711,F4150.01\"],\"note\":\"\"},{\"code\":\"1400\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10019\",\"courseName\":\"電玩物理學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 黃勤鎰\",\"position\":\"F107\",\"people\":\"11\",\"maxpeople\":\"12\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UD012711,F1126.01\"],\"note\":\"\"},{\"code\":\"1401\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10032\",\"courseName\":\"工業控制器系統設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 杜國洋\",\"position\":\"F107\",\"people\":\"6\",\"maxpeople\":\"12\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UD012711,F4053.01\"],\"note\":\"\"},{\"code\":\"1402\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班二甲\",\"foreverID\":\"121H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 杜國洋\",\"position\":\"教室未定\",\"people\":\"5\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UD012721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1399",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10026",
+    "courseName": "機光電系統整合控制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "游源成",
+    "position": "F209",
+    "people": "5",
+    "maxpeople": "12",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UD012711,F4150.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1400",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10019",
+    "courseName": "電玩物理學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃勤鎰",
+    "position": "F107",
+    "people": "11",
+    "maxpeople": "12",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UD012711,F1126.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1401",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10032",
+    "courseName": "工業控制器系統設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜國洋",
+    "position": "F107",
+    "people": "6",
+    "maxpeople": "12",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UD012711,F4053.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1402",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班二甲",
+    "foreverID": "121H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "杜國洋",
+    "position": "教室未定",
+    "people": "5",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UD012721,05010.01"
+    ],
+    "note": ""
+  }
+]

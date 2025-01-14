@@ -1,0 +1,77 @@
+[
+  {
+    "code": "2354",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程二甲",
+    "foreverID": "134B00020",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "蕭俊彥",
+    "position": "",
+    "people": "5",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UN301721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2355",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程二甲",
+    "foreverID": "134B10026",
+    "courseName": "智慧財產管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "鄭莞鈴",
+    "position": "C219",
+    "people": "4",
+    "maxpeople": "10",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UN301721,F1748.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2356",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "創業管理碩士學位學程",
+    "className": "創管學程二甲",
+    "foreverID": "134B00015",
+    "courseName": "創業實作與體驗(2)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "李國維",
+    "position": "E522",
+    "people": "4",
+    "maxpeople": "10",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UN301721,F3315.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"1711\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財經與商務決策研究所\",\"className\":\"進碩財商二甲\",\"foreverID\":\"288H00015\",\"courseName\":\"消費者行為\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"翁孝文\",\"position\":\"西003\",\"people\":\"21\",\"maxpeople\":\"30\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UM012721,01346.01\"],\"note\":\"\"},{\"code\":\"1712\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財經與商務決策研究所\",\"className\":\"進碩財商二甲\",\"foreverID\":\"288H10034\",\"courseName\":\"策略理論專題研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃豪臣\",\"position\":\"中201\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\"(四)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UM012721,08174.01\"],\"note\":\"\"},{\"code\":\"1713\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財經與商務決策研究所\",\"className\":\"進碩財商二甲\",\"foreverID\":\"288H10048\",\"courseName\":\"財務會計專題研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林靖傑,李文智\",\"position\":\"中201\",\"people\":\"5\",\"maxpeople\":\"30\",\"time\":\"(六)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UM012721,08220.01\"],\"note\":\"\"},{\"code\":\"1714\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財經與商務決策研究所\",\"className\":\"進碩財商二乙\",\"foreverID\":\"288H00012\",\"courseName\":\"當代財稅議題研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"羅正忠\",\"position\":\"西103\",\"people\":\"18\",\"maxpeople\":\"30\",\"time\":\"(二)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UM012722,05911.01\"],\"note\":\"\"},{\"code\":\"1715\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財經與商務決策研究所\",\"className\":\"進碩財商二丙\",\"foreverID\":\"288H00022\",\"courseName\":\"衍生性金融商品\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"汪青萍\",\"position\":\"南206\",\"people\":\"17\",\"maxpeople\":\"30\",\"time\":\"(一)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UM012723,01198.01\"],\"note\":\"\"},{\"code\":\"1716\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財經與商務決策研究所\",\"className\":\"進碩財商二丙\",\"foreverID\":\"288H00014\",\"courseName\":\"理財規劃\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"張純萍\",\"position\":\"南206\",\"people\":\"16\",\"maxpeople\":\"30\",\"time\":\"(二)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UM012723,05783.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1707",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "財經與商務決策研究所",
+    "className": "碩財商二甲",
+    "foreverID": "288B00008",
+    "courseName": "企業評價分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "戴志璁",
+    "position": "MA505",
+    "people": "17",
+    "maxpeople": "60",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UM011721,05551.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1708",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "財經與商務決策研究所",
+    "className": "碩財商二甲",
+    "foreverID": "288B00014",
+    "courseName": "理財規劃",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "張純萍",
+    "position": "MA505",
+    "people": "22",
+    "maxpeople": "60",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UM011721,05783.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1710",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "財經與商務決策研究所",
+    "className": "碩財商二甲",
+    "foreverID": "288B10032",
+    "courseName": "組織與策略理論專題研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃豪臣",
+    "position": "MA505",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UM011721,07114.01"
+    ],
+    "note": ""
+  }
+]

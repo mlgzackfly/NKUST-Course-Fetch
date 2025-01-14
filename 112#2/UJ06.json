@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1845",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10035",
+    "courseName": "台日社會文化比較研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王天保",
+    "position": "D516",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UJ062711,F4583.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1846",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "洪心怡",
+    "position": "",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UJ062721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1847",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H10096",
+    "courseName": "日本觀光資產研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉伯雯",
+    "position": "D516",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UJ062721,F3480.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1848",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H10056",
+    "courseName": "日本貿易構造專題研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳志坪",
+    "position": "D206B",
+    "people": "8",
+    "maxpeople": "30",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UJ062721,F4648.01"
+    ],
+    "note": ""
+  }
+]

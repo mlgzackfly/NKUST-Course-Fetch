@@ -1,1 +1,77 @@
-"[{\"code\":\"1733\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船產業實務學程\",\"className\":\"造船產業實務學程\",\"foreverID\":\"350C10037\",\"courseName\":\"輪機檢驗\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"黃嘉燦\",\"position\":\"5304教室\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\"(五)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF161400,A7070.01\"],\"note\":\"\"},{\"code\":\"1734\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船產業實務學程\",\"className\":\"造船產業實務學程\",\"foreverID\":\"350C10042\",\"courseName\":\"船舶放樣及實驗\",\"hours\":\"2.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"余盛富\",\"position\":\"5102教室\",\"people\":\"27\",\"maxpeople\":\"60\",\"time\":\"(五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF161400,A9802.01\"],\"note\":\"\"},{\"code\":\"1735\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船產業實務學程\",\"className\":\"造船產業實務學程\",\"foreverID\":\"350C10095\",\"courseName\":\"電腦輔助施工設計\",\"hours\":\"2.0\",\"units\":\"4.0\",\"required\":\"選修\",\"instructors\":\"張良昶\",\"position\":\"11511造船系CAD電腦教\",\"people\":\"15\",\"maxpeople\":\"0\",\"time\":\"(二)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF161400,B2502.01\"],\"note\":\"不開放第3次網路選課\"}]"
+[
+  {
+    "code": "1733",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船產業實務學程",
+    "className": "造船產業實務學程",
+    "foreverID": "350C10037",
+    "courseName": "輪機檢驗",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "黃嘉燦",
+    "position": "5304教室",
+    "people": "26",
+    "maxpeople": "60",
+    "time": "(五)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF161400,A7070.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1734",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船產業實務學程",
+    "className": "造船產業實務學程",
+    "foreverID": "350C10042",
+    "courseName": "船舶放樣及實驗",
+    "hours": "2.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "余盛富",
+    "position": "5102教室",
+    "people": "27",
+    "maxpeople": "60",
+    "time": "(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF161400,A9802.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1735",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船產業實務學程",
+    "className": "造船產業實務學程",
+    "foreverID": "350C10095",
+    "courseName": "電腦輔助施工設計",
+    "hours": "2.0",
+    "units": "4.0",
+    "required": "選修",
+    "instructors": "張良昶",
+    "position": "11511造船系CAD電腦教",
+    "people": "15",
+    "maxpeople": "0",
+    "time": "(二)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF161400,B2502.01"
+    ],
+    "note": "不開放第3次網路選課"
+  }
+]

@@ -1,1 +1,127 @@
-"[{\"code\":\"5378\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10031\",\"courseName\":\"光電元件與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 賴富德\",\"position\":\"F131\",\"people\":\"10\",\"maxpeople\":\"10\",\"time\":\" (三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD012711,F2496.01\"],\"note\":\"\"},{\"code\":\"5379\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10038\",\"courseName\":\"電機控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 杜國洋\",\"position\":\"F209\",\"people\":\"7\",\"maxpeople\":\"8\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD012711,F0657.01\"],\"note\":\"\"},{\"code\":\"5380\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10003\",\"courseName\":\"虛擬實境\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 黃勤鎰\",\"position\":\"F107\",\"people\":\"6\",\"maxpeople\":\"8\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD012711,F0538.01\"],\"note\":\"\"},{\"code\":\"5381\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10017\",\"courseName\":\"光學工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 梁財春\",\"position\":\"F209\",\"people\":\"9\",\"maxpeople\":\"9\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD012711,F0164.01\"],\"note\":\"\"},{\"code\":\"5382\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班二甲\",\"foreverID\":\"121H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 高宗達\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UD012721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5378",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10031",
+    "courseName": "光電元件與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "賴富德",
+    "position": "F131",
+    "people": "10",
+    "maxpeople": "10",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD012711,F2496.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5379",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10038",
+    "courseName": "電機控制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜國洋",
+    "position": "F209",
+    "people": "7",
+    "maxpeople": "8",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD012711,F0657.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5380",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10003",
+    "courseName": "虛擬實境",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃勤鎰",
+    "position": "F107",
+    "people": "6",
+    "maxpeople": "8",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD012711,F0538.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5381",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10017",
+    "courseName": "光學工程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "梁財春",
+    "position": "F209",
+    "people": "9",
+    "maxpeople": "9",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD012711,F0164.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5382",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班二甲",
+    "foreverID": "121H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UD012721,05010.01"
+    ],
+    "note": ""
+  }
+]

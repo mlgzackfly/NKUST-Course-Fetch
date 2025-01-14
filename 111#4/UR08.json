@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0216",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四甲",
+    "foreverID": "313E00412",
+    "courseName": "輔機(二)",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "王星海",
+    "position": "旗U202教室",
+    "people": "23",
+    "maxpeople": "0",
+    "time": "(一)1-4,5-8(三)1-4,5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UR081241,A9162.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  },
+  {
+    "code": "0217",
+    "cmp": "旗津校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四甲",
+    "foreverID": "313E00192",
+    "courseName": "輪機管理(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "楊春陵",
+    "position": "旗U201教室",
+    "people": "14",
+    "maxpeople": "0",
+    "time": "(二)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UR081241,B2387.01"
+    ],
+    "note": "補差額開班，不對外開放選課。"
+  }
+]

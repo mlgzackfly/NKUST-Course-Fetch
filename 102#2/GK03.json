@@ -1,1 +1,27 @@
-"[{\"code\":\"1793\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"運管系產學一貫學程\",\"className\":\"運管產學學程\",\"foreverID\":\"351C10004\",\"courseName\":\"產業合作實習\",\"hours\":\"9.0\",\"units\":\"9.0\",\"required\":\"選修\",\"instructors\":\"鄭玉惠\",\"position\":\"\",\"people\":\"5\",\"maxpeople\":\"0\",\"time\":\"(六)1-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"GK031400,B2739.01\"],\"note\":\"限運籌系學生修讀。\"}]"
+[
+  {
+    "code": "1793",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "運管系產學一貫學程",
+    "className": "運管產學學程",
+    "foreverID": "351C10004",
+    "courseName": "產業合作實習",
+    "hours": "9.0",
+    "units": "9.0",
+    "required": "選修",
+    "instructors": "鄭玉惠",
+    "position": "",
+    "people": "5",
+    "maxpeople": "0",
+    "time": "(六)1-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "GK031400,B2739.01"
+    ],
+    "note": "限運籌系學生修讀。"
+  }
+]

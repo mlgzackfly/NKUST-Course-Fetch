@@ -1,1 +1,27 @@
-"[{\"code\":\"0062\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊工程系\",\"className\":\"四資工\",\"foreverID\":\"221C10094\",\"courseName\":\"(暑期)校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"王志強\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(日)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UE151400,08121.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0062",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "資訊工程系",
+    "className": "四資工",
+    "foreverID": "221C10094",
+    "courseName": "(暑期)校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "王志強",
+    "position": "",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(日)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UE151400,08121.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0063\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系[楠梓|旗津]\",\"className\":\"日四技資管系\",\"foreverID\":\"335C00132\",\"courseName\":\"作業研究(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UO021400,00816.01\"],\"note\":\"961241109至義守大學修課\"}]"
+[
+  {
+    "code": "0063",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系[楠梓|旗津]",
+    "className": "日四技資管系",
+    "foreverID": "335C00132",
+    "courseName": "作業研究(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "6",
+      "UO021400,00816.01"
+    ],
+    "note": "961241109至義守大學修課"
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0299\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"創新創業教育中心\",\"className\":\"創創中心一甲\",\"foreverID\":\"030C10010\",\"courseName\":\"文化創新\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 鐘沛岑\",\"position\":\"D308\",\"people\":\"3\",\"maxpeople\":\"0\",\"time\":\" (五)1-4,5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UK001411,F0350.01\"],\"note\":\"補差額開班\\n7/26開始上課\"}]"
+[
+  {
+    "code": "0299",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業教育中心",
+    "className": "創創中心一甲",
+    "foreverID": "030C10010",
+    "courseName": "文化創新",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "鐘沛岑",
+    "position": "D308",
+    "people": "3",
+    "maxpeople": "0",
+    "time": "(五)1-4,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UK001411,F0350.01"
+    ],
+    "note": "補差額開班\n7/26開始上課"
+  }
+]

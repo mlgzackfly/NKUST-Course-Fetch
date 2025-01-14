@@ -1,1 +1,27 @@
-"[{\"code\":\"0023\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運管理系\",\"className\":\"日四技航管系\",\"foreverID\":\"331C00178\",\"courseName\":\"統計學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"(二)6-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UO011400,01788.01\"],\"note\":\"航管四甲吳靜憶跨長榮大學選課\"}]"
+[
+  {
+    "code": "0023",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運管理系",
+    "className": "日四技航管系",
+    "foreverID": "331C00178",
+    "courseName": "統計學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "(二)6-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UO011400,01788.01"
+    ],
+    "note": "航管四甲吳靜憶跨長榮大學選課"
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"1178\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班二甲\",\"foreverID\":\"127B00007\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"UD191721,05010.01\"],\"note\":\"\"},{\"code\":\"1179\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班二甲\",\"foreverID\":\"127B00004\",\"courseName\":\"專題演講(四)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"UD191721,F1235.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1178",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班二甲",
+    "foreverID": "127B00007",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "UD191721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1179",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班二甲",
+    "foreverID": "127B00004",
+    "courseName": "專題演講(四)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "UD191721,F1235.01"
+    ],
+    "note": ""
+  }
+]

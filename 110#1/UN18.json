@@ -1,1 +1,127 @@
-"[{\"code\":\"2416\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班一甲\",\"foreverID\":\"137H10116\",\"courseName\":\"全球運籌管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊大輝\",\"position\":\"C442\",\"people\":\"17\",\"maxpeople\":\"9\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN182711,07041.01\"],\"note\":\"\"},{\"code\":\"2417\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班一甲\",\"foreverID\":\"137H10036\",\"courseName\":\"配送管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃山琿\",\"position\":\"C443\",\"people\":\"10\",\"maxpeople\":\"9\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN182711,F0624.01\"],\"note\":\"\"},{\"code\":\"2418\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班一甲\",\"foreverID\":\"137H10054\",\"courseName\":\"統計迴歸分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李恒綺\",\"position\":\"C442\",\"people\":\"10\",\"maxpeople\":\"9\",\"time\":\"(四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN182711,F1982.01\"],\"note\":\"\"},{\"code\":\"2470\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班一甲\",\"foreverID\":\"136H10068\",\"courseName\":\"大數據分析軟體應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蕭俊彥\",\"position\":\"C338\",\"people\":\"15\",\"maxpeople\":\"9\",\"time\":\"(五)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN182711,F4025.01\"],\"note\":\"\"},{\"code\":\"2419\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系碩士專班[第一]\",\"className\":\"運籌碩專班二甲\",\"foreverID\":\"137H00017\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"吳偉銘\",\"position\":\"\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN182721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2416",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10116",
+    "courseName": "全球運籌管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊大輝",
+    "position": "C442",
+    "people": "17",
+    "maxpeople": "9",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN182711,07041.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2417",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10036",
+    "courseName": "配送管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃山琿",
+    "position": "C443",
+    "people": "10",
+    "maxpeople": "9",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN182711,F0624.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2418",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "137H10054",
+    "courseName": "統計迴歸分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李恒綺",
+    "position": "C442",
+    "people": "10",
+    "maxpeople": "9",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN182711,F1982.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2470",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班一甲",
+    "foreverID": "136H10068",
+    "courseName": "大數據分析軟體應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蕭俊彥",
+    "position": "C338",
+    "people": "15",
+    "maxpeople": "9",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN372711,F4025.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2419",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系碩士專班[第一]",
+    "className": "運籌碩專班二甲",
+    "foreverID": "137H00017",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "吳偉銘",
+    "position": "",
+    "people": "7",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN182721,05010.01"
+    ],
+    "note": ""
+  }
+]

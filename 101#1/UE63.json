@@ -1,1 +1,52 @@
-"[{\"code\":\"1373\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"模具與自動化技術產業碩士專班[\",\"className\":\"進碩春模自動二甲\",\"foreverID\":\"209I10011\",\"courseName\":\"微機電系統概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"張致遠,邱錫榮\",\"position\":\"模304\",\"people\":\"15\",\"maxpeople\":\"40\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UE632521,02218.01\"],\"note\":\"\"},{\"code\":\"2350\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"模具與自動化技術產業碩士專班[\",\"className\":\"進碩春模自動二甲\",\"foreverID\":\"209I00001\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UE632521,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1373",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "模具與自動化技術產業碩士專班[",
+    "className": "進碩春模自動二甲",
+    "foreverID": "209I10011",
+    "courseName": "微機電系統概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張致遠,邱錫榮",
+    "position": "模304",
+    "people": "15",
+    "maxpeople": "40",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UE632521,02218.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2350",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "模具與自動化技術產業碩士專班[",
+    "className": "進碩春模自動二甲",
+    "foreverID": "209I00001",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UE632521,03649.01"
+    ],
+    "note": ""
+  }
+]

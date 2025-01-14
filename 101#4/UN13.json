@@ -1,1 +1,27 @@
-"[{\"code\":\"S121\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10052\",\"courseName\":\"多媒體應用與安全\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UN132711,F3385.01\"],\"note\":\"\"},{\"code\":\"S121\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10052\",\"courseName\":\"多媒體應用與安全\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UN132711,F3385.01\"],\"note\":\"\"},{\"code\":\"S121\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10052\",\"courseName\":\"多媒體應用與安全\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UN132711,F3385.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S121",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10052",
+    "courseName": "多媒體應用與安全",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UN132711,F3385.01"
+    ],
+    "note": ""
+  }
+]

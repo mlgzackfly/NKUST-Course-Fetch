@@ -1,1 +1,52 @@
-"[{\"code\":\"2328\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"文化創意暨雲端商務管理產業碩士\",\"className\":\"進碩秋資文創ㄧ甲\",\"foreverID\":\"252I00002\",\"courseName\":\"企業實習(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"傅振瑞\",\"position\":\"\",\"people\":\"10\",\"maxpeople\":\"55\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UM452611,06409.01\"],\"note\":\"\"},{\"code\":\"2329\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"文化創意暨雲端商務管理產業碩士\",\"className\":\"進碩秋資文創ㄧ甲\",\"foreverID\":\"252I10009\",\"courseName\":\"物聯網應用系統\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"謝文川\",\"position\":\"南206\",\"people\":\"10\",\"maxpeople\":\"55\",\"time\":\"(六)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"UM452611,08291.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2328",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "文化創意暨雲端商務管理產業碩士",
+    "className": "進碩秋資文創ㄧ甲",
+    "foreverID": "252I00002",
+    "courseName": "企業實習(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "傅振瑞",
+    "position": "",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UM452611,06409.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2329",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "文化創意暨雲端商務管理產業碩士",
+    "className": "進碩秋資文創ㄧ甲",
+    "foreverID": "252I10009",
+    "courseName": "物聯網應用系統",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "謝文川",
+    "position": "南206",
+    "people": "10",
+    "maxpeople": "55",
+    "time": "(六)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "UM452611,08291.01"
+    ],
+    "note": ""
+  }
+]

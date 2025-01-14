@@ -1,1 +1,27 @@
-"[{\"code\":\"0061\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"風險管理與保險系\",\"className\":\"風管系三甲\",\"foreverID\":\"154C10201\",\"courseName\":\"風險管理與保險暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"洪敏三,陳青浩\",\"position\":\"\",\"people\":\"27\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UP021431,11571.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0061",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系三甲",
+    "foreverID": "154C10201",
+    "courseName": "風險管理與保險暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "洪敏三,陳青浩",
+    "position": "",
+    "people": "27",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UP021431,11571.01"
+    ],
+    "note": ""
+  }
+]

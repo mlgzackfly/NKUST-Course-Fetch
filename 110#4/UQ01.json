@@ -1,1 +1,102 @@
-"[{\"code\":\"0133\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船四甲\",\"foreverID\":\"324C10269\",\"courseName\":\"暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"呂學信,李子宜,楊敏雄,洪文玲,王永聯,王治平,羅光閔,鍾孟軒,陳紹榮\",\"position\":\"教室未定\",\"people\":\"36\",\"maxpeople\":\"130\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UQ011441,09635.01\"],\"note\":\"\"},{\"code\":\"0148\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船四甲\",\"foreverID\":\"324C10260\",\"courseName\":\"專案實習(二)\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"李子宜\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"130\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UQ011441,09866.01\"],\"note\":\"\"},{\"code\":\"0133\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船四乙\",\"foreverID\":\"324C10269\",\"courseName\":\"暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"呂學信,李子宜,楊敏雄,洪文玲,王永聯,王治平,羅光閔,鍾孟軒,陳紹榮\",\"position\":\"教室未定\",\"people\":\"36\",\"maxpeople\":\"130\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UQ011442,09635.01\"],\"note\":\"\"},{\"code\":\"0148\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船及海洋工程系\",\"className\":\"日四技造船四乙\",\"foreverID\":\"324C10260\",\"courseName\":\"專案實習(二)\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"李子宜\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"130\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UQ011442,09866.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0133",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船四甲",
+    "foreverID": "324C10269",
+    "courseName": "暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "呂學信,李子宜,楊敏雄,洪文玲,王永聯,王治平,羅光閔,鍾孟軒,陳紹榮",
+    "position": "教室未定",
+    "people": "36",
+    "maxpeople": "130",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UQ011441,09635.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0148",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船四甲",
+    "foreverID": "324C10260",
+    "courseName": "專案實習(二)",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李子宜",
+    "position": "",
+    "people": "2",
+    "maxpeople": "130",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UQ011441,09866.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0133",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船四乙",
+    "foreverID": "324C10269",
+    "courseName": "暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "呂學信,李子宜,楊敏雄,洪文玲,王永聯,王治平,羅光閔,鍾孟軒,陳紹榮",
+    "position": "教室未定",
+    "people": "36",
+    "maxpeople": "130",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UQ011441,09635.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0148",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船及海洋工程系",
+    "className": "日四技造船四乙",
+    "foreverID": "324C10260",
+    "courseName": "專案實習(二)",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李子宜",
+    "position": "",
+    "people": "2",
+    "maxpeople": "130",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UQ011441,09866.01"
+    ],
+    "note": ""
+  }
+]

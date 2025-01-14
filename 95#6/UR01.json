@@ -1,1 +1,27 @@
-"[{\"code\":\"0055\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二技\",\"unt\":\"航運技術系\",\"className\":\"進二技航技二\",\"foreverID\":\"312F00035\",\"courseName\":\"外國語言能力─普通級(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"6\",\"UR012320,B0753.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0055",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二技",
+    "unt": "航運技術系",
+    "className": "進二技航技二",
+    "foreverID": "312F00035",
+    "courseName": "外國語言能力─普通級(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "6",
+      "UR012320,B0753.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"1411\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"模具與自動化技術產業碩士專班[\",\"className\":\"進碩春模自動二甲\",\"foreverID\":\"209I10014\",\"courseName\":\"非破壞性檢驗\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"姚創文\",\"position\":\"模514\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE632521,01048.01\"],\"note\":\"\"},{\"code\":\"1412\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"模具與自動化技術產業碩士專班[\",\"className\":\"進碩春模自動二甲\",\"foreverID\":\"209I10008\",\"courseName\":\"非傳統加工\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"許文政\",\"position\":\"模514\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(日)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE632521,01054.01\"],\"note\":\"\"},{\"code\":\"1413\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"模具與自動化技術產業碩士專班[\",\"className\":\"進碩春模自動二甲\",\"foreverID\":\"209I10010\",\"courseName\":\"最佳化設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳政憲\",\"position\":\"模514\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(日)11,13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UE632521,01956.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1411",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "模具與自動化技術產業碩士專班[",
+    "className": "進碩春模自動二甲",
+    "foreverID": "209I10014",
+    "courseName": "非破壞性檢驗",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "姚創文",
+    "position": "模514",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE632521,01048.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1412",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "模具與自動化技術產業碩士專班[",
+    "className": "進碩春模自動二甲",
+    "foreverID": "209I10008",
+    "courseName": "非傳統加工",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許文政",
+    "position": "模514",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(日)1-3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE632521,01054.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1413",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "模具與自動化技術產業碩士專班[",
+    "className": "進碩春模自動二甲",
+    "foreverID": "209I10010",
+    "courseName": "最佳化設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳政憲",
+    "position": "模514",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(日)11,13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UE632521,01956.01"
+    ],
+    "note": ""
+  }
+]

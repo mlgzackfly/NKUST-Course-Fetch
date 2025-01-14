@@ -1,1 +1,52 @@
-"[{\"code\":\"S122\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"行銷與流通管理系碩士專班\",\"className\":\"行銷碩專班一甲\",\"foreverID\":\"140H10048\",\"courseName\":\"流通策略專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UN092711,F1812.01\"],\"note\":\"\"},{\"code\":\"S122\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"行銷與流通管理系碩士專班\",\"className\":\"行銷碩專班一甲\",\"foreverID\":\"140H10048\",\"courseName\":\"流通策略專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UN092711,F1812.01\"],\"note\":\"\"},{\"code\":\"S120\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"行銷與流通管理系碩士專班\",\"className\":\"行銷碩專班二甲\",\"foreverID\":\"140H10053\",\"courseName\":\"亞洲流通專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UN092721,F1333.01\"],\"note\":\"\"},{\"code\":\"S120\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"行銷與流通管理系碩士專班\",\"className\":\"行銷碩專班二甲\",\"foreverID\":\"140H10053\",\"courseName\":\"亞洲流通專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UN092721,F1333.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S122",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "行銷與流通管理系碩士專班",
+    "className": "行銷碩專班一甲",
+    "foreverID": "140H10048",
+    "courseName": "流通策略專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UN092711,F1812.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S120",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "行銷與流通管理系碩士專班",
+    "className": "行銷碩專班二甲",
+    "foreverID": "140H10053",
+    "courseName": "亞洲流通專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UN092721,F1333.01"
+    ],
+    "note": ""
+  }
+]

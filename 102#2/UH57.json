@@ -1,1 +1,127 @@
-"[{\"code\":\"1620\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應外系英語專業溝通與教學科技\",\"className\":\"應外系碩士班一甲\",\"foreverID\":\"256B00002\",\"courseName\":\"論文寫作\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"羅雅芬\",\"position\":\"北307\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH571711,05817.01\"],\"note\":\"\"},{\"code\":\"1621\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應外系英語專業溝通與教學科技\",\"className\":\"應外系碩士班一甲\",\"foreverID\":\"256B10021\",\"courseName\":\"專業英語課程軟體設計與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡叔翹\",\"position\":\"北310\",\"people\":\"19\",\"maxpeople\":\"60\",\"time\":\"(四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH571711,07805.01\"],\"note\":\"\"},{\"code\":\"1622\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應外系英語專業溝通與教學科技\",\"className\":\"應外系碩士班一甲\",\"foreverID\":\"256B10016\",\"courseName\":\"篇章類型分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃士人\",\"position\":\"\",\"people\":\"3\",\"maxpeople\":\"60\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH571711,07806.01\"],\"note\":\"\"},{\"code\":\"1623\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應外系英語專業溝通與教學科技\",\"className\":\"應外系碩士班一甲\",\"foreverID\":\"256B10018\",\"courseName\":\"英語教學科技之應用與設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"王昱鈞\",\"position\":\"北310\",\"people\":\"6\",\"maxpeople\":\"60\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"\",\"href\":[\"102\",\"2\",\"UH571711,07808.01\"],\"note\":\"\"},{\"code\":\"1624\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應外系英語專業溝通與教學科技\",\"className\":\"應外系碩士班一甲\",\"foreverID\":\"256B10014\",\"courseName\":\"媒體與專業溝通\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"左宗宏\",\"position\":\"東203\",\"people\":\"7\",\"maxpeople\":\"60\",\"time\":\"(四)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UH571711,07809.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1620",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "應外系英語專業溝通與教學科技",
+    "className": "應外系碩士班一甲",
+    "foreverID": "256B00002",
+    "courseName": "論文寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "羅雅芬",
+    "position": "北307",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH571711,05817.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1621",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "應外系英語專業溝通與教學科技",
+    "className": "應外系碩士班一甲",
+    "foreverID": "256B10021",
+    "courseName": "專業英語課程軟體設計與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡叔翹",
+    "position": "北310",
+    "people": "19",
+    "maxpeople": "60",
+    "time": "(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH571711,07805.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1622",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "應外系英語專業溝通與教學科技",
+    "className": "應外系碩士班一甲",
+    "foreverID": "256B10016",
+    "courseName": "篇章類型分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃士人",
+    "position": "",
+    "people": "3",
+    "maxpeople": "60",
+    "time": "(一)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH571711,07806.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1623",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "應外系英語專業溝通與教學科技",
+    "className": "應外系碩士班一甲",
+    "foreverID": "256B10018",
+    "courseName": "英語教學科技之應用與設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "王昱鈞",
+    "position": "北310",
+    "people": "6",
+    "maxpeople": "60",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "",
+    "href": [
+      "102",
+      "2",
+      "UH571711,07808.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1624",
+    "cmp": "燕巢校區",
+    "dgr": "日間部碩士",
+    "unt": "應外系英語專業溝通與教學科技",
+    "className": "應外系碩士班一甲",
+    "foreverID": "256B10014",
+    "courseName": "媒體與專業溝通",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "左宗宏",
+    "position": "東203",
+    "people": "7",
+    "maxpeople": "60",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UH571711,07809.01"
+    ],
+    "note": ""
+  }
+]

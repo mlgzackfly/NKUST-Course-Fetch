@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0057",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運管理系",
+    "className": "日四技航管四甲",
+    "foreverID": "331C10438",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "曾文瑞,楊清喬,連淑君",
+    "position": "教室未定",
+    "people": "13",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UO011441,09635.01"
+    ],
+    "note": "由系辦進行人工選課"
+  },
+  {
+    "code": "0057",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運管理系",
+    "className": "日四技航管四乙",
+    "foreverID": "331C10438",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "曾文瑞,楊清喬,連淑君",
+    "position": "教室未定",
+    "people": "13",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UO011441,09635.01"
+    ],
+    "note": "由系辦進行人工選課"
+  }
+]

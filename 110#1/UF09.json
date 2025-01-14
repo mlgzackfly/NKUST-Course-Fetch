@@ -1,1 +1,127 @@
-"[{\"code\":\"1489\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B00008\",\"courseName\":\"專題討論(一)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"郭峻志\",\"position\":\"\",\"people\":\"31\",\"maxpeople\":\"35\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,01683.01\"],\"note\":\"\"},{\"code\":\"1490\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10167\",\"courseName\":\"伺服控制實務\",\"hours\":\"3.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"薛博文,姚武松\",\"position\":\"T210\",\"people\":\"42\",\"maxpeople\":\"45\",\"time\":\"(二)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,10667.01\"],\"note\":\"\"},{\"code\":\"1491\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10158\",\"courseName\":\"控制系統之觀測器設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"薛博文\",\"position\":\"T212\",\"people\":\"24\",\"maxpeople\":\"30\",\"time\":\"(一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,30696.01\"],\"note\":\"\"},{\"code\":\"1492\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10168\",\"courseName\":\"工程經濟\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"曾奕丰\",\"position\":\"B344\",\"people\":\"30\",\"maxpeople\":\"30\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F0295.01\"],\"note\":\"\"},{\"code\":\"1493\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B00007\",\"courseName\":\"科技論文\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"郭文正\",\"position\":\"B115\",\"people\":\"32\",\"maxpeople\":\"40\",\"time\":\"(一)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F0477.01\"],\"note\":\"\"},{\"code\":\"1494\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10031\",\"courseName\":\"雷射加工\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"曾奕丰\",\"position\":\"B116\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\"(四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F0648.01\"],\"note\":\"\"},{\"code\":\"1496\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10116\",\"courseName\":\"光學系統設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"方怡欽\",\"position\":\"E205\",\"people\":\"41\",\"maxpeople\":\"40\",\"time\":\"(四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F1401.01\"],\"note\":\"\"},{\"code\":\"1497\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10071\",\"courseName\":\"沖壓模具設計\",\"hours\":\"3.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"郭峻志,林栢村\",\"position\":\"T212\",\"people\":\"21\",\"maxpeople\":\"45\",\"time\":\"(三)7-10\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F1807.01\"],\"note\":\"\"},{\"code\":\"1498\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10082\",\"courseName\":\"精密切削加工\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"邱能信,郭峻志\",\"position\":\"B115\",\"people\":\"40\",\"maxpeople\":\"45\",\"time\":\" (一)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F1953.01\"],\"note\":\"\"},{\"code\":\"1499\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10159\",\"courseName\":\"微奈米製程特論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"郭文正\",\"position\":\"E205\",\"people\":\"41\",\"maxpeople\":\"45\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F2651.01\"],\"note\":\"\"},{\"code\":\"1500\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10096\",\"courseName\":\"智慧自動化技術\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"郭見隆\",\"position\":\"T210\",\"people\":\"44\",\"maxpeople\":\"45\",\"time\":\"(五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F2765.01\"],\"note\":\"\"},{\"code\":\"1502\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10111\",\"courseName\":\"人工智慧理論與實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉東官\",\"position\":\"T212\",\"people\":\"27\",\"maxpeople\":\"45\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F3918.01\"],\"note\":\"\"},{\"code\":\"1503\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10044\",\"courseName\":\"多軸工具機加工程式設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"郭峻志\",\"position\":\"B337\",\"people\":\"30\",\"maxpeople\":\"45\",\"time\":\"(四)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F4863.01\"],\"note\":\"\"},{\"code\":\"1504\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"105B10059\",\"courseName\":\"數位訊號處理與電機控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"郭見隆\",\"position\":\"T210\",\"people\":\"12\",\"maxpeople\":\"45\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F4884.01\"],\"note\":\"\"},{\"code\":\"1573\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"101A10404\",\"courseName\":\"感測器原理與實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉永田\",\"position\":\"E206\",\"people\":\"6\",\"maxpeople\":\"55\",\"time\":\"(四)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F3431.01\"],\"note\":\"經109-2校課程委員會通過之全英語授課\"},{\"code\":\"1575\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"101A10346\",\"courseName\":\"實驗設計與品質工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"余志成\",\"position\":\"T212\",\"people\":\"40\",\"maxpeople\":\"55\",\"time\":\"(一)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F4036.01\"],\"note\":\"經109-2校課程委員會通過之全英語授課\"},{\"code\":\"1576\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班一甲\",\"foreverID\":\"101A10417\",\"courseName\":\"智能型狀態監測系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳宗亮\",\"position\":\"F128\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(四)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091711,F4138.01\"],\"note\":\"\"},{\"code\":\"1505\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班二甲\",\"foreverID\":\"105B00010\",\"courseName\":\"專題討論(三)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"林栢村\",\"position\":\"F109\",\"people\":\"25\",\"maxpeople\":\"35\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091721,01685.01\"],\"note\":\"\"},{\"code\":\"1506\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班二甲\",\"foreverID\":\"105B00013\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"謝其昌\",\"position\":\"\",\"people\":\"10\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091721,05010.01\"],\"note\":\"\"},{\"code\":\"1573\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班二甲\",\"foreverID\":\"101A10404\",\"courseName\":\"感測器原理與實習\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉永田\",\"position\":\"E206\",\"people\":\"6\",\"maxpeople\":\"55\",\"time\":\"(四)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091721,F3431.01\"],\"note\":\"經109-2校課程委員會通過之全英語授課\"},{\"code\":\"1575\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班二甲\",\"foreverID\":\"101A10346\",\"courseName\":\"實驗設計與品質工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"余志成\",\"position\":\"T212\",\"people\":\"40\",\"maxpeople\":\"55\",\"time\":\"(一)2-4\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091721,F4036.01\"],\"note\":\"經109-2校課程委員會通過之全英語授課\"},{\"code\":\"1576\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"機電工程系\",\"className\":\"機電碩士班二甲\",\"foreverID\":\"101A10417\",\"courseName\":\"智能型狀態監測系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"吳宗亮\",\"position\":\"F128\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(四)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UF091721,F4138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1507",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10047",
+    "courseName": "機器設備智能診斷系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "吳宗亮",
+    "position": "T212",
+    "people": "23",
+    "maxpeople": "20",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UF092711,3987.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1508",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10045",
+    "courseName": "材料與製造",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊玉森",
+    "position": "B116",
+    "people": "20",
+    "maxpeople": "20",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UF092711,F0970.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1509",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10043",
+    "courseName": "統計製程管制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "曾奕丰",
+    "position": "B116",
+    "people": "9",
+    "maxpeople": "20",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UF092711,F1980.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1510",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班一甲",
+    "foreverID": "105H10022",
+    "courseName": "實驗設計與品質工程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "余志成",
+    "position": "T212",
+    "people": "13",
+    "maxpeople": "20",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UF092711,F4036.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1511",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機電工程系",
+    "className": "機電碩專班二甲",
+    "foreverID": "105H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "謝其昌",
+    "position": "",
+    "people": "6",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UF092721,05010.01"
+    ],
+    "note": ""
+  }
+]

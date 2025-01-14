@@ -1,1 +1,102 @@
-"[{\"code\":\"5204\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"謝志敏\",\"position\":\"\",\"people\":\"43\",\"maxpeople\":\"60\",\"time\":\"(一)M(三)M\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.01\"],\"note\":\"【環境服務教育】\"},{\"code\":\"5204\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"謝志敏\",\"position\":\"\",\"people\":\"43\",\"maxpeople\":\"60\",\"time\":\"(一)M(三)M\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.01\"],\"note\":\"【環境服務教育】\"},{\"code\":\"5205\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"徐世敏\",\"position\":\"\",\"people\":\"52\",\"maxpeople\":\"60\",\"time\":\"(二)A(四)A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.02\"],\"note\":\"【環境服務教育】\"},{\"code\":\"5205\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"徐世敏\",\"position\":\"\",\"people\":\"52\",\"maxpeople\":\"60\",\"time\":\"(二)A(四)A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.02\"],\"note\":\"【環境服務教育】\"},{\"code\":\"5206\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鄒明城\",\"position\":\"\",\"people\":\"42\",\"maxpeople\":\"60\",\"time\":\"(一)M(三)M\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.03\"],\"note\":\"【環境服務教育】\"},{\"code\":\"5206\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鄒明城\",\"position\":\"\",\"people\":\"42\",\"maxpeople\":\"60\",\"time\":\"(一)M(三)M\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.03\"],\"note\":\"【環境服務教育】\"},{\"code\":\"5207\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鍾易樺\",\"position\":\"\",\"people\":\"46\",\"maxpeople\":\"70\",\"time\":\"(二)A(四)A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.04\"],\"note\":\"【環境服務教育】\"},{\"code\":\"5207\",\"cmp\":\"旗津校區\",\"dgr\":\"日間部四技\",\"unt\":\"服務教育\",\"className\":\"四技服務教育(旗\",\"foreverID\":\"080C00002\",\"courseName\":\"服務教育(二)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鍾易樺\",\"position\":\"\",\"people\":\"46\",\"maxpeople\":\"70\",\"time\":\"(二)A(四)A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XF011416,98002.04\"],\"note\":\"【環境服務教育】\"}]"
+[
+  {
+    "code": "5204",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "服務教育",
+    "className": "四技服務教育(旗",
+    "foreverID": "080C00002",
+    "courseName": "服務教育(二)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "謝志敏",
+    "position": "",
+    "people": "43",
+    "maxpeople": "60",
+    "time": "(一)M(三)M",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XF011416,98002.01"
+    ],
+    "note": "【環境服務教育】"
+  },
+  {
+    "code": "5205",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "服務教育",
+    "className": "四技服務教育(旗",
+    "foreverID": "080C00002",
+    "courseName": "服務教育(二)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "徐世敏",
+    "position": "",
+    "people": "52",
+    "maxpeople": "60",
+    "time": "(二)A(四)A",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XF011416,98002.02"
+    ],
+    "note": "【環境服務教育】"
+  },
+  {
+    "code": "5206",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "服務教育",
+    "className": "四技服務教育(旗",
+    "foreverID": "080C00002",
+    "courseName": "服務教育(二)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "鄒明城",
+    "position": "",
+    "people": "42",
+    "maxpeople": "60",
+    "time": "(一)M(三)M",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XF011416,98002.03"
+    ],
+    "note": "【環境服務教育】"
+  },
+  {
+    "code": "5207",
+    "cmp": "旗津校區",
+    "dgr": "日間部四技",
+    "unt": "服務教育",
+    "className": "四技服務教育(旗",
+    "foreverID": "080C00002",
+    "courseName": "服務教育(二)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "鍾易樺",
+    "position": "",
+    "people": "46",
+    "maxpeople": "70",
+    "time": "(二)A(四)A",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XF011416,98002.04"
+    ],
+    "note": "【環境服務教育】"
+  }
+]

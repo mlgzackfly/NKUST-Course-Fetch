@@ -1,1 +1,102 @@
-"[{\"code\":\"2705\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所一年級\",\"foreverID\":\"332H10033\",\"courseName\":\"綠色供應鏈專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"徐賢斌\",\"position\":\"2501流通教學平台\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(二)12-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UO152711,30058.01\"],\"note\":\"\"},{\"code\":\"2708\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所二年級\",\"foreverID\":\"332H10034\",\"courseName\":\"流通產業分析\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"林永祥\",\"position\":\"2506電腦輔助電話調查\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(四)12-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UO152721,B2484.01\"],\"note\":\"\"},{\"code\":\"2709\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所二年級\",\"foreverID\":\"332H10032\",\"courseName\":\"冷鏈管理實務\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"溫源鳳\",\"position\":\"2506電腦輔助電話調查\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\" (二)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UO152721,B3726.01\"],\"note\":\"\"},{\"code\":\"2710\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"供應鏈管理系碩士班\",\"className\":\"碩專供應所二年級\",\"foreverID\":\"332H00027\",\"courseName\":\"金流管理專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"洪榮耀\",\"position\":\"2505綠色運籌中心\",\"people\":\"3\",\"maxpeople\":\"55\",\"time\":\"(四)10-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UO152721,B3734.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2705",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所一年級",
+    "foreverID": "332H10033",
+    "courseName": "綠色供應鏈專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "徐賢斌",
+    "position": "2501流通教學平台",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(二)12-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UO152711,30058.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2708",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所二年級",
+    "foreverID": "332H10034",
+    "courseName": "流通產業分析",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林永祥",
+    "position": "2506電腦輔助電話調查",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(四)12-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UO152721,B2484.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2709",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所二年級",
+    "foreverID": "332H10032",
+    "courseName": "冷鏈管理實務",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "溫源鳳",
+    "position": "2506電腦輔助電話調查",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(二)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UO152721,B3726.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2710",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "供應鏈管理系碩士班",
+    "className": "碩專供應所二年級",
+    "foreverID": "332H00027",
+    "courseName": "金流管理專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "洪榮耀",
+    "position": "2505綠色運籌中心",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(四)10-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UO152721,B3734.01"
+    ],
+    "note": ""
+  }
+]

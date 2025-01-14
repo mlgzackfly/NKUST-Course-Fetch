@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0170",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "管理學院博士班",
+    "className": "管院博士班二甲",
+    "foreverID": "131A00014",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "楊景傅",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UN231821,05010.01"
+    ],
+    "note": ""
+  }
+]

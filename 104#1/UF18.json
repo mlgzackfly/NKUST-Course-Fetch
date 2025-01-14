@@ -1,1 +1,52 @@
-"[{\"code\":\"5334\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班一甲\",\"foreverID\":\"104H10017\",\"courseName\":\"消防法規\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 蘇崇輝\",\"position\":\"B124\",\"people\":\"20\",\"maxpeople\":\"50\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UF182711,F0423.01\"],\"note\":\"\"},{\"code\":\"5335\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"環境與安全衛生工程系消防與防災\",\"className\":\"消防碩專班一甲\",\"foreverID\":\"104H10006\",\"courseName\":\"避難系統設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"B124\",\"people\":\"12\",\"maxpeople\":\"50\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UF182711,F2182.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5334",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班一甲",
+    "foreverID": "104H10017",
+    "courseName": "消防法規",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇崇輝",
+    "position": "B124",
+    "people": "20",
+    "maxpeople": "50",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UF182711,F0423.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5335",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "環境與安全衛生工程系消防與防災",
+    "className": "消防碩專班一甲",
+    "foreverID": "104H10006",
+    "courseName": "避難系統設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "B124",
+    "people": "12",
+    "maxpeople": "50",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UF182711,F2182.01"
+    ],
+    "note": ""
+  }
+]

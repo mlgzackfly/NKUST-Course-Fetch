@@ -1,1 +1,27 @@
-"[{\"code\":\"0034\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部二專\",\"unt\":\"漁業科\",\"className\":\"日二專漁業二年級\",\"foreverID\":\"\",\"courseName\":\"水產經濟學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"俞克儉\",\"position\":\"3205教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(四)1-2(五)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"6\",\"US061120,A0965.01\"],\"note\":\"\"},{\"code\":\"0034\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部二專\",\"unt\":\"漁業科\",\"className\":\"日二專漁業二年級\",\"foreverID\":\"\",\"courseName\":\"水產經濟學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"俞克儉\",\"position\":\"3205教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(四)1-2(五)5-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"6\",\"US061120,A0965.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0034",
+    "cmp": "楠梓校區",
+    "dgr": "日間部二專",
+    "unt": "漁業科",
+    "className": "日二專漁業二年級",
+    "foreverID": "",
+    "courseName": "水產經濟學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "俞克儉",
+    "position": "3205教室",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(四)1-2(五)5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "6",
+      "US061120,A0965.01"
+    ],
+    "note": ""
+  }
+]

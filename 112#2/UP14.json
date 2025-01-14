@@ -1,0 +1,102 @@
+[
+  {
+    "code": "2816",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H10093",
+    "courseName": "個人理財",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡繡容",
+    "position": "C434",
+    "people": "14",
+    "maxpeople": "30",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UP142711,04341.01"
+    ],
+    "note": "初選期間皆以財管系學生為優先選課，加退選期間再行開放其他系所學生選修"
+  },
+  {
+    "code": "2817",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H10057",
+    "courseName": "租稅規劃",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "康瑞亨",
+    "position": "C434",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UP142711,F0479.01"
+    ],
+    "note": "初選期間皆以財管系學生為優先選課，加退選期間再行開放其他系所學生選修"
+  },
+  {
+    "code": "2818",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H10047",
+    "courseName": "期貨與選擇權",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "周建新",
+    "position": "C434",
+    "people": "16",
+    "maxpeople": "30",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UP142711,F1777.01"
+    ],
+    "note": "初選期間皆以財管系學生為優先選課，加退選期間再行開放其他系所學生選修"
+  },
+  {
+    "code": "2819",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H10025",
+    "courseName": "財務風險管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林楚雄",
+    "position": "C434",
+    "people": "14",
+    "maxpeople": "30",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UP142711,F2107.01"
+    ],
+    "note": "初選期間皆以財管系學生為優先選課，加退選期間再行開放其他系所學生選修"
+  }
+]

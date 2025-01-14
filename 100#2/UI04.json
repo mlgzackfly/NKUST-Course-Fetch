@@ -1,1 +1,77 @@
-"[{\"code\":\"2411\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機控制產業碩士專班\",\"className\":\"進碩秋電機控一甲\",\"foreverID\":\"284I10014\",\"courseName\":\"類神經網路應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"葛世偉\",\"position\":\"電603\",\"people\":\"11\",\"maxpeople\":\"55\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UI042611,03368.01\"],\"note\":\"\"},{\"code\":\"2412\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機控制產業碩士專班\",\"className\":\"進碩秋電機控一甲\",\"foreverID\":\"284I10012\",\"courseName\":\"高等電機機械分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林嘉宏\",\"position\":\"電603\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UI042611,04233.01\"],\"note\":\"\"},{\"code\":\"2413\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"電機控制產業碩士專班\",\"className\":\"進碩秋電機控一甲\",\"foreverID\":\"284I10004\",\"courseName\":\"數位控制系統設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李崇智\",\"position\":\"電603\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UI042611,05095.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2411",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機控制產業碩士專班",
+    "className": "進碩秋電機控一甲",
+    "foreverID": "284I10014",
+    "courseName": "類神經網路應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "葛世偉",
+    "position": "電603",
+    "people": "11",
+    "maxpeople": "55",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UI042611,03368.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2412",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機控制產業碩士專班",
+    "className": "進碩秋電機控一甲",
+    "foreverID": "284I10012",
+    "courseName": "高等電機機械分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林嘉宏",
+    "position": "電603",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UI042611,04233.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2413",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "電機控制產業碩士專班",
+    "className": "進碩秋電機控一甲",
+    "foreverID": "284I10004",
+    "courseName": "數位控制系統設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李崇智",
+    "position": "電603",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UI042611,05095.01"
+    ],
+    "note": ""
+  }
+]

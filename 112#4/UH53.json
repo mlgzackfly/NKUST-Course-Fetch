@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0036",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "人力資源發展系",
+    "className": "四人三甲",
+    "foreverID": "251C10150",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "王湧泉,許淑寬,黃瓊慧",
+    "position": "教室未定",
+    "people": "7",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UH531431,09635.01"
+    ],
+    "note": ""
+  }
+]

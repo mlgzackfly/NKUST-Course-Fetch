@@ -1,0 +1,52 @@
+[
+  {
+    "code": "3320",
+    "cmp": "旗津校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "輪機產學攜手專班",
+    "className": "進四輪機產學二甲",
+    "foreverID": "313G00080",
+    "courseName": "電子學實習(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "王怡舜",
+    "position": "1406電子實習實驗室",
+    "people": "39",
+    "maxpeople": "55",
+    "time": "(六)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UR114221,02489.01"
+    ],
+    "note": "僅限本班生"
+  },
+  {
+    "code": "3321",
+    "cmp": "旗津校區",
+    "dgr": "進四技產學攜手專班",
+    "unt": "輪機產學攜手專班",
+    "className": "進四輪機產學二甲",
+    "foreverID": "313G00083",
+    "courseName": "電工實習(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "吳俊文",
+    "position": "1105船電實習教室",
+    "people": "39",
+    "maxpeople": "55",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "UR114221,02497.01"
+    ],
+    "note": "僅限本班生"
+  }
+]

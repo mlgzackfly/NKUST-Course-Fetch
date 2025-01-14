@@ -1,1 +1,27 @@
-"[{\"code\":\"1529\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船產業實務學程\",\"className\":\"造船產業實務學程\",\"foreverID\":\"350C10153\",\"courseName\":\"船舶艤裝\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"余盛富\",\"position\":\"5109教室\",\"people\":\"61\",\"maxpeople\":\"60\",\"time\":\"(五)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"GF161400,A4470.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1529",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船產業實務學程",
+    "className": "造船產業實務學程",
+    "foreverID": "350C10153",
+    "courseName": "船舶艤裝",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "余盛富",
+    "position": "5109教室",
+    "people": "61",
+    "maxpeople": "60",
+    "time": "(五)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "GF161400,A4470.01"
+    ],
+    "note": ""
+  }
+]

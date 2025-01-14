@@ -1,1 +1,27 @@
-"[{\"code\":\"0226\",\"cmp\":\"建工校區\",\"dgr\":\"日間部博士\",\"unt\":\"化學工程與材料工程系\",\"className\":\"化材系博士班二甲\",\"foreverID\":\"208A00038\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"楊文都\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UE161821,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0226",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "化學工程與材料工程系",
+    "className": "化材系博士班二甲",
+    "foreverID": "208A00038",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "楊文都",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UE161821,05010.01"
+    ],
+    "note": ""
+  }
+]

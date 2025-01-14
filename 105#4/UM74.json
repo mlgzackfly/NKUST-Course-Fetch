@@ -1,1 +1,27 @@
-"[{\"code\":\"0073\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"企業管理系\",\"className\":\"四企\",\"foreverID\":\"232C00099\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"朱培宏,楊敏里,劉季貞,李政峯,余銘忠,葉惠忠\",\"position\":\"\",\"people\":\"49\",\"maxpeople\":\"55\",\"time\":\"(一)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"4\",\"UM741400,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0073",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "企業管理系",
+    "className": "四企",
+    "foreverID": "232C00099",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "朱培宏,楊敏里,劉季貞,李政峯,余銘忠,葉惠忠",
+    "position": "",
+    "people": "49",
+    "maxpeople": "55",
+    "time": "(一)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "4",
+      "UM741400,04138.01"
+    ],
+    "note": ""
+  }
+]

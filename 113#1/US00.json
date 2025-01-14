@@ -1,0 +1,102 @@
+[
+  {
+    "code": "3427",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水圈學院",
+    "className": "水圈學院課程一甲",
+    "foreverID": "300C10006",
+    "courseName": "地方環境與資源保育",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "林之丞",
+    "position": "10307階梯教室",
+    "people": "56",
+    "maxpeople": "55",
+    "time": "(五)3-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "US001411,10113.01"
+    ],
+    "note": "全英語授課"
+  },
+  {
+    "code": "3428",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水圈學院",
+    "className": "水圈學院課程一甲",
+    "foreverID": "300C10007",
+    "courseName": "社區再生與關懷",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "蔡建樹",
+    "position": "10202教室",
+    "people": "54",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "US001411,10114.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3429",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水圈學院",
+    "className": "水圈學院課程一甲",
+    "foreverID": "300C10012",
+    "courseName": "地方創生實務",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳怡君",
+    "position": "10103教室",
+    "people": "26",
+    "maxpeople": "20",
+    "time": "(二)5-6",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "US001411,10117.01"
+    ],
+    "note": "【經112-2校課程會議通過補助之英語授課課程】"
+  },
+  {
+    "code": "3431",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "水圈學院",
+    "className": "水圈學院課程一甲",
+    "foreverID": "300C10008",
+    "courseName": "海洋產業升級與科技創新",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "蔡永祥,莊翔傑",
+    "position": "10307階梯教室",
+    "people": "37",
+    "maxpeople": "55",
+    "time": "(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "1",
+      "US001411,30693.01"
+    ],
+    "note": ""
+  }
+]

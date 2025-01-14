@@ -1,1 +1,127 @@
-"[{\"code\":\"1277\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"營建工程系碩士專班[第一]\",\"className\":\"營建碩專班一甲\",\"foreverID\":\"102H10045\",\"courseName\":\"生產力評量與控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 林建良\",\"position\":\"F129\",\"people\":\"21\",\"maxpeople\":\"60\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UJ122711,F3580.01\"],\"note\":\"\"},{\"code\":\"1278\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"營建工程系碩士專班[第一]\",\"className\":\"營建碩專班一甲\",\"foreverID\":\"102H10023\",\"courseName\":\"地工數值分析與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 林志森\",\"position\":\"F146\",\"people\":\"6\",\"maxpeople\":\"60\",\"time\":\" (五)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UJ122711,F4009.01\"],\"note\":\"\"},{\"code\":\"1280\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"營建工程系碩士專班[第一]\",\"className\":\"營建碩專班一甲\",\"foreverID\":\"102H10044\",\"courseName\":\"國際化營建管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 晁立中\",\"position\":\"F146\",\"people\":\"7\",\"maxpeople\":\"60\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UJ122711,F2555.01\"],\"note\":\"\"},{\"code\":\"1281\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"營建工程系碩士專班[第一]\",\"className\":\"營建碩專班二甲\",\"foreverID\":\"102H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 林建良\",\"position\":\"教室未定\",\"people\":\"6\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UJ122721,05010.01\"],\"note\":\"\"},{\"code\":\"1282\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"營建工程系碩士專班[第一]\",\"className\":\"營建碩專班二甲\",\"foreverID\":\"102H10018\",\"courseName\":\"工程法務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 李振榮\",\"position\":\"F146\",\"people\":\"9\",\"maxpeople\":\"60\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UJ122721,F0291.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1277",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "營建工程系碩士專班[第一]",
+    "className": "營建碩專班一甲",
+    "foreverID": "102H10045",
+    "courseName": "生產力評量與控制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林建良",
+    "position": "F129",
+    "people": "21",
+    "maxpeople": "60",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UJ122711,F3580.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1278",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "營建工程系碩士專班[第一]",
+    "className": "營建碩專班一甲",
+    "foreverID": "102H10023",
+    "courseName": "地工數值分析與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林志森",
+    "position": "F146",
+    "people": "6",
+    "maxpeople": "60",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UJ122711,F4009.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1280",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "營建工程系碩士專班[第一]",
+    "className": "營建碩專班一甲",
+    "foreverID": "102H10044",
+    "courseName": "國際化營建管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "晁立中",
+    "position": "F146",
+    "people": "7",
+    "maxpeople": "60",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UJ122711,F2555.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1281",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "營建工程系碩士專班[第一]",
+    "className": "營建碩專班二甲",
+    "foreverID": "102H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "林建良",
+    "position": "教室未定",
+    "people": "6",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UJ122721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1282",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "營建工程系碩士專班[第一]",
+    "className": "營建碩專班二甲",
+    "foreverID": "102H10018",
+    "courseName": "工程法務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李振榮",
+    "position": "F146",
+    "people": "9",
+    "maxpeople": "60",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UJ122721,F0291.01"
+    ],
+    "note": ""
+  }
+]

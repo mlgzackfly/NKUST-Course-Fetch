@@ -1,1 +1,27 @@
-"[{\"code\":\"S114\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系碩士班\",\"className\":\"財管碩士班二甲\",\"foreverID\":\"155B10076\",\"courseName\":\"財務管理實務實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UP131721,F3692.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S114",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系碩士班",
+    "className": "財管碩士班二甲",
+    "foreverID": "155B10076",
+    "courseName": "財務管理實務實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UP131721,F3692.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,127 @@
-"[{\"code\":\"2404\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10029\",\"courseName\":\"研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳世智\",\"position\":\"C117\",\"people\":\"25\",\"maxpeople\":\"30\",\"time\":\"(五)10-12\",\"english\":\"否\",\"remote\":\"同步遠距\",\"href\":[\"110\",\"1\",\"UN132711,01135.01\"],\"note\":\"遠距教學\"},{\"code\":\"2405\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10046\",\"courseName\":\"專案管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"洪郁雯\",\"position\":\"C117\",\"people\":\"27\",\"maxpeople\":\"30\",\"time\":\"(四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN132711,01652.01\"],\"note\":\"\"},{\"code\":\"2406\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10019\",\"courseName\":\"雲端運算\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃文楨\",\"position\":\"C220\",\"people\":\"26\",\"maxpeople\":\"30\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"非同步遠距\",\"href\":[\"110\",\"1\",\"UN132711,F0647.01\"],\"note\":\"遠距教學\"},{\"code\":\"2407\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班一甲\",\"foreverID\":\"138H10021\",\"courseName\":\"大數據分析與R語言\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳慶文\",\"position\":\"C220\",\"people\":\"18\",\"maxpeople\":\"30\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN132711,F3834.01\"],\"note\":\"\"},{\"code\":\"2408\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班二甲\",\"foreverID\":\"138H00018\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"蘇國瑋\",\"position\":\"\",\"people\":\"6\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UN132721,05010.01\"],\"note\":\"論文課程不排上課時間\"}]"
+[
+  {
+    "code": "2404",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10029",
+    "courseName": "研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳世智",
+    "position": "C117",
+    "people": "25",
+    "maxpeople": "30",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "同步遠距",
+    "href": [
+      "110",
+      "1",
+      "UN132711,01135.01"
+    ],
+    "note": "遠距教學"
+  },
+  {
+    "code": "2405",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10046",
+    "courseName": "專案管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "洪郁雯",
+    "position": "C117",
+    "people": "27",
+    "maxpeople": "30",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN132711,01652.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2406",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10019",
+    "courseName": "雲端運算",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃文楨",
+    "position": "C220",
+    "people": "26",
+    "maxpeople": "30",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "非同步遠距",
+    "href": [
+      "110",
+      "1",
+      "UN132711,F0647.01"
+    ],
+    "note": "遠距教學"
+  },
+  {
+    "code": "2407",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班一甲",
+    "foreverID": "138H10021",
+    "courseName": "大數據分析與R語言",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳慶文",
+    "position": "C220",
+    "people": "18",
+    "maxpeople": "30",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN132711,F3834.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2408",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班二甲",
+    "foreverID": "138H00018",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "蘇國瑋",
+    "position": "",
+    "people": "6",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UN132721,05010.01"
+    ],
+    "note": "論文課程不排上課時間"
+  }
+]

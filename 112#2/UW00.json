@@ -1,0 +1,27 @@
+[
+  {
+    "code": "4019",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "管理學院",
+    "className": "進四管院課程一甲",
+    "foreverID": "800F00002",
+    "courseName": "企業倫理與永續發展",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "陳喬羚",
+    "position": "E317",
+    "people": "34",
+    "maxpeople": "55",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UW002411,10759.03"
+    ],
+    "note": ""
+  }
+]

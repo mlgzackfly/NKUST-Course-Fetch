@@ -1,1 +1,52 @@
-"[{\"code\":\"1423\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"模具與生產自動化產業碩士專班[\",\"className\":\"進碩春模生產二甲\",\"foreverID\":\"209I10018\",\"courseName\":\"自動化管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"何正得\",\"position\":\"模510\",\"people\":\"14\",\"maxpeople\":\"55\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UE972521,08829.01\"],\"note\":\"\"},{\"code\":\"2330\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"模具與生產自動化產業碩士專班[\",\"className\":\"進碩春模生產二甲\",\"foreverID\":\"209I00001\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"14\",\"maxpeople\":\"55\",\"time\":\"(日)A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UE972521,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1423",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "模具與生產自動化產業碩士專班[",
+    "className": "進碩春模生產二甲",
+    "foreverID": "209I10018",
+    "courseName": "自動化管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "何正得",
+    "position": "模510",
+    "people": "14",
+    "maxpeople": "55",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UE972521,08829.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2330",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "模具與生產自動化產業碩士專班[",
+    "className": "進碩春模生產二甲",
+    "foreverID": "209I00001",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "14",
+    "maxpeople": "55",
+    "time": "(日)A",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UE972521,03649.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0016",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電子工程系碩士班",
+    "className": "碩子二甲",
+    "foreverID": "222B00237",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "邱建良",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE201721,05010.01"
+    ],
+    "note": "不開放選課，由系辦掛課。"
+  },
+  {
+    "code": "0133",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電子工程系碩士班",
+    "className": "碩子二甲",
+    "foreverID": "222B00297",
+    "courseName": "專題研討(三)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "邱建良",
+    "position": "資809",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "(一)3-4,5-6(二)3-4,5-6(三)3-4,5-6(四)3-4,5-6(五)3-4,5-6(六)3-4,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE201721,01681.01"
+    ],
+    "note": "補差額開班，不開放選課。課程共36小時。"
+  }
+]

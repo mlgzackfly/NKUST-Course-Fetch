@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0024",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三甲",
+    "foreverID": "102C10119",
+    "courseName": "營建工程暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "廖婉茹,張簡嘉賞,李振榮,林彥宇,林錦隆,翁佳樑,范嘉程,郭耕杖,陳懿佐",
+    "position": "教室未定",
+    "people": "33",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UF011431,F3554.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0024",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三乙",
+    "foreverID": "102C10119",
+    "courseName": "營建工程暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "廖婉茹,張簡嘉賞,李振榮,林彥宇,林錦隆,翁佳樑,范嘉程,郭耕杖,陳懿佐",
+    "position": "教室未定",
+    "people": "33",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UF011431,F3554.01"
+    ],
+    "note": ""
+  }
+]

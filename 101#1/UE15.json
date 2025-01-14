@@ -1,1 +1,102 @@
-"[{\"code\":\"0361\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊工程系\",\"className\":\"碩專資訊工程一甲\",\"foreverID\":\"221H00004\",\"courseName\":\"專題研討(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"張雲龍\",\"position\":\"南101\",\"people\":\"14\",\"maxpeople\":\"55\",\"time\":\"(二)11-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UE152711,01676.01\"],\"note\":\"\"},{\"code\":\"0362\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊工程系\",\"className\":\"碩專資訊工程一甲\",\"foreverID\":\"221H10006\",\"courseName\":\"生物計算\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"楊孟翰\",\"position\":\"南103\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(四)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UE152711,05448.01\"],\"note\":\"\"},{\"code\":\"0363\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊工程系\",\"className\":\"碩專資訊工程一甲\",\"foreverID\":\"221H10044\",\"courseName\":\"生物資訊學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"鐘文鈺\",\"position\":\"南103\",\"people\":\"8\",\"maxpeople\":\"55\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UE152711,06459.01\"],\"note\":\"\"},{\"code\":\"0364\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊工程系\",\"className\":\"碩專資訊工程一甲\",\"foreverID\":\"221H10050\",\"courseName\":\"高等資料庫\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"張雲龍\",\"position\":\"南101\",\"people\":\"14\",\"maxpeople\":\"55\",\"time\":\"(一)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"UE152711,06887.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0361",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊工程系",
+    "className": "碩專資訊工程一甲",
+    "foreverID": "221H00004",
+    "courseName": "專題研討(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張雲龍",
+    "position": "南101",
+    "people": "14",
+    "maxpeople": "55",
+    "time": "(二)11-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UE152711,01676.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0362",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊工程系",
+    "className": "碩專資訊工程一甲",
+    "foreverID": "221H10006",
+    "courseName": "生物計算",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊孟翰",
+    "position": "南103",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(四)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UE152711,05448.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0363",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊工程系",
+    "className": "碩專資訊工程一甲",
+    "foreverID": "221H10044",
+    "courseName": "生物資訊學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "鐘文鈺",
+    "position": "南103",
+    "people": "8",
+    "maxpeople": "55",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UE152711,06459.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0364",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊工程系",
+    "className": "碩專資訊工程一甲",
+    "foreverID": "221H10050",
+    "courseName": "高等資料庫",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張雲龍",
+    "position": "南101",
+    "people": "14",
+    "maxpeople": "55",
+    "time": "(一)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "UE152711,06887.01"
+    ],
+    "note": ""
+  }
+]

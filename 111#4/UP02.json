@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0081",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系四甲",
+    "foreverID": "154C10201",
+    "courseName": "風險管理與保險暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "洪敏三,周百隆,林兆欣,陳青浩",
+    "position": "",
+    "people": "21",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP021441,11571.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0204",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "風險管理與保險系",
+    "className": "風管系四甲",
+    "foreverID": "154C00048",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "郭訓志",
+    "position": "C363",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "(二)2-4,5-7(三)2-4,5-7(四)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UP021441,02223.01"
+    ],
+    "note": "1.補差額開班，不對外開放選課。\n2.7/11-7/27共三週。"
+  }
+]

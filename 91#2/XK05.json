@@ -1,0 +1,77 @@
+[
+  {
+    "code": "1951",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10555",
+    "courseName": "服務業管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "91",
+      "2",
+      "XK051411,00937.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1952",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10410",
+    "courseName": "建築開發實務",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "91",
+      "2",
+      "XK051411,F1623.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1953",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10594",
+    "courseName": "感測元件",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "91",
+      "2",
+      "XK051411,02227.01"
+    ],
+    "note": ""
+  }
+]

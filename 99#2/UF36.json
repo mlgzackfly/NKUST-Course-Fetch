@@ -1,1 +1,127 @@
-"[{\"code\":\"1179\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班一甲\",\"foreverID\":\"128B00004\",\"courseName\":\"專題討論(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 梁財春\",\"position\":\"F131\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\" (四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UF361711,01684.01\"],\"note\":\"\"},{\"code\":\"1180\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班一甲\",\"foreverID\":\"128B10019\",\"courseName\":\"化合物半導體薄膜專論\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 高宗達\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\" (二)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UF361711,F4571.01\"],\"note\":\"\"},{\"code\":\"1182\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班一甲\",\"foreverID\":\"128B10021\",\"courseName\":\"光電實驗\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 葉蕙溱\",\"position\":\"F131\",\"people\":\"0\",\"maxpeople\":\"8\",\"time\":\" (五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UF361711,F0166.01\"],\"note\":\"\"},{\"code\":\"1183\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班二甲\",\"foreverID\":\"128B00007\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 賴富德\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UF361721,05010.01\"],\"note\":\"\"},{\"code\":\"2345\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班二甲\",\"foreverID\":\"128B10009\",\"courseName\":\"專題討論(四)\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 高宗達\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\" (四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"2\",\"UF361721,01686.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1179",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電碩士班",
+    "className": "光電碩士班一甲",
+    "foreverID": "128B00004",
+    "courseName": "專題討論(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "梁財春",
+    "position": "F131",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(四)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UF361711,01684.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1180",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電碩士班",
+    "className": "光電碩士班一甲",
+    "foreverID": "128B10019",
+    "courseName": "化合物半導體薄膜專論",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "(二)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UF361711,F4571.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1182",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電碩士班",
+    "className": "光電碩士班一甲",
+    "foreverID": "128B10021",
+    "courseName": "光電實驗",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "葉蕙溱",
+    "position": "F131",
+    "people": "0",
+    "maxpeople": "8",
+    "time": "(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UF361711,F0166.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1183",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電碩士班",
+    "className": "光電碩士班二甲",
+    "foreverID": "128B00007",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "賴富德",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UF361721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2345",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電碩士班",
+    "className": "光電碩士班二甲",
+    "foreverID": "128B10009",
+    "courseName": "專題討論(四)",
+    "hours": "0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "(四)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "2",
+      "UF361721,01686.01"
+    ],
+    "note": ""
+  }
+]

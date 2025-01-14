@@ -1,1 +1,77 @@
-"[{\"code\":\"1417\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10140\",\"courseName\":\"系統分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"徐賢斌\",\"position\":\"10206教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"GF031400,00867.01\"],\"note\":\"修讀資格請參閱學程修讀辦法\"},{\"code\":\"1418\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10157\",\"courseName\":\"電子商務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林義屏\",\"position\":\"2508教室\",\"people\":\"59\",\"maxpeople\":\"60\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"GF031400,02437.01\"],\"note\":\"修讀資格請參閱學程修讀辦法\"},{\"code\":\"1419\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"電子商務學程\",\"className\":\"日電子商務學程\",\"foreverID\":\"350C10154\",\"courseName\":\"網頁設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"徐賢斌\",\"position\":\"10206教室\",\"people\":\"15\",\"maxpeople\":\"60\",\"time\":\"(五)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"GF031400,02784.01\"],\"note\":\"修讀資格請參閱學程修讀辦法\"}]"
+[
+  {
+    "code": "1417",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10140",
+    "courseName": "系統分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐賢斌",
+    "position": "10206教室",
+    "people": "18",
+    "maxpeople": "60",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "GF031400,00867.01"
+    ],
+    "note": "修讀資格請參閱學程修讀辦法"
+  },
+  {
+    "code": "1418",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10157",
+    "courseName": "電子商務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林義屏",
+    "position": "2508教室",
+    "people": "59",
+    "maxpeople": "60",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "GF031400,02437.01"
+    ],
+    "note": "修讀資格請參閱學程修讀辦法"
+  },
+  {
+    "code": "1419",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "電子商務學程",
+    "className": "日電子商務學程",
+    "foreverID": "350C10154",
+    "courseName": "網頁設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐賢斌",
+    "position": "10206教室",
+    "people": "15",
+    "maxpeople": "60",
+    "time": "(五)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "GF031400,02784.01"
+    ],
+    "note": "修讀資格請參閱學程修讀辦法"
+  }
+]

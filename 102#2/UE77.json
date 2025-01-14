@@ -1,1 +1,27 @@
-"[{\"code\":\"2350\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士秋季班\",\"unt\":\"工業工程與創新管理產業碩士專班\",\"className\":\"工創管產碩秋二甲\",\"foreverID\":\"203I00001\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"(日)1-4,5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"2\",\"UE772621,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2350",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士秋季班",
+    "unt": "工業工程與創新管理產業碩士專班",
+    "className": "工創管產碩秋二甲",
+    "foreverID": "203I00001",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "(日)1-4,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "2",
+      "UE772621,03649.01"
+    ],
+    "note": ""
+  }
+]

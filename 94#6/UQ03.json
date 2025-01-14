@@ -1,1 +1,52 @@
-"[{\"code\":\"0065\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二技\",\"unt\":\"電訊工程系\",\"className\":\"進二技電訊一\",\"foreverID\":\"323F00117\",\"courseName\":\"電磁學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"6\",\"UQ032310,02629.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0065",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二技",
+    "unt": "電訊工程系",
+    "className": "進二技電訊一",
+    "foreverID": "323F00117",
+    "courseName": "電磁學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "6",
+      "UQ032310,02629.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0066",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二技",
+    "unt": "電訊工程系",
+    "className": "進二技電訊三甲",
+    "foreverID": "",
+    "courseName": "",
+    "hours": "0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "6",
+      "UQ032330,.01"
+    ],
+    "note": ""
+  }
+]

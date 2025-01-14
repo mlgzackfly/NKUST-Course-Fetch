@@ -1,0 +1,102 @@
+[
+  {
+    "code": "2050",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10498",
+    "courseName": "微奈米流體技術",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "2",
+      "XK051411,F2650.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2051",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10559",
+    "courseName": "彈性力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "2",
+      "XK051411,02899.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2052",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10569",
+    "courseName": "表面處理技術",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "2",
+      "XK051411,F2053.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2053",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10534",
+    "courseName": "薄膜工程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "92",
+      "2",
+      "XK051411,F0535.01"
+    ],
+    "note": ""
+  }
+]

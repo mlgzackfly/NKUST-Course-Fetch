@@ -1,1 +1,52 @@
-"[{\"code\":\"6097\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"軍訓\",\"className\":\"四軍一甲(楠梓)\",\"foreverID\":\"060C10010\",\"courseName\":\"全民國防教育軍事訓練課程-國防政策\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"邱顯達\",\"position\":\"10307階梯教室\",\"people\":\"47\",\"maxpeople\":\"70\",\"time\":\" (三)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"XM001413,08365.02\"],\"note\":\"\"},{\"code\":\"6098\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"軍訓\",\"className\":\"四軍一甲(楠梓)\",\"foreverID\":\"060C10007\",\"courseName\":\"全民國防教育軍事訓練課程-全民國防\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"李文豪\",\"position\":\"10307階梯教室\",\"people\":\"67\",\"maxpeople\":\"70\",\"time\":\"(三)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"1\",\"XM001413,08367.02\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6097",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "軍訓",
+    "className": "四軍一甲(楠梓)",
+    "foreverID": "060C10010",
+    "courseName": "全民國防教育軍事訓練課程-國防政策",
+    "hours": "0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "邱顯達",
+    "position": "10307階梯教室",
+    "people": "47",
+    "maxpeople": "70",
+    "time": "(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "XM001413,08365.02"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6098",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "軍訓",
+    "className": "四軍一甲(楠梓)",
+    "foreverID": "060C10007",
+    "courseName": "全民國防教育軍事訓練課程-全民國防",
+    "hours": "0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李文豪",
+    "position": "10307階梯教室",
+    "people": "67",
+    "maxpeople": "70",
+    "time": "(三)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "1",
+      "XM001413,08367.02"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"0023\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"造船工程系\",\"className\":\"進四技造船一年級\",\"foreverID\":\"326F00087\",\"courseName\":\"造船原理(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"余盛富\",\"position\":\"5109教室\",\"people\":\"23\",\"maxpeople\":\"60\",\"time\":\"(二)1-3(四)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UQ052411,A4760.01\"],\"note\":\"\"},{\"code\":\"0023\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"造船工程系\",\"className\":\"進四技造船一年級\",\"foreverID\":\"326F00087\",\"courseName\":\"造船原理(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"余盛富\",\"position\":\"5109教室\",\"people\":\"23\",\"maxpeople\":\"60\",\"time\":\"(二)1-3(四)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UQ052411,A4760.01\"],\"note\":\"\"},{\"code\":\"0052\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"造船工程系\",\"className\":\"進四技造船二\",\"foreverID\":\"326F00096\",\"courseName\":\"熱力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"99\",\"6\",\"UQ052420,03011.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0023",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "造船工程系",
+    "className": "進四技造船一年級",
+    "foreverID": "326F00087",
+    "courseName": "造船原理(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "余盛富",
+    "position": "5109教室",
+    "people": "23",
+    "maxpeople": "60",
+    "time": "(二)1-3(四)1-3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "6",
+      "UQ052411,A4760.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0052",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "造船工程系",
+    "className": "進四技造船二",
+    "foreverID": "326F00096",
+    "courseName": "熱力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "99",
+      "6",
+      "UQ052420,03011.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"0199\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財務管理系碩士專班[第一]\",\"className\":\"財管碩專班一甲\",\"foreverID\":\"155H10104\",\"courseName\":\"高階經營管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 許文宗\",\"position\":\"C434\",\"people\":\"16\",\"maxpeople\":\"55\",\"time\":\" (六)2-4,5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UP142711,F2301.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0199",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H10104",
+    "courseName": "高階經營管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許文宗",
+    "position": "C434",
+    "people": "16",
+    "maxpeople": "55",
+    "time": "(六)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UP142711,F2301.01"
+    ],
+    "note": ""
+  }
+]

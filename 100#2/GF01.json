@@ -1,1 +1,27 @@
-"[{\"code\":\"1933\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"自動化學程\",\"className\":\"日自動化學程\",\"foreverID\":\"350C10160\",\"courseName\":\"油氣壓學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳紹榮\",\"position\":\"5103教室\",\"people\":\"47\",\"maxpeople\":\"60\",\"time\":\"(一)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"GF011400,09859.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1933",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "自動化學程",
+    "className": "日自動化學程",
+    "foreverID": "350C10160",
+    "courseName": "油氣壓學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳紹榮",
+    "position": "5103教室",
+    "people": "47",
+    "maxpeople": "60",
+    "time": "(一)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "GF011400,09859.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0001",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "創新設計學院",
+    "className": "創新學院一甲",
+    "foreverID": "901C10001",
+    "courseName": "品牌設計微學分",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "林偉杰",
+    "position": "HS418",
+    "people": "29",
+    "maxpeople": "50",
+    "time": "(一)4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UA001411,13518.01"
+    ],
+    "note": ""
+  }
+]

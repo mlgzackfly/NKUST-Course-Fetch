@@ -1,1 +1,52 @@
-"[{\"code\":\"1367\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機國際證照學程\",\"className\":\"四技輪機國際證照\",\"foreverID\":\"350C10100\",\"courseName\":\"人員安全與社會責任\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"俞惠麟\",\"position\":\"旗津202教室\",\"people\":\"60\",\"maxpeople\":\"60\",\"time\":\"(五)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"GF131400,A9892.01\"],\"note\":\"\"},{\"code\":\"1368\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機國際證照學程\",\"className\":\"四技輪機國際證照\",\"foreverID\":\"350C10006\",\"courseName\":\"救生艇筏及救難艇操縱\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"楊春陵\",\"position\":\"旗津202教室\",\"people\":\"59\",\"maxpeople\":\"60\",\"time\":\"(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"GF131400,B0285.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1367",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機國際證照學程",
+    "className": "四技輪機國際證照",
+    "foreverID": "350C10100",
+    "courseName": "人員安全與社會責任",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "俞惠麟",
+    "position": "旗津202教室",
+    "people": "60",
+    "maxpeople": "60",
+    "time": "(五)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "GF131400,A9892.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1368",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機國際證照學程",
+    "className": "四技輪機國際證照",
+    "foreverID": "350C10006",
+    "courseName": "救生艇筏及救難艇操縱",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "楊春陵",
+    "position": "旗津202教室",
+    "people": "59",
+    "maxpeople": "60",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "GF131400,B0285.01"
+    ],
+    "note": ""
+  }
+]

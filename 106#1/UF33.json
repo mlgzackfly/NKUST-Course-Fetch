@@ -1,1 +1,127 @@
-"[{\"code\":\"6572\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系[產攜第一]\",\"className\":\"產攜機電班二丁\",\"foreverID\":\"195C00006\",\"courseName\":\"電路學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 薛博文\",\"position\":\"B115\",\"people\":\"50\",\"maxpeople\":\"50\",\"time\":\" (五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF331424,02622.01\"],\"note\":\"\"},{\"code\":\"6573\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系[產攜第一]\",\"className\":\"產攜機電班二丁\",\"foreverID\":\"195C00019\",\"courseName\":\"精密量測原理與實習\",\"hours\":\"3.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\" 郭文正\",\"position\":\"E205\",\"people\":\"50\",\"maxpeople\":\"50\",\"time\":\" (三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF331424,F4237.01\"],\"note\":\"\"},{\"code\":\"6574\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系[產攜第一]\",\"className\":\"產攜機電班二丁\",\"foreverID\":\"195C00027\",\"courseName\":\"工程力學II\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 孫榮宏\",\"position\":\"B344\",\"people\":\"50\",\"maxpeople\":\"50\",\"time\":\" (五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF331424,F0734.01\"],\"note\":\"\"},{\"code\":\"6575\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系[產攜第一]\",\"className\":\"產攜機電班二丁\",\"foreverID\":\"195C00014\",\"courseName\":\"工程數學I\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 薛博文\",\"position\":\"B116\",\"people\":\"50\",\"maxpeople\":\"50\",\"time\":\" (四)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF331424,F0689.01\"],\"note\":\"\"},{\"code\":\"6576\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"機械與自動化工程系[產攜第一]\",\"className\":\"產攜機電班二丁\",\"foreverID\":\"195C00007\",\"courseName\":\"材料力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 鄭永長\",\"position\":\"B444\",\"people\":\"50\",\"maxpeople\":\"50\",\"time\":\" (二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UF331424,00840.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6572",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械與自動化工程系[產攜第一]",
+    "className": "產攜機電班二丁",
+    "foreverID": "195C00006",
+    "courseName": "電路學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "薛博文",
+    "position": "B115",
+    "people": "50",
+    "maxpeople": "50",
+    "time": "(五)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF331424,02622.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6573",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械與自動化工程系[產攜第一]",
+    "className": "產攜機電班二丁",
+    "foreverID": "195C00019",
+    "courseName": "精密量測原理與實習",
+    "hours": "3.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "郭文正",
+    "position": "E205",
+    "people": "50",
+    "maxpeople": "50",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF331424,F4237.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6574",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械與自動化工程系[產攜第一]",
+    "className": "產攜機電班二丁",
+    "foreverID": "195C00027",
+    "courseName": "工程力學II",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "孫榮宏",
+    "position": "B344",
+    "people": "50",
+    "maxpeople": "50",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF331424,F0734.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6575",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械與自動化工程系[產攜第一]",
+    "className": "產攜機電班二丁",
+    "foreverID": "195C00014",
+    "courseName": "工程數學I",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "薛博文",
+    "position": "B116",
+    "people": "50",
+    "maxpeople": "50",
+    "time": "(四)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF331424,F0689.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6576",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "機械與自動化工程系[產攜第一]",
+    "className": "產攜機電班二丁",
+    "foreverID": "195C00007",
+    "courseName": "材料力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "鄭永長",
+    "position": "B444",
+    "people": "50",
+    "maxpeople": "50",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UF331424,00840.01"
+    ],
+    "note": ""
+  }
+]

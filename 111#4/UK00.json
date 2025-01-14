@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0054",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業教育中心",
+    "className": "創創中心二甲",
+    "foreverID": "030C10001",
+    "courseName": "創客微學分(一)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "龔蒂菀,余志成",
+    "position": "",
+    "people": "23",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UK001421,F2349.01"
+    ],
+    "note": "本課程為國際共同高端設計營(International Capstone Design Camp,ICDC)培育課程。限ICDC學生修讀。"
+  },
+  {
+    "code": "0055",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "創新創業教育中心",
+    "className": "創創中心二甲",
+    "foreverID": "030C10002",
+    "courseName": "創客微學分(二)",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "薛博文,余志成",
+    "position": "",
+    "people": "22",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UK001421,F2350.01"
+    ],
+    "note": "本課程為國際共同高端設計營(International Capstone Design Camp,ICDC)培育課程。限ICDC學生修讀。"
+  }
+]

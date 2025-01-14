@@ -1,1 +1,27 @@
-"[{\"code\":\"1886\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管三\",\"foreverID\":\"\",\"courseName\":\"統計學(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"2\",\"UO062130,01786.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1886",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管三",
+    "foreverID": "",
+    "courseName": "統計學(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "2",
+      "UO062130,01786.01"
+    ],
+    "note": ""
+  }
+]

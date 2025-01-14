@@ -1,1 +1,27 @@
-"[{\"code\":\"W103\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班一甲\",\"foreverID\":\"128B10015\",\"courseName\":\"太陽能電池與半導體製程\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"3\",\"UF361711,F4864.01\"],\"note\":\"\"},{\"code\":\"W103\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班一甲\",\"foreverID\":\"128B10015\",\"courseName\":\"太陽能電池與半導體製程\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"3\",\"UF361711,F4864.01\"],\"note\":\"\"},{\"code\":\"W103\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班一甲\",\"foreverID\":\"128B10015\",\"courseName\":\"太陽能電池與半導體製程\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"3\",\"UF361711,F4864.01\"],\"note\":\"\"},{\"code\":\"W103\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電碩士班\",\"className\":\"光電碩士班一甲\",\"foreverID\":\"128B10015\",\"courseName\":\"太陽能電池與半導體製程\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"3\",\"UF361711,F4864.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "W103",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電碩士班",
+    "className": "光電碩士班一甲",
+    "foreverID": "128B10015",
+    "courseName": "太陽能電池與半導體製程",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "3",
+      "UF361711,F4864.01"
+    ],
+    "note": ""
+  }
+]

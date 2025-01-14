@@ -1,1 +1,52 @@
-"[{\"code\":\"0072\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋生物技術系\",\"className\":\"日四技海生系\",\"foreverID\":\"304C00146\",\"courseName\":\"生物化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"US041400,00562.01\"],\"note\":\"黃楚朋跨嘉南藥理科技大學暑修\"},{\"code\":\"0013\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋生物技術系\",\"className\":\"日四技海生四年級\",\"foreverID\":\"304C00071\",\"courseName\":\"專題討論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"黃胤唐\",\"position\":\"3206教室\",\"people\":\"16\",\"maxpeople\":\"60\",\"time\":\"(一)3-4(二)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"US041440,01682.01\"],\"note\":\"\"},{\"code\":\"0013\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋生物技術系\",\"className\":\"日四技海生四年級\",\"foreverID\":\"304C00071\",\"courseName\":\"專題討論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"黃胤唐\",\"position\":\"3206教室\",\"people\":\"16\",\"maxpeople\":\"60\",\"time\":\"(一)3-4(二)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"US041440,01682.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0072",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋生物技術系",
+    "className": "日四技海生系",
+    "foreverID": "304C00146",
+    "courseName": "生物化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "US041400,00562.01"
+    ],
+    "note": "黃楚朋跨嘉南藥理科技大學暑修"
+  },
+  {
+    "code": "0013",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋生物技術系",
+    "className": "日四技海生四年級",
+    "foreverID": "304C00071",
+    "courseName": "專題討論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "黃胤唐",
+    "position": "3206教室",
+    "people": "16",
+    "maxpeople": "60",
+    "time": "(一)3-4(二)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "US041440,01682.01"
+    ],
+    "note": ""
+  }
+]

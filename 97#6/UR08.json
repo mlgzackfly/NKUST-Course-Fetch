@@ -1,1 +1,102 @@
-"[{\"code\":\"0052\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機工程科\",\"foreverID\":\"313E00315\",\"courseName\":\"英文 (三)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UR081200,A9856.01\"],\"note\":\"931331019暑修申請跨校(正修輔英)選課抵五專二上英文3學分\"},{\"code\":\"0053\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機工程科\",\"foreverID\":\"313E00399\",\"courseName\":\"數學(三)\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UR081200,02956.01\"],\"note\":\"921331013暑修申請跨校(正修)選課抵五專二上數學4學分\"},{\"code\":\"0007\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00299\",\"courseName\":\"船舶自動控制學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"連長華\",\"position\":\"3203教室\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\"(二)1-4(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UR081240,A4270.01\"],\"note\":\"\"},{\"code\":\"0007\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00299\",\"courseName\":\"船舶自動控制學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"連長華\",\"position\":\"3203教室\",\"people\":\"12\",\"maxpeople\":\"60\",\"time\":\"(二)1-4(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UR081240,A4270.01\"],\"note\":\"\"},{\"code\":\"0020\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00268\",\"courseName\":\"蒸汽機\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鍾振弘\",\"position\":\"3203教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(三)1-2(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UR081240,A6560.01\"],\"note\":\"\"},{\"code\":\"0020\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"輪機工程科\",\"className\":\"日五專輪機四\",\"foreverID\":\"313E00268\",\"courseName\":\"蒸汽機\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"鍾振弘\",\"position\":\"3203教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(三)1-2(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UR081240,A6560.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0052",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機工程科",
+    "foreverID": "313E00315",
+    "courseName": "英文 (三)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UR081200,A9856.01"
+    ],
+    "note": "931331019暑修申請跨校(正修輔英)選課抵五專二上英文3學分"
+  },
+  {
+    "code": "0053",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機工程科",
+    "foreverID": "313E00399",
+    "courseName": "數學(三)",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UR081200,02956.01"
+    ],
+    "note": "921331013暑修申請跨校(正修)選課抵五專二上數學4學分"
+  },
+  {
+    "code": "0007",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四",
+    "foreverID": "313E00299",
+    "courseName": "船舶自動控制學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "連長華",
+    "position": "3203教室",
+    "people": "12",
+    "maxpeople": "60",
+    "time": "(二)1-4(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UR081240,A4270.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0020",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "輪機工程科",
+    "className": "日五專輪機四",
+    "foreverID": "313E00268",
+    "courseName": "蒸汽機",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "鍾振弘",
+    "position": "3203教室",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(三)1-2(四)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UR081240,A6560.01"
+    ],
+    "note": ""
+  }
+]

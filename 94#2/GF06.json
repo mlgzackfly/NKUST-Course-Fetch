@@ -1,1 +1,27 @@
-"[{\"code\":\"1243\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用俄文學程\",\"className\":\"日應用俄文學程\",\"foreverID\":\"350C10015\",\"courseName\":\"俄語正音\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"李惠珠\",\"position\":\"5109教室\",\"people\":\"21\",\"maxpeople\":\"60\",\"time\":\"(五)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"GF061400,A9991.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1243",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "應用俄文學程",
+    "className": "日應用俄文學程",
+    "foreverID": "350C10015",
+    "courseName": "俄語正音",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李惠珠",
+    "position": "5109教室",
+    "people": "21",
+    "maxpeople": "60",
+    "time": "(五)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "GF061400,A9991.01"
+    ],
+    "note": ""
+  }
+]

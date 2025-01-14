@@ -1,1 +1,52 @@
-"[{\"code\":\"1525\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"船舶科技實務學程\",\"className\":\"船舶科技實務學程\",\"foreverID\":\"350C10173\",\"courseName\":\"高速艇設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"扶正\",\"position\":\"6108教室\",\"people\":\"66\",\"maxpeople\":\"60\",\"time\":\"(三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"GF111400,A3635.01\"],\"note\":\"\"},{\"code\":\"1526\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"船舶科技實務學程\",\"className\":\"船舶科技實務學程\",\"foreverID\":\"350C10037\",\"courseName\":\"輪機檢驗\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"黃嘉燦\",\"position\":\"5203教室\",\"people\":\"24\",\"maxpeople\":\"60\",\"time\":\"(五)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"GF111400,A7070.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1525",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "船舶科技實務學程",
+    "className": "船舶科技實務學程",
+    "foreverID": "350C10173",
+    "courseName": "高速艇設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "扶正",
+    "position": "6108教室",
+    "people": "66",
+    "maxpeople": "60",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "GF111400,A3635.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1526",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "船舶科技實務學程",
+    "className": "船舶科技實務學程",
+    "foreverID": "350C10037",
+    "courseName": "輪機檢驗",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "黃嘉燦",
+    "position": "5203教室",
+    "people": "24",
+    "maxpeople": "60",
+    "time": "(五)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "GF111400,A7070.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"0080\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技系\",\"foreverID\":\"312C00218\",\"courseName\":\"中文(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(一)3-4,7-8(二)3-4,7-8(三)3-4,7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UR011400,B2566.01\"],\"note\":\"\"},{\"code\":\"0080\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技系\",\"foreverID\":\"312C00218\",\"courseName\":\"中文(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(一)3-4,7-8(二)3-4,7-8(三)3-4,7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UR011400,B2566.01\"],\"note\":\"\"},{\"code\":\"0080\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技系\",\"foreverID\":\"312C00218\",\"courseName\":\"中文(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"(一)3-4,7-8(二)3-4,7-8(三)3-4,7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UR011400,B2566.01\"],\"note\":\"\"},{\"code\":\"0061\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技二年級\",\"foreverID\":\"312C00077\",\"courseName\":\"航海英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"王一三\",\"position\":\"10201多功能C教室\",\"people\":\"35\",\"maxpeople\":\"60\",\"time\":\"(三)3-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UR011420,A3510.01\"],\"note\":\"\"},{\"code\":\"0061\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技二年級\",\"foreverID\":\"312C00077\",\"courseName\":\"航海英文\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"王一三\",\"position\":\"10201多功能C教室\",\"people\":\"35\",\"maxpeople\":\"60\",\"time\":\"(三)3-4(四)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UR011420,A3510.01\"],\"note\":\"\"},{\"code\":\"0066\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"航運技術系\",\"className\":\"日四技航技三年級\",\"foreverID\":\"312C00025\",\"courseName\":\"航海英文實作(二)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"茍榮華\",\"position\":\"10202多功能D教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(五)1-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"6\",\"UR011430,B2339.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0080",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運技術系",
+    "className": "日四技航技系",
+    "foreverID": "312C00218",
+    "courseName": "中文(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "(一)3-4,7-8(二)3-4,7-8(三)3-4,7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "6",
+      "UR011400,B2566.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0061",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運技術系",
+    "className": "日四技航技二年級",
+    "foreverID": "312C00077",
+    "courseName": "航海英文",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "王一三",
+    "position": "10201多功能C教室",
+    "people": "35",
+    "maxpeople": "60",
+    "time": "(三)3-4(四)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "6",
+      "UR011420,A3510.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0066",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運技術系",
+    "className": "日四技航技三年級",
+    "foreverID": "312C00025",
+    "courseName": "航海英文實作(二)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "茍榮華",
+    "position": "10202多功能D教室",
+    "people": "18",
+    "maxpeople": "60",
+    "time": "(五)1-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "6",
+      "UR011430,B2339.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,127 @@
-"[{\"code\":\"3513\",\"cmp\":\"旗津校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所一年級\",\"foreverID\":\"312H10043\",\"courseName\":\"國際航運經濟與市場專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"周建張\",\"position\":\"旗402航技專題\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"(六)9-11\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UR062711,3938.01\"],\"note\":\"\"},{\"code\":\"3514\",\"cmp\":\"旗津校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所一年級\",\"foreverID\":\"312H00002\",\"courseName\":\"研究方法與論文寫作\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"許永恩\",\"position\":\"旗402航技專題\",\"people\":\"2\",\"maxpeople\":\"55\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UR062711,B1927.01\"],\"note\":\"\"},{\"code\":\"3515\",\"cmp\":\"旗津校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所二年級\",\"foreverID\":\"312H00003\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"蔡朝祿\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UR062721,05010.01\"],\"note\":\"\"},{\"code\":\"3516\",\"cmp\":\"旗津校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所二年級\",\"foreverID\":\"312H10011\",\"courseName\":\"海事鑑定與仲裁專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡育明\",\"position\":\"旗402航技專題\",\"people\":\"6\",\"maxpeople\":\"55\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UR062721,30155.01\"],\"note\":\"\"},{\"code\":\"3517\",\"cmp\":\"旗津校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所二年級\",\"foreverID\":\"312H10012\",\"courseName\":\"船舶檢查與安全管理實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"徐育彰\",\"position\":\"旗402航技專題\",\"people\":\"6\",\"maxpeople\":\"55\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UR062721,30156.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3513",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10043",
+    "courseName": "國際航運經濟與市場專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "周建張",
+    "position": "旗402航技專題",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "(六)9-11",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UR062711,3938.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3514",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H00002",
+    "courseName": "研究方法與論文寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "許永恩",
+    "position": "旗402航技專題",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UR062711,B1927.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3515",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所二年級",
+    "foreverID": "312H00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "蔡朝祿",
+    "position": "",
+    "people": "2",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UR062721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3516",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所二年級",
+    "foreverID": "312H10011",
+    "courseName": "海事鑑定與仲裁專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡育明",
+    "position": "旗402航技專題",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UR062721,30155.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3517",
+    "cmp": "旗津校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所二年級",
+    "foreverID": "312H10012",
+    "courseName": "船舶檢查與安全管理實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "徐育彰",
+    "position": "旗402航技專題",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UR062721,30156.01"
+    ],
+    "note": ""
+  }
+]

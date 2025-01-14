@@ -1,1 +1,52 @@
-"[{\"code\":\"S102\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"無線寬頻元件及機電系統產研碩士\",\"className\":\"工科無線班一甲\",\"foreverID\":\"175B10007\",\"courseName\":\"元件與電路設計實務特論三\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UF171711,F5030.01\"],\"note\":\"\"},{\"code\":\"S102\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"無線寬頻元件及機電系統產研碩士\",\"className\":\"工科無線班一甲\",\"foreverID\":\"175B10007\",\"courseName\":\"元件與電路設計實務特論三\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UF171711,F5030.01\"],\"note\":\"\"},{\"code\":\"S103\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"無線寬頻元件及機電系統產研碩士\",\"className\":\"工科無線班一甲\",\"foreverID\":\"175B10004\",\"courseName\":\"機電系統實務特論三\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"2\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UF171711,F4156.01\"],\"note\":\"\"},{\"code\":\"S103\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"無線寬頻元件及機電系統產研碩士\",\"className\":\"工科無線班一甲\",\"foreverID\":\"175B10004\",\"courseName\":\"機電系統實務特論三\",\"hours\":\"1.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"2\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UF171711,F4156.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S102",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "無線寬頻元件及機電系統產研碩士",
+    "className": "工科無線班一甲",
+    "foreverID": "175B10007",
+    "courseName": "元件與電路設計實務特論三",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UF171711,F5030.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S103",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "無線寬頻元件及機電系統產研碩士",
+    "className": "工科無線班一甲",
+    "foreverID": "175B10004",
+    "courseName": "機電系統實務特論三",
+    "hours": "1.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "2",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UF171711,F4156.01"
+    ],
+    "note": ""
+  }
+]

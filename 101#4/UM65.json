@@ -1,1 +1,27 @@
-"[{\"code\":\"0073\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"財富與稅務管理系[建工/燕巢校區]\",\"className\":\"四財管\",\"foreverID\":\"237C10242\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"李彗綾,柯伯昇\",\"position\":\"MA206\",\"people\":\"16\",\"maxpeople\":\"55\",\"time\":\"(四)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UM651400,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0073",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "財富與稅務管理系[建工/燕巢校區]",
+    "className": "四財管",
+    "foreverID": "237C10242",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李彗綾,柯伯昇",
+    "position": "MA206",
+    "people": "16",
+    "maxpeople": "55",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UM651400,04138.01"
+    ],
+    "note": ""
+  }
+]

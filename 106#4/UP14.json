@@ -1,1 +1,27 @@
-"[{\"code\":\"S130\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財務管理系碩士專班[第一]\",\"className\":\"財管碩專班一甲\",\"foreverID\":\"155H10093\",\"courseName\":\"個人理財\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UP142711,04341.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S130",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班一甲",
+    "foreverID": "155H10093",
+    "courseName": "個人理財",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UP142711,04341.01"
+    ],
+    "note": ""
+  }
+]

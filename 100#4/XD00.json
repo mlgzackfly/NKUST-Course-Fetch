@@ -1,1 +1,27 @@
-"[{\"code\":\"S172\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"通識教育中心[第一校區]\",\"className\":\"通識中心三甲\",\"foreverID\":\"010C11373\",\"courseName\":\"文創發展實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"XD001431,F1697.01\"],\"note\":\"\"},{\"code\":\"S172\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"通識教育中心[第一校區]\",\"className\":\"通識中心三甲\",\"foreverID\":\"010C11373\",\"courseName\":\"文創發展實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"XD001431,F1697.01\"],\"note\":\"\"},{\"code\":\"S172\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"通識教育中心[第一校區]\",\"className\":\"通識中心三甲\",\"foreverID\":\"010C11373\",\"courseName\":\"文創發展實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"XD001431,F1697.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S172",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "通識教育中心[第一校區]",
+    "className": "通識中心三甲",
+    "foreverID": "010C11373",
+    "courseName": "文創發展實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "XD001431,F1697.01"
+    ],
+    "note": ""
+  }
+]

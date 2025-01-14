@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0125",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "四化材四甲",
+    "foreverID": "208C10261",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳永忠",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE161441,09635.01"
+    ],
+    "note": "不開放選課，由系辦人工加選。"
+  },
+  {
+    "code": "0174",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "四化材四甲",
+    "foreverID": "208C00123",
+    "courseName": "輸送現象與單元操作(三)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "潘俊仁",
+    "position": "育301",
+    "people": "8",
+    "maxpeople": "0",
+    "time": "(一)5-8(二)5-7(五)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE161441,03934.01"
+    ],
+    "note": "補差額課程，不開放選課，暫設定關課。"
+  }
+]

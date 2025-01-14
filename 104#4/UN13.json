@@ -1,1 +1,27 @@
-"[{\"code\":\"S142\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"資訊管理系碩士專班[第一]\",\"className\":\"資管碩專班二甲\",\"foreverID\":\"138H00018\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UN132721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S142",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "資訊管理系碩士專班[第一]",
+    "className": "資管碩專班二甲",
+    "foreverID": "138H00018",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UN132721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,127 @@
-"[{\"code\":\"5391\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10015\",\"courseName\":\"薄膜光學設計與薄膜技術\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 賴富德\",\"position\":\"F131\",\"people\":\"5\",\"maxpeople\":\"8\",\"time\":\" (三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UD012711,F4933.01\"],\"note\":\"\"},{\"code\":\"5392\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10021\",\"courseName\":\"程式設計與演算法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 黃勤鎰\",\"position\":\"F107\",\"people\":\"8\",\"maxpeople\":\"8\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UD012711,F3614.01\"],\"note\":\"\"},{\"code\":\"5394\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10038\",\"courseName\":\"電機控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 杜國洋\",\"position\":\"F209\",\"people\":\"11\",\"maxpeople\":\"11\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UD012711,F0657.01\"],\"note\":\"\"},{\"code\":\"6445\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10036\",\"courseName\":\"表面與接面分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 高宗達\",\"position\":\"F209\",\"people\":\"14\",\"maxpeople\":\"14\",\"time\":\" (五)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UD012711,F2956.01\"],\"note\":\"\"},{\"code\":\"5395\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班二甲\",\"foreverID\":\"121H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 高宗達\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UD012721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5391",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10015",
+    "courseName": "薄膜光學設計與薄膜技術",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "賴富德",
+    "position": "F131",
+    "people": "5",
+    "maxpeople": "8",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UD012711,F4933.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5392",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10021",
+    "courseName": "程式設計與演算法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃勤鎰",
+    "position": "F107",
+    "people": "8",
+    "maxpeople": "8",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UD012711,F3614.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5394",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10038",
+    "courseName": "電機控制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜國洋",
+    "position": "F209",
+    "people": "11",
+    "maxpeople": "11",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UD012711,F0657.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6445",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10036",
+    "courseName": "表面與接面分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "高宗達",
+    "position": "F209",
+    "people": "14",
+    "maxpeople": "14",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UD012711,F2956.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5395",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班二甲",
+    "foreverID": "121H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UD012721,05010.01"
+    ],
+    "note": ""
+  }
+]

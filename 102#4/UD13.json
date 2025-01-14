@@ -1,1 +1,27 @@
-"[{\"code\":\"S106\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電腦與通訊工程系碩士班\",\"className\":\"電通碩士班一甲\",\"foreverID\":\"122B10066\",\"courseName\":\"產業實習專題\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"4\",\"UD131711,F1887.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S106",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電腦與通訊工程系碩士班",
+    "className": "電通碩士班一甲",
+    "foreverID": "122B10066",
+    "courseName": "產業實習專題",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "4",
+      "UD131711,F1887.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,102 @@
-"[{\"code\":\"5280\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班一甲\",\"foreverID\":\"157H00003\",\"courseName\":\"會計專題研討(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 林英星,蘇永盛,陳育仁\",\"position\":\"E108\",\"people\":\"5\",\"maxpeople\":\"10\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UP182711,F3169.01\"],\"note\":\"\"},{\"code\":\"5281\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班一甲\",\"foreverID\":\"157H00021\",\"courseName\":\"研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 王泓達,羅玉婷,趙雅儀\",\"position\":\"E113\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\" (六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UP182711,01135.01\"],\"note\":\"\"},{\"code\":\"5282\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班二甲\",\"foreverID\":\"157H00002\",\"courseName\":\"會計專題研討(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 封昌宏,鄭進興\",\"position\":\"E108\",\"people\":\"6\",\"maxpeople\":\"10\",\"time\":\" (六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UP182721,F3170.01\"],\"note\":\"\"},{\"code\":\"6457\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班二甲\",\"foreverID\":\"157H00004\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 林靜香\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UP182721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5280",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班一甲",
+    "foreverID": "157H00003",
+    "courseName": "會計專題研討(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "林英星,蘇永盛,陳育仁",
+    "position": "E108",
+    "people": "5",
+    "maxpeople": "10",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UP182711,F3169.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5281",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班一甲",
+    "foreverID": "157H00021",
+    "courseName": "研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "王泓達,羅玉婷,趙雅儀",
+    "position": "E113",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UP182711,01135.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5282",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班二甲",
+    "foreverID": "157H00002",
+    "courseName": "會計專題研討(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "封昌宏,鄭進興",
+    "position": "E108",
+    "people": "6",
+    "maxpeople": "10",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UP182721,F3170.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6457",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班二甲",
+    "foreverID": "157H00004",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "林靜香",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UP182721,05010.01"
+    ],
+    "note": ""
+  }
+]

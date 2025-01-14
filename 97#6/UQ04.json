@@ -1,1 +1,52 @@
-"[{\"code\":\"0068\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋環境工程系\",\"className\":\"日四技海環系\",\"foreverID\":\"322C00134\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ041400,02224.01\"],\"note\":\"陳秋良及吳晶平跨正修科技大學暑修\"},{\"code\":\"0077\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋環境工程系\",\"className\":\"日四技海環系\",\"foreverID\":\"322C00110\",\"courseName\":\"中國文學欣賞\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"6\",\"UQ041400,00366.01\"],\"note\":\"劉仲軒.李威宏跨中國科技大學暑修\"}]"
+[
+  {
+    "code": "0068",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋環境工程系",
+    "className": "日四技海環系",
+    "foreverID": "322C00134",
+    "courseName": "微積分(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UQ041400,02224.01"
+    ],
+    "note": "陳秋良及吳晶平跨正修科技大學暑修"
+  },
+  {
+    "code": "0077",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋環境工程系",
+    "className": "日四技海環系",
+    "foreverID": "322C00110",
+    "courseName": "中國文學欣賞",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "6",
+      "UQ041400,00366.01"
+    ],
+    "note": "劉仲軒.李威宏跨中國科技大學暑修"
+  }
+]

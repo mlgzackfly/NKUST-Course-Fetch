@@ -1,1 +1,27 @@
-"[{\"code\":\"S123\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00067\",\"courseName\":\"微積分(一)\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UD031411,02223.01\"],\"note\":\"\"},{\"code\":\"S123\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00067\",\"courseName\":\"微積分(一)\",\"hours\":\"4.0\",\"units\":\"4.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UD031411,02223.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S123",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00067",
+    "courseName": "微積分(一)",
+    "hours": "4.0",
+    "units": "4.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UD031411,02223.01"
+    ],
+    "note": ""
+  }
+]

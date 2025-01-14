@@ -1,1 +1,27 @@
-"[{\"code\":\"S107\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"電子與資訊工程研究所\",\"className\":\"電資碩士班二甲\",\"foreverID\":\"127B10012\",\"courseName\":\"校外產業實務\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"35\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UD191721,F1782.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S107",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電子與資訊工程研究所",
+    "className": "電資碩士班二甲",
+    "foreverID": "127B10012",
+    "courseName": "校外產業實務",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "35",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UD191721,F1782.01"
+    ],
+    "note": ""
+  }
+]

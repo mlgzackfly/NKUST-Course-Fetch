@@ -1,1 +1,77 @@
-"[{\"code\":\"6155\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一甲\",\"foreverID\":\"120C00001\",\"courseName\":\"工程實作實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 彭康峻\",\"position\":\" (五)F223,(五)B506\",\"people\":\"55\",\"maxpeople\":\"100\",\"time\":\" (五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UI991411,F1592.01\"],\"note\":\"\"},{\"code\":\"6157\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程一乙\",\"foreverID\":\"120C00001\",\"courseName\":\"工程實作實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 張簡嘉壬\",\"position\":\"F225\",\"people\":\"35\",\"maxpeople\":\"100\",\"time\":\" (五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UI991412,F1592.01\"],\"note\":\"\"},{\"code\":\"6158\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程三甲\",\"foreverID\":\"010C11542\",\"courseName\":\"產品開發與創業\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"B345\",\"people\":\"61\",\"maxpeople\":\"61\",\"time\":\" (五)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UI991431,F2841.01\"],\"note\":\"\"},{\"code\":\"6159\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程三甲\",\"foreverID\":\"120C10006\",\"courseName\":\"智慧科技應用專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 徐偉智,李國維\",\"position\":\"B342\",\"people\":\"15\",\"maxpeople\":\"100\",\"time\":\" (五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UI991431,F3503.01\"],\"note\":\"\"},{\"code\":\"6160\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電資院課程[第一]\",\"className\":\"電資院課程四甲\",\"foreverID\":\"120C10008\",\"courseName\":\"車用電子應用及實務\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 許耀文\",\"position\":\"B504\",\"people\":\"51\",\"maxpeople\":\"100\",\"time\":\" (五)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"UI991441,F4309.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6558",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一甲",
+    "foreverID": "120B10004",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "高宗達",
+    "position": "教室未定",
+    "people": "48",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UI991711,09654.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6559",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一乙",
+    "foreverID": "120B10004",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "吳大鈞",
+    "position": "教室未定",
+    "people": "148",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UI991712,09654.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6560",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "電資院課程[第一]",
+    "className": "電資院課程一丙",
+    "foreverID": "120B10004",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "張簡嘉壬",
+    "position": "教室未定",
+    "people": "42",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "UI991713,09654.01"
+    ],
+    "note": ""
+  }
+]

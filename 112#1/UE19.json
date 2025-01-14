@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0555",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10080",
+    "courseName": "最佳化方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇科翰",
+    "position": "F107",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UE191811,07425.02"
+    ],
+    "note": "上課地點: 第一校區"
+  },
+  {
+    "code": "0558",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10130",
+    "courseName": "進階人工智慧",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "包傑奇",
+    "position": "F208",
+    "people": "8",
+    "maxpeople": "55",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UE191811,33336.01"
+    ],
+    "note": "上課地點:第一校區"
+  },
+  {
+    "code": "0559",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10133",
+    "courseName": "模糊系統理論與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇科翰",
+    "position": "F107",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UE191811,33338.01"
+    ],
+    "note": "上課地點:第一校區"
+  },
+  {
+    "code": "0560",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "電機工程系博士班",
+    "className": "博電一甲",
+    "foreverID": "227A10131",
+    "courseName": "高等機器人學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜國洋",
+    "position": "F107",
+    "people": "7",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "1",
+      "UE191811,33343.02"
+    ],
+    "note": "上課地點:第一校區"
+  }
+]

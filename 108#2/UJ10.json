@@ -1,1 +1,127 @@
-"[{\"code\":\"1937\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應用德語系碩士班\",\"className\":\"應德碩士班一甲\",\"foreverID\":\"164B10097\",\"courseName\":\"科技德文翻譯\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"柏台德\",\"position\":\"D301\",\"people\":\"3\",\"maxpeople\":\"10\",\"time\":\" (四)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UJ101711,F1920.01\"],\"note\":\"\"},{\"code\":\"1939\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應用德語系碩士班\",\"className\":\"應德碩士班二甲\",\"foreverID\":\"164B00026\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"謝淑媚\",\"position\":\"教室未定\",\"people\":\"4\",\"maxpeople\":\"10\",\"time\":\" (三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UJ101721,05010.01\"],\"note\":\"\"},{\"code\":\"1940\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應用德語系碩士班\",\"className\":\"應德碩士班二甲\",\"foreverID\":\"164B10073\",\"courseName\":\"翻譯實作Ⅱ\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"翁幸瑜\",\"position\":\"D302\",\"people\":\"6\",\"maxpeople\":\"10\",\"time\":\" (三)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UJ101721,F1039.01\"],\"note\":\"\"},{\"code\":\"1941\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應用德語系碩士班\",\"className\":\"應德碩士班二甲\",\"foreverID\":\"164B10085\",\"courseName\":\"經貿德文翻譯\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"余淑雲\",\"position\":\"D302\",\"people\":\"5\",\"maxpeople\":\"10\",\"time\":\" (五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UJ101721,F1992.01\"],\"note\":\"\"},{\"code\":\"1942\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"應用德語系碩士班\",\"className\":\"應德碩士班二甲\",\"foreverID\":\"164B10091\",\"courseName\":\"電腦輔助翻譯軟體應用\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"柏台德\",\"position\":\"D301\",\"people\":\"6\",\"maxpeople\":\"10\",\"time\":\" (三)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"UJ101721,F4753.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1937",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "應用德語系碩士班",
+    "className": "應德碩士班一甲",
+    "foreverID": "164B10097",
+    "courseName": "科技德文翻譯",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "柏台德",
+    "position": "D301",
+    "people": "3",
+    "maxpeople": "10",
+    "time": "(四)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UJ101711,F1920.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1939",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "應用德語系碩士班",
+    "className": "應德碩士班二甲",
+    "foreverID": "164B00026",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "謝淑媚",
+    "position": "教室未定",
+    "people": "4",
+    "maxpeople": "10",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UJ101721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1940",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "應用德語系碩士班",
+    "className": "應德碩士班二甲",
+    "foreverID": "164B10073",
+    "courseName": "翻譯實作Ⅱ",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "翁幸瑜",
+    "position": "D302",
+    "people": "6",
+    "maxpeople": "10",
+    "time": "(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UJ101721,F1039.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1941",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "應用德語系碩士班",
+    "className": "應德碩士班二甲",
+    "foreverID": "164B10085",
+    "courseName": "經貿德文翻譯",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "余淑雲",
+    "position": "D302",
+    "people": "5",
+    "maxpeople": "10",
+    "time": "(五)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UJ101721,F1992.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1942",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "應用德語系碩士班",
+    "className": "應德碩士班二甲",
+    "foreverID": "164B10091",
+    "courseName": "電腦輔助翻譯軟體應用",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "柏台德",
+    "position": "D301",
+    "people": "6",
+    "maxpeople": "10",
+    "time": "(三)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "UJ101721,F4753.01"
+    ],
+    "note": ""
+  }
+]

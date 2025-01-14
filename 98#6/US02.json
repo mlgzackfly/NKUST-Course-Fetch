@@ -1,1 +1,27 @@
-"[{\"code\":\"0043\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"水產食品科學系\",\"className\":\"進四技水食四\",\"foreverID\":\"302F00114\",\"courseName\":\"英文(一)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"6\",\"US022440,01155.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0043",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "水產食品科學系",
+    "className": "進四技水食四",
+    "foreverID": "302F00114",
+    "courseName": "英文(一)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "6",
+      "US022440,01155.01"
+    ],
+    "note": ""
+  }
+]

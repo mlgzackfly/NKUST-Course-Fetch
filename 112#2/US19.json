@@ -1,0 +1,102 @@
+[
+  {
+    "code": "3747",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "漁業科技與管理系",
+    "className": "碩專漁業科技一甲",
+    "foreverID": "305H00069",
+    "courseName": "專題研討(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "楊宗諭",
+    "position": "317-1研究生教室B",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(六)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "US192711,01680.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3748",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "漁業科技與管理系",
+    "className": "碩專漁業科技一甲",
+    "foreverID": "305H10056",
+    "courseName": "統計軟體應用",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "蔡文沛",
+    "position": "317-1研究生教室B",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(六)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "US192711,03533.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3749",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "漁業科技與管理系",
+    "className": "碩專漁業科技一甲",
+    "foreverID": "305H10051",
+    "courseName": "生物統計特論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "邱萬敦",
+    "position": "317-1研究生教室B",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "US192711,B0677.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3750",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "漁業科技與管理系",
+    "className": "碩專漁業科技一甲",
+    "foreverID": "305H10044",
+    "courseName": "漁場環境特論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "邱萬敦",
+    "position": "317-1研究生教室B",
+    "people": "3",
+    "maxpeople": "55",
+    "time": "(六)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "US192711,B0741.01"
+    ],
+    "note": ""
+  }
+]

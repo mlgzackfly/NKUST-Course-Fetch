@@ -1,1 +1,77 @@
-"[{\"code\":\"3042\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"150C00001\",\"courseName\":\"商業倫理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"黃煒能\",\"position\":\"E110\",\"people\":\"61\",\"maxpeople\":\"60\",\"time\":\"(四)8-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UP251411,F0204.01\"],\"note\":\"\"},{\"code\":\"3043\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"150C00001\",\"courseName\":\"商業倫理\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"趙雅儀\",\"position\":\"E013\",\"people\":\"49\",\"maxpeople\":\"55\",\"time\":\"(三)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UP251411,F0204.02\"],\"note\":\"\"},{\"code\":\"3045\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"財金院課程\",\"className\":\"財金院課程二甲\",\"foreverID\":\"150C10005\",\"courseName\":\"智慧商務導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李國維\",\"position\":\"E309\",\"people\":\"27\",\"maxpeople\":\"60\",\"time\":\"(二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UP251421,F1745.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "3042",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "150C00001",
+    "courseName": "商業倫理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "黃煒能",
+    "position": "E110",
+    "people": "61",
+    "maxpeople": "60",
+    "time": "(四)8-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UP251411,F0204.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3043",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "150C00001",
+    "courseName": "商業倫理",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "趙雅儀",
+    "position": "E013",
+    "people": "49",
+    "maxpeople": "55",
+    "time": "(三)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UP251411,F0204.02"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3045",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "財金院課程",
+    "className": "財金院課程二甲",
+    "foreverID": "150C10005",
+    "courseName": "智慧商務導論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李國維",
+    "position": "E309",
+    "people": "27",
+    "maxpeople": "60",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UP251421,F1745.01"
+    ],
+    "note": ""
+  }
+]

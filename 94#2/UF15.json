@@ -1,1 +1,52 @@
-"[{\"code\":\"1184\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電產業研發碩士專班[第一]\",\"className\":\"光電產研班二甲\",\"foreverID\":\"172B00004\",\"courseName\":\"專題討論（三）\",\"hours\":\"0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"UF151721,F2622.01\"],\"note\":\"\"},{\"code\":\"1185\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"光電產業研發碩士專班[第一]\",\"className\":\"光電產研班二甲\",\"foreverID\":\"172B00006\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"2\",\"UF151721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1184",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電產業研發碩士專班[第一]",
+    "className": "光電產研班二甲",
+    "foreverID": "172B00004",
+    "courseName": "專題討論（三）",
+    "hours": "0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "UF151721,F2622.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1185",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "光電產業研發碩士專班[第一]",
+    "className": "光電產研班二甲",
+    "foreverID": "172B00006",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "2",
+      "UF151721,05010.01"
+    ],
+    "note": ""
+  }
+]

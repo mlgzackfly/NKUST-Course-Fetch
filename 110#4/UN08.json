@@ -1,1 +1,52 @@
-"[{\"code\":\"0055\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通管理系碩士班[第一]\",\"className\":\"行銷碩士班一甲\",\"foreverID\":\"140B00016\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"簡施儀\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UN081711,05010.01\"],\"note\":\"\"},{\"code\":\"0134\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通管理系碩士班[第一]\",\"className\":\"行銷碩士班一甲\",\"foreverID\":\"140B10060\",\"courseName\":\"暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"簡施儀\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UN081711,09635.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0055",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通管理系碩士班[第一]",
+    "className": "行銷碩士班一甲",
+    "foreverID": "140B00016",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "簡施儀",
+    "position": "",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UN081711,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0134",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通管理系碩士班[第一]",
+    "className": "行銷碩士班一甲",
+    "foreverID": "140B10060",
+    "courseName": "暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "簡施儀",
+    "position": "",
+    "people": "2",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UN081711,09635.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"5576\",\"cmp\":\"建工校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(建工)\",\"foreverID\":\"295F00138\",\"courseName\":\"物理(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"2\",\"XK002400,00963.01\"],\"note\":\"正修科大\"}]"
+[
+  {
+    "code": "5576",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班(建工)",
+    "foreverID": "295F00138",
+    "courseName": "物理(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "2",
+      "XK002400,00963.01"
+    ],
+    "note": "正修科大"
+  }
+]

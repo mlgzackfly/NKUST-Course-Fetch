@@ -1,1 +1,52 @@
-"[{\"code\":\"3676\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系外國學生碩士專班\",\"className\":\"財管外國班二甲\",\"foreverID\":\"156B00007\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"黃玉娟\",\"position\":\"\",\"people\":\"23\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UP171721,05010.01\"],\"note\":\"\"},{\"code\":\"3677\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系外國學生碩士專班\",\"className\":\"財管外國班二甲\",\"foreverID\":\"156B00009\",\"courseName\":\"銀行實務實習(一)\",\"hours\":\"9.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"周建新,陳勤明\",\"position\":\"\",\"people\":\"23\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"是\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UP171721,F3235.01\"],\"note\":\"職場實習，不排上課時間\"}]"
+[
+  {
+    "code": "3676",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系外國學生碩士專班",
+    "className": "財管外國班二甲",
+    "foreverID": "156B00007",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "黃玉娟",
+    "position": "",
+    "people": "23",
+    "maxpeople": "30",
+    "time": "",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UP171721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "3677",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系外國學生碩士專班",
+    "className": "財管外國班二甲",
+    "foreverID": "156B00009",
+    "courseName": "銀行實務實習(一)",
+    "hours": "9.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "周建新,陳勤明",
+    "position": "",
+    "people": "23",
+    "maxpeople": "30",
+    "time": "",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UP171721,F3235.01"
+    ],
+    "note": "職場實習，不排上課時間"
+  }
+]

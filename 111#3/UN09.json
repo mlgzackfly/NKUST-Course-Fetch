@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0007",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "行銷與流通管理系碩士專班",
+    "className": "行銷碩專班一甲",
+    "foreverID": "140H10039",
+    "courseName": "業態趨勢專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "簡施儀,葉曉萍",
+    "position": "C116",
+    "people": "35",
+    "maxpeople": "40",
+    "time": "(二)10-12(三)10-12(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "3",
+      "UN092711,F1785.01"
+    ],
+    "note": ""
+  }
+]

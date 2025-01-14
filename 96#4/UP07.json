@@ -1,1 +1,27 @@
-"[{\"code\":\"S114\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班二甲\",\"foreverID\":\"153H10041\",\"courseName\":\"歐洲金融專題研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UP072721,F3534.01\"],\"note\":\"\"},{\"code\":\"S114\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"金融系碩士專班[第一]\",\"className\":\"金融碩專班二甲\",\"foreverID\":\"153H10041\",\"courseName\":\"歐洲金融專題研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UP072721,F3534.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S114",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "金融系碩士專班[第一]",
+    "className": "金融碩專班二甲",
+    "foreverID": "153H10041",
+    "courseName": "歐洲金融專題研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UP072721,F3534.01"
+    ],
+    "note": ""
+  }
+]

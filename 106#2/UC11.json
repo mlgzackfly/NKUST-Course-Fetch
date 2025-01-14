@@ -1,1 +1,127 @@
-"[{\"code\":\"0193\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部博士\",\"unt\":\"國際企業系\",\"className\":\"博國企一甲\",\"foreverID\":\"234A00001\",\"courseName\":\"專題研討(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"邱魏頌正,陳昇鴻\",\"position\":\"MB303\",\"people\":\"14\",\"maxpeople\":\"30\",\"time\":\"(三)A(四)A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UC111811,01680.01\"],\"note\":\"\"},{\"code\":\"0193\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部博士\",\"unt\":\"國際企業系\",\"className\":\"博國企一甲\",\"foreverID\":\"234A00001\",\"courseName\":\"專題研討(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"邱魏頌正,陳昇鴻\",\"position\":\"MB303\",\"people\":\"14\",\"maxpeople\":\"30\",\"time\":\"(三)A(四)A\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UC111811,01680.01\"],\"note\":\"\"},{\"code\":\"2070\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部博士\",\"unt\":\"國際企業系\",\"className\":\"博國企一甲\",\"foreverID\":\"234B10034\",\"courseName\":\"國際企業組織管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"林亮宏\",\"position\":\"MB304\",\"people\":\"17\",\"maxpeople\":\"55\",\"time\":\"(四)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UC111811,05873.01\"],\"note\":\"\"},{\"code\":\"0246\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部博士\",\"unt\":\"國際企業系\",\"className\":\"博國企二甲\",\"foreverID\":\"236B10151\",\"courseName\":\"時間序列分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"羅志賢\",\"position\":\"MB404\",\"people\":\"18\",\"maxpeople\":\"55\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UC111821,03599.01\"],\"note\":\"\"},{\"code\":\"2063\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部博士\",\"unt\":\"國際企業系\",\"className\":\"博國企二甲\",\"foreverID\":\"234B10055\",\"courseName\":\"行銷研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"李曉青\",\"position\":\"MB304\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"(三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UC111821,00789.01\"],\"note\":\"\"},{\"code\":\"0196\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部博士\",\"unt\":\"國際企業系\",\"className\":\"博國企三甲\",\"foreverID\":\"234A00016\",\"courseName\":\"博士論文\",\"hours\":\"6.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"7\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UC111831,05797.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0193",
+    "cmp": "燕巢校區",
+    "dgr": "日間部博士",
+    "unt": "國際企業系",
+    "className": "博國企一甲",
+    "foreverID": "234A00001",
+    "courseName": "專題研討(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "邱魏頌正,陳昇鴻",
+    "position": "MB303",
+    "people": "14",
+    "maxpeople": "30",
+    "time": "(三)A(四)A",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UC111811,01680.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2070",
+    "cmp": "燕巢校區",
+    "dgr": "日間部博士",
+    "unt": "國際企業系",
+    "className": "博國企一甲",
+    "foreverID": "234B10034",
+    "courseName": "國際企業組織管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林亮宏",
+    "position": "MB304",
+    "people": "17",
+    "maxpeople": "55",
+    "time": "(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UM831711,05873.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0246",
+    "cmp": "燕巢校區",
+    "dgr": "日間部博士",
+    "unt": "國際企業系",
+    "className": "博國企二甲",
+    "foreverID": "236B10151",
+    "courseName": "時間序列分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "羅志賢",
+    "position": "MB404",
+    "people": "18",
+    "maxpeople": "55",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UC441711,03599.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2063",
+    "cmp": "燕巢校區",
+    "dgr": "日間部博士",
+    "unt": "國際企業系",
+    "className": "博國企二甲",
+    "foreverID": "234B10055",
+    "courseName": "行銷研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李曉青",
+    "position": "MB304",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UM831711,00789.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0196",
+    "cmp": "燕巢校區",
+    "dgr": "日間部博士",
+    "unt": "國際企業系",
+    "className": "博國企三甲",
+    "foreverID": "234A00016",
+    "courseName": "博士論文",
+    "hours": "6.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "7",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UC111831,05797.01"
+    ],
+    "note": ""
+  }
+]

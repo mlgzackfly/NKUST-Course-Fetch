@@ -1,1 +1,77 @@
-"[{\"code\":\"5575\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(楠梓)\",\"foreverID\":\"295F10209\",\"courseName\":\"全面品質管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"3\",\"maxpeople\":\"3\",\"time\":\" (日)4,5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"XK002412,00664.01\"],\"note\":\"高苑科大\"},{\"code\":\"5576\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(楠梓)\",\"foreverID\":\"295F10240\",\"courseName\":\"供應鏈管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"3\",\"maxpeople\":\"3\",\"time\":\" (日)1-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"XK002412,00887.01\"],\"note\":\"高苑科大\"},{\"code\":\"5577\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(楠梓)\",\"foreverID\":\"295F00081\",\"courseName\":\"靜力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\" (二)3-4(五)8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"XK002412,03219.01\"],\"note\":\"正修科大\"},{\"code\":\"5577\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班(楠梓)\",\"foreverID\":\"295F00081\",\"courseName\":\"靜力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\" (二)3-4(五)8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"2\",\"XK002412,03219.01\"],\"note\":\"正修科大\"}]"
+[
+  {
+    "code": "5575",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班(楠梓)",
+    "foreverID": "295F10209",
+    "courseName": "全面品質管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "3",
+    "maxpeople": "3",
+    "time": "(日)4,5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "XK002412,00664.01"
+    ],
+    "note": "高苑科大"
+  },
+  {
+    "code": "5576",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班(楠梓)",
+    "foreverID": "295F10240",
+    "courseName": "供應鏈管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "3",
+    "maxpeople": "3",
+    "time": "(日)1-3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "XK002412,00887.01"
+    ],
+    "note": "高苑科大"
+  },
+  {
+    "code": "5577",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班(楠梓)",
+    "foreverID": "295F00081",
+    "courseName": "靜力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "(二)3-4(五)8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "2",
+      "XK002412,03219.01"
+    ],
+    "note": "正修科大"
+  }
+]

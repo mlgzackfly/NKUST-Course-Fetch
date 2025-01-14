@@ -1,1 +1,52 @@
-"[{\"code\":\"0008\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C00121\",\"courseName\":\"工程地質\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"沈永年\",\"position\":\"土608\",\"people\":\"47\",\"maxpeople\":\"60\",\"time\":\"(二)2-4,5-7(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UE231400,00191.01\"],\"note\":\"\"},{\"code\":\"0008\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C00121\",\"courseName\":\"工程地質\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"沈永年\",\"position\":\"土608\",\"people\":\"47\",\"maxpeople\":\"60\",\"time\":\"(二)2-4,5-7(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UE231400,00191.01\"],\"note\":\"\"},{\"code\":\"0087\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"土木工程系\",\"className\":\"四土\",\"foreverID\":\"201C10198\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"王和源,黃忠發\",\"position\":\"\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(六)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"4\",\"UE231400,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0008",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土",
+    "foreverID": "201C00121",
+    "courseName": "工程地質",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "沈永年",
+    "position": "土608",
+    "people": "47",
+    "maxpeople": "60",
+    "time": "(二)2-4,5-7(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UE231400,00191.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0087",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "土木工程系",
+    "className": "四土",
+    "foreverID": "201C10198",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "王和源,黃忠發",
+    "position": "",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(六)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "4",
+      "UE231400,04138.01"
+    ],
+    "note": ""
+  }
+]

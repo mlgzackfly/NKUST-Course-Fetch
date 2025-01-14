@@ -1,1 +1,127 @@
-"[{\"code\":\"5445\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10003\",\"courseName\":\"虛擬實境\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 黃勤鎰\",\"position\":\"F107\",\"people\":\"11\",\"maxpeople\":\"12\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UD012711,F0538.01\"],\"note\":\"\"},{\"code\":\"5446\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10030\",\"courseName\":\"資料庫應用程式設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 楊浩青\",\"position\":\"F107\",\"people\":\"5\",\"maxpeople\":\"12\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UD012711,F4299.01\"],\"note\":\"\"},{\"code\":\"5447\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10038\",\"courseName\":\"電機控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 杜國洋\",\"position\":\"F107\",\"people\":\"10\",\"maxpeople\":\"12\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UD012711,F0657.01\"],\"note\":\"\"},{\"code\":\"5448\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班一甲\",\"foreverID\":\"121H10007\",\"courseName\":\"最佳化方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 周至宏\",\"position\":\"F107\",\"people\":\"9\",\"maxpeople\":\"12\",\"time\":\" (五)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UD012711,F0962.01\"],\"note\":\"\"},{\"code\":\"5449\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"電機碩專班[第一]\",\"className\":\"電機碩專班二甲\",\"foreverID\":\"121H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 杜國洋\",\"position\":\"教室未定\",\"people\":\"2\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UD012721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5445",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10003",
+    "courseName": "虛擬實境",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃勤鎰",
+    "position": "F107",
+    "people": "11",
+    "maxpeople": "12",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UD012711,F0538.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5446",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10030",
+    "courseName": "資料庫應用程式設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊浩青",
+    "position": "F107",
+    "people": "5",
+    "maxpeople": "12",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UD012711,F4299.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5447",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10038",
+    "courseName": "電機控制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "杜國洋",
+    "position": "F107",
+    "people": "10",
+    "maxpeople": "12",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UD012711,F0657.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5448",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班一甲",
+    "foreverID": "121H10007",
+    "courseName": "最佳化方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "周至宏",
+    "position": "F107",
+    "people": "9",
+    "maxpeople": "12",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UD012711,F0962.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5449",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "電機碩專班[第一]",
+    "className": "電機碩專班二甲",
+    "foreverID": "121H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "杜國洋",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UD012721,05010.01"
+    ],
+    "note": ""
+  }
+]

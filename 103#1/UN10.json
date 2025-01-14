@@ -1,1 +1,77 @@
-"[{\"code\":\"5293\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通系連鎖加盟管理碩士班\",\"className\":\"連鎖加盟所一甲\",\"foreverID\":\"141B00003\",\"courseName\":\"流通管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 呂振雄,謝致慧\",\"position\":\"E425\",\"people\":\"20\",\"maxpeople\":\"45\",\"time\":\" (二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN101711,F1813.01\"],\"note\":\"\"},{\"code\":\"5294\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通系連鎖加盟管理碩士班\",\"className\":\"連鎖加盟所一甲\",\"foreverID\":\"141B10033\",\"courseName\":\"連鎖加盟創新創業專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 余政隆\",\"position\":\"E425\",\"people\":\"38\",\"maxpeople\":\"45\",\"time\":\" (三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN101711,F4736.01\"],\"note\":\"\"},{\"code\":\"5295\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通系連鎖加盟管理碩士班\",\"className\":\"連鎖加盟所二甲\",\"foreverID\":\"141B00007\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 徐世同\",\"position\":\"教室未定\",\"people\":\"4\",\"maxpeople\":\"45\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN101721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5293",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通系連鎖加盟管理碩士班",
+    "className": "連鎖加盟所一甲",
+    "foreverID": "141B00003",
+    "courseName": "流通管理專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "呂振雄,謝致慧",
+    "position": "E425",
+    "people": "20",
+    "maxpeople": "45",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN101711,F1813.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5294",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通系連鎖加盟管理碩士班",
+    "className": "連鎖加盟所一甲",
+    "foreverID": "141B10033",
+    "courseName": "連鎖加盟創新創業專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "余政隆",
+    "position": "E425",
+    "people": "38",
+    "maxpeople": "45",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN101711,F4736.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5295",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通系連鎖加盟管理碩士班",
+    "className": "連鎖加盟所二甲",
+    "foreverID": "141B00007",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "徐世同",
+    "position": "教室未定",
+    "people": "4",
+    "maxpeople": "45",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN101721,05010.01"
+    ],
+    "note": ""
+  }
+]

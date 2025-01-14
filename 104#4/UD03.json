@@ -1,1 +1,102 @@
-"[{\"code\":\"S152\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00055\",\"courseName\":\"物理(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,00963.01\"],\"note\":\"\"},{\"code\":\"S152\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00055\",\"courseName\":\"物理(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,00963.01\"],\"note\":\"\"},{\"code\":\"S152\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00055\",\"courseName\":\"物理(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,00963.01\"],\"note\":\"\"},{\"code\":\"S156\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00049\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,02224.01\"],\"note\":\"\"},{\"code\":\"S156\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00049\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,02224.01\"],\"note\":\"\"},{\"code\":\"S156\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00049\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,02224.01\"],\"note\":\"\"},{\"code\":\"S158\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00044\",\"courseName\":\"微積分(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,02223.01\"],\"note\":\"\"},{\"code\":\"S158\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00044\",\"courseName\":\"微積分(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,02223.01\"],\"note\":\"\"},{\"code\":\"S158\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系一甲\",\"foreverID\":\"122C00044\",\"courseName\":\"微積分(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031411,02223.01\"],\"note\":\"\"},{\"code\":\"S160\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"電腦與通訊工程系\",\"className\":\"電通系三甲\",\"foreverID\":\"122C10123\",\"courseName\":\"資通訊產業暑期實習\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"4\",\"UD031431,F4305.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S152",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00055",
+    "courseName": "物理(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UD031411,00963.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S156",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00049",
+    "courseName": "微積分(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UD031411,02224.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S158",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00044",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UD031411,02223.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S160",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系三甲",
+    "foreverID": "122C10123",
+    "courseName": "資通訊產業暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "4",
+      "UD031431,F4305.01"
+    ],
+    "note": ""
+  }
+]

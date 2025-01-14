@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1276",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B00014",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UE841711,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1277",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B10013",
+    "courseName": "啟發式最佳化方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "謝欽旭",
+    "position": "資809",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(三)2-4",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UE841711,08664.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1278",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B10015",
+    "courseName": "品質管理實務專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "余銘忠",
+    "position": "資704",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(一)5-7",
+    "english": "是",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UE841711,10779.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1279",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "電資工程與科技管理外國學生碩士",
+    "className": "電資科技外碩一甲",
+    "foreverID": "229B00023",
+    "courseName": "華語(三)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "葉亭妤",
+    "position": "資1207",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UE841711,F0118.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0032",
+    "cmp": "建工校區",
+    "dgr": "日間部碩士",
+    "unt": "模具工程系碩士班[建工/燕巢校區]",
+    "className": "碩模二甲",
+    "foreverID": "209B00116",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "張致遠",
+    "position": "",
+    "people": "2",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE331721,05010.01"
+    ],
+    "note": ""
+  }
+]

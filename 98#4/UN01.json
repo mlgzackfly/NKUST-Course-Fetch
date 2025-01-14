@@ -1,1 +1,52 @@
-"[{\"code\":\"S180\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系\",\"className\":\"資管系一甲\",\"foreverID\":\"138C00041\",\"courseName\":\"資訊管理導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"UN011411,02335.01\"],\"note\":\"\"},{\"code\":\"S180\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系\",\"className\":\"資管系一甲\",\"foreverID\":\"138C00041\",\"courseName\":\"資訊管理導論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"UN011411,02335.01\"],\"note\":\"\"},{\"code\":\"S186\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系\",\"className\":\"資管系三甲\",\"foreverID\":\"138C10075\",\"courseName\":\"資訊管理實務專題實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"4\",\"UN011431,F4730.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S180",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系",
+    "className": "資管系一甲",
+    "foreverID": "138C00041",
+    "courseName": "資訊管理導論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "UN011411,02335.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S186",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系",
+    "className": "資管系三甲",
+    "foreverID": "138C10075",
+    "courseName": "資訊管理實務專題實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "4",
+      "UN011431,F4730.01"
+    ],
+    "note": ""
+  }
+]

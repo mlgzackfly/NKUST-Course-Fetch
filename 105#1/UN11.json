@@ -1,1 +1,77 @@
-"[{\"code\":\"5150\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班一甲\",\"foreverID\":\"139B10022\",\"courseName\":\"企業電子化個案研討(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 許麗玲\",\"position\":\"C446\",\"people\":\"21\",\"maxpeople\":\"30\",\"time\":\" (三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UN111711,F4794.01\"],\"note\":\"\"},{\"code\":\"5152\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班一甲\",\"foreverID\":\"139B10040\",\"courseName\":\"網路行銷\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 黃照貴\",\"position\":\"E525\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\" (三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UN111711,02793.01\"],\"note\":\"\"},{\"code\":\"5153\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班二甲\",\"foreverID\":\"139B00009\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 黃文楨\",\"position\":\"教室未定\",\"people\":\"3\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UN111721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5150",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班一甲",
+    "foreverID": "139B10022",
+    "courseName": "企業電子化個案研討(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許麗玲",
+    "position": "C446",
+    "people": "21",
+    "maxpeople": "30",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UN111711,F4794.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5152",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班一甲",
+    "foreverID": "139B10040",
+    "courseName": "網路行銷",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃照貴",
+    "position": "E525",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UN111711,02793.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5153",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班二甲",
+    "foreverID": "139B00009",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "黃文楨",
+    "position": "教室未定",
+    "people": "3",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UN111721,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"W122\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"通識教育中心[第一校區]\",\"className\":\"通識中心三甲\",\"foreverID\":\"010C11325\",\"courseName\":\"亞洲文化藝術博物館教育\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"3\",\"XD001431,F4831.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "W122",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "通識教育中心[第一校區]",
+    "className": "通識中心三甲",
+    "foreverID": "010C11325",
+    "courseName": "亞洲文化藝術博物館教育",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "3",
+      "XD001431,F4831.01"
+    ],
+    "note": ""
+  }
+]

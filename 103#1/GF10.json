@@ -1,1 +1,27 @@
-"[{\"code\":\"1458\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋事務學程\",\"className\":\"海洋事務學程\",\"foreverID\":\"350C10068\",\"courseName\":\"海域管理法規\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"高瑞鍾\",\"position\":\"10205教室\",\"people\":\"13\",\"maxpeople\":\"60\",\"time\":\"(一)7-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"GF101400,B1907.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1458",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋事務學程",
+    "className": "海洋事務學程",
+    "foreverID": "350C10068",
+    "courseName": "海域管理法規",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "高瑞鍾",
+    "position": "10205教室",
+    "people": "13",
+    "maxpeople": "60",
+    "time": "(一)7-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "GF101400,B1907.01"
+    ],
+    "note": ""
+  }
+]

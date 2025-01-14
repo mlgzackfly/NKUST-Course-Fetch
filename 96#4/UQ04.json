@@ -1,1 +1,27 @@
-"[{\"code\":\"0043\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋環境工程系\",\"className\":\"日四技海環系\",\"foreverID\":\"322C00086\",\"courseName\":\"工程數學(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UQ041400,00233.01\"],\"note\":\"潘昱宏樹德科技大學跨校暑修\"}]"
+[
+  {
+    "code": "0043",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋環境工程系",
+    "className": "日四技海環系",
+    "foreverID": "322C00086",
+    "courseName": "工程數學(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UQ041400,00233.01"
+    ],
+    "note": "潘昱宏樹德科技大學跨校暑修"
+  }
+]

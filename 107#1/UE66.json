@@ -1,1 +1,102 @@
-"[{\"code\":\"1309\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩春模高扣一甲\",\"foreverID\":\"214I10016\",\"courseName\":\"扣件與智慧財產權\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"姚創文\",\"position\":\"模205\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UE662511,08651.01\"],\"note\":\"\"},{\"code\":\"2338\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩春模高扣一甲\",\"foreverID\":\"214I10007\",\"courseName\":\"扣件之CAE分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"許昭和\",\"position\":\"模205\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(五)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UE662511,09582.01\"],\"note\":\"\"},{\"code\":\"2339\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩春模高扣一甲\",\"foreverID\":\"214I10005\",\"courseName\":\"扣件與模具之熱處理與表面處理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"歐士輔\",\"position\":\"模205\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UE662511,09583.01\"],\"note\":\"\"},{\"code\":\"2340\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"高值扣件產業碩士專班\",\"className\":\"進碩春模高扣一甲\",\"foreverID\":\"214I10003\",\"courseName\":\"扣件成形模具設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"張朝誠\",\"position\":\"模205\",\"people\":\"12\",\"maxpeople\":\"55\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UE662511,09584.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1309",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩春模高扣一甲",
+    "foreverID": "214I10016",
+    "courseName": "扣件與智慧財產權",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "姚創文",
+    "position": "模205",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UE662511,08651.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2338",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩春模高扣一甲",
+    "foreverID": "214I10007",
+    "courseName": "扣件之CAE分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許昭和",
+    "position": "模205",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UE662511,09582.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2339",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩春模高扣一甲",
+    "foreverID": "214I10005",
+    "courseName": "扣件與模具之熱處理與表面處理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "歐士輔",
+    "position": "模205",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UE662511,09583.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2340",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "高值扣件產業碩士專班",
+    "className": "進碩春模高扣一甲",
+    "foreverID": "214I10003",
+    "courseName": "扣件成形模具設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "張朝誠",
+    "position": "模205",
+    "people": "12",
+    "maxpeople": "55",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UE662511,09584.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0034",
+    "cmp": "建工校區",
+    "dgr": "日間部博士",
+    "unt": "工業工程與管理系",
+    "className": "工管系博班二甲",
+    "foreverID": "205A00011",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE721821,05010.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0073",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運管理系",
+    "className": "日四技航管二甲",
+    "foreverID": "331C00168",
+    "courseName": "中級會計學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "莊逸偉",
+    "position": "2204階梯教室",
+    "people": "26",
+    "maxpeople": "55",
+    "time": "(二)2-4(三)2-4(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UO011421,00352.01"
+    ],
+    "note": "本系學生限重修者,停修者不可參加該課程\n7/18開始上課"
+  },
+  {
+    "code": "0073",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運管理系",
+    "className": "日四技航管二乙",
+    "foreverID": "331C00168",
+    "courseName": "中級會計學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "莊逸偉",
+    "position": "2204階梯教室",
+    "people": "26",
+    "maxpeople": "55",
+    "time": "(二)2-4(三)2-4(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UO011421,00352.01"
+    ],
+    "note": "本系學生限重修者,停修者不可參加該課程\n7/18開始上課"
+  },
+  {
+    "code": "0075",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運管理系",
+    "className": "日四技航管四甲",
+    "foreverID": "331C10438",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "呂錦隆,楊鈺池,連淑君",
+    "position": "教室未定",
+    "people": "16",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UO011441,09635.01"
+    ],
+    "note": "由系辦進行人工加選"
+  },
+  {
+    "code": "0075",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "航運管理系",
+    "className": "日四技航管四乙",
+    "foreverID": "331C10438",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "呂錦隆,楊鈺池,連淑君",
+    "position": "教室未定",
+    "people": "16",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UO011441,09635.01"
+    ],
+    "note": "由系辦進行人工加選"
+  }
+]

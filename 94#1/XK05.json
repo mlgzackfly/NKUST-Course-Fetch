@@ -1,1 +1,27 @@
-"[{\"code\":\"6313\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070C10541\",\"courseName\":\"結構控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"1\",\"XK051411,F0507.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "6313",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070C10541",
+    "courseName": "結構控制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "1",
+      "XK051411,F0507.01"
+    ],
+    "note": ""
+  }
+]

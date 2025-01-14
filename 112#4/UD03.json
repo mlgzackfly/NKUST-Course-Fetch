@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0011",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00044",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "汪桓生",
+    "position": "B345",
+    "people": "35",
+    "maxpeople": "55",
+    "time": "(二)2-4(三)2-4(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UD031411,02223.01"
+    ],
+    "note": "開課日期:113/7/8~113/8/16每週二,三,四(2,3,4)計6週"
+  },
+  {
+    "code": "0012",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系一甲",
+    "foreverID": "122C00049",
+    "courseName": "微積分(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "汪桓生",
+    "position": "B345",
+    "people": "24",
+    "maxpeople": "0",
+    "time": "(二)5-7(三)5-7(四)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UD031411,02224.01"
+    ],
+    "note": "補差額課程，不開放選課。\n開課日期:113/7/8~113/8/16每週二,三,四(5,6,7)計6週"
+  },
+  {
+    "code": "0014",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "電腦與通訊工程系",
+    "className": "電通系三甲",
+    "foreverID": "122C10123",
+    "courseName": "資通訊產業暑期實習",
+    "hours": "3.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "張剛鳴,徐偉智,江傳文,謝瑞鴻",
+    "position": "教室未定",
+    "people": "6",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UD031431,F4305.01"
+    ],
+    "note": "113/7/1~113/8/31"
+  }
+]

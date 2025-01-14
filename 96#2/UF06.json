@@ -1,1 +1,27 @@
-"[{\"code\":\"1344\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"運輸工具產業製造技術研發碩士專\",\"className\":\"運輸產研班二甲\",\"foreverID\":\"173B00009\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"2\",\"UF061721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1344",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "運輸工具產業製造技術研發碩士專",
+    "className": "運輸產研班二甲",
+    "foreverID": "173B00009",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "2",
+      "UF061721,05010.01"
+    ],
+    "note": ""
+  }
+]

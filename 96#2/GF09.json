@@ -1,1 +1,27 @@
-"[{\"code\":\"1365\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"RFID科技及應用學程\",\"className\":\"RFID科技應用學程\",\"foreverID\":\"350C10156\",\"courseName\":\"RFID應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳信榮\",\"position\":\"2402教室\",\"people\":\"52\",\"maxpeople\":\"60\",\"time\":\"(二)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"2\",\"GF091400,06492.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1365",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "RFID科技及應用學程",
+    "className": "RFID科技應用學程",
+    "foreverID": "350C10156",
+    "courseName": "RFID應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳信榮",
+    "position": "2402教室",
+    "people": "52",
+    "maxpeople": "60",
+    "time": "(二)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "2",
+      "GF091400,06492.01"
+    ],
+    "note": ""
+  }
+]

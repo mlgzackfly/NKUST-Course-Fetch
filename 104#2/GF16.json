@@ -1,1 +1,52 @@
-"[{\"code\":\"1393\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船產業實務學程\",\"className\":\"造船產業實務學程\",\"foreverID\":\"350C10093\",\"courseName\":\"船舶檢驗\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"黃嘉燦\",\"position\":\"5203教室\",\"people\":\"63\",\"maxpeople\":\"60\",\"time\":\"(五)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GF161400,A4455.01\"],\"note\":\"\"},{\"code\":\"1394\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"造船產業實務學程\",\"className\":\"造船產業實務學程\",\"foreverID\":\"350C10165\",\"courseName\":\"遊艇設計\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"扶正\",\"position\":\"5110教室\",\"people\":\"86\",\"maxpeople\":\"60\",\"time\":\"(三)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"2\",\"GF161400,A5485.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1393",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船產業實務學程",
+    "className": "造船產業實務學程",
+    "foreverID": "350C10093",
+    "courseName": "船舶檢驗",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "黃嘉燦",
+    "position": "5203教室",
+    "people": "63",
+    "maxpeople": "60",
+    "time": "(五)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "GF161400,A4455.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1394",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "造船產業實務學程",
+    "className": "造船產業實務學程",
+    "foreverID": "350C10165",
+    "courseName": "遊艇設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "扶正",
+    "position": "5110教室",
+    "people": "86",
+    "maxpeople": "60",
+    "time": "(三)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "2",
+      "GF161400,A5485.01"
+    ],
+    "note": ""
+  }
+]

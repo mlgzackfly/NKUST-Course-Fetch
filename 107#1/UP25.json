@@ -1,1 +1,127 @@
-"[{\"code\":\"5994\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"150B10002\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 洪志興\",\"position\":\"教室未定\",\"people\":\"19\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UP251711,09654.05\"],\"note\":\"\"},{\"code\":\"5995\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"150B10002\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 陳青浩\",\"position\":\"教室未定\",\"people\":\"10\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UP251711,09654.04\"],\"note\":\"\"},{\"code\":\"5996\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"150B10002\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 林靜香\",\"position\":\"教室未定\",\"people\":\"15\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UP251711,09654.03\"],\"note\":\"\"},{\"code\":\"5997\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"150B10002\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 黃玉娟\",\"position\":\"教室未定\",\"people\":\"22\",\"maxpeople\":\"100\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UP251711,09654.02\"],\"note\":\"\"},{\"code\":\"5998\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財金院課程\",\"className\":\"財金院課程一甲\",\"foreverID\":\"150B10002\",\"courseName\":\"教學實習微學分\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 陳勤明\",\"position\":\"教室未定\",\"people\":\"2\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UP251711,09654.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5994",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "150B10002",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "洪志興",
+    "position": "教室未定",
+    "people": "19",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UP251711,09654.05"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5995",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "150B10002",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳青浩",
+    "position": "教室未定",
+    "people": "10",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UP251711,09654.04"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5996",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "150B10002",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "林靜香",
+    "position": "教室未定",
+    "people": "15",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UP251711,09654.03"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5997",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "150B10002",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "黃玉娟",
+    "position": "教室未定",
+    "people": "22",
+    "maxpeople": "100",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UP251711,09654.02"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5998",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財金院課程",
+    "className": "財金院課程一甲",
+    "foreverID": "150B10002",
+    "courseName": "教學實習微學分",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳勤明",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UP251711,09654.01"
+    ],
+    "note": ""
+  }
+]

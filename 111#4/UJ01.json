@@ -1,0 +1,77 @@
+[
+  {
+    "code": "0138",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用英語系",
+    "className": "應英系四甲",
+    "foreverID": "161C10743",
+    "courseName": "應用英語暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "謝作偉,洪豐生,廖惠娟,傅若珊,羅雅芬",
+    "position": "",
+    "people": "22",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UJ011441,F3438.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0138",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用英語系",
+    "className": "應英系四乙",
+    "foreverID": "161C10743",
+    "courseName": "應用英語暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "謝作偉,洪豐生,廖惠娟,傅若珊,羅雅芬",
+    "position": "",
+    "people": "22",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UJ011441,F3438.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0138",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用英語系",
+    "className": "應英系四丙",
+    "foreverID": "161C10743",
+    "courseName": "應用英語暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "謝作偉,洪豐生,廖惠娟,傅若珊,羅雅芬",
+    "position": "",
+    "people": "22",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UJ011441,F3438.01"
+    ],
+    "note": ""
+  }
+]

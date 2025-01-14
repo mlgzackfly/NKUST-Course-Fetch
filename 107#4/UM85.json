@@ -1,1 +1,52 @@
-"[{\"code\":\"0001\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"企管系高階經營管理[建工/燕\",\"className\":\"碩專企管高階一甲\",\"foreverID\":\"233H10030\",\"courseName\":\"應用統計\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 陳榮方\",\"position\":\"西103\",\"people\":\"18\",\"maxpeople\":\"30\",\"time\":\" (六)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UM852711,03280.01\"],\"note\":\"\"},{\"code\":\"0002\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"企管系高階經營管理[建工/燕\",\"className\":\"碩專企管高階一甲\",\"foreverID\":\"233H10024\",\"courseName\":\"消費者行為專題\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 李曉青,王崇昱\",\"position\":\"西103\",\"people\":\"18\",\"maxpeople\":\"30\",\"time\":\" (六)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UM852711,07870.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0001",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "企管系高階經營管理[建工/燕",
+    "className": "碩專企管高階一甲",
+    "foreverID": "233H10030",
+    "courseName": "應用統計",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳榮方",
+    "position": "西103",
+    "people": "18",
+    "maxpeople": "30",
+    "time": "(六)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UM852711,03280.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0002",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "企管系高階經營管理[建工/燕",
+    "className": "碩專企管高階一甲",
+    "foreverID": "233H10024",
+    "courseName": "消費者行為專題",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "李曉青,王崇昱",
+    "position": "西103",
+    "people": "18",
+    "maxpeople": "30",
+    "time": "(六)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UM852711,07870.01"
+    ],
+    "note": ""
+  }
+]

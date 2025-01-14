@@ -1,1 +1,27 @@
-"[{\"code\":\"2362\",\"cmp\":\"建工校區\",\"dgr\":\"進修部碩士春季班\",\"unt\":\"製造加值與資訊應用產碩專班\",\"className\":\"進碩春工製造二甲\",\"foreverID\":\"204I00004\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"14\",\"maxpeople\":\"15\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"1\",\"UE792521,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2362",
+    "cmp": "建工校區",
+    "dgr": "進修部碩士春季班",
+    "unt": "製造加值與資訊應用產碩專班",
+    "className": "進碩春工製造二甲",
+    "foreverID": "204I00004",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "14",
+    "maxpeople": "15",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "1",
+      "UE792521,03649.01"
+    ],
+    "note": ""
+  }
+]

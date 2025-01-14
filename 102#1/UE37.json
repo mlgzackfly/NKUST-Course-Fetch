@@ -1,1 +1,27 @@
-"[{\"code\":\"1325\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"土木工程與防災科技研究所[建工|\",\"className\":\"進碩土二甲\",\"foreverID\":\"201H00002\",\"courseName\":\"專題研討(三)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"王和源\",\"position\":\"\",\"people\":\"41\",\"maxpeople\":\"60\",\"time\":\"(三)11-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"UE372721,01681.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1325",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "土木工程與防災科技研究所[建工|",
+    "className": "進碩土二甲",
+    "foreverID": "201H00002",
+    "courseName": "專題研討(三)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "王和源",
+    "position": "",
+    "people": "41",
+    "maxpeople": "60",
+    "time": "(三)11-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "UE372721,01681.01"
+    ],
+    "note": ""
+  }
+]

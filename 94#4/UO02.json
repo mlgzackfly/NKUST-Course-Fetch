@@ -1,1 +1,52 @@
-"[{\"code\":\"0053\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系[楠梓|旗津]\",\"className\":\"日四技資管系\",\"foreverID\":\"335C00117\",\"courseName\":\"統計學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UO021400,01788.01\"],\"note\":\"\"},{\"code\":\"0059\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"資訊管理系[楠梓|旗津]\",\"className\":\"日四技資管系\",\"foreverID\":\"335C00055\",\"courseName\":\"食品營養與健康\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"94\",\"4\",\"UO021400,06787.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0053",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系[楠梓|旗津]",
+    "className": "日四技資管系",
+    "foreverID": "335C00117",
+    "courseName": "統計學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UO021400,01788.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0059",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "資訊管理系[楠梓|旗津]",
+    "className": "日四技資管系",
+    "foreverID": "335C00055",
+    "courseName": "食品營養與健康",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "94",
+      "4",
+      "UO021400,06787.01"
+    ],
+    "note": ""
+  }
+]

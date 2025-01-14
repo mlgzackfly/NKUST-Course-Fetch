@@ -1,1 +1,52 @@
-"[{\"code\":\"1285\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通系連鎖加盟管理碩士班\",\"className\":\"連鎖加盟所一甲\",\"foreverID\":\"141B10022\",\"courseName\":\"連鎖加盟總部管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 呂振雄,謝致慧\",\"position\":\"C356\",\"people\":\"8\",\"maxpeople\":\"36\",\"time\":\" (三)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UN101711,F4738.01\"],\"note\":\"\"},{\"code\":\"1286\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"行銷與流通系連鎖加盟管理碩士班\",\"className\":\"連鎖加盟所二甲\",\"foreverID\":\"141B00007\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 徐世同\",\"position\":\"教室未定\",\"people\":\"9\",\"maxpeople\":\"40\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"UN101721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1285",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通系連鎖加盟管理碩士班",
+    "className": "連鎖加盟所一甲",
+    "foreverID": "141B10022",
+    "courseName": "連鎖加盟總部管理專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "呂振雄,謝致慧",
+    "position": "C356",
+    "people": "8",
+    "maxpeople": "36",
+    "time": "(三)6-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UN101711,F4738.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1286",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "行銷與流通系連鎖加盟管理碩士班",
+    "className": "連鎖加盟所二甲",
+    "foreverID": "141B00007",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "徐世同",
+    "position": "教室未定",
+    "people": "9",
+    "maxpeople": "40",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "UN101721,05010.01"
+    ],
+    "note": ""
+  }
+]

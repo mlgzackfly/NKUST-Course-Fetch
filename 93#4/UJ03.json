@@ -1,1 +1,52 @@
-"[{\"code\":\"S119\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用德語系\",\"className\":\"應德系一甲\",\"foreverID\":\"164C00057\",\"courseName\":\"基礎德語文法應用II\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UJ031411,F3868.01\"],\"note\":\"\"},{\"code\":\"S119\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用德語系\",\"className\":\"應德系一甲\",\"foreverID\":\"164C00057\",\"courseName\":\"基礎德語文法應用II\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UJ031411,F3868.01\"],\"note\":\"\"},{\"code\":\"S120\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用德語系\",\"className\":\"應德系二甲\",\"foreverID\":\"164C00037\",\"courseName\":\"中級德語文法Ⅰ\",\"hours\":\"2.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UJ031421,F2437.01\"],\"note\":\"\"},{\"code\":\"S120\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用德語系\",\"className\":\"應德系二甲\",\"foreverID\":\"164C00037\",\"courseName\":\"中級德語文法Ⅰ\",\"hours\":\"2.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UJ031421,F2437.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S119",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用德語系",
+    "className": "應德系一甲",
+    "foreverID": "164C00057",
+    "courseName": "基礎德語文法應用II",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UJ031411,F3868.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S120",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用德語系",
+    "className": "應德系二甲",
+    "foreverID": "164C00037",
+    "courseName": "中級德語文法Ⅰ",
+    "hours": "2.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UJ031421,F2437.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"2219\",\"cmp\":\"燕巢校區\",\"dgr\":\"進修學院二技\",\"unt\":\"觀光管理系\",\"className\":\"進修學院觀三甲\",\"foreverID\":\"235J10215\",\"courseName\":\"咖啡概論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"劉佳芬\",\"position\":\"MB113\",\"people\":\"25\",\"maxpeople\":\"25\",\"time\":\"(六)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"1\",\"UM763311,07719.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2219",
+    "cmp": "燕巢校區",
+    "dgr": "進修學院二技",
+    "unt": "觀光管理系",
+    "className": "進修學院觀三甲",
+    "foreverID": "235J10215",
+    "courseName": "咖啡概論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "劉佳芬",
+    "position": "MB113",
+    "people": "25",
+    "maxpeople": "25",
+    "time": "(六)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "1",
+      "UM763311,07719.01"
+    ],
+    "note": ""
+  }
+]

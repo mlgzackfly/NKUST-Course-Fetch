@@ -1,1 +1,127 @@
-"[{\"code\":\"1059\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"財務金融學院博士班\",\"className\":\"財金院博班一甲\",\"foreverID\":\"151A10020\",\"courseName\":\"風險理論與風險分析模擬專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"UP101811,F5161.01\"],\"note\":\"\"},{\"code\":\"1060\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"財務金融學院博士班\",\"className\":\"財金院博班一甲\",\"foreverID\":\"151A10082\",\"courseName\":\"計量經濟學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"UP101811,01201.01\"],\"note\":\"\"},{\"code\":\"1062\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"財務金融學院博士班\",\"className\":\"財金院博班一甲\",\"foreverID\":\"151A10070\",\"courseName\":\"管理會計專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"UP101811,F1946.01\"],\"note\":\"\"},{\"code\":\"1061\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"財務金融學院博士班\",\"className\":\"財金院博班二甲\",\"foreverID\":\"151A00017\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"UP101821,05010.01\"],\"note\":\"\"},{\"code\":\"1063\",\"cmp\":\"第一校區\",\"dgr\":\"日間部博士\",\"unt\":\"財務金融學院博士班\",\"className\":\"財金院博班二甲\",\"foreverID\":\"151A10056\",\"courseName\":\"財務工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"98\",\"2\",\"UP101821,F0573.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1059",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "財務金融學院博士班",
+    "className": "財金院博班一甲",
+    "foreverID": "151A10020",
+    "courseName": "風險理論與風險分析模擬專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "UP101811,F5161.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1060",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "財務金融學院博士班",
+    "className": "財金院博班一甲",
+    "foreverID": "151A10082",
+    "courseName": "計量經濟學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "UP101811,01201.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1062",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "財務金融學院博士班",
+    "className": "財金院博班一甲",
+    "foreverID": "151A10070",
+    "courseName": "管理會計專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "UP101811,F1946.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1061",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "財務金融學院博士班",
+    "className": "財金院博班二甲",
+    "foreverID": "151A00017",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "UP101821,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1063",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "財務金融學院博士班",
+    "className": "財金院博班二甲",
+    "foreverID": "151A10056",
+    "courseName": "財務工程",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "98",
+      "2",
+      "UP101821,F0573.01"
+    ],
+    "note": ""
+  }
+]

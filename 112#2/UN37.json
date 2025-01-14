@@ -1,0 +1,102 @@
+[
+  {
+    "code": "2379",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專一甲",
+    "foreverID": "136H10019",
+    "courseName": "人力資源管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉宜芬",
+    "position": "C443",
+    "people": "8",
+    "maxpeople": "12",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN372711,00089.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2380",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專一甲",
+    "foreverID": "136H10018",
+    "courseName": "系統分析與設計",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳育欣",
+    "position": "C338",
+    "people": "12",
+    "maxpeople": "12",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN372711,00869.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2382",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專一甲",
+    "foreverID": "136H10017",
+    "courseName": "企業風險管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "楊壽麟",
+    "position": "C443",
+    "people": "14",
+    "maxpeople": "12",
+    "time": "(五)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN372711,F1359.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2383",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系商務經營管理碩士班",
+    "className": "運籌商經碩專二甲",
+    "foreverID": "136H00012",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "林燦煌",
+    "position": "",
+    "people": "5",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "2",
+      "UN372721,05010.01"
+    ],
+    "note": ""
+  }
+]

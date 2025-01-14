@@ -1,0 +1,27 @@
+[
+  {
+    "code": "5313",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "創新設計學院",
+    "className": "創新學院一甲",
+    "foreverID": "901C10002",
+    "courseName": "AI生成設計與IP應用實務",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林育靚",
+    "position": "HS609",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "113",
+      "2",
+      "UA001411,13969.01"
+    ],
+    "note": ""
+  }
+]

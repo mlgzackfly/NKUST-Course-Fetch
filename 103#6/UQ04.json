@@ -1,1 +1,52 @@
-"[{\"code\":\"0073\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"海洋環境工程系\",\"className\":\"進四技海環一\",\"foreverID\":\"322F00070\",\"courseName\":\"微積分(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"1\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UQ042410,02224.01\"],\"note\":\"校際\"},{\"code\":\"0059\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"海洋環境工程系\",\"className\":\"進四技海環二\",\"foreverID\":\"322F00083\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"6\",\"UQ042420,00232.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0073",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "海洋環境工程系",
+    "className": "進四技海環一",
+    "foreverID": "322F00070",
+    "courseName": "微積分(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "6",
+      "UQ042410,02224.01"
+    ],
+    "note": "校際"
+  },
+  {
+    "code": "0059",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "海洋環境工程系",
+    "className": "進四技海環二",
+    "foreverID": "322F00083",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "6",
+      "UQ042420,00232.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"S113\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班二甲\",\"foreverID\":\"136H10032\",\"courseName\":\"創新管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UN262721,05587.01\"],\"note\":\"\"},{\"code\":\"S113\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班二甲\",\"foreverID\":\"136H10032\",\"courseName\":\"創新管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UN262721,05587.01\"],\"note\":\"\"},{\"code\":\"S115\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班二甲\",\"foreverID\":\"136H10060\",\"courseName\":\"企業經營個案研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UN262721,F3269.01\"],\"note\":\"\"},{\"code\":\"S115\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班二甲\",\"foreverID\":\"136H10060\",\"courseName\":\"企業經營個案研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"97\",\"4\",\"UN262721,F3269.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S113",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班二甲",
+    "foreverID": "136H10032",
+    "courseName": "創新管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UN262721,05587.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S115",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班二甲",
+    "foreverID": "136H10060",
+    "courseName": "企業經營個案研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "97",
+      "4",
+      "UN262721,F3269.01"
+    ],
+    "note": ""
+  }
+]

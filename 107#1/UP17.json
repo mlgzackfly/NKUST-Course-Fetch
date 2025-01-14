@@ -1,1 +1,52 @@
-"[{\"code\":\"5242\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系外國學生碩士專班\",\"className\":\"財管外國班一甲\",\"foreverID\":\"156B00005\",\"courseName\":\"企業評價\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 陳香蘭\",\"position\":\"C446\",\"people\":\"23\",\"maxpeople\":\"30\",\"time\":\" (一)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UP171711,F0142.01\"],\"note\":\"\"},{\"code\":\"5243\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"財務管理系外國學生碩士專班\",\"className\":\"財管外國班一甲\",\"foreverID\":\"156B00001\",\"courseName\":\"財務報表分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 王泓達\",\"position\":\"C446\",\"people\":\"23\",\"maxpeople\":\"30\",\"time\":\" (二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UP171711,01397.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5242",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系外國學生碩士專班",
+    "className": "財管外國班一甲",
+    "foreverID": "156B00005",
+    "courseName": "企業評價",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "陳香蘭",
+    "position": "C446",
+    "people": "23",
+    "maxpeople": "30",
+    "time": "(一)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UP171711,F0142.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5243",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "財務管理系外國學生碩士專班",
+    "className": "財管外國班一甲",
+    "foreverID": "156B00001",
+    "courseName": "財務報表分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "王泓達",
+    "position": "C446",
+    "people": "23",
+    "maxpeople": "30",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UP171711,01397.01"
+    ],
+    "note": ""
+  }
+]

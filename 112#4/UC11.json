@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0006",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "國際企業系",
+    "className": "四國企三甲",
+    "foreverID": "234C10291",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李仁耀",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UC111431,09635.01"
+    ],
+    "note": ""
+  }
+]

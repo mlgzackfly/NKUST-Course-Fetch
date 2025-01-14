@@ -1,1 +1,77 @@
-"[{\"code\":\"2905\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊財務碩士學位學程\",\"className\":\"資財碩士二甲\",\"foreverID\":\"152B00005\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"楊景傅\",\"position\":\"\",\"people\":\"4\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UP111721,05010.01\"],\"note\":\"\"},{\"code\":\"2906\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊財務碩士學位學程\",\"className\":\"資財碩士二甲\",\"foreverID\":\"152B10013\",\"courseName\":\"巨量資料分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"黃信嘉\",\"position\":\"E120\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\"(五)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UP111721,F1605.01\"],\"note\":\"\"},{\"code\":\"2907\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊財務碩士學位學程\",\"className\":\"資財碩士二甲\",\"foreverID\":\"152B00002\",\"courseName\":\"金融科技專題實作\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\"陳勤明\",\"position\":\"E120\",\"people\":\"4\",\"maxpeople\":\"30\",\"time\":\"(三)5\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"1\",\"UP111721,F3760.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2905",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊財務碩士學位學程",
+    "className": "資財碩士二甲",
+    "foreverID": "152B00005",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "楊景傅",
+    "position": "",
+    "people": "4",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UP111721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2906",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊財務碩士學位學程",
+    "className": "資財碩士二甲",
+    "foreverID": "152B10013",
+    "courseName": "巨量資料分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃信嘉",
+    "position": "E120",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(五)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UP111721,F1605.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2907",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊財務碩士學位學程",
+    "className": "資財碩士二甲",
+    "foreverID": "152B00002",
+    "courseName": "金融科技專題實作",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "必修",
+    "instructors": "陳勤明",
+    "position": "E120",
+    "people": "4",
+    "maxpeople": "30",
+    "time": "(三)5",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "1",
+      "UP111721,F3760.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"0061\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管科\",\"foreverID\":\"\",\"courseName\":\"管理學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UO062100,02754.01\"],\"note\":\"\"},{\"code\":\"0048\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"會計學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"劉兆宸\",\"position\":\"10207教室\",\"people\":\"17\",\"maxpeople\":\"60\",\"time\":\"(一)1-2(三)1-2(五)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UO062121,02256.01\"],\"note\":\"\"},{\"code\":\"0048\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"會計學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"劉兆宸\",\"position\":\"10207教室\",\"people\":\"17\",\"maxpeople\":\"60\",\"time\":\"(一)1-2(三)1-2(五)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UO062121,02256.01\"],\"note\":\"\"},{\"code\":\"0048\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"會計學\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"劉兆宸\",\"position\":\"10207教室\",\"people\":\"17\",\"maxpeople\":\"60\",\"time\":\"(一)1-2(三)1-2(五)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UO062121,02256.01\"],\"note\":\"\"},{\"code\":\"0049\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"會計實習\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\"劉兆宸\",\"position\":\"10207教室\",\"people\":\"17\",\"maxpeople\":\"60\",\"time\":\"(一)3(三)3(五)3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UO062121,A5365.01\"],\"note\":\"\"},{\"code\":\"0049\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"會計實習\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\"劉兆宸\",\"position\":\"10207教室\",\"people\":\"17\",\"maxpeople\":\"60\",\"time\":\"(一)3(三)3(五)3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UO062121,A5365.01\"],\"note\":\"\"},{\"code\":\"0049\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部二專\",\"unt\":\"航運管理科\",\"className\":\"進二專航管二年級\",\"foreverID\":\"\",\"courseName\":\"會計實習\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"必修\",\"instructors\":\"劉兆宸\",\"position\":\"10207教室\",\"people\":\"17\",\"maxpeople\":\"60\",\"time\":\"(一)3(三)3(五)3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"UO062121,A5365.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0061",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管科",
+    "foreverID": "",
+    "courseName": "管理學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UO062100,02754.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0048",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管二年級",
+    "foreverID": "",
+    "courseName": "會計學",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "劉兆宸",
+    "position": "10207教室",
+    "people": "17",
+    "maxpeople": "60",
+    "time": "(一)1-2(三)1-2(五)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UO062121,02256.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0049",
+    "cmp": "楠梓校區",
+    "dgr": "進修部二專",
+    "unt": "航運管理科",
+    "className": "進二專航管二年級",
+    "foreverID": "",
+    "courseName": "會計實習",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "必修",
+    "instructors": "劉兆宸",
+    "position": "10207教室",
+    "people": "17",
+    "maxpeople": "60",
+    "time": "(一)3(三)3(五)3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "UO062121,A5365.01"
+    ],
+    "note": ""
+  }
+]

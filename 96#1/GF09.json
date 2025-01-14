@@ -1,1 +1,27 @@
-"[{\"code\":\"2000\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"RFID科技及應用學程\",\"className\":\"RFID科技應用學程\",\"foreverID\":\"350C10144\",\"courseName\":\"RFID概論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陸瑞漢,汪素卿\",\"position\":\"4102教室\",\"people\":\"81\",\"maxpeople\":\"60\",\"time\":\"(四)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"GF091400,06476.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2000",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "RFID科技及應用學程",
+    "className": "RFID科技應用學程",
+    "foreverID": "350C10144",
+    "courseName": "RFID概論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陸瑞漢,汪素卿",
+    "position": "4102教室",
+    "people": "81",
+    "maxpeople": "60",
+    "time": "(四)6-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "GF091400,06476.01"
+    ],
+    "note": ""
+  }
+]

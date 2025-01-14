@@ -1,1 +1,52 @@
-"[{\"code\":\"0044\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"化學工程與材料工程系\",\"className\":\"四化材三甲\",\"foreverID\":\"208C10153\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 高立衡\",\"position\":\"教室未定\",\"people\":\"59\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UE161431,04138.01\"],\"note\":\"\"},{\"code\":\"0045\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"化學工程與材料工程系\",\"className\":\"四化材三乙\",\"foreverID\":\"208C10153\",\"courseName\":\"校外實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\" 高立衡\",\"position\":\"教室未定\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\" (一)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"4\",\"UE161432,04138.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0044",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "四化材三甲",
+    "foreverID": "208C10153",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "高立衡",
+    "position": "教室未定",
+    "people": "59",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UE161431,04138.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0045",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "化學工程與材料工程系",
+    "className": "四化材三乙",
+    "foreverID": "208C10153",
+    "courseName": "校外實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "高立衡",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "(一)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "4",
+      "UE161432,04138.01"
+    ],
+    "note": ""
+  }
+]

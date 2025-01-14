@@ -1,1 +1,52 @@
-"[{\"code\":\"1827\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"船舶科技實務學程\",\"className\":\"船舶科技實務學程\",\"foreverID\":\"350C10103\",\"courseName\":\"船廠實習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"陳宏鐘\",\"position\":\"\",\"people\":\"37\",\"maxpeople\":\"0\",\"time\":\"(四)11-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"GF111400,A4510.01\"],\"note\":\"修讀本科目需經任課教師核准後始可修習\"},{\"code\":\"1828\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"船舶科技實務學程\",\"className\":\"船舶科技實務學程\",\"foreverID\":\"350C10174\",\"courseName\":\"船艇3D模具設計軟體操作與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"詹為淵\",\"position\":\"( 旗津 )\",\"people\":\"35\",\"maxpeople\":\"60\",\"time\":\"(三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"GF111400,B0825.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1827",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "船舶科技實務學程",
+    "className": "船舶科技實務學程",
+    "foreverID": "350C10103",
+    "courseName": "船廠實習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "陳宏鐘",
+    "position": "",
+    "people": "37",
+    "maxpeople": "0",
+    "time": "(四)11-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "GF111400,A4510.01"
+    ],
+    "note": "修讀本科目需經任課教師核准後始可修習"
+  },
+  {
+    "code": "1828",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "船舶科技實務學程",
+    "className": "船舶科技實務學程",
+    "foreverID": "350C10174",
+    "courseName": "船艇3D模具設計軟體操作與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "詹為淵",
+    "position": "( 旗津 )",
+    "people": "35",
+    "maxpeople": "60",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "GF111400,B0825.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,27 @@
-"[{\"code\":\"S156\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用日語系\",\"className\":\"應日系一甲\",\"foreverID\":\"163C10146\",\"courseName\":\"應日系校外暑期實習\",\"hours\":\"1.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"25\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UJ021411,F4076.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S156",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用日語系",
+    "className": "應日系一甲",
+    "foreverID": "163C10146",
+    "courseName": "應日系校外暑期實習",
+    "hours": "1.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "25",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UJ021411,F4076.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,77 @@
-"[{\"code\":\"1726\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機國際證照學程\",\"className\":\"四技輪機國際證照\",\"foreverID\":\"350C10007\",\"courseName\":\"基礎急救\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"陳明輝\",\"position\":\"旗津202教室\",\"people\":\"54\",\"maxpeople\":\"60\",\"time\":\"(五)4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF131400,A3910.01\"],\"note\":\"\"},{\"code\":\"1727\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機國際證照學程\",\"className\":\"四技輪機國際證照\",\"foreverID\":\"350C10009\",\"courseName\":\"人員求生技能\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"陳明輝\",\"position\":\"旗津305階梯教室\",\"people\":\"87\",\"maxpeople\":\"60\",\"time\":\"(五)2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF131400,A9253.01\"],\"note\":\"\"},{\"code\":\"1728\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"輪機國際證照學程\",\"className\":\"四技輪機國際證照\",\"foreverID\":\"350C10011\",\"courseName\":\"防火及基礎滅火\",\"hours\":\"1.0\",\"units\":\"1.0\",\"required\":\"選修\",\"instructors\":\"陳明輝\",\"position\":\"旗津202教室\",\"people\":\"60\",\"maxpeople\":\"60\",\"time\":\"(五)3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"GF131400,A9763.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1726",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機國際證照學程",
+    "className": "四技輪機國際證照",
+    "foreverID": "350C10007",
+    "courseName": "基礎急救",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "陳明輝",
+    "position": "旗津202教室",
+    "people": "54",
+    "maxpeople": "60",
+    "time": "(五)4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF131400,A3910.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1727",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機國際證照學程",
+    "className": "四技輪機國際證照",
+    "foreverID": "350C10009",
+    "courseName": "人員求生技能",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "陳明輝",
+    "position": "旗津305階梯教室",
+    "people": "87",
+    "maxpeople": "60",
+    "time": "(五)2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF131400,A9253.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1728",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "輪機國際證照學程",
+    "className": "四技輪機國際證照",
+    "foreverID": "350C10011",
+    "courseName": "防火及基礎滅火",
+    "hours": "1.0",
+    "units": "1.0",
+    "required": "選修",
+    "instructors": "陳明輝",
+    "position": "旗津202教室",
+    "people": "60",
+    "maxpeople": "60",
+    "time": "(五)3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "GF131400,A9763.01"
+    ],
+    "note": ""
+  }
+]

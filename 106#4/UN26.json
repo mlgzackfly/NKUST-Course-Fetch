@@ -1,1 +1,77 @@
-"[{\"code\":\"S124\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班一甲\",\"foreverID\":\"136H10021\",\"courseName\":\"當代管理議題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UN262711,F1901.01\"],\"note\":\"\"},{\"code\":\"S124\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班一甲\",\"foreverID\":\"136H10021\",\"courseName\":\"當代管理議題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UN262711,F1901.01\"],\"note\":\"\"},{\"code\":\"S126\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班二甲\",\"foreverID\":\"136H00012\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UN262721,05010.01\"],\"note\":\"\"},{\"code\":\"S128\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班二甲\",\"foreverID\":\"136H10038\",\"courseName\":\"策略管理\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"4\",\"UN262721,02055.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S124",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班一甲",
+    "foreverID": "136H10021",
+    "courseName": "當代管理議題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UN262711,F1901.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S126",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班二甲",
+    "foreverID": "136H00012",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UN262721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "S128",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班二甲",
+    "foreverID": "136H10038",
+    "courseName": "策略管理",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "4",
+      "UN262721,02055.01"
+    ],
+    "note": ""
+  }
+]

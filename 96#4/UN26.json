@@ -1,1 +1,27 @@
-"[{\"code\":\"S104\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"運籌管理系企業管理碩士專班\",\"className\":\"運籌企專班二甲\",\"foreverID\":\"136H10040\",\"courseName\":\"跨國企業經營實務研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UN262721,F4733.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S104",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "運籌管理系企業管理碩士專班",
+    "className": "運籌企專班二甲",
+    "foreverID": "136H10040",
+    "courseName": "跨國企業經營實務研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UN262721,F4733.01"
+    ],
+    "note": ""
+  }
+]

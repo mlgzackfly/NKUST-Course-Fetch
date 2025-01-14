@@ -1,1 +1,52 @@
-"[{\"code\":\"0168\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"博雅教育中心\",\"className\":\"博雅四技一甲(建\",\"foreverID\":\"042C01559\",\"courseName\":\"博雅(社會)服務學習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"張瑞芳\",\"position\":\"\",\"people\":\"15\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"XB021411,30849.01\"],\"note\":\"專簽課程\\n密集上課7/6-8/31\"},{\"code\":\"0171\",\"cmp\":\"建工校區\",\"dgr\":\"日間部四技\",\"unt\":\"博雅教育中心\",\"className\":\"博雅四技一甲(建\",\"foreverID\":\"042C01559\",\"courseName\":\"博雅(社會)服務學習\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"林世凌\",\"position\":\"\",\"people\":\"17\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"108\",\"4\",\"XB021411,30849.02\"],\"note\":\"專簽課程\\n密集上課8/1-8/31\"}]"
+[
+  {
+    "code": "0168",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "博雅教育中心",
+    "className": "博雅四技一甲(建",
+    "foreverID": "042C01559",
+    "courseName": "博雅(社會)服務學習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "張瑞芳",
+    "position": "",
+    "people": "15",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "XB021411,30849.01"
+    ],
+    "note": "專簽課程\n密集上課7/6-8/31"
+  },
+  {
+    "code": "0171",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "博雅教育中心",
+    "className": "博雅四技一甲(建",
+    "foreverID": "042C01559",
+    "courseName": "博雅(社會)服務學習",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "林世凌",
+    "position": "",
+    "people": "17",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "108",
+      "4",
+      "XB021411,30849.02"
+    ],
+    "note": "專簽課程\n密集上課8/1-8/31"
+  }
+]

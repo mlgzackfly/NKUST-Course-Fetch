@@ -1,1 +1,52 @@
-"[{\"code\":\"2473\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10430\",\"courseName\":\"工程契約與爭議處理專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"6\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"XK051711,F4868.01\"],\"note\":\"\"},{\"code\":\"2474\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10505\",\"courseName\":\"堤壩防災工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"XK051711,F1529.01\"],\"note\":\"\"},{\"code\":\"2475\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10576\",\"courseName\":\"類神經網路應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"2\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"XK051711,03368.01\"],\"note\":\"\"},{\"code\":\"2489\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10546\",\"courseName\":\"ＷＴＯ與兩岸經貿關係\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"XK051711,F4770.01\"],\"note\":\"\"},{\"code\":\"2490\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B00151\",\"courseName\":\"日本政府與政治\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"XK051711,F2727.01\"],\"note\":\"\"},{\"code\":\"2492\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10572\",\"courseName\":\"兩岸關係正常化的法律與政策\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"2\",\"XK051711,F5129.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2488",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070A00173",
+    "courseName": "國際法原理與內國法律實踐",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "XK051811,F5046.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2491",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070A10596",
+    "courseName": "兩岸勞動法制比較研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "2",
+      "XK051811,F4560.01"
+    ],
+    "note": ""
+  }
+]

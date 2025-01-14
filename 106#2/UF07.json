@@ -1,1 +1,127 @@
-"[{\"code\":\"1336\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機械與自動化工程系碩士專班[第\",\"className\":\"機械碩專班一甲\",\"foreverID\":\"105H10006\",\"courseName\":\"科技報告寫作\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 郭文正\",\"position\":\"B115\",\"people\":\"9\",\"maxpeople\":\"15\",\"time\":\" (一)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UF072711,F1919.01\"],\"note\":\"\"},{\"code\":\"1337\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機械與自動化工程系碩士專班[第\",\"className\":\"機械碩專班一甲\",\"foreverID\":\"105H10044\",\"courseName\":\"統計製程管制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 曾奕丰\",\"position\":\"B115\",\"people\":\"11\",\"maxpeople\":\"15\",\"time\":\" (二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UF072711,F1980.01\"],\"note\":\"\"},{\"code\":\"1338\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機械與自動化工程系碩士專班[第\",\"className\":\"機械碩專班一甲\",\"foreverID\":\"105H10038\",\"courseName\":\"超音波理論與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 蘇啟宗\",\"position\":\"B115\",\"people\":\"10\",\"maxpeople\":\"15\",\"time\":\" (三)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UF072711,F3716.01\"],\"note\":\"\"},{\"code\":\"1339\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機械與自動化工程系碩士專班[第\",\"className\":\"機械碩專班一甲\",\"foreverID\":\"105H10019\",\"courseName\":\"智慧型系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 劉東官\",\"position\":\"B337\",\"people\":\"10\",\"maxpeople\":\"15\",\"time\":\" (四)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UF072711,F0957.01\"],\"note\":\"\"},{\"code\":\"1340\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"機械與自動化工程系碩士專班[第\",\"className\":\"機械碩專班二甲\",\"foreverID\":\"105H00001\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 謝其昌\",\"position\":\"教室未定\",\"people\":\"6\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"UF072721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1336",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機械與自動化工程系碩士專班[第",
+    "className": "機械碩專班一甲",
+    "foreverID": "105H10006",
+    "courseName": "科技報告寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "郭文正",
+    "position": "B115",
+    "people": "9",
+    "maxpeople": "15",
+    "time": "(一)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UF072711,F1919.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1337",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機械與自動化工程系碩士專班[第",
+    "className": "機械碩專班一甲",
+    "foreverID": "105H10044",
+    "courseName": "統計製程管制",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "曾奕丰",
+    "position": "B115",
+    "people": "11",
+    "maxpeople": "15",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UF072711,F1980.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1338",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機械與自動化工程系碩士專班[第",
+    "className": "機械碩專班一甲",
+    "foreverID": "105H10038",
+    "courseName": "超音波理論與應用",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇啟宗",
+    "position": "B115",
+    "people": "10",
+    "maxpeople": "15",
+    "time": "(三)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UF072711,F3716.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1339",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機械與自動化工程系碩士專班[第",
+    "className": "機械碩專班一甲",
+    "foreverID": "105H10019",
+    "courseName": "智慧型系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉東官",
+    "position": "B337",
+    "people": "10",
+    "maxpeople": "15",
+    "time": "(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UF072711,F0957.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1340",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "機械與自動化工程系碩士專班[第",
+    "className": "機械碩專班二甲",
+    "foreverID": "105H00001",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "謝其昌",
+    "position": "教室未定",
+    "people": "6",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "UF072721,05010.01"
+    ],
+    "note": ""
+  }
+]

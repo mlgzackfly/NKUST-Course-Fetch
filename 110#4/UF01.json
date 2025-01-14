@@ -1,1 +1,52 @@
-"[{\"code\":\"0028\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系三甲\",\"foreverID\":\"102C10119\",\"courseName\":\"營建工程暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"李振榮,林建良,范嘉程,林彥宇,陳懿佐,林錦隆,廖婉茹\",\"position\":\"\",\"people\":\"53\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UF011431,F3554.01\"],\"note\":\"\"},{\"code\":\"0028\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"營建工程系\",\"className\":\"營建系三乙\",\"foreverID\":\"102C10119\",\"courseName\":\"營建工程暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"李振榮,林建良,范嘉程,林彥宇,陳懿佐,林錦隆,廖婉茹\",\"position\":\"\",\"people\":\"53\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"110\",\"4\",\"UF011432,F3554.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0028",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三甲",
+    "foreverID": "102C10119",
+    "courseName": "營建工程暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李振榮,林建良,范嘉程,林彥宇,陳懿佐,林錦隆,廖婉茹",
+    "position": "",
+    "people": "53",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UF011431,F3554.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0028",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "營建工程系",
+    "className": "營建系三乙",
+    "foreverID": "102C10119",
+    "courseName": "營建工程暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李振榮,林建良,范嘉程,林彥宇,陳懿佐,林錦隆,廖婉茹",
+    "position": "",
+    "people": "53",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "110",
+      "4",
+      "UF011431,F3554.01"
+    ],
+    "note": ""
+  }
+]

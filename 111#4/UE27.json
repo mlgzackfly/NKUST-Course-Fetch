@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0022",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "電機工程系",
+    "className": "四電二甲",
+    "foreverID": "227C00140",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "李慶祥",
+    "position": "慧芳講堂",
+    "people": "69",
+    "maxpeople": "70",
+    "time": "(四)2-4(五)2-4,5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE271421,00232.01"
+    ],
+    "note": "暑修課程時間：7/10-8/18"
+  },
+  {
+    "code": "0133",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "電機工程系",
+    "className": "四電四甲",
+    "foreverID": "227C10600",
+    "courseName": "校外暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "戴鴻傑,李孝貽,羅國原",
+    "position": "教室未定",
+    "people": "17",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE271441,F1781.01"
+    ],
+    "note": ""
+  }
+]

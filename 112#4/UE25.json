@@ -1,0 +1,52 @@
+[
+  {
+    "code": "0017",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "機械工程系",
+    "className": "進四技機械系二甲",
+    "foreverID": "202F00066",
+    "courseName": "熱力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "李純怡",
+    "position": "機402",
+    "people": "42",
+    "maxpeople": "64",
+    "time": "(一)10-13(二)10-13(四)10",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE252421,03011.01"
+    ],
+    "note": "113年7月8日開始上課"
+  },
+  {
+    "code": "0167",
+    "cmp": "建工校區",
+    "dgr": "進修部四技",
+    "unt": "機械工程系",
+    "className": "進四技機械系三甲",
+    "foreverID": "202F00068",
+    "courseName": "熱傳學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "徐金城",
+    "position": "機403",
+    "people": "13",
+    "maxpeople": "0",
+    "time": "(二)10-13(三)10-11(四)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE252431,03027.01"
+    ],
+    "note": "補差額開班，不開放選課。上課時間7/8-8/16"
+  }
+]

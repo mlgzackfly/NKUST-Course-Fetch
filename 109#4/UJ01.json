@@ -1,1 +1,27 @@
-"[{\"code\":\"0075\",\"cmp\":\"第一校區\",\"dgr\":\"日間部四技\",\"unt\":\"應用英語系\",\"className\":\"應英系應英組三甲\",\"foreverID\":\"161C10743\",\"courseName\":\"應用英語暑期實習\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\"陳其芬\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"0\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"109\",\"4\",\"UJ011435,F3438.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0075",
+    "cmp": "第一校區",
+    "dgr": "日間部四技",
+    "unt": "應用英語系",
+    "className": "應英系應英組三甲",
+    "foreverID": "161C10743",
+    "courseName": "應用英語暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "陳其芬",
+    "position": "",
+    "people": "1",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "109",
+      "4",
+      "UJ011435,F3438.01"
+    ],
+    "note": ""
+  }
+]

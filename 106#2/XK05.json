@@ -1,1 +1,27 @@
-"[{\"code\":\"2574\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10452\",\"courseName\":\"變結構控制\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"XK051711,F1081.01\"],\"note\":\"\"},{\"code\":\"2587\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10455\",\"courseName\":\"工程軟體開發與應用\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"2\",\"XK051711,F4057.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2571",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070A10546",
+    "courseName": "產業實務講座",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "2",
+      "XK051811,B2727.01"
+    ],
+    "note": ""
+  }
+]

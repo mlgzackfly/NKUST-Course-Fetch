@@ -1,1 +1,52 @@
-"[{\"code\":\"1281\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班一甲\",\"foreverID\":\"157H10007\",\"courseName\":\"公司治理與企業價值研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 林靜香,王泓達\",\"position\":\"E113\",\"people\":\"6\",\"maxpeople\":\"20\",\"time\":\" (六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UP182711,F4839.01\"],\"note\":\"\"},{\"code\":\"1282\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"會計資訊系碩士在職專班\",\"className\":\"會資碩專班一甲\",\"foreverID\":\"157H10017\",\"courseName\":\"稅務專題研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 封昌宏,林靜香\",\"position\":\"E113\",\"people\":\"6\",\"maxpeople\":\"20\",\"time\":\" (六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"2\",\"UP182711,F1929.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1281",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班一甲",
+    "foreverID": "157H10007",
+    "courseName": "公司治理與企業價值研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林靜香,王泓達",
+    "position": "E113",
+    "people": "6",
+    "maxpeople": "20",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UP182711,F4839.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1282",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "會計資訊系碩士在職專班",
+    "className": "會資碩專班一甲",
+    "foreverID": "157H10017",
+    "courseName": "稅務專題研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "封昌宏,林靜香",
+    "position": "E113",
+    "people": "6",
+    "maxpeople": "20",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "2",
+      "UP182711,F1929.01"
+    ],
+    "note": ""
+  }
+]

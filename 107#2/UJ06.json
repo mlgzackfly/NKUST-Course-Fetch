@@ -1,1 +1,102 @@
-"[{\"code\":\"2340\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10092\",\"courseName\":\"日本風土研究\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"劉伯雯\",\"position\":\"D516\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UJ062711,F1730.01\"],\"note\":\"\"},{\"code\":\"6206\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班一甲\",\"foreverID\":\"163H10105\",\"courseName\":\"日本文學專題研究Ⅱ\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"陳玫君\",\"position\":\"D516\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"(三)11-13\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UJ062711,F4106.01\"],\"note\":\"\"},{\"code\":\"2342\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H00003\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"黃愛玲\",\"position\":\"\",\"people\":\"6\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UJ062721,05010.01\"],\"note\":\"\"},{\"code\":\"2343\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"應用日語系碩士專班\",\"className\":\"應日碩專班二甲\",\"foreverID\":\"163H10033\",\"courseName\":\"中日語言文化專題研究Ⅱ\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"中島清明,葉淑華\",\"position\":\"D516\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"(二)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"UJ062721,F4825.01\"],\"note\":\"3/5課程異動，本課程是共授課程，授課老師:葉淑華老師、中島清明老師\"}]"
+[
+  {
+    "code": "2340",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10092",
+    "courseName": "日本風土研究",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "劉伯雯",
+    "position": "D516",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UJ062711,F1730.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "6206",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班一甲",
+    "foreverID": "163H10105",
+    "courseName": "日本文學專題研究Ⅱ",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "陳玫君",
+    "position": "D516",
+    "people": "7",
+    "maxpeople": "55",
+    "time": "(三)11-13",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UJ062711,F4106.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2342",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H00003",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "黃愛玲",
+    "position": "",
+    "people": "6",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UJ062721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2343",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "應用日語系碩士專班",
+    "className": "應日碩專班二甲",
+    "foreverID": "163H10033",
+    "courseName": "中日語言文化專題研究Ⅱ",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "中島清明,葉淑華",
+    "position": "D516",
+    "people": "7",
+    "maxpeople": "55",
+    "time": "(二)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "UJ062721,F4825.01"
+    ],
+    "note": "3/5課程異動，本課程是共授課程，授課老師:葉淑華老師、中島清明老師"
+  }
+]

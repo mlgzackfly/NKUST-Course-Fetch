@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0185",
+    "cmp": "第一校區",
+    "dgr": "進修部四技",
+    "unt": "校際選課",
+    "className": "進校際一甲",
+    "foreverID": "070F00069",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "校際教師",
+    "position": "",
+    "people": "1",
+    "maxpeople": "1",
+    "time": "(一)2-4(二)6-8(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "XK052411,02223.01"
+    ],
+    "note": "正修科大"
+  }
+]

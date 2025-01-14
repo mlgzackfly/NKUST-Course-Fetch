@@ -1,0 +1,102 @@
+[
+  {
+    "code": "0024",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "電子工程系[建工|燕巢校區 ]",
+    "className": "四子一甲",
+    "foreverID": "222C00136",
+    "courseName": "物理(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "邱建良",
+    "position": "資401",
+    "people": "45",
+    "maxpeople": "40",
+    "time": "(一)2-4,5-7(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE291411,00962.01"
+    ],
+    "note": "暑修課程時間：7/10-8/18"
+  },
+  {
+    "code": "0025",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "電子工程系[建工|燕巢校區 ]",
+    "className": "四子一甲",
+    "foreverID": "222C00141",
+    "courseName": "微積分(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "丁信文",
+    "position": "資701",
+    "people": "48",
+    "maxpeople": "50",
+    "time": "(三)2-4,5-7(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE291411,02223.01"
+    ],
+    "note": "暑修課程時間：7/10-8/18"
+  },
+  {
+    "code": "0027",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "電子工程系[建工|燕巢校區 ]",
+    "className": "四子二甲",
+    "foreverID": "222C00148",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "鄭瑞川",
+    "position": "資501A",
+    "people": "13",
+    "maxpeople": "0",
+    "time": "(二)5-9(四)5-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE291421,00232.01"
+    ],
+    "note": "1.補差額開班，不對外開放選課\n2.暑修課程時間：7/10-8/18"
+  },
+  {
+    "code": "0029",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "電子工程系[建工|燕巢校區 ]",
+    "className": "四子三甲",
+    "foreverID": "222C10566",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "劉志益,連志原",
+    "position": "教室未定",
+    "people": "2",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "111",
+      "4",
+      "UE291431,09635.01"
+    ],
+    "note": "不開放選課，由系辦掛課。"
+  }
+]

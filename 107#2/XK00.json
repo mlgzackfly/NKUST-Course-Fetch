@@ -1,1 +1,27 @@
-"[{\"code\":\"6257\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"跨外校修課生\",\"className\":\"進四跨外班一甲\",\"foreverID\":\"295F00229\",\"courseName\":\"運輸學\",\"hours\":\"3.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"55\",\"time\":\"(二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"2\",\"XK002411,A5480.01\"],\"note\":\"成功大學\"}]"
+[
+  {
+    "code": "6257",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "跨外校修課生",
+    "className": "進四跨外班一甲",
+    "foreverID": "295F00229",
+    "courseName": "運輸學",
+    "hours": "3.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "55",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "2",
+      "XK002411,A5480.01"
+    ],
+    "note": "成功大學"
+  }
+]

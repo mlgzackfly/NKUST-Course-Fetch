@@ -1,1 +1,27 @@
-"[{\"code\":\"S126\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"行銷與流通管理系碩士專班\",\"className\":\"行銷碩專班一甲\",\"foreverID\":\"140H10028\",\"courseName\":\"通路策略與管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UN092711,F4315.01\"],\"note\":\"\"},{\"code\":\"S126\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"行銷與流通管理系碩士專班\",\"className\":\"行銷碩專班一甲\",\"foreverID\":\"140H10028\",\"courseName\":\"通路策略與管理專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"4\",\"UN092711,F4315.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S126",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "行銷與流通管理系碩士專班",
+    "className": "行銷碩專班一甲",
+    "foreverID": "140H10028",
+    "courseName": "通路策略與管理專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "4",
+      "UN092711,F4315.01"
+    ],
+    "note": ""
+  }
+]

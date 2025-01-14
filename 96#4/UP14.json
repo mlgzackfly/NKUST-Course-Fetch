@@ -1,1 +1,27 @@
-"[{\"code\":\"S112\",\"cmp\":\"第一校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"財務管理系碩士專班[第一]\",\"className\":\"財管碩專班二甲\",\"foreverID\":\"155H10072\",\"courseName\":\"財務研究方法專題\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"50\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"4\",\"UP142721,F3690.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "S112",
+    "cmp": "第一校區",
+    "dgr": "碩士在職專班",
+    "unt": "財務管理系碩士專班[第一]",
+    "className": "財管碩專班二甲",
+    "foreverID": "155H10072",
+    "courseName": "財務研究方法專題",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "50",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "4",
+      "UP142721,F3690.01"
+    ],
+    "note": ""
+  }
+]

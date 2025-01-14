@@ -1,1 +1,27 @@
-"[{\"code\":\"1759\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部四技\",\"unt\":\"海洋事務學程\",\"className\":\"海洋事務學程\",\"foreverID\":\"350C10094\",\"courseName\":\"海洋觀光\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"丁國桓\",\"position\":\"10201多功能C教室\",\"people\":\"60\",\"maxpeople\":\"60\",\"time\":\"(四)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"102\",\"1\",\"GF101400,01353.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1759",
+    "cmp": "楠梓校區",
+    "dgr": "日間部四技",
+    "unt": "海洋事務學程",
+    "className": "海洋事務學程",
+    "foreverID": "350C10094",
+    "courseName": "海洋觀光",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "丁國桓",
+    "position": "10201多功能C教室",
+    "people": "60",
+    "maxpeople": "60",
+    "time": "(四)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "102",
+      "1",
+      "GF101400,01353.01"
+    ],
+    "note": ""
+  }
+]

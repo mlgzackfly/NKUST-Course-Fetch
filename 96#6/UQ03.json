@@ -1,1 +1,52 @@
-"[{\"code\":\"0054\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊系四\",\"foreverID\":\"323F00170\",\"courseName\":\"物理(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"6\",\"UQ032440,00962.01\"],\"note\":\"\"},{\"code\":\"0055\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"電訊工程系\",\"className\":\"進四技電訊系四\",\"foreverID\":\"323F00122\",\"courseName\":\"工程數學(二)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"6\",\"UQ032440,00233.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0054",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "電訊工程系",
+    "className": "進四技電訊系四",
+    "foreverID": "323F00170",
+    "courseName": "物理(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "6",
+      "UQ032440,00962.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0055",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "電訊工程系",
+    "className": "進四技電訊系四",
+    "foreverID": "323F00122",
+    "courseName": "工程數學(二)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "6",
+      "UQ032440,00233.01"
+    ],
+    "note": ""
+  }
+]

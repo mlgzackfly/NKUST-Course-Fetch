@@ -1,1 +1,102 @@
-"[{\"code\":\"5146\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班一甲\",\"foreverID\":\"139B10038\",\"courseName\":\"研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 李慶章\",\"position\":\"C228\",\"people\":\"14\",\"maxpeople\":\"30\",\"time\":\" (二)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN111711,01135.01\"],\"note\":\"\"},{\"code\":\"5147\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班一甲\",\"foreverID\":\"139B10040\",\"courseName\":\"網路行銷\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 黃照貴\",\"position\":\"E525\",\"people\":\"19\",\"maxpeople\":\"30\",\"time\":\" (三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN111711,02793.01\"],\"note\":\"\"},{\"code\":\"5148\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班二甲\",\"foreverID\":\"139B00009\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 李嘉紘\",\"position\":\"教室未定\",\"people\":\"3\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN111721,05010.01\"],\"note\":\"\"},{\"code\":\"5149\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班二甲\",\"foreverID\":\"139B10054\",\"courseName\":\"企業電子化企業實習(一)\",\"hours\":\"9.0\",\"units\":\"0\",\"required\":\"選修\",\"instructors\":\" 李嘉紘\",\"position\":\"教室未定\",\"people\":\"1\",\"maxpeople\":\"30\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"104\",\"1\",\"UN111721,F4792.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5146",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班一甲",
+    "foreverID": "139B10038",
+    "courseName": "研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李慶章",
+    "position": "C228",
+    "people": "14",
+    "maxpeople": "30",
+    "time": "(二)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN111711,01135.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5147",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班一甲",
+    "foreverID": "139B10040",
+    "courseName": "網路行銷",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "黃照貴",
+    "position": "E525",
+    "people": "19",
+    "maxpeople": "30",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN111711,02793.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5148",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班二甲",
+    "foreverID": "139B00009",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "李嘉紘",
+    "position": "教室未定",
+    "people": "3",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN111721,05010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5149",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班二甲",
+    "foreverID": "139B10054",
+    "courseName": "企業電子化企業實習(一)",
+    "hours": "9.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李嘉紘",
+    "position": "教室未定",
+    "people": "1",
+    "maxpeople": "30",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "104",
+      "1",
+      "UN111721,F4792.01"
+    ],
+    "note": ""
+  }
+]

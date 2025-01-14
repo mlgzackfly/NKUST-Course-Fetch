@@ -1,1 +1,77 @@
-"[{\"code\":\"5155\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班一甲\",\"foreverID\":\"139B10038\",\"courseName\":\"研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 李慶章\",\"position\":\"C228\",\"people\":\"15\",\"maxpeople\":\"30\",\"time\":\" (四)7-9\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN111711,01135.01\"],\"note\":\"\"},{\"code\":\"5156\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班一甲\",\"foreverID\":\"139B10022\",\"courseName\":\"企業電子化個案研討(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 許麗玲\",\"position\":\"C342\",\"people\":\"10\",\"maxpeople\":\"30\",\"time\":\" (三)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN111711,F4794.01\"],\"note\":\"\"},{\"code\":\"5157\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"資訊管理系電子商務碩士班\",\"className\":\"電商碩士班二甲\",\"foreverID\":\"139B00009\",\"courseName\":\"論文\",\"hours\":\"6.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\" 陳慶文\",\"position\":\"教室未定\",\"people\":\"0\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"103\",\"1\",\"UN111721,05010.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "5155",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班一甲",
+    "foreverID": "139B10038",
+    "courseName": "研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "李慶章",
+    "position": "C228",
+    "people": "15",
+    "maxpeople": "30",
+    "time": "(四)7-9",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN111711,01135.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5156",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班一甲",
+    "foreverID": "139B10022",
+    "courseName": "企業電子化個案研討(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "許麗玲",
+    "position": "C342",
+    "people": "10",
+    "maxpeople": "30",
+    "time": "(三)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN111711,F4794.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "5157",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "資訊管理系電子商務碩士班",
+    "className": "電商碩士班二甲",
+    "foreverID": "139B00009",
+    "courseName": "論文",
+    "hours": "6.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "陳慶文",
+    "position": "教室未定",
+    "people": "0",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "103",
+      "1",
+      "UN111721,05010.01"
+    ],
+    "note": ""
+  }
+]

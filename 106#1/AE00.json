@@ -1,1 +1,77 @@
-"[{\"code\":\"\",\"cmp\":\"建工校區\",\"dgr\":\"進修部二專\",\"unt\":\"進修推廣處\",\"className\":\"課外活動使用\",\"foreverID\":\"\",\"courseName\":\"初級韓文\",\"hours\":\"0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"育501\",\"people\":\"0\",\"maxpeople\":\"55\",\"time\":\"(三)11-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"AE002100,09460.01\"],\"note\":\"\"},{\"code\":\"2436\",\"cmp\":\"建工校區\",\"dgr\":\"進修部二專\",\"unt\":\"進修推廣處\",\"className\":\"課外活動使用\",\"foreverID\":\"\",\"courseName\":\"#班級經營\",\"hours\":\"0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"育105\",\"people\":\"0\",\"maxpeople\":\"55\",\"time\":\"(三)11-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"AE002100,00010.01\"],\"note\":\"\"},{\"code\":\"2437\",\"cmp\":\"建工校區\",\"dgr\":\"進修部二專\",\"unt\":\"進修推廣處\",\"className\":\"課外活動使用\",\"foreverID\":\"\",\"courseName\":\"記帳相關法規\",\"hours\":\"0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"育302\",\"people\":\"0\",\"maxpeople\":\"55\",\"time\":\"(三)11-14\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"106\",\"1\",\"AE002100,09247.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "",
+    "cmp": "建工校區",
+    "dgr": "進修部二專",
+    "unt": "進修推廣處",
+    "className": "課外活動使用",
+    "foreverID": "",
+    "courseName": "初級韓文",
+    "hours": "0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "育501",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(三)11-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "AE002100,09460.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2436",
+    "cmp": "建工校區",
+    "dgr": "進修部二專",
+    "unt": "進修推廣處",
+    "className": "課外活動使用",
+    "foreverID": "",
+    "courseName": "#班級經營",
+    "hours": "0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "育105",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(三)11-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "AE002100,00010.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2437",
+    "cmp": "建工校區",
+    "dgr": "進修部二專",
+    "unt": "進修推廣處",
+    "className": "課外活動使用",
+    "foreverID": "",
+    "courseName": "記帳相關法規",
+    "hours": "0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "育302",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "(三)11-14",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "106",
+      "1",
+      "AE002100,09247.01"
+    ],
+    "note": ""
+  }
+]

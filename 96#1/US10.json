@@ -1,1 +1,27 @@
-"[{\"code\":\"2032\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"水產養殖科\",\"className\":\"日五專水養科\",\"foreverID\":\"303E00108\",\"courseName\":\"地理\",\"hours\":\"2.0\",\"units\":\"0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"96\",\"1\",\"US101200,09565.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2032",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "水產養殖科",
+    "className": "日五專水養科",
+    "foreverID": "303E00108",
+    "courseName": "地理",
+    "hours": "2.0",
+    "units": "0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "96",
+      "1",
+      "US101200,09565.01"
+    ],
+    "note": ""
+  }
+]

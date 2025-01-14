@@ -1,1 +1,102 @@
-"[{\"code\":\"2026\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"輪機系碩專班\",\"foreverID\":\"313H10022\",\"courseName\":\"黏性流體\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"20\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UR092700,A9511.01\"],\"note\":\"\"},{\"code\":\"1935\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H00007\",\"courseName\":\"高等工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"張進德\",\"position\":\"（旗津）\",\"people\":\"5\",\"maxpeople\":\"60\",\"time\":\"(六)6-8\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UR092711,01466.01\"],\"note\":\"\"},{\"code\":\"1938\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H00004\",\"courseName\":\"專題討論(一)\",\"hours\":\"1.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"俞克維\",\"position\":\"（旗津）\",\"people\":\"6\",\"maxpeople\":\"60\",\"time\":\"(六)2-3\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UR092711,01683.01\"],\"note\":\"\"},{\"code\":\"1940\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"輪機工程系碩士班\",\"className\":\"碩專輪機所一年級\",\"foreverID\":\"313H10062\",\"courseName\":\"電力品質\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蘇俊連\",\"position\":\"（旗津）\",\"people\":\"6\",\"maxpeople\":\"60\",\"time\":\"(六)10-12\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"1\",\"UR092711,02386.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2026",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "輪機系碩專班",
+    "foreverID": "313H10022",
+    "courseName": "黏性流體",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "20",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UR092700,A9511.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1935",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H00007",
+    "courseName": "高等工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "張進德",
+    "position": "（旗津）",
+    "people": "5",
+    "maxpeople": "60",
+    "time": "(六)6-8",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UR092711,01466.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1938",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H00004",
+    "courseName": "專題討論(一)",
+    "hours": "1.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "俞克維",
+    "position": "（旗津）",
+    "people": "6",
+    "maxpeople": "60",
+    "time": "(六)2-3",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UR092711,01683.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1940",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "輪機工程系碩士班",
+    "className": "碩專輪機所一年級",
+    "foreverID": "313H10062",
+    "courseName": "電力品質",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蘇俊連",
+    "position": "（旗津）",
+    "people": "6",
+    "maxpeople": "60",
+    "time": "(六)10-12",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "1",
+      "UR092711,02386.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,102 @@
-"[{\"code\":\"1647\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所一年級\",\"foreverID\":\"312H10005\",\"courseName\":\"水下偵搜專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"文展權\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"(日)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UR062711,B1925.01\"],\"note\":\"\"},{\"code\":\"1648\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所一年級\",\"foreverID\":\"312H00002\",\"courseName\":\"研究方法與論文寫作\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"許華智\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"(六)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UR062711,B1927.01\"],\"note\":\"\"},{\"code\":\"1649\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所一年級\",\"foreverID\":\"312H10004\",\"courseName\":\"國際航運經濟與市場分析\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"周建張\",\"position\":\"\",\"people\":\"2\",\"maxpeople\":\"60\",\"time\":\"(六)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UR062711,B1931.01\"],\"note\":\"\"},{\"code\":\"1650\",\"cmp\":\"楠梓校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"航運技術系碩士班\",\"className\":\"碩專航技所一年級\",\"foreverID\":\"312H10006\",\"courseName\":\"貨物裝載專論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"蔡朝祿\",\"position\":\"\",\"people\":\"4\",\"maxpeople\":\"60\",\"time\":\"(日)5-7\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"107\",\"1\",\"UR062711,B2382.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1647",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10005",
+    "courseName": "水下偵搜專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "文展權",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "(日)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UR062711,B1925.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1648",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H00002",
+    "courseName": "研究方法與論文寫作",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "許華智",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "(六)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UR062711,B1927.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1649",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10004",
+    "courseName": "國際航運經濟與市場分析",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "周建張",
+    "position": "",
+    "people": "2",
+    "maxpeople": "60",
+    "time": "(六)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UR062711,B1931.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1650",
+    "cmp": "楠梓校區",
+    "dgr": "碩士在職專班",
+    "unt": "航運技術系碩士班",
+    "className": "碩專航技所一年級",
+    "foreverID": "312H10006",
+    "courseName": "貨物裝載專論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "蔡朝祿",
+    "position": "",
+    "people": "4",
+    "maxpeople": "60",
+    "time": "(日)5-7",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "107",
+      "1",
+      "UR062711,B2382.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,102 @@
-"[{\"code\":\"0087\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機系\",\"foreverID\":\"313F00135\",\"courseName\":\"動力學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022400,01495.01\"],\"note\":\"校際選課\"},{\"code\":\"0088\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機系\",\"foreverID\":\"313F00087\",\"courseName\":\"英文(二)\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022400,01157.01\"],\"note\":\"校際選課\"},{\"code\":\"0052\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機二年級\",\"foreverID\":\"313F00129\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃耀新\",\"position\":\"10204教室\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(三)1-4(五)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022421,00232.01\"],\"note\":\"輪機、電訊\"},{\"code\":\"0052\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機二年級\",\"foreverID\":\"313F00129\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃耀新\",\"position\":\"10204教室\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(三)1-4(五)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022421,00232.01\"],\"note\":\"輪機、電訊\"},{\"code\":\"0052\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機二年級\",\"foreverID\":\"313F00129\",\"courseName\":\"工程數學(一)\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"黃耀新\",\"position\":\"10204教室\",\"people\":\"26\",\"maxpeople\":\"60\",\"time\":\"(一)1-4(三)1-4(五)1-2\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022421,00232.01\"],\"note\":\"輪機、電訊\"},{\"code\":\"0053\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機二年級\",\"foreverID\":\"313F00136\",\"courseName\":\"控制理論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"吳俊文\",\"position\":\"10204教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(二)1-4(四)1-4(五)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022421,08848.01\"],\"note\":\"\"},{\"code\":\"0053\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機二年級\",\"foreverID\":\"313F00136\",\"courseName\":\"控制理論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"吳俊文\",\"position\":\"10204教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(二)1-4(四)1-4(五)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022421,08848.01\"],\"note\":\"\"},{\"code\":\"0053\",\"cmp\":\"楠梓校區\",\"dgr\":\"進修部四技\",\"unt\":\"輪機工程系\",\"className\":\"進四技輪機二年級\",\"foreverID\":\"313F00136\",\"courseName\":\"控制理論\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"吳俊文\",\"position\":\"10204教室\",\"people\":\"18\",\"maxpeople\":\"60\",\"time\":\"(二)1-4(四)1-4(五)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"105\",\"6\",\"UR022421,08848.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0087",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "輪機工程系",
+    "className": "進四技輪機系",
+    "foreverID": "313F00135",
+    "courseName": "動力學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "6",
+      "UR022400,01495.01"
+    ],
+    "note": "校際選課"
+  },
+  {
+    "code": "0088",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "輪機工程系",
+    "className": "進四技輪機系",
+    "foreverID": "313F00087",
+    "courseName": "英文(二)",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "6",
+      "UR022400,01157.01"
+    ],
+    "note": "校際選課"
+  },
+  {
+    "code": "0052",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "輪機工程系",
+    "className": "進四技輪機二年級",
+    "foreverID": "313F00129",
+    "courseName": "工程數學(一)",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "黃耀新",
+    "position": "10204教室",
+    "people": "26",
+    "maxpeople": "60",
+    "time": "(一)1-4(三)1-4(五)1-2",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "6",
+      "UR022421,00232.01"
+    ],
+    "note": "輪機、電訊"
+  },
+  {
+    "code": "0053",
+    "cmp": "楠梓校區",
+    "dgr": "進修部四技",
+    "unt": "輪機工程系",
+    "className": "進四技輪機二年級",
+    "foreverID": "313F00136",
+    "courseName": "控制理論",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "吳俊文",
+    "position": "10204教室",
+    "people": "18",
+    "maxpeople": "60",
+    "time": "(二)1-4(四)1-4(五)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "105",
+      "6",
+      "UR022421,08848.01"
+    ],
+    "note": ""
+  }
+]

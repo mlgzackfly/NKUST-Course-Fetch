@@ -1,1 +1,27 @@
-"[{\"code\":\"2370\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"校際選課\",\"className\":\"校際選課一甲\",\"foreverID\":\"070B10493\",\"courseName\":\"地震工程\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"10\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"95\",\"2\",\"XK051711,F0229.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2367",
+    "cmp": "第一校區",
+    "dgr": "日間部博士",
+    "unt": "校際選課",
+    "className": "校際選課一甲",
+    "foreverID": "070A10552",
+    "courseName": "地震工程學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "10",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "95",
+      "2",
+      "XK051811,F0841.01"
+    ],
+    "note": ""
+  }
+]

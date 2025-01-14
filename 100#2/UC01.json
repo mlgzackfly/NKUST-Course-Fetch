@@ -1,1 +1,27 @@
-"[{\"code\":\"0001\",\"cmp\":\"建工校區\",\"dgr\":\"碩士在職專班\",\"unt\":\"商務經營研究所\",\"className\":\"進碩商二乙\",\"foreverID\":\"245H00042\",\"courseName\":\"碩士論文\",\"hours\":\"6.0\",\"units\":\"6.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"0\",\"maxpeople\":\"55\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"100\",\"2\",\"UC012722,03649.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0001",
+    "cmp": "建工校區",
+    "dgr": "碩士在職專班",
+    "unt": "商務經營研究所",
+    "className": "進碩商二乙",
+    "foreverID": "245H00042",
+    "courseName": "碩士論文",
+    "hours": "6.0",
+    "units": "6.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "0",
+    "maxpeople": "55",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "100",
+      "2",
+      "UC012722,03649.01"
+    ],
+    "note": ""
+  }
+]

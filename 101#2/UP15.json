@@ -1,1 +1,77 @@
-"[{\"code\":\"1063\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"會計資訊系碩士班\",\"className\":\"會資碩士班一甲\",\"foreverID\":\"157B00003\",\"courseName\":\"資料庫系統\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 陳育仁\",\"position\":\"E118\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\" (二)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UP151711,02300.01\"],\"note\":\"\"},{\"code\":\"1064\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"會計資訊系碩士班\",\"className\":\"會資碩士班一甲\",\"foreverID\":\"157B00005\",\"courseName\":\"高等審計學研討\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\" 王泓達\",\"position\":\"E118\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\" (四)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UP151711,F3068.01\"],\"note\":\"\"},{\"code\":\"1065\",\"cmp\":\"第一校區\",\"dgr\":\"日間部碩士\",\"unt\":\"會計資訊系碩士班\",\"className\":\"會資碩士班一甲\",\"foreverID\":\"157B10020\",\"courseName\":\"會計研究方法\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"選修\",\"instructors\":\" 林靜香\",\"position\":\"E118\",\"people\":\"0\",\"maxpeople\":\"30\",\"time\":\" (三)2-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"2\",\"UP151711,F1763.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "1063",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "會計資訊系碩士班",
+    "className": "會資碩士班一甲",
+    "foreverID": "157B00003",
+    "courseName": "資料庫系統",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "陳育仁",
+    "position": "E118",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(二)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UP151711,02300.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1064",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "會計資訊系碩士班",
+    "className": "會資碩士班一甲",
+    "foreverID": "157B00005",
+    "courseName": "高等審計學研討",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "王泓達",
+    "position": "E118",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(四)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UP151711,F3068.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "1065",
+    "cmp": "第一校區",
+    "dgr": "日間部碩士",
+    "unt": "會計資訊系碩士班",
+    "className": "會資碩士班一甲",
+    "foreverID": "157B10020",
+    "courseName": "會計研究方法",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "選修",
+    "instructors": "林靜香",
+    "position": "E118",
+    "people": "0",
+    "maxpeople": "30",
+    "time": "(三)2-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "2",
+      "UP151711,F1763.01"
+    ],
+    "note": ""
+  }
+]

@@ -1,1 +1,52 @@
-"[{\"code\":\"0063\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"水產食品工業科\",\"className\":\"日五專水食科\",\"foreverID\":\"302E00115\",\"courseName\":\"英文\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"\",\"position\":\"\",\"people\":\"1\",\"maxpeople\":\"60\",\"time\":\"\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"US071200,01154.01\"],\"note\":\"\"},{\"code\":\"0044\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"水產食品工業科\",\"className\":\"日五專水食三年級\",\"foreverID\":\"302E00119\",\"courseName\":\"生物化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"陳文傑\",\"position\":\"3105教室\",\"people\":\"9\",\"maxpeople\":\"60\",\"time\":\"(二)1,8-9(四)8-9(六)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"US071230,00562.01\"],\"note\":\"\"},{\"code\":\"0044\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"水產食品工業科\",\"className\":\"日五專水食三年級\",\"foreverID\":\"302E00119\",\"courseName\":\"生物化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"陳文傑\",\"position\":\"3105教室\",\"people\":\"9\",\"maxpeople\":\"60\",\"time\":\"(二)1,8-9(四)8-9(六)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"US071230,00562.01\"],\"note\":\"\"},{\"code\":\"0044\",\"cmp\":\"楠梓校區\",\"dgr\":\"日間部五專\",\"unt\":\"水產食品工業科\",\"className\":\"日五專水食三年級\",\"foreverID\":\"302E00119\",\"courseName\":\"生物化學\",\"hours\":\"3.0\",\"units\":\"3.0\",\"required\":\"必修\",\"instructors\":\"陳文傑\",\"position\":\"3105教室\",\"people\":\"9\",\"maxpeople\":\"60\",\"time\":\"(二)1,8-9(四)8-9(六)1-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"93\",\"4\",\"US071230,00562.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "0063",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "水產食品工業科",
+    "className": "日五專水食科",
+    "foreverID": "302E00115",
+    "courseName": "英文",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "",
+    "position": "",
+    "people": "1",
+    "maxpeople": "60",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "US071200,01154.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "0044",
+    "cmp": "楠梓校區",
+    "dgr": "日間部五專",
+    "unt": "水產食品工業科",
+    "className": "日五專水食三年級",
+    "foreverID": "302E00119",
+    "courseName": "生物化學",
+    "hours": "3.0",
+    "units": "3.0",
+    "required": "必修",
+    "instructors": "陳文傑",
+    "position": "3105教室",
+    "people": "9",
+    "maxpeople": "60",
+    "time": "(二)1,8-9(四)8-9(六)1-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "93",
+      "4",
+      "US071230,00562.01"
+    ],
+    "note": ""
+  }
+]

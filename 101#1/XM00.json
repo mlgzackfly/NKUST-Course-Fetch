@@ -1,1 +1,77 @@
-"[{\"code\":\"2251\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"軍訓\",\"className\":\"四軍二甲(燕巢)\",\"foreverID\":\"060C10031\",\"courseName\":\"國防科技\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"吳宗原\",\"position\":\"MA104\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(三)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XM001428,07791.01\"],\"note\":\"\"},{\"code\":\"2252\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"軍訓\",\"className\":\"四軍二甲(燕巢)\",\"foreverID\":\"060C10035\",\"courseName\":\"國家安全\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"許藝瀞\",\"position\":\"MA104\",\"people\":\"7\",\"maxpeople\":\"55\",\"time\":\"(三)5-6\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XM001428,07792.01\"],\"note\":\"\"},{\"code\":\"2253\",\"cmp\":\"燕巢校區\",\"dgr\":\"日間部四技\",\"unt\":\"軍訓\",\"className\":\"四軍二甲(燕巢)\",\"foreverID\":\"060C10053\",\"courseName\":\"兵學理論\",\"hours\":\"2.0\",\"units\":\"2.0\",\"required\":\"選修\",\"instructors\":\"王子安\",\"position\":\"MA104\",\"people\":\"9\",\"maxpeople\":\"55\",\"time\":\"(二)3-4\",\"english\":\"否\",\"remote\":\"否\",\"href\":[\"101\",\"1\",\"XM001428,07997.01\"],\"note\":\"\"}]"
+[
+  {
+    "code": "2251",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "軍訓",
+    "className": "四軍二甲(燕巢)",
+    "foreverID": "060C10031",
+    "courseName": "國防科技",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "吳宗原",
+    "position": "MA104",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(三)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XM001428,07791.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2252",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "軍訓",
+    "className": "四軍二甲(燕巢)",
+    "foreverID": "060C10035",
+    "courseName": "國家安全",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "許藝瀞",
+    "position": "MA104",
+    "people": "7",
+    "maxpeople": "55",
+    "time": "(三)5-6",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XM001428,07792.01"
+    ],
+    "note": ""
+  },
+  {
+    "code": "2253",
+    "cmp": "燕巢校區",
+    "dgr": "日間部四技",
+    "unt": "軍訓",
+    "className": "四軍二甲(燕巢)",
+    "foreverID": "060C10053",
+    "courseName": "兵學理論",
+    "hours": "2.0",
+    "units": "2.0",
+    "required": "選修",
+    "instructors": "王子安",
+    "position": "MA104",
+    "people": "9",
+    "maxpeople": "55",
+    "time": "(二)3-4",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "101",
+      "1",
+      "XM001428,07997.01"
+    ],
+    "note": ""
+  }
+]

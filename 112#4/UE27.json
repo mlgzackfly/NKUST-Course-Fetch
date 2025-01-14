@@ -1,0 +1,27 @@
+[
+  {
+    "code": "0112",
+    "cmp": "建工校區",
+    "dgr": "日間部四技",
+    "unt": "電機工程系",
+    "className": "四電四甲",
+    "foreverID": "227C10622",
+    "courseName": "暑期實習",
+    "hours": "2.0",
+    "units": "0",
+    "required": "選修",
+    "instructors": "李孝貽,羅國原,莊錦俊",
+    "position": "教室未定",
+    "people": "11",
+    "maxpeople": "0",
+    "time": "",
+    "english": "否",
+    "remote": "否",
+    "href": [
+      "112",
+      "4",
+      "UE271441,10904.01"
+    ],
+    "note": ""
+  }
+]
